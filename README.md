@@ -1,5 +1,3 @@
-"# opendata"
-
 Open Data Project for fun. 
 Started with contract information from quebec governement signed contracts from 2009 till today (2017-04-01)
 
@@ -25,6 +23,8 @@ SEAO Data is stored in three type of information
 
 see : "seao-specificationsxml-donneesouvertes-20141201.pd"f for detailed information (in french)
 
-Solution sumary
-- Store all data in a public big data warehouse (Google BigQuery)
-- Transform the <XML> data to JSON
+Solution summary (work in progress)
+- Extract and transform the <XML> data to JSON and split AVIS (RFPs) from FOURNISSEURS (contracters)
+- Combine data from all other information type in the AVIS data
+- Export to JSON format for easy loading in a public big data warehouse (Google BigQuery) - AVIS and FOURNISSEURS
+- To be determined

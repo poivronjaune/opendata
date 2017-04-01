@@ -5,12 +5,15 @@ Created on Fri Mar 31 21:05:48 2017
 import codecs
 import xml.etree.ElementTree as et
 import json
+import xmltodict
 
 
 """
 Initialisation des répertoires de chargement
+TODO: Add automatic file detection and move to a dedicated subfolder called SEAODATA
+TODO: Add automatic download from SEAO
 """
-def initChargement():
+def InitDataPaths():
 	Avis.append('2017-01\Avis_20170101_20170131.xml')
 	Avis.append('2016-12\Avis_20161201_20161231.xml')
 	Avis.append('2016-11\Avis_20161101_20161130.xml')
@@ -32,24 +35,74 @@ def initChargement():
 	Avis.append('2010\Avis_20100101_20101231.xml')
 	Avis.append('2009\Avis_20090101_20091231.xml')
 
+
+
+"""
+*******   Begin of data transformation
+"""
+
+
+
+""" Load data from local folder """
 Avis = []
-initChargement()
+InitDataPaths()
 
 
+
+""" Get first file from Avis[] array and load XML data as a string """
 fichier = Avis[0]
 f = codecs.open(fichier, 'r', encoding='utf8')
 str_data = f.read()
 f.close()
 
 
-root = et.fromstring(str_data)
-"""
-print(root.tag)
-print(root.attrib)
-print(root.find('avis').find('numeroseao').text)
-print(et.iselement(root.find('avis')))
-"""
 
+""" Transform XML Data string into a Python Dictionnary """
+root = et.fromstring(str_data)
+print("- SEAO XML File loaded")
+
+
+
+""" Extract all AVIS (RFPs) including FOURNISSEURS list """
+allavis = root.findall('avis')
+print("- All Avis retreived from XML Data : " + str(len(allavis)))
+
+
+
+""" Remove all FOURNISSEURS data to keep only the AVIS """
+smallavis = et.Element('seao')
+x = 0
+for unavis in allavis:
+    unavis.remove(unavis.find('fournisseurs'))
+    smallavis.append(unavis)
+    x = x + 1
+    if x >= 5:
+        break
+print("- Removed all fournisseurs from avis")
+
+
+""" Save the new XML data to a file? Before we convert it could skipped if converted directly to JSON """
+outfile = "avis_seulement.xml"
+tree = et.ElementTree(smallavis)
+tree.write(outfile)
+print("- New avis without fournisseurs saved to file : " + outfile)
+
+
+
+""" Convert tree to JSON Format """
+f = codecs.open(outfile, 'r', encoding='utf8')
+str_data = f.read()
+f.close()
+json_data = xmltodict.parse(str_data)
+with open('avis.json', 'w') as fout:
+    json.dump(json_data, fout, indent=4)
+
+print("- End of execution")
+
+
+
+
+"""
 newavis = None
 i = 0
 for unavis in root.findall('avis'):
@@ -66,8 +119,7 @@ for unavis in root.findall('avis'):
     print(newavis)
     if i > 5:
         break
+"""
 
 
 
-
-print("Fin d'execution")
