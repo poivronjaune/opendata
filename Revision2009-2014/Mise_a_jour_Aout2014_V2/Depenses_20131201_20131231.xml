@@ -1,0 +1,1299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2013-12-01" datefin="2013-12-31">
+  <avis>
+    <numeroseao>257912</numeroseao>
+    <numero>AM-N-08-09-24</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-11</datedepense>
+        <montantdepense>308095.210000</montantdepense>
+        <description>Déploiment de sphases prévu au contrat</description>
+        <nomcontractant>Ricoh Canada</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>275778</numeroseao>
+    <numero>2949</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-10</datedepense>
+        <montantdepense>137514.000000</montantdepense>
+        <description>Prolongations du contrat </description>
+        <nomcontractant>Cardinal Health Canada inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>486787</numeroseao>
+    <numero>P16938</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-16</datedepense>
+        <montantdepense>24344.820000</montantdepense>
+        <description>Essais de reprise</description>
+        <nomcontractant>Hypertec Systèmes (Québec)</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>541307</numeroseao>
+    <numero>CFNAVIGA13</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-16</datedepense>
+        <montantdepense>8000.000000</montantdepense>
+        <description>Contrat de commande neuro-navigateur et ses fournitures</description>
+        <nomcontractant>Medtronic of Canada</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>542517</numeroseao>
+    <numero>SOU2012-01</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-07-19</datedepense>
+        <montantdepense>41647.630000</montantdepense>
+        <description>Revision generale des panneaux électriques (21P7)</description>
+        <nomcontractant>Construction R.I.C. (2006) inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-08-08</datedepense>
+        <montantdepense>11453.460000</montantdepense>
+        <description>Remplacement et ajout de luminaire (23E3)</description>
+        <nomcontractant>Construction R.I.C. (2006) inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-08-08</datedepense>
+        <montantdepense>1258.020000</montantdepense>
+        <description>Modification a une trappe d'acces (24M4)</description>
+        <nomcontractant>Construction R.I.C. (2006) inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-08-08</datedepense>
+        <montantdepense>4174.750000</montantdepense>
+        <description>Pompe a condensé lave-vaiselle et plomberie (25M5)</description>
+        <nomcontractant>Construction R.I.C. (2006) inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-08-08</datedepense>
+        <montantdepense>1396.190000</montantdepense>
+        <description>Modifications des prises électriques</description>
+        <nomcontractant>Construction R.I.C. (2006) inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-09-05</datedepense>
+        <montantdepense>7891.000000</montantdepense>
+        <description>Ajout cloison repliable cuisinette (19P5)</description>
+        <nomcontractant>Construction R.I.C. (2006) inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-11-08</datedepense>
+        <montantdepense>27927.900000</montantdepense>
+        <description>Remplacement revetement plancher salle a manger</description>
+        <nomcontractant>Construction R.I.C. (2006) inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-11-08</datedepense>
+        <montantdepense>5895.320000</montantdepense>
+        <description>Diverses modifications électriques (34E5)</description>
+        <nomcontractant>Construction R.I.C. (2006) inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-11-08</datedepense>
+        <montantdepense>5780.240000</montantdepense>
+        <description>Diverses modifications architechturales cafeteria </description>
+        <nomcontractant>Construction R.I.C. (2006) inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-11-08</datedepense>
+        <montantdepense>863.530000</montantdepense>
+        <description>Modif. &amp; demantelement conduits de ventilation</description>
+        <nomcontractant>Construction R.I.C. (2006) inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-11-08</datedepense>
+        <montantdepense>1061.130000</montantdepense>
+        <description>Divers travaux mecanique (37M7)</description>
+        <nomcontractant>Construction R.I.C. (2006) inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-10-07</datedepense>
+        <montantdepense>117030.160000</montantdepense>
+        <description>Modifications à la plomberie</description>
+        <nomcontractant>Construction R.I.C. (2006) inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-08-10</datedepense>
+        <montantdepense>10164.000000</montantdepense>
+        <description>Diverses modifications, Services aliment. (28SA3)</description>
+        <nomcontractant>Construction R.I.C. (2006) inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-10-08</datedepense>
+        <montantdepense>1598.300000</montantdepense>
+        <description>Diverses modifications, Services aliment. (29SA4)</description>
+        <nomcontractant>Construction R.I.C. (2006) inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-10-08</datedepense>
+        <montantdepense>5523.090000</montantdepense>
+        <description>Refection salle des toilettes (30P9)</description>
+        <nomcontractant>Construction R.I.C. (2006) inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-10-08</datedepense>
+        <montantdepense>12158.700000</montantdepense>
+        <description>Peinture pieces 00A-52,00A-51,00A-48 (31A6)</description>
+        <nomcontractant>Construction R.I.C. (2006) inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-09-29</datedepense>
+        <montantdepense>23734.170000</montantdepense>
+        <description>Modification fini plancher cafeteria (27A5)</description>
+        <nomcontractant>Construction R.I.C. (2006) inc</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>554903</numeroseao>
+    <numero>120316-02</numero>
+    <depenses>
+      <depense>
+        <datedepense>2012-08-10</datedepense>
+        <montantdepense>572.300000</montantdepense>
+        <description>Avenant #1 de l'ing?nieur</description>
+        <nomcontractant>Construction Étienne Labrecque inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>554954</numeroseao>
+    <numero>120316-01</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-11-08</datedepense>
+        <montantdepense>72314.000000</montantdepense>
+        <description>Avenants 1 a 20 de l'architecte</description>
+        <nomcontractant>Lévis Construction</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>557825</numeroseao>
+    <numero>BL003398</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-13</datedepense>
+        <montantdepense>150000.000000</montantdepense>
+        <description>Renouveller le contrat pour une autre année ( $375,000.00(montant initiale)+$150,000.00(année supplémentaire) = $525,000.00) </description>
+        <nomcontractant>Charles River Laboratory</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>559399</numeroseao>
+    <numero>AO20120501RF-SRM-AO  </numero>
+    <depenses>
+      <depense>
+        <datedepense>2012-08-13</datedepense>
+        <montantdepense>5335.000000</montantdepense>
+        <description>Ajout : 1 garde-corps, 4 ventilateurs en acier </description>
+        <nomcontractant>Bellemare Couverture Ltée</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>559646</numeroseao>
+    <numero>2012 04 30 RF-SRM-GS</numero>
+    <depenses>
+      <depense>
+        <datedepense>2012-10-01</datedepense>
+        <montantdepense>4848.940000</montantdepense>
+        <description>Bordure élevée de 600mm au lieu de 500mm</description>
+        <nomcontractant>Pavage Des Moulins Inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>561488</numeroseao>
+    <numero>AO20120515-GS-SRM</numero>
+    <depenses>
+      <depense>
+        <datedepense>2012-11-30</datedepense>
+        <montantdepense>11748.620000</montantdepense>
+        <description>Remplacement de l'isolant thermique</description>
+        <nomcontractant>Ventilabec inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>565281</numeroseao>
+    <numero>52116-511_DMS</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-10-10</datedepense>
+        <montantdepense>137982.250000</montantdepense>
+        <description>ODC-1 / 3 à 6 / 9 / 15 à17 / 21</description>
+        <nomcontractant>MDM Construction</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-11-27</datedepense>
+        <montantdepense>840.420000</montantdepense>
+        <description>ODC10</description>
+        <nomcontractant>MDM Construction</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-11-27</datedepense>
+        <montantdepense>5151.970000</montantdepense>
+        <description>ODC11</description>
+        <nomcontractant>MDM Construction</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>572675</numeroseao>
+    <numero>FL-10-16-03</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-05-03</datedepense>
+        <montantdepense>89322.890000</montantdepense>
+        <description>Bouton poussoir pour la porte</description>
+        <nomcontractant>Construction Gesmo Inc .</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>583746</numeroseao>
+    <numero>23518000</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-10</datedepense>
+        <montantdepense>156940.640000</montantdepense>
+        <description>Imprévu de chantier</description>
+        <nomcontractant>DMA Construction.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>600413</numeroseao>
+    <numero>52060-555_DMS</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-20</datedepense>
+        <montantdepense>3562.010000</montantdepense>
+        <description>ODC21</description>
+        <nomcontractant>Le Groupe Centco inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-12-20</datedepense>
+        <montantdepense>6382.500000</montantdepense>
+        <description>ODC33</description>
+        <nomcontractant>Le Groupe Centco inc</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>601247</numeroseao>
+    <numero>CJM-IU-N1641</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-10-01</datedepense>
+        <montantdepense>904.000000</montantdepense>
+        <description>Divers modifications</description>
+        <nomcontractant>Construction Anjinnov Inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-12-06</datedepense>
+        <montantdepense>6873.170000</montantdepense>
+        <description>Divers modifications</description>
+        <nomcontractant>Construction Anjinnov Inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-12-06</datedepense>
+        <montantdepense>2840.320000</montantdepense>
+        <description>Nouveau système de vidéosurveillance</description>
+        <nomcontractant>Construction Anjinnov Inc</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>601472</numeroseao>
+    <numero>AO20130118RF-SIE-BR</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-09</datedepense>
+        <montantdepense>68998.010000</montantdepense>
+        <description>AO20130118RF-SIE-BR DÉPASSEMENT NO1 09DE2013</description>
+        <nomcontractant>M.A. Baulne Inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>608546</numeroseao>
+    <numero>52205-555_NB</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-11-27</datedepense>
+        <montantdepense>29241.120000</montantdepense>
+        <description>ODC#1+4+5+9+12+17+19+23+24</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>609088</numeroseao>
+    <numero>52246-535_RC</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-10</datedepense>
+        <montantdepense>88050.670000</montantdepense>
+        <description>ODC 08R2</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>610359</numeroseao>
+    <numero>51883-555_DMS</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-11-07</datedepense>
+        <montantdepense>2604.840000</montantdepense>
+        <description>ODC1</description>
+        <nomcontractant>Tuyauterie Expert inc.</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-11-27</datedepense>
+        <montantdepense>4659.440000</montantdepense>
+        <description>ODC2</description>
+        <nomcontractant>Tuyauterie Expert inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>614851</numeroseao>
+    <numero>52190-546_CD</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-11</datedepense>
+        <montantdepense>29252.720000</montantdepense>
+        <description>ODC1+2+3+4+5</description>
+        <nomcontractant>MGB Associés</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>615469</numeroseao>
+    <numero>12-13-59</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-05-30</datedepense>
+        <montantdepense>2122.700000</montantdepense>
+        <description>luminaires supplémentaires</description>
+        <nomcontractant>Construction Éric Longpre</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-08-27</datedepense>
+        <montantdepense>3567.300000</montantdepense>
+        <description>isolation local 128</description>
+        <nomcontractant>Construction Éric Longpre</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-08-28</datedepense>
+        <montantdepense>6853.000000</montantdepense>
+        <description>ajout de travaux de peinture</description>
+        <nomcontractant>Construction Éric Longpre</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-08-28</datedepense>
+        <montantdepense>15010.600000</montantdepense>
+        <description>modification des luminaires</description>
+        <nomcontractant>Construction Éric Longpre</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-08-28</datedepense>
+        <montantdepense>5221.700000</montantdepense>
+        <description>remplacement infrastructure circuits plafonds</description>
+        <nomcontractant>Construction Éric Longpre</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-09-06</datedepense>
+        <montantdepense>788.100000</montantdepense>
+        <description>ajout de travaux de gypse</description>
+        <nomcontractant>Construction Éric Longpre</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-09-16</datedepense>
+        <montantdepense>1216.600000</montantdepense>
+        <description>frais de recherche pour infrastructure existante</description>
+        <nomcontractant>Construction Éric Longpre</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>615726</numeroseao>
+    <numero>76100513</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-06-30</datedepense>
+        <montantdepense>69596.000000</montantdepense>
+        <description>Décontamination fongique</description>
+        <nomcontractant>Le Groupe Drumco Construction Inc.</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-06-30</datedepense>
+        <montantdepense>32612.000000</montantdepense>
+        <description>Démolition du plafon du 2e étage.</description>
+        <nomcontractant>Le Groupe Drumco Construction Inc.</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-06-30</datedepense>
+        <montantdepense>56004.190000</montantdepense>
+        <description>Remplacement tingles, modifier armoire .</description>
+        <nomcontractant>Le Groupe Drumco Construction Inc.</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-07-02</datedepense>
+        <montantdepense>9568.000000</montantdepense>
+        <description>Modifier quincaillerie, remplacer cadres de portes</description>
+        <nomcontractant>Le Groupe Drumco Construction Inc.</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-10-09</datedepense>
+        <montantdepense>40416.500000</montantdepense>
+        <description>Décaper murs, Calorifugeage, remplacer thermostats</description>
+        <nomcontractant>Le Groupe Drumco Construction Inc.</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-10-31</datedepense>
+        <montantdepense>32487.250000</montantdepense>
+        <description>Reconstruire plafond, relocaliser diffuseurs, etc.</description>
+        <nomcontractant>Le Groupe Drumco Construction Inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>617321</numeroseao>
+    <numero>1118 / HGQ-0010-13</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-08-12</datedepense>
+        <montantdepense>133536.610000</montantdepense>
+        <description>Modifications structure.</description>
+        <nomcontractant>Construction Unibec Inc.</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-06-28</datedepense>
+        <montantdepense>40304.870000</montantdepense>
+        <description>Augmentation de délai de chantier.</description>
+        <nomcontractant>Construction Unibec Inc.</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-05-02</datedepense>
+        <montantdepense>20931.660000</montantdepense>
+        <description>Désamiantage.</description>
+        <nomcontractant>Construction Unibec Inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>617987</numeroseao>
+    <numero>52137-MJT-Réf.plc scène</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-11-07</datedepense>
+        <montantdepense>16824.840000</montantdepense>
+        <description>ODC 25 À 27</description>
+        <nomcontractant>Cosoltec Inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-10-30</datedepense>
+        <montantdepense>1560.200000</montantdepense>
+        <description>ODC 29 à 30</description>
+        <nomcontractant>Cosoltec Inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-12-11</datedepense>
+        <montantdepense>1651.180000</montantdepense>
+        <description>ODC#28(-1103.43$) + 31(-10119.45$) + 32(+1651.18$)...net positif +1651.18$</description>
+        <nomcontractant>Cosoltec Inc</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>619047</numeroseao>
+    <numero>52124-511_JYL</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-20</datedepense>
+        <montantdepense>5841.460000</montantdepense>
+        <description>ODC#8+9</description>
+        <nomcontractant>Ent N R Brosseau inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>619116</numeroseao>
+    <numero>2013-Horizon 1</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-06-18</datedepense>
+        <montantdepense>15824.160000</montantdepense>
+        <description>Modification isolation</description>
+        <nomcontractant>Construction Beauchene</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-07-04</datedepense>
+        <montantdepense>22565.490000</montantdepense>
+        <description>Modification à la structure</description>
+        <nomcontractant>Construction Beauchene</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-06-04</datedepense>
+        <montantdepense>8527.680000</montantdepense>
+        <description>Modification panneaux électriques</description>
+        <nomcontractant>Construction Beauchene</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-06-18</datedepense>
+        <montantdepense>3775.800000</montantdepense>
+        <description>Remplacement des portes et cadres</description>
+        <nomcontractant>Construction Beauchene</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>619369</numeroseao>
+    <numero>2013reamFAG</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-05-24</datedepense>
+        <montantdepense>30018.260000</montantdepense>
+        <description>Décontamination et restauration des surfaces</description>
+        <nomcontractant>Defran inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-05-23</datedepense>
+        <montantdepense>1134.240000</montantdepense>
+        <description>ajout mobilier intégré</description>
+        <nomcontractant>Defran inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-05-28</datedepense>
+        <montantdepense>5472.170000</montantdepense>
+        <description>Relocalisation de la machine à glace</description>
+        <nomcontractant>Defran inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-06-03</datedepense>
+        <montantdepense>253.000000</montantdepense>
+        <description>nouvelle fenêtre intérieure local 142</description>
+        <nomcontractant>Defran inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-06-12</datedepense>
+        <montantdepense>1573.440000</montantdepense>
+        <description>Remplacement partiel du platelage de contreplaqué</description>
+        <nomcontractant>Defran inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-07-12</datedepense>
+        <montantdepense>425.700000</montantdepense>
+        <description>Remplacement d'une toilette</description>
+        <nomcontractant>Defran inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-08-30</datedepense>
+        <montantdepense>2315.860000</montantdepense>
+        <description>Remplacement d'un appareil de chauffage plafond</description>
+        <nomcontractant>Defran inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-08-30</datedepense>
+        <montantdepense>797.940000</montantdepense>
+        <description>modification gicleur local 120</description>
+        <nomcontractant>Defran inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-09-13</datedepense>
+        <montantdepense>1810.470000</montantdepense>
+        <description>Nouvelle poutre de soutien</description>
+        <nomcontractant>Defran inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-09-20</datedepense>
+        <montantdepense>1839.340000</montantdepense>
+        <description>Conduits électriques additionnels</description>
+        <nomcontractant>Defran inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-07-02</datedepense>
+        <montantdepense>6027.920000</montantdepense>
+        <description>Rail l`ves-personnes local 139</description>
+        <nomcontractant>Defran inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-07-10</datedepense>
+        <montantdepense>538.030000</montantdepense>
+        <description>Relocalisation du thermostat</description>
+        <nomcontractant>Defran inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-09-03</datedepense>
+        <montantdepense>413.470000</montantdepense>
+        <description>Réparation sous-plancher local 122</description>
+        <nomcontractant>Defran inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-08-26</datedepense>
+        <montantdepense>804.900000</montantdepense>
+        <description>Relocalisation porte 01- corridor 112</description>
+        <nomcontractant>Defran inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-08-26</datedepense>
+        <montantdepense>868.610000</montantdepense>
+        <description>Mobilier pour chauffe-serviettes local 139</description>
+        <nomcontractant>Defran inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-08-30</datedepense>
+        <montantdepense>1437.760000</montantdepense>
+        <description>Modification du cloisonnement local 120</description>
+        <nomcontractant>Defran inc</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>620479</numeroseao>
+    <numero>24932500</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-10-15</datedepense>
+        <montantdepense>14256.200000</montantdepense>
+        <description>Imprévus de chantier et de design</description>
+        <nomcontractant>LCC &amp; Associés Canada inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>621637</numeroseao>
+    <numero>CJM-IU-N1673</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-06</datedepense>
+        <montantdepense>39.290000</montantdepense>
+        <description>Divers modifications</description>
+        <nomcontractant>Banexco Inc..</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>622852</numeroseao>
+    <numero>BC00035460</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-09-16</datedepense>
+        <montantdepense>21620.470000</montantdepense>
+        <description>Prolongation de la péroide </description>
+        <nomcontractant>Adecco</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>623461</numeroseao>
+    <numero>S12-26</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-11-28</datedepense>
+        <montantdepense>30417.710000</montantdepense>
+        <description>OC-A-01 À 04 ORDRES DE CHANGEMENTS </description>
+        <nomcontractant>Construction All Bay Inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>623998</numeroseao>
+    <numero>C-30078</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-11</datedepense>
+        <montantdepense>11989.330000</montantdepense>
+        <description>Ajustement à la proposition d'honoraires professionnels en vertu du coût réel de dépôt des soumissions.</description>
+        <nomcontractant>Robitaille Larouche Déry, Architectes</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>624206</numeroseao>
+    <numero>S12-23</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-11-26</datedepense>
+        <montantdepense>58550.970000</montantdepense>
+        <description>AM-05 AVIS DE MODIFICATION DE VENTILATION AVENANT </description>
+        <nomcontractant>Procova Inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>629279</numeroseao>
+    <numero>52120-511_GL</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-11-07</datedepense>
+        <montantdepense>20310.430000</montantdepense>
+        <description>ODC#1 à #9</description>
+        <nomcontractant>Savite Construction inc</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>631968</numeroseao>
+    <numero>51316-559_GL</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-10-22</datedepense>
+        <montantdepense>2250.440000</montantdepense>
+        <description>ODC-2A</description>
+        <nomcontractant>C. Gera Const. &amp; Gérance Projet Inc.</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-11-28</datedepense>
+        <montantdepense>8345.170000</montantdepense>
+        <description>ODC-3A</description>
+        <nomcontractant>C. Gera Const. &amp; Gérance Projet Inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>632334</numeroseao>
+    <numero>52405-563_JFC</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-11-25</datedepense>
+        <montantdepense>1083.530000</montantdepense>
+        <description>ODC-2E</description>
+        <nomcontractant>Construction Caruso</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>632403</numeroseao>
+    <numero>700 182 342</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-05</datedepense>
+        <montantdepense>6975.800000</montantdepense>
+        <description>Supplément 1: 6 975.80</description>
+        <nomcontractant>Madame Louise Brisson</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>633241</numeroseao>
+    <numero>i12-03-02</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-10-01</datedepense>
+        <montantdepense>16847.000000</montantdepense>
+        <description>Contamination des sols plus importante que prévue</description>
+        <nomcontractant>Centre Jardin Lac Pelletier</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>634162</numeroseao>
+    <numero>Tremplin 2013</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-09-06</datedepense>
+        <montantdepense>35067.000000</montantdepense>
+        <description>Problèmes structuraux</description>
+        <nomcontractant>Paul A. Bisson Inc.</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-10-28</datedepense>
+        <montantdepense>38800.000000</montantdepense>
+        <description>Démolition et reconstruction de parapets</description>
+        <nomcontractant>Paul A. Bisson Inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>635297</numeroseao>
+    <numero>26580</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-10-10</datedepense>
+        <montantdepense>7000.000000</montantdepense>
+        <description>Extra 1</description>
+        <nomcontractant>Construction Héritage</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-09-13</datedepense>
+        <montantdepense>11337.000000</montantdepense>
+        <description>EXTRA 2</description>
+        <nomcontractant>Construction Héritage</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>635413</numeroseao>
+    <numero>3322M1112</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-18</datedepense>
+        <montantdepense>76909.220000</montantdepense>
+        <description>Extra : Travaux en lien avec quantité importante de pourriture découverte sous le revêtement initial.</description>
+        <nomcontractant>Oneil Dumaresq Construction Inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>637989</numeroseao>
+    <numero>240988-00</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-19</datedepense>
+        <montantdepense>12987.000000</montantdepense>
+        <description>Autres</description>
+        <nomcontractant>Johnson Controls LP</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>651814</numeroseao>
+    <numero>INV-2013-9</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-19</datedepense>
+        <montantdepense>47600.000000</montantdepense>
+        <description>Terminaison des travaux et transfert de connaissance vers une ressource interne</description>
+        <nomcontractant>Martin Daigle</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>652394</numeroseao>
+    <numero>C01516182</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-05</datedepense>
+        <montantdepense>6587.240000</montantdepense>
+        <description>Travaux électriques additionnels</description>
+        <nomcontractant>Construction Sipalco inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>652764</numeroseao>
+    <numero>DS-205937</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-12</datedepense>
+        <montantdepense>13080.000000</montantdepense>
+        <description>Travaux supplémentaires</description>
+        <nomcontractant>PCI Automatisation Industrielle</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>661107</numeroseao>
+    <numero>52296-532_ÉP</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-20</datedepense>
+        <montantdepense>616.000000</montantdepense>
+        <description>ODC 4</description>
+        <nomcontractant>AGL Construction inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-12-20</datedepense>
+        <montantdepense>782.000000</montantdepense>
+        <description>ODC </description>
+        <nomcontractant>AGL Construction inc</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>671375</numeroseao>
+    <numero>9103-12-KZ06</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-11-05</datedepense>
+        <montantdepense>16105.750000</montantdepense>
+        <description>Dépassement relié à des modifications au contrat</description>
+        <nomcontractant>Groupe Qualitas inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>672017</numeroseao>
+    <numero>INV130625</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-12</datedepense>
+        <montantdepense>7575.980000</montantdepense>
+        <description>Besoins supplémentaires</description>
+        <nomcontractant>MONBURO.CA LÉVIS</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>672043</numeroseao>
+    <numero>INV130620</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-11</datedepense>
+        <montantdepense>3131.700000</montantdepense>
+        <description>Besoins supplémentaires-Ajout de clientèle</description>
+        <nomcontractant>Industrie JL Mélam</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>672443</numeroseao>
+    <numero>580130704-01</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-12</datedepense>
+        <montantdepense>8376.760000</montantdepense>
+        <description>Besoins supplémentaires-Augmentation de clientèle</description>
+        <nomcontractant>BRAULT &amp; BOUTHILLIER</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>674090</numeroseao>
+    <numero>1300827</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-09-11</datedepense>
+        <montantdepense>2900.000000</montantdepense>
+        <description>augmentation de la superficie</description>
+        <nomcontractant>AB Aménagement inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>674172</numeroseao>
+    <numero>C-7478</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-04</datedepense>
+        <montantdepense>957.070000</montantdepense>
+        <description>Modifications</description>
+        <nomcontractant>Construction Couture &amp; Tanguay</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>680917</numeroseao>
+    <numero>S13-04</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-09-23</datedepense>
+        <montantdepense>25616.570000</montantdepense>
+        <description>Couvrir extras pour effectuer des traits de scies entre les panneaux et réparer les microfissures</description>
+        <nomcontractant>Construction Gesmo Inc .</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-10-03</datedepense>
+        <montantdepense>7658.400000</montantdepense>
+        <description>Coût de réparation supplémentaire des panneaux de béton préfabriqués</description>
+        <nomcontractant>Construction Gesmo Inc .</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>681967</numeroseao>
+    <numero>BON131400437</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-03</datedepense>
+        <montantdepense>5000.000000</montantdepense>
+        <description>Prolongation du mandat</description>
+        <nomcontractant>Centre collégial des services regroupés</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>684959</numeroseao>
+    <numero>BC00047999</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-11-30</datedepense>
+        <montantdepense>25000.000000</montantdepense>
+        <description>Valeur estimée augmenté à 50 000$</description>
+        <nomcontractant>AV TECH Inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>687818</numeroseao>
+    <numero>44502405</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-11-04</datedepense>
+        <montantdepense>2100.000000</montantdepense>
+        <description>Réparer isolation sur tuyauterie</description>
+        <nomcontractant>Thermo-Protec Inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>690155</numeroseao>
+    <numero>059-1314-014</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-18</datedepense>
+        <montantdepense>72127.760000</montantdepense>
+        <description>Extra : ajout d'un 4e pylône</description>
+        <nomcontractant>Electro Saguenay ltée</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>691806</numeroseao>
+    <numero>BC00050769</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-11-30</datedepense>
+        <montantdepense>7890.000000</montantdepense>
+        <description>Ajout au contrat - valeur 7 890$ </description>
+        <nomcontractant>Arro Bo Brin Inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>692305</numeroseao>
+    <numero>11810</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-01</datedepense>
+        <montantdepense>6695.000000</montantdepense>
+        <description>Prolongation d'une durée de 28 mois ad 2016-04-01</description>
+        <nomcontractant>The Mathworks Inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>693245</numeroseao>
+    <numero>P00817 (300/SC-373594)</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-11-04</datedepense>
+        <montantdepense>442655.000000</montantdepense>
+        <description>Travaux supplémentaires</description>
+        <nomcontractant>McCarthy Tétrault S.E.N.C.R.L., s.r.l.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>697891</numeroseao>
+    <numero>4787</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-04-15</datedepense>
+        <montantdepense>2800.000000</montantdepense>
+        <description>Baisser le plafond suspendu</description>
+        <nomcontractant>9210-0346 Québec Inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>706576</numeroseao>
+    <numero>700180375</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-09</datedepense>
+        <montantdepense>18000.000000</montantdepense>
+        <description>Supplément : 18 000$</description>
+        <nomcontractant>Gilles Gauthier M.D. inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>706600</numeroseao>
+    <numero>700184429</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-01</datedepense>
+        <montantdepense>6000.000000</montantdepense>
+        <description>Supplément 1: 6 000$</description>
+        <nomcontractant>Vivia Labrie</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>707083</numeroseao>
+    <numero>DS-204624</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-12</datedepense>
+        <montantdepense>58514.680000</montantdepense>
+        <description>modifications importantes à la portée des travaux</description>
+        <nomcontractant>Pasquin St-Jean et associés</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>707572</numeroseao>
+    <numero>753 039 733</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-10-30</datedepense>
+        <montantdepense>1950.000000</montantdepense>
+        <description>Supplément 1: 1950$</description>
+        <nomcontractant>Cain Lamarre Casgrain Wells</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>709021</numeroseao>
+    <numero>BCK2589</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-09</datedepense>
+        <montantdepense>8095.000000</montantdepense>
+        <description>ODC1</description>
+        <nomcontractant>Calculatec Inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>709027</numeroseao>
+    <numero>BCK867-Barin</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-19</datedepense>
+        <montantdepense>58842.000000</montantdepense>
+        <description>ODC#1 à #5</description>
+        <nomcontractant>Barin Architectes.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>709070</numeroseao>
+    <numero>BCK836-CBA</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-04</datedepense>
+        <montantdepense>45186.450000</montantdepense>
+        <description>ODC#1 à 4</description>
+        <nomcontractant>CBA Experts-Conseils Inc</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>709080</numeroseao>
+    <numero>BCK873-CBA</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-19</datedepense>
+        <montantdepense>47892.000000</montantdepense>
+        <description>ODC#1 à #5</description>
+        <nomcontractant>CBA Experts-Conseils Inc</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>709525</numeroseao>
+    <numero>BCK2127-Cons Léo Laplante</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-11-04</datedepense>
+        <montantdepense>2243.530000</montantdepense>
+        <description>ODC#1</description>
+        <nomcontractant>Les Constructions Léo Laplante (1995) Inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>709527</numeroseao>
+    <numero>BCK2179-ACDF</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-11-29</datedepense>
+        <montantdepense>14241.520000</montantdepense>
+        <description>ODC#1</description>
+        <nomcontractant>ACDF Architecture</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>709531</numeroseao>
+    <numero>BCK2198-EKM Architecture</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-11-08</datedepense>
+        <montantdepense>5243.750000</montantdepense>
+        <description>ODC#1</description>
+        <nomcontractant>ékm architecture</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>709676</numeroseao>
+    <numero>S12-12</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-06-28</datedepense>
+        <montantdepense>2500.000000</montantdepense>
+        <description>Frais d'honoraires</description>
+        <nomcontractant>Dupras Ledoux inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-10-09</datedepense>
+        <montantdepense>2000.000000</montantdepense>
+        <description>Frais supplémentaires d'honoraire - surveillance des travaux</description>
+        <nomcontractant>Dupras Ledoux inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-09-23</datedepense>
+        <montantdepense>491.120000</montantdepense>
+        <description>Frais supplémentaires d'honoraire</description>
+        <nomcontractant>Dupras Ledoux inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-10-11</datedepense>
+        <montantdepense>1150.760000</montantdepense>
+        <description>Frais d'horaires supplémentaires - avis de changement</description>
+        <nomcontractant>Dupras Ledoux inc</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-11-18</datedepense>
+        <montantdepense>566.040000</montantdepense>
+        <description>Frais d'honoraires supplémentaires - avis de changement</description>
+        <nomcontractant>Dupras Ledoux inc</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>709678</numeroseao>
+    <numero>BCK2255-Siteplus</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-05</datedepense>
+        <montantdepense>1165.600000</montantdepense>
+        <description>ODC#1+2</description>
+        <nomcontractant>SitePLUS Inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>710432</numeroseao>
+    <numero>contrat 3284</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-11-21</datedepense>
+        <montantdepense>12290.000000</montantdepense>
+        <description>Ajout de 4 semaines au mandat initial</description>
+        <nomcontractant>CIM-Conseil en immobilisation &amp; management inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+</export>

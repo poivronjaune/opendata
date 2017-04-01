@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2013-09-01" datefin="2013-09-30">
+  <avis>
+    <numeroseao>297813</numeroseao>
+    <numero>10-04-005</numero>
+    <depenses>
+      <depense>
+        <datedepense>2009-10-26</datedepense>
+        <montantdepense>16228.000000</montantdepense>
+        <description>TRAVAUX SUPPLÉMENTAIRES</description>
+        <nomcontractant>Construction Bergerac</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>323586</numeroseao>
+    <numero>CJCA-0908 001</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-04-01</datedepense>
+        <montantdepense>24700.000000</montantdepense>
+        <description>Prolongation de 5 mois</description>
+        <nomcontractant>Jan-Pro du Québec</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-09-01</datedepense>
+        <montantdepense>19760.000000</montantdepense>
+        <description>Prolongation de 4 mois</description>
+        <nomcontractant>Jan-Pro du Québec</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>453766</numeroseao>
+    <numero>10-11-09-103</numero>
+    <depenses>
+      <depense>
+        <datedepense>2011-08-29</datedepense>
+        <montantdepense>53959.000000</montantdepense>
+        <description>TRAVAUX SUPPLÉMENTAIRES</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>483120</numeroseao>
+    <numero>19354100</numero>
+    <depenses>
+      <depense>
+        <datedepense>2011-10-03</datedepense>
+        <montantdepense>28548.000000</montantdepense>
+        <description>Agrandissement-Augmentation superficie entretien</description>
+        <nomcontractant>Maintenance Trans-Québec</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-02-01</datedepense>
+        <montantdepense>35870.000000</montantdepense>
+        <description>Afrandissement ph-Hrs additionnelles entretien</description>
+        <nomcontractant>Maintenance Trans-Québec</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>530884</numeroseao>
+    <numero>UC-1109001(DDP)</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-09-23</datedepense>
+        <montantdepense>120000.000000</montantdepense>
+        <description>recrutement</description>
+        <nomcontractant>Laverne Smith &amp; Associates Inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>563038</numeroseao>
+    <numero>12-13-04-001</numero>
+    <depenses>
+      <depense>
+        <datedepense>2012-06-15</datedepense>
+        <montantdepense>17344.000000</montantdepense>
+        <description>Prises électrique + peinture supplémentaires</description>
+        <nomcontractant>Construction Bergerac inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>618706</numeroseao>
+    <numero>2012-13-MA-2013-MS-01</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-06-11</datedepense>
+        <montantdepense>9488.310000</montantdepense>
+        <description>Avenant no 1 - Contigences de chantiers</description>
+        <nomcontractant>Toitures Léon Inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>628863</numeroseao>
+    <numero>24244301</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-09-20</datedepense>
+        <montantdepense>28876.000000</montantdepense>
+        <description>Prolongation</description>
+        <nomcontractant>Opsis, Gestion d'infrastructures inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>632315</numeroseao>
+    <numero>12159102</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-09-23</datedepense>
+        <montantdepense>10307.000000</montantdepense>
+        <description>Imprévu de chantier</description>
+        <nomcontractant>Excavation Tourville inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>632339</numeroseao>
+    <numero>13-054(i)</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-09-19</datedepense>
+        <montantdepense>117880.170000</montantdepense>
+        <description>Travaux aux réseaux de drainage</description>
+        <nomcontractant>Les Expertises Argento Inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>633300</numeroseao>
+    <numero>BC302618</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-07-09</datedepense>
+        <montantdepense>18393.550000</montantdepense>
+        <description>Changement d'aménagement </description>
+        <nomcontractant>RG Solution</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>635487</numeroseao>
+    <numero>25096500</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-07-18</datedepense>
+        <montantdepense>100801.000000</montantdepense>
+        <description>Nouveaux besoins</description>
+        <nomcontractant>Gestion du Cuivre R-N inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>641850</numeroseao>
+    <numero>M10109i01</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-07-18</datedepense>
+        <montantdepense>6000.000000</montantdepense>
+        <description>Autorisé selon la délégation de pouvoir</description>
+        <nomcontractant>Construction Duchesne &amp; Lefebvre inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>648553</numeroseao>
+    <numero>DRI-2012-01-09</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-09-09</datedepense>
+        <montantdepense>5000.000000</montantdepense>
+        <description>Ajout de travaux</description>
+        <nomcontractant>Fujitsu Conseil (Canada) inc.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>667622</numeroseao>
+    <numero>P0056721</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-09-30</datedepense>
+        <montantdepense>50980.000000</montantdepense>
+        <description>extension du present contrat</description>
+        <nomcontractant>w.illi.am</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>674394</numeroseao>
+    <numero>B12 239</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-06-30</datedepense>
+        <montantdepense>23246.970000</montantdepense>
+        <description>Achat d'équipement, de composante, etc.</description>
+        <nomcontractant>Mecanicair</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+</export>

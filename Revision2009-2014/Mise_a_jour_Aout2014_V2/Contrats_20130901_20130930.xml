@@ -1,0 +1,2446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2013-09-01" datefin="2013-09-30">
+  <contrat>
+    <numeroseao>488422</numeroseao>
+    <numero>2011-50-13</numero>
+    <datefinale>2013-08-19</datefinale>
+    <montantfinal>75699.950000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>492289</numeroseao>
+    <numero>PROJET SI-11-094</numero>
+    <datefinale>2011-10-27</datefinale>
+    <montantfinal>150115.380000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>494537</numeroseao>
+    <numero>RÈGLEMENT 1089</numero>
+    <datefinale>2012-01-18</datefinale>
+    <montantfinal>2008892.260000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>494541</numeroseao>
+    <numero>RÈGLEMENT 1080</numero>
+    <datefinale>2011-11-17</datefinale>
+    <montantfinal>1688040.640000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>498067</numeroseao>
+    <numero>2011-50-41</numero>
+    <datefinale>2013-07-04</datefinale>
+    <montantfinal>1166883.930000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>499624</numeroseao>
+    <numero>S.P. SURVEILLANCE 1080</numero>
+    <datefinale>2011-11-17</datefinale>
+    <montantfinal>92108.300000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>499696</numeroseao>
+    <numero>S.P. SURVEILLANCE 1091</numero>
+    <datefinale>2011-07-11</datefinale>
+    <montantfinal>42634.110000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>499725</numeroseao>
+    <numero>RÈGLEMENT 1092</numero>
+    <datefinale>2011-10-31</datefinale>
+    <montantfinal>84721.290000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>499731</numeroseao>
+    <numero>MARQUAGE CHAUSSÉES 2011</numero>
+    <datefinale>2011-11-17</datefinale>
+    <montantfinal>81337.370000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>499863</numeroseao>
+    <numero>11-157 - arbres, arbustes</numero>
+    <datefinale>2011-05-14</datefinale>
+    <montantfinal>3121.580000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>500186</numeroseao>
+    <numero>11-157 A, C ET D</numero>
+    <datefinale>2011-09-07</datefinale>
+    <montantfinal>39393.780000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>500244</numeroseao>
+    <numero>11-166 HEURES DE GLACE</numero>
+    <datefinale>2012-04-15</datefinale>
+    <montantfinal>726998.960000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>500435</numeroseao>
+    <numero>VML-G-11-04</numero>
+    <datefinale>2013-09-24</datefinale>
+    <montantfinal>49284.690000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>502037</numeroseao>
+    <numero>LP-08-06</numero>
+    <datefinale>2012-03-05</datefinale>
+    <montantfinal>210761.260000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>506022</numeroseao>
+    <numero>11-203</numero>
+    <datefinale>2011-09-23</datefinale>
+    <montantfinal>73768.740000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>510848</numeroseao>
+    <numero>11-273 - reg. 1050 1092</numero>
+    <datefinale>2012-01-23</datefinale>
+    <montantfinal>52411.050000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>511023</numeroseao>
+    <numero>RES. 11-270</numero>
+    <datefinale>2011-09-25</datefinale>
+    <montantfinal>27159.720000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>511036</numeroseao>
+    <numero>RES. 11-269</numero>
+    <datefinale>2011-07-25</datefinale>
+    <montantfinal>30331.390000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>513543</numeroseao>
+    <numero>OS-GEN/2011-06</numero>
+    <datefinale>2013-06-09</datefinale>
+    <montantfinal>79736.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>516038</numeroseao>
+    <numero>M6940-04</numero>
+    <datefinale>2013-03-14</datefinale>
+    <montantfinal>669101.640000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>516751</numeroseao>
+    <numero>RPPV11-06011-OP</numero>
+    <datefinale>2012-09-30</datefinale>
+    <montantfinal>566435.100000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>519733</numeroseao>
+    <numero>2011-SM-341</numero>
+    <datefinale>2013-07-22</datefinale>
+    <montantfinal>280386.160000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>520260</numeroseao>
+    <numero>PROJET R-1098, LOT 2</numero>
+    <datefinale>2012-04-17</datefinale>
+    <montantfinal>94132.980000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>520573</numeroseao>
+    <numero>2011-B-9.01</numero>
+    <datefinale>2013-07-11</datefinale>
+    <montantfinal>295378.170000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>521642</numeroseao>
+    <numero>201108-38</numero>
+    <datefinale>2012-09-27</datefinale>
+    <montantfinal>101250.270000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>522021</numeroseao>
+    <numero>04</numero>
+    <datefinale>2013-05-07</datefinale>
+    <montantfinal>1067668.350000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>525644</numeroseao>
+    <numero>VPR-2011-05</numero>
+    <datefinale>2012-07-03</datefinale>
+    <montantfinal>86712.910000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>525999</numeroseao>
+    <numero>RÉSOLUTION 11-375</numero>
+    <datefinale>2012-03-07</datefinale>
+    <montantfinal>215516.470000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>526001</numeroseao>
+    <numero>RÉSOLUTION 11-376</numero>
+    <datefinale>2011-09-30</datefinale>
+    <montantfinal>38997.940000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>526716</numeroseao>
+    <numero>RÉSOLUTION 11-406</numero>
+    <datefinale>2011-12-31</datefinale>
+    <montantfinal>14190.610000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>526965</numeroseao>
+    <numero>RÉSOLUTION 11-373</numero>
+    <datefinale>2012-05-07</datefinale>
+    <montantfinal>335674.480000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>526984</numeroseao>
+    <numero>2011-486</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>111234.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>527810</numeroseao>
+    <numero>2011-60-01</numero>
+    <datefinale>2013-07-03</datefinale>
+    <montantfinal>14439.440000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>530351</numeroseao>
+    <numero>RÉS. 11-465</numero>
+    <datefinale>2011-12-31</datefinale>
+    <montantfinal>35290.690000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>533525</numeroseao>
+    <numero>2011-508</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>198785.180000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>534564</numeroseao>
+    <numero>2011-483</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>343787.700000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>534570</numeroseao>
+    <numero>2011-598</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>79680.170000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>535542</numeroseao>
+    <numero>2011-612</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>109961.120000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>535553</numeroseao>
+    <numero>2011-613</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>383789.870000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>535978</numeroseao>
+    <numero>P043370-0300</numero>
+    <datefinale>2013-08-26</datefinale>
+    <montantfinal>116140.730000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>535997</numeroseao>
+    <numero>11-517</numero>
+    <datefinale>2011-11-22</datefinale>
+    <montantfinal>28216.940000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>536574</numeroseao>
+    <numero>2011-620</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>149412.310000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>536579</numeroseao>
+    <numero>2011-621</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>128772.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>536641</numeroseao>
+    <numero>RÉSOLUTION 11-508</numero>
+    <datefinale>2012-12-01</datefinale>
+    <montantfinal>98897.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>536653</numeroseao>
+    <numero>RÉSOLUTION 11-449</numero>
+    <datefinale>2012-06-21</datefinale>
+    <montantfinal>31689.410000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>537460</numeroseao>
+    <numero>2011-60-57</numero>
+    <datefinale>2013-08-19</datefinale>
+    <montantfinal>60728.230000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>538807</numeroseao>
+    <numero>2011-634</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>144357.860000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>539664</numeroseao>
+    <numero>2011-649</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>192899.860000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>540190</numeroseao>
+    <numero>APP-SI-11-56</numero>
+    <datefinale>2013-05-31</datefinale>
+    <montantfinal>58546.010000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>542128</numeroseao>
+    <numero>2011-592</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>57310.670000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>542131</numeroseao>
+    <numero>2011-576</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>68289.150000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>542133</numeroseao>
+    <numero>2011-573</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>60158.370000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>542139</numeroseao>
+    <numero>2011-570</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>44210.550000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>542149</numeroseao>
+    <numero>2011-555</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>52479.830000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>542160</numeroseao>
+    <numero>2011-554</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>48461.960000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>542172</numeroseao>
+    <numero>2011-553</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>29318.630000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>542175</numeroseao>
+    <numero>2011-552</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>48414.910000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>543843</numeroseao>
+    <numero>2012-008</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>920761.660000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>544660</numeroseao>
+    <numero>RÉSOLUTION 11-623</numero>
+    <datefinale>2012-05-28</datefinale>
+    <montantfinal>26743.190000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>544661</numeroseao>
+    <numero>RÉSOLUTION 11-574</numero>
+    <datefinale>2011-12-09</datefinale>
+    <montantfinal>34063.580000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>544663</numeroseao>
+    <numero>RÉSOLUTION NUMÉRO 12-015</numero>
+    <datefinale>2012-04-24</datefinale>
+    <montantfinal>42414.290000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>544984</numeroseao>
+    <numero>2012-044</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>389502.800000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>545632</numeroseao>
+    <numero>SA-2004-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>158325.230000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>545745</numeroseao>
+    <numero>2011-542</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>36967.920000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>546129</numeroseao>
+    <numero>RÉSOLUTION 11-622</numero>
+    <datefinale>2012-12-31</datefinale>
+    <montantfinal>59769.460000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>546130</numeroseao>
+    <numero>RÉSOLUTION 11-624</numero>
+    <datefinale>2012-04-11</datefinale>
+    <montantfinal>36182.630000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>546273</numeroseao>
+    <numero>2012-065</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>129519.340000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>546664</numeroseao>
+    <numero>SA-2005-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>149292.740000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>546908</numeroseao>
+    <numero>C-2012-07</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>41788.770000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>547090</numeroseao>
+    <numero>2012-50-10</numero>
+    <datefinale>2013-09-20</datefinale>
+    <montantfinal>956582.190000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>547134</numeroseao>
+    <numero>2011-630</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>32199.410000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>547138</numeroseao>
+    <numero>2011-628</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>27938.930000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>547165</numeroseao>
+    <numero>2011-629</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>27738.420000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>547171</numeroseao>
+    <numero>2012-009</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>26094.890000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>547450</numeroseao>
+    <numero>SA-2012-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>76913.540000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>547887</numeroseao>
+    <numero>2012-50-03</numero>
+    <datefinale>2013-07-12</datefinale>
+    <montantfinal>42356.800000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>548020</numeroseao>
+    <numero>SA-2009-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>191457.510000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>549397</numeroseao>
+    <numero>2012-087</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>183107.540000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>549610</numeroseao>
+    <numero>2012-55-09</numero>
+    <datefinale>2013-09-03</datefinale>
+    <montantfinal>74978.070000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>549828</numeroseao>
+    <numero>2012-001</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>46283.170000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>549866</numeroseao>
+    <numero>2011-497</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>61357.560000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>550166</numeroseao>
+    <numero>SA-295-AD-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>198667.660000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>550315</numeroseao>
+    <numero>201201-06</numero>
+    <datefinale>2012-04-27</datefinale>
+    <montantfinal>30169.440000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>550617</numeroseao>
+    <numero>2012-025</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>179533.460000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>550621</numeroseao>
+    <numero>2012-103</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>108869.980000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>550643</numeroseao>
+    <numero>2012-50-21</numero>
+    <datefinale>2013-08-19</datefinale>
+    <montantfinal>77749.470000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>550986</numeroseao>
+    <numero>SA-2000-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>341141.310000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>550995</numeroseao>
+    <numero>SA-2001-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>183542.200000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>551004</numeroseao>
+    <numero>SA-727-AD-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>106848.560000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>552049</numeroseao>
+    <numero>2012-122</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>18713197.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>552180</numeroseao>
+    <numero>2012-013</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>76289.670000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>552382</numeroseao>
+    <numero>2012-029</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>32841.460000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>552385</numeroseao>
+    <numero>2012-050</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>45875.030000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>552677</numeroseao>
+    <numero>SA-117-P-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>51905.950000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>552825</numeroseao>
+    <numero>SI-12-109</numero>
+    <datefinale>2012-12-31</datefinale>
+    <montantfinal>73185.660000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>552997</numeroseao>
+    <numero>201201-08</numero>
+    <datefinale>2013-01-23</datefinale>
+    <montantfinal>131379.130000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>553702</numeroseao>
+    <numero>SA-722-AD-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>32193.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>554375</numeroseao>
+    <numero>RÉSOLUTION 12-129</numero>
+    <datefinale>2012-07-06</datefinale>
+    <montantfinal>35536.480000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>554383</numeroseao>
+    <numero>RÉSOLUTION 12-131</numero>
+    <datefinale>2012-05-30</datefinale>
+    <montantfinal>86329.860000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>554655</numeroseao>
+    <numero>2012-150</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>121724.040000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>555424</numeroseao>
+    <numero>SA-2027-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>170996.560000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>556001</numeroseao>
+    <numero>2012-135</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>145092.060000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>556005</numeroseao>
+    <numero>2012-136</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>314456.630000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>556066</numeroseao>
+    <numero>SA-2008-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>80195.060000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>556073</numeroseao>
+    <numero>SA-728-AD-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>29848.130000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>556084</numeroseao>
+    <numero>2012-134</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>103207.460000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>556820</numeroseao>
+    <numero>SA-2024-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>324864.800000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>556823</numeroseao>
+    <numero>2012-038</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>86006.850000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>556830</numeroseao>
+    <numero>2012-056</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>43940.860000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>556835</numeroseao>
+    <numero>SA-2007-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>181934.520000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>556838</numeroseao>
+    <numero>SA-2028-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>70325.610000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>556846</numeroseao>
+    <numero>2012-074</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>90663.540000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>557036</numeroseao>
+    <numero>2012-089</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>62532.610000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>557039</numeroseao>
+    <numero>2012-064</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>1206701.710000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>557042</numeroseao>
+    <numero>2012-090</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>104457.700000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>557043</numeroseao>
+    <numero>2012-091</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>201876.300000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>557059</numeroseao>
+    <numero>2012-174</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>1539377.160000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>558061</numeroseao>
+    <numero>C-2012-12</numero>
+    <datefinale>2013-09-04</datefinale>
+    <montantfinal>55784.650000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>558076</numeroseao>
+    <numero>RÉSOLUTION 12-176</numero>
+    <datefinale>2012-11-20</datefinale>
+    <montantfinal>77312.210000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>558112</numeroseao>
+    <numero>RÉSOLUTION 12-174</numero>
+    <datefinale>2012-08-29</datefinale>
+    <montantfinal>79554.420000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>558343</numeroseao>
+    <numero>SA-2025-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>39227.170000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>558345</numeroseao>
+    <numero>SA-717-AD-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>97389.810000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>558666</numeroseao>
+    <numero>P-68.1</numero>
+    <datefinale>2013-08-01</datefinale>
+    <montantfinal>133071.610000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>558695</numeroseao>
+    <numero>2012-188</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>134625.800000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>558777</numeroseao>
+    <numero>RÉSOLUTION 12-193</numero>
+    <datefinale>2013-04-15</datefinale>
+    <montantfinal>751759.400000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>558782</numeroseao>
+    <numero>SA-2039-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>102934.520000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>560223</numeroseao>
+    <numero>201203-13</numero>
+    <datefinale>2013-04-19</datefinale>
+    <montantfinal>1028451.380000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>560835</numeroseao>
+    <numero>2012-60-09</numero>
+    <datefinale>2013-07-04</datefinale>
+    <montantfinal>35709.270000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>560889</numeroseao>
+    <numero>RÉSOLUTION 12-192</numero>
+    <datefinale>2012-08-19</datefinale>
+    <montantfinal>71860.400000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>561169</numeroseao>
+    <numero>2012-195</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>116371.950000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>561177</numeroseao>
+    <numero>2012-197</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>80804.430000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>561266</numeroseao>
+    <numero>SA-2003-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>17112.610000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>561280</numeroseao>
+    <numero>SA-2030-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>46151.970000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>561316</numeroseao>
+    <numero>SA-2029-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>54563.390000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>561329</numeroseao>
+    <numero>SA-2031-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>86375.990000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>561339</numeroseao>
+    <numero>SA-2002-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>61993.370000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>561875</numeroseao>
+    <numero>201204-17</numero>
+    <datefinale>2013-01-08</datefinale>
+    <montantfinal>220261.060000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>562036</numeroseao>
+    <numero>SA-2017-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>54136.280000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>562062</numeroseao>
+    <numero>SA-2010-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>23569.880000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>562331</numeroseao>
+    <numero>2012-BS-018</numero>
+    <datefinale>2012-07-12</datefinale>
+    <montantfinal>34248.240000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>562375</numeroseao>
+    <numero>12-03-163</numero>
+    <datefinale>2013-07-25</datefinale>
+    <montantfinal>302073.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>562614</numeroseao>
+    <numero>2012-200</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>153853.800000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>562663</numeroseao>
+    <numero>2012-204</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>875607.790000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>562737</numeroseao>
+    <numero>SA-729-AD-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>77470.720000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>563023</numeroseao>
+    <numero>2012-081</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>15936.150000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>563561</numeroseao>
+    <numero>2012-063</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>90658.650000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>563578</numeroseao>
+    <numero>2012-093</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>37251.900000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>563581</numeroseao>
+    <numero>2012-125</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>60741.300000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>563586</numeroseao>
+    <numero>2012-096</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>50979.940000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>563602</numeroseao>
+    <numero>2012-102</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>35247.550000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>563611</numeroseao>
+    <numero>2012-168</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>33077.180000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>563620</numeroseao>
+    <numero>RÉSOLUTION 12-204</numero>
+    <datefinale>2012-07-11</datefinale>
+    <montantfinal>32536.580000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>563628</numeroseao>
+    <numero>2012-082</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>96949.040000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>563633</numeroseao>
+    <numero>RÉSOLUTION 12-208</numero>
+    <datefinale>2013-10-18</datefinale>
+    <montantfinal>35800.890000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>563683</numeroseao>
+    <numero>2012-062</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>3721.670000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>563684</numeroseao>
+    <numero>RÉSOLUTION 12-232</numero>
+    <datefinale>2012-07-09</datefinale>
+    <montantfinal>76343.400000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>564141</numeroseao>
+    <numero>2012-228</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>184031.420000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>564147</numeroseao>
+    <numero>2012-227</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>191560.280000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>564183</numeroseao>
+    <numero>2012-229</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>3745616.730000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>564746</numeroseao>
+    <numero>SA-731-AD-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>4644375.630000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>565409</numeroseao>
+    <numero>05</numero>
+    <datefinale>2013-04-11</datefinale>
+    <montantfinal>147423.240000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>565598</numeroseao>
+    <numero>2012-230</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>302348.600000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>565993</numeroseao>
+    <numero>SA-745-AD-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>125092.800000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>566537</numeroseao>
+    <numero>ASP01-2012</numero>
+    <datefinale>2013-05-08</datefinale>
+    <montantfinal>366195.380000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>566583</numeroseao>
+    <numero> 201205-27</numero>
+    <datefinale>2012-10-26</datefinale>
+    <montantfinal>245143.170000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>567017</numeroseao>
+    <numero>VML-G-12-05</numero>
+    <datefinale>2012-05-14</datefinale>
+    <montantfinal>41789.400000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>567077</numeroseao>
+    <numero>28045</numero>
+    <datefinale>2013-03-15</datefinale>
+    <montantfinal>253036.990000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>567960</numeroseao>
+    <numero>SA-2023-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>123376.980000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>568887</numeroseao>
+    <numero>SA-2032-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>42529.250000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>569362</numeroseao>
+    <numero>RÉSOLUTION 12-268</numero>
+    <datefinale>2012-08-03</datefinale>
+    <montantfinal>30615.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>569560</numeroseao>
+    <numero>SA-2034-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>28805.460000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>569629</numeroseao>
+    <numero>2012-163</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>45777.300000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>569641</numeroseao>
+    <numero>2012-162</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>31726.200000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>569642</numeroseao>
+    <numero>2012-149</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>48834.480000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>569650</numeroseao>
+    <numero>2012-147</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>55649.360000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>569670</numeroseao>
+    <numero>2012-146</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>4511.360000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>569672</numeroseao>
+    <numero>2012-143</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>45522.050000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>569691</numeroseao>
+    <numero>2012-148</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>51334.610000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>569701</numeroseao>
+    <numero>2012-156</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>62532.210000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>569826</numeroseao>
+    <numero>2012-110</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>44668.490000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>569845</numeroseao>
+    <numero>2012-128</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>51074.950000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>569848</numeroseao>
+    <numero>2012-144</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>24720.400000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>569875</numeroseao>
+    <numero>2012-070</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>83234.240000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>569877</numeroseao>
+    <numero>2012-133</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>68962.010000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>569882</numeroseao>
+    <numero>2012-137</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>26526.500000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>569922</numeroseao>
+    <numero>2012-132</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>46480.770000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>569941</numeroseao>
+    <numero>2012-139</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>49600.400000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>569953</numeroseao>
+    <numero>2012-138</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>65619.110000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>569957</numeroseao>
+    <numero>R-222 - 4.03</numero>
+    <datefinale>2013-09-24</datefinale>
+    <montantfinal>29425.460000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>571261</numeroseao>
+    <numero>SA-737-AD-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>62388.880000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>571345</numeroseao>
+    <numero>2012-286</numero>
+    <datefinale>2013-08-08</datefinale>
+    <montantfinal>163964.470000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>572234</numeroseao>
+    <numero>RÉSOLUTION 12-299</numero>
+    <datefinale>2012-12-31</datefinale>
+    <montantfinal>86876.730000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>573541</numeroseao>
+    <numero>2012-092</numero>
+    <datefinale>2013-09-10</datefinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>574019</numeroseao>
+    <numero>VML-A-05-12</numero>
+    <datefinale>2013-09-24</datefinale>
+    <montantfinal>52839.170000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>574788</numeroseao>
+    <numero>2012-076</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>84308.290000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>575026</numeroseao>
+    <numero>SA-2036-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>44301.020000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>575042</numeroseao>
+    <numero>2012-167</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>47390.400000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>575052</numeroseao>
+    <numero>SA-2035-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>55027.040000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>575055</numeroseao>
+    <numero>2012-115</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>17729.910000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>575066</numeroseao>
+    <numero>2012-186</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>50857.750000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>575083</numeroseao>
+    <numero>2012-181</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>28680.720000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>575086</numeroseao>
+    <numero>2012-179</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>51759.450000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>575089</numeroseao>
+    <numero>2012-201</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>39665.230000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>575090</numeroseao>
+    <numero>2012-203</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>35719.370000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>575092</numeroseao>
+    <numero>2012-165</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>43782.480000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>575105</numeroseao>
+    <numero>2012-158</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>19978.570000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>575114</numeroseao>
+    <numero>2012-166</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>87896.600000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>575260</numeroseao>
+    <numero>2012-252</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>62086.500000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>575296</numeroseao>
+    <numero>SA-741-AD-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>44351.860000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>575313</numeroseao>
+    <numero>SA-746-AD-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>72484.190000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>575572</numeroseao>
+    <numero>CV-2011-08-32</numero>
+    <datefinale>2012-04-11</datefinale>
+    <montantfinal>113925.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>576474</numeroseao>
+    <numero>RÉSOLUTION 12-363</numero>
+    <datefinale>2013-01-29</datefinale>
+    <montantfinal>48779.300000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>576502</numeroseao>
+    <numero>RÉSOLUTION 12-364</numero>
+    <datefinale>2012-12-21</datefinale>
+    <montantfinal>80603.220000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>577128</numeroseao>
+    <numero>1248170</numero>
+    <datefinale>2012-08-01</datefinale>
+    <montantfinal>25000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>577129</numeroseao>
+    <numero>1248382</numero>
+    <datefinale>2012-12-31</datefinale>
+    <montantfinal>96750.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>577170</numeroseao>
+    <numero>1247382</numero>
+    <datefinale>2012-08-24</datefinale>
+    <montantfinal>50000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>577608</numeroseao>
+    <numero>2012-216</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>42909.170000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>577626</numeroseao>
+    <numero>2012-232</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>45685.320000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>577994</numeroseao>
+    <numero>10110</numero>
+    <datefinale>2013-07-29</datefinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>578988</numeroseao>
+    <numero>R-1117</numero>
+    <datefinale>2012-10-18</datefinale>
+    <montantfinal>117685.090000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>579318</numeroseao>
+    <numero>P2.2,P23.1-P24.2,P37.2</numero>
+    <datefinale>2013-07-08</datefinale>
+    <montantfinal>60138.430000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>579957</numeroseao>
+    <numero>2012-50-74</numero>
+    <datefinale>2013-09-12</datefinale>
+    <montantfinal>151763.550000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>580122</numeroseao>
+    <numero>1249840</numero>
+    <datefinale>2012-09-05</datefinale>
+    <montantfinal>25000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>580129</numeroseao>
+    <numero>1249613</numero>
+    <datefinale>2012-07-24</datefinale>
+    <montantfinal>25000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>580296</numeroseao>
+    <numero>1248593</numero>
+    <datefinale>2012-08-15</datefinale>
+    <montantfinal>29550.550000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>580321</numeroseao>
+    <numero>1250493</numero>
+    <datefinale>2012-07-24</datefinale>
+    <montantfinal>1000000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>581023</numeroseao>
+    <numero>1250758</numero>
+    <datefinale>2012-10-24</datefinale>
+    <montantfinal>150000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>581284</numeroseao>
+    <numero>SA-721-AD-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>57898.540000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>581313</numeroseao>
+    <numero>SA-2041-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>38330.370000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>581344</numeroseao>
+    <numero>SA-296-LP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>76722.660000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>581647</numeroseao>
+    <numero>2012-50-73</numero>
+    <datefinale>2013-08-07</datefinale>
+    <montantfinal>96362.850000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>581730</numeroseao>
+    <numero>SA-115-P-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>99631.550000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>582514</numeroseao>
+    <numero>20111130</numero>
+    <datefinale>2012-12-31</datefinale>
+    <montantfinal>30409.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>582603</numeroseao>
+    <numero>SP-120711</numero>
+    <datefinale>2013-08-30</datefinale>
+    <montantfinal>143165.840000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>582652</numeroseao>
+    <numero>SA-2040-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>35570.970000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>582655</numeroseao>
+    <numero>SA-2042-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>45907.220000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>582659</numeroseao>
+    <numero>SA-2043-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>35126.010000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>582666</numeroseao>
+    <numero>SA-748-AD-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>99300.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>582746</numeroseao>
+    <numero>201208-32</numero>
+    <datefinale>2012-12-21</datefinale>
+    <montantfinal>647550.810000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>584801</numeroseao>
+    <numero>RÉSOLUTION 12-432</numero>
+    <datefinale>2013-02-08</datefinale>
+    <montantfinal>73713.350000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>585135</numeroseao>
+    <numero>SA-2044-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>93079.170000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>585165</numeroseao>
+    <numero>SA-734-AD-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>39873.330000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>585175</numeroseao>
+    <numero>SA-736-AD-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>1966.070000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>586152</numeroseao>
+    <numero>SA-738-AD-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>25799.230000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>586411</numeroseao>
+    <numero>SA-2052-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>159009.270000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>586914</numeroseao>
+    <numero>12-12405</numero>
+    <datefinale>2013-09-17</datefinale>
+    <montantfinal>42450.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>587622</numeroseao>
+    <numero>2012-07</numero>
+    <datefinale>2012-10-01</datefinale>
+    <montantfinal>31031.760000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>587628</numeroseao>
+    <numero>2012-08</numero>
+    <datefinale>2012-11-01</datefinale>
+    <montantfinal>22983.510000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>587652</numeroseao>
+    <numero>12-580</numero>
+    <datefinale>2013-01-25</datefinale>
+    <montantfinal>581774.280000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>588027</numeroseao>
+    <numero>SA-2050-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>184133.590000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>588084</numeroseao>
+    <numero>SI-12-119</numero>
+    <datefinale>2012-10-18</datefinale>
+    <montantfinal>187690.940000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>589900</numeroseao>
+    <numero>SA-777-AD-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>280274.970000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>590266</numeroseao>
+    <numero>2012-50-87</numero>
+    <datefinale>2013-09-24</datefinale>
+    <montantfinal>68899.150000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>591383</numeroseao>
+    <numero>SA-758-AD-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>76384.800000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>592618</numeroseao>
+    <numero>SA-2051-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>26300.530000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>592812</numeroseao>
+    <numero>SA-754-AD-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>81191.330000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>592863</numeroseao>
+    <numero>SA-2037-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>33428.980000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>593241</numeroseao>
+    <numero>SA-774-AD-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>193802.360000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>593260</numeroseao>
+    <numero>B-0001776</numero>
+    <datefinale>2013-07-09</datefinale>
+    <montantfinal>237209.390000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>593715</numeroseao>
+    <numero>42511-2-2012</numero>
+    <datefinale>2013-01-11</datefinale>
+    <montantfinal>211711.410000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>594199</numeroseao>
+    <numero>SA-2058-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>186965.450000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>595826</numeroseao>
+    <numero>2011-716</numero>
+    <datefinale>2013-01-15</datefinale>
+    <montantfinal>52473.440000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>596395</numeroseao>
+    <numero>SI-12-123</numero>
+    <datefinale>2013-05-17</datefinale>
+    <montantfinal>53104.650000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>596411</numeroseao>
+    <numero>SA-2069-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>75060.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>596583</numeroseao>
+    <numero>SA-786-AD-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>82241.640000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>597021</numeroseao>
+    <numero>SA-2048-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>29004.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>597350</numeroseao>
+    <numero>SA-2055-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>56745.960000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>597782</numeroseao>
+    <numero>ATP04-2012</numero>
+    <datefinale>2013-02-22</datefinale>
+    <montantfinal>42660.090000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>597962</numeroseao>
+    <numero>RÉSOLUTION 12-552</numero>
+    <datefinale>2012-12-10</datefinale>
+    <montantfinal>67835.250000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>600869</numeroseao>
+    <numero>SA-2065-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>43391.570000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>601663</numeroseao>
+    <numero>SA-772-AD-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>74451.900000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>601752</numeroseao>
+    <numero>SA-2049-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>81767.360000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>601873</numeroseao>
+    <numero>2012-131</numero>
+    <datefinale>2013-04-30</datefinale>
+    <montantfinal>42626.290000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>602127</numeroseao>
+    <numero>SA-2057-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>31088.730000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>604832</numeroseao>
+    <numero>GAT 2012 SI 289</numero>
+    <datefinale>2013-07-03</datefinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>607928</numeroseao>
+    <numero>SA-2070-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>83720.120000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>608019</numeroseao>
+    <numero>SA-2076-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>80692.360000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>609848</numeroseao>
+    <numero>R-1122, lot 4</numero>
+    <datefinale>2013-08-27</datefinale>
+    <montantfinal>145927.990000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>609964</numeroseao>
+    <numero>SA-2071-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>26022.290000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>610055</numeroseao>
+    <numero>B-0002747</numero>
+    <datefinale>2013-08-28</datefinale>
+    <montantfinal>342397.400000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>610392</numeroseao>
+    <numero>SA-2061-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>43575.530000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>610817</numeroseao>
+    <numero>2013-60-04</numero>
+    <datefinale>2013-09-18</datefinale>
+    <montantfinal>32658.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>613362</numeroseao>
+    <numero>2013-60-05</numero>
+    <datefinale>2013-07-02</datefinale>
+    <montantfinal>51090.290000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>614499</numeroseao>
+    <numero>VML-AP-02-13</numero>
+    <datefinale>2013-09-24</datefinale>
+    <montantfinal>103511.990000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>614514</numeroseao>
+    <numero>HA-02-13</numero>
+    <datefinale>2013-06-21</datefinale>
+    <montantfinal>46257.180000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>615108</numeroseao>
+    <numero>2013-03</numero>
+    <datefinale>2013-07-22</datefinale>
+    <montantfinal>43477.790000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>618250</numeroseao>
+    <numero>SP-130223</numero>
+    <datefinale>2013-08-30</datefinale>
+    <montantfinal>128962.690000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>618997</numeroseao>
+    <numero>2013-028</numero>
+    <datefinale>2013-04-25</datefinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>619707</numeroseao>
+    <numero>Résolution 13-111</numero>
+    <datefinale>2013-03-21</datefinale>
+    <montantfinal>25685.720000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>620805</numeroseao>
+    <numero>CG-2013-036</numero>
+    <datefinale>2014-04-03</datefinale>
+    <montantfinal>35750.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>621347</numeroseao>
+    <numero>VML-A-03-13</numero>
+    <datefinale>2013-09-24</datefinale>
+    <montantfinal>30249.930000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>621990</numeroseao>
+    <numero>SA-2059-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>55560.520000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>622491</numeroseao>
+    <numero>VML-SG-04-02 (2013-2014)</numero>
+    <datefinale>2013-09-24</datefinale>
+    <montantfinal>16120.780000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>623962</numeroseao>
+    <numero>2013-04-64</numero>
+    <datefinale>2013-08-30</datefinale>
+    <montantfinal>261922.730000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>623973</numeroseao>
+    <numero>042013</numero>
+    <datefinale>2013-08-05</datefinale>
+    <montantfinal>183592.820000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>624487</numeroseao>
+    <numero>2013-60-26</numero>
+    <datefinale>2013-09-12</datefinale>
+    <montantfinal>62751.050000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>624967</numeroseao>
+    <numero>620413</numero>
+    <datefinale>2013-07-04</datefinale>
+    <montantfinal>186661.910000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>625887</numeroseao>
+    <numero>Résolution 13-152</numero>
+    <datefinale>2013-04-29</datefinale>
+    <montantfinal>19172.080000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>627603</numeroseao>
+    <numero>2013-50-37</numero>
+    <datefinale>2013-09-23</datefinale>
+    <montantfinal>236931.900000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>627635</numeroseao>
+    <numero>TR-AS-2013</numero>
+    <datefinale>2013-08-30</datefinale>
+    <montantfinal>90000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>629062</numeroseao>
+    <numero>2013-60-32</numero>
+    <datefinale>2013-09-10</datefinale>
+    <montantfinal>39999.230000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>629241</numeroseao>
+    <numero>2013-TSPR-02</numero>
+    <datefinale>2013-07-19</datefinale>
+    <montantfinal>46797.220000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>629722</numeroseao>
+    <numero>S-2013-025</numero>
+    <datefinale>2013-07-29</datefinale>
+    <montantfinal>77975.850000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>629725</numeroseao>
+    <numero>2013-012</numero>
+    <datefinale>2013-07-31</datefinale>
+    <montantfinal>77500.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>630894</numeroseao>
+    <numero>CA13 240229-2</numero>
+    <datefinale>2013-09-11</datefinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>632341</numeroseao>
+    <numero>13-05-91</numero>
+    <datefinale>2013-08-15</datefinale>
+    <montantfinal>215042.010000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>632600</numeroseao>
+    <numero>20130426</numero>
+    <datefinale>2013-06-04</datefinale>
+    <montantfinal>89433.300000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>633051</numeroseao>
+    <numero>SP-2013-011</numero>
+    <datefinale>2013-07-31</datefinale>
+    <montantfinal>136519.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>633416</numeroseao>
+    <numero>SA-2075-TP-12</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>44013.430000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>633840</numeroseao>
+    <numero>CA-2013-042</numero>
+    <datefinale>2014-04-30</datefinale>
+    <montantfinal>221211.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>633879</numeroseao>
+    <numero>CG-2013-077</numero>
+    <datefinale>2013-06-30</datefinale>
+    <montantfinal>49442.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>633899</numeroseao>
+    <numero>1344-TP</numero>
+    <datefinale>2013-09-30</datefinale>
+    <montantfinal>25710.710000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>633910</numeroseao>
+    <numero>CA-2013-057</numero>
+    <datefinale>2013-05-29</datefinale>
+    <montantfinal>105560.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>634181</numeroseao>
+    <numero>2013-03</numero>
+    <datefinale>2013-08-26</datefinale>
+    <montantfinal>75293.680000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>634276</numeroseao>
+    <numero>VML-A-07-13</numero>
+    <datefinale>2013-09-24</datefinale>
+    <montantfinal>34226.910000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>634333</numeroseao>
+    <numero>201304TP</numero>
+    <datefinale>2013-06-19</datefinale>
+    <montantfinal>47613.450000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>635155</numeroseao>
+    <numero>STPB-613437</numero>
+    <datefinale>2013-08-19</datefinale>
+    <montantfinal>144023.980000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>636375</numeroseao>
+    <numero>2013-166</numero>
+    <datefinale>2013-05-17</datefinale>
+    <montantfinal>97472.360000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>637940</numeroseao>
+    <numero>94215-2013-SOU-001</numero>
+    <datefinale>2013-08-23</datefinale>
+    <montantfinal>101850.600000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>638626</numeroseao>
+    <numero>14483</numero>
+    <datefinale>2013-08-31</datefinale>
+    <montantfinal>245728.740000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>640287</numeroseao>
+    <numero>2013-TSRV-03</numero>
+    <datefinale>2013-07-19</datefinale>
+    <montantfinal>74620.800000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>643564</numeroseao>
+    <numero>2013-01</numero>
+    <datefinale>2013-08-06</datefinale>
+    <montantfinal>57027.600000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>643607</numeroseao>
+    <numero>19875-2013</numero>
+    <datefinale>2013-07-22</datefinale>
+    <montantfinal>23229.670000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>645089</numeroseao>
+    <numero>CA-2013-077</numero>
+    <datefinale>2014-06-30</datefinale>
+    <montantfinal>51329.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>646267</numeroseao>
+    <numero>ATP05-2013</numero>
+    <datefinale>2013-09-06</datefinale>
+    <montantfinal>32535.040000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>647754</numeroseao>
+    <numero>13-0605</numero>
+    <datefinale>2013-07-17</datefinale>
+    <montantfinal>60305.540000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>653721</numeroseao>
+    <numero>BC871426</numero>
+    <datefinale>2013-09-12</datefinale>
+    <montantfinal>93628.450000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>659025</numeroseao>
+    <numero>R13-417</numero>
+    <datefinale>2013-08-23</datefinale>
+    <montantfinal>41599.100000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>662834</numeroseao>
+    <numero>13FR32</numero>
+    <datefinale>2013-07-29</datefinale>
+    <montantfinal>33986.610000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>663908</numeroseao>
+    <numero>2013-07</numero>
+    <datefinale>2013-08-30</datefinale>
+    <montantfinal>32860.470000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>664537</numeroseao>
+    <numero>CA13 14 0296</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>35000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>665114</numeroseao>
+    <numero>Rang 8 2013-08</numero>
+    <datefinale>2013-08-20</datefinale>
+    <montantfinal>46612.110000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>665643</numeroseao>
+    <numero>ST-2013-09</numero>
+    <datefinale>2013-09-09</datefinale>
+    <montantfinal>28766.760000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>667599</numeroseao>
+    <numero>Jeux d'eau 2013</numero>
+    <datefinale>2013-07-25</datefinale>
+    <montantfinal>88749.200000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>668060</numeroseao>
+    <numero>Hiver2012</numero>
+    <datefinale>2013-05-15</datefinale>
+    <montantfinal>47829.600000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>668160</numeroseao>
+    <numero>Stationnement01</numero>
+    <datefinale>2013-07-01</datefinale>
+    <montantfinal>57958.950000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>668183</numeroseao>
+    <numero>Accotements01</numero>
+    <datefinale>2012-06-12</datefinale>
+    <montantfinal>67398.350000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>668611</numeroseao>
+    <numero>Campjour2013</numero>
+    <datefinale>2013-08-16</datefinale>
+    <montantfinal>24800.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>668626</numeroseao>
+    <numero>Modules skateparc</numero>
+    <datefinale>2013-09-03</datefinale>
+    <montantfinal>24499.500000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>668634</numeroseao>
+    <numero>Prepskate</numero>
+    <datefinale>2013-07-15</datefinale>
+    <montantfinal>24173.490000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>668637</numeroseao>
+    <numero>Dalleskate</numero>
+    <datefinale>2013-09-03</datefinale>
+    <montantfinal>28579.390000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>671510</numeroseao>
+    <numero>CM-2013-600</numero>
+    <datefinale>2013-07-08</datefinale>
+    <montantfinal>125000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>671522</numeroseao>
+    <numero>CM-2013-601</numero>
+    <datefinale>2013-07-08</datefinale>
+    <montantfinal>39000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>671545</numeroseao>
+    <numero>C12-190</numero>
+    <datefinale>2012-10-31</datefinale>
+    <montantfinal>26215.040000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>673026</numeroseao>
+    <numero>UMQSEL2012-2013</numero>
+    <datefinale>2013-05-23</datefinale>
+    <montantfinal>967990.670000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>673575</numeroseao>
+    <numero>CM-2013-694</numero>
+    <datefinale>2013-08-30</datefinale>
+    <montantfinal>172462.500000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>674041</numeroseao>
+    <numero>2013-280</numero>
+    <datefinale>2013-09-17</datefinale>
+    <montantfinal>258693.750000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>675910</numeroseao>
+    <numero>12-05-364</numero>
+    <datefinale>2013-09-24</datefinale>
+    <montantfinal>29425.460000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>675923</numeroseao>
+    <numero>13-06-437</numero>
+    <datefinale>2013-09-24</datefinale>
+    <montantfinal>40844.560000</montantfinal>
+    <nomcontractant />
+  </contrat>
+</export>

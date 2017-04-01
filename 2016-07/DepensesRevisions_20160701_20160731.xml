@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2016-07-01" datefin="2016-07-31">
+  <avis>
+    <numeroseao>731249</numeroseao>
+    <numero>8507-14-SH01</numero>
+    <depenses />
+  </avis>
+  <avis>
+    <numeroseao>822648</numeroseao>
+    <numero>753 044 246</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-07-06</datedepense>
+        <datepublicationdepense>2016-07-13</datepublicationdepense>
+        <montantdepense>5000.000000</montantdepense>
+        <description>Supplément de 5 000 $ et prolongation jusqu'au 31 janvier 2017.</description>
+        <nomcontractant>Daniel Cholette</nomcontractant>
+        <neqcontractant>2260998564</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>910022</numeroseao>
+    <numero>2015-005</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-07-06</datedepense>
+        <datepublicationdepense>2016-07-14</datepublicationdepense>
+        <montantdepense>131562.010000</montantdepense>
+        <description>Imprévus conditions chantier, erreurs-omissions et demandes supplémentaires du donneur d'ordre </description>
+        <nomcontractant>Groupe Excel S.M. Inc.</nomcontractant>
+        <neqcontractant>8100596922</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>960334</numeroseao>
+    <numero>311-36-400</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-06-16</datedepense>
+        <datepublicationdepense>2016-07-07</datepublicationdepense>
+        <montantdepense>42617.960000</montantdepense>
+        <description>Avenant 1 - Services supplémentaires pour la Phase II</description>
+        <nomcontractant>Groupe Conseil BC2FP</nomcontractant>
+        <neqcontractant>1166369067</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>984193</numeroseao>
+    <numero>700 243 431</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-07-07</datedepense>
+        <datepublicationdepense>2016-07-12</datepublicationdepense>
+        <montantdepense>12000.000000</montantdepense>
+        <description>Il est requis de prolonger son contrat jusqu'au 30 septembre 2016.</description>
+        <nomcontractant>Solutions conseils JB inc.</nomcontractant>
+        <neqcontractant>1170599956</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>994437</numeroseao>
+    <numero>BZ1578</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-07-07</datedepense>
+        <datepublicationdepense>2016-07-07</datepublicationdepense>
+        <montantdepense>14300.000000</montantdepense>
+        <description>Licences d'utilisateur pour appareil de Circle Cardiovascular Imaging</description>
+        <nomcontractant>Circle Cardiovascular imaging</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+</export>

@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2016-06-01" datefin="2016-06-30">
+  <contrat>
+    <numeroseao>484947</numeroseao>
+    <numero>GAT 2011 SP 037</numero>
+    <datefinale>2012-09-06</datefinale>
+    <datepublicationfinale>2013-10-11</datepublicationfinale>
+    <montantfinal>130594.350000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>494800</numeroseao>
+    <numero>GAT 2011 SP 002</numero>
+    <datefinale>2012-02-19</datefinale>
+    <datepublicationfinale>2014-10-30</datepublicationfinale>
+    <montantfinal>48636.970000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>510755</numeroseao>
+    <numero>11-H-02-07</numero>
+    <datefinale>2012-05-31</datefinale>
+    <datepublicationfinale>2012-09-12</datepublicationfinale>
+    <montantfinal>105757.010000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>510759</numeroseao>
+    <numero>11-L-02-12</numero>
+    <datefinale>2012-03-31</datefinale>
+    <datepublicationfinale>2012-09-12</datepublicationfinale>
+    <montantfinal>77420.750000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>510779</numeroseao>
+    <numero>11-P-02-13</numero>
+    <datefinale>2011-08-24</datefinale>
+    <datepublicationfinale>2012-09-12</datepublicationfinale>
+    <montantfinal>24057.800000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>510836</numeroseao>
+    <numero>11-T-05-25</numero>
+    <datefinale>2012-05-31</datefinale>
+    <datepublicationfinale>2012-09-13</datepublicationfinale>
+    <montantfinal>64175.340000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>510844</numeroseao>
+    <numero>1DP000030</numero>
+    <datefinale>2011-11-30</datefinale>
+    <datepublicationfinale>2012-09-12</datepublicationfinale>
+    <montantfinal>33904.080000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>519103</numeroseao>
+    <numero>2011-P-44.3</numero>
+    <datefinale>2012-11-26</datefinale>
+    <datepublicationfinale>2012-12-12</datepublicationfinale>
+    <montantfinal>396496.790000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>520573</numeroseao>
+    <numero>2011-B-9.01</numero>
+    <datefinale>2013-07-11</datefinale>
+    <datepublicationfinale>2013-09-20</datepublicationfinale>
+    <montantfinal>295378.170000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>530598</numeroseao>
+    <numero>04-02.04.00-011-01</numero>
+    <datefinale>2011-11-02</datefinale>
+    <datepublicationfinale>2014-09-29</datepublicationfinale>
+    <montantfinal>25628.400000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>535557</numeroseao>
+    <numero>GAT 2011 SP 251</numero>
+    <datefinale>2014-07-02</datefinale>
+    <datepublicationfinale>2014-08-08</datepublicationfinale>
+    <montantfinal>2898338.440000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>543410</numeroseao>
+    <numero>2011-E-17.01</numero>
+    <datefinale>2012-12-31</datefinale>
+    <datepublicationfinale>2014-09-03</datepublicationfinale>
+    <montantfinal>96151.560000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>544326</numeroseao>
+    <numero>P-3.2</numero>
+    <datefinale>2012-05-23</datefinale>
+    <datepublicationfinale>2012-09-12</datepublicationfinale>
+    <montantfinal>57394.280000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>563283</numeroseao>
+    <numero>CE-2012-189-12</numero>
+    <datefinale>2014-12-31</datefinale>
+    <datepublicationfinale>2015-06-29</datepublicationfinale>
+    <montantfinal>26000.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>565656</numeroseao>
+    <numero>12-12184</numero>
+    <datefinale>1900-01-01</datefinale>
+    <datepublicationfinale>1900-01-01</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>579891</numeroseao>
+    <numero>12-12341</numero>
+    <datefinale>1900-01-01</datefinale>
+    <datepublicationfinale>1900-01-01</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>606641</numeroseao>
+    <numero>23699200</numero>
+    <datefinale>2016-02-29</datefinale>
+    <datepublicationfinale>2016-04-28</datepublicationfinale>
+    <montantfinal>570217.030000</montantfinal>
+    <nomcontractant>Av-Tech INC..</nomcontractant>
+    <neqcontractant>1143543099</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>612978</numeroseao>
+    <numero>2013-SPI-008</numero>
+    <datefinale>1900-01-01</datefinale>
+    <datepublicationfinale>2016-02-25</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>616465</numeroseao>
+    <numero>24199800</numero>
+    <datefinale>2016-04-30</datefinale>
+    <datepublicationfinale>2016-05-31</datepublicationfinale>
+    <montantfinal>65922.230000</montantfinal>
+    <nomcontractant>Av-Tech INC..</nomcontractant>
+    <neqcontractant>1143543099</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>616815</numeroseao>
+    <numero>2012-12-727</numero>
+    <datefinale>2013-10-31</datefinale>
+    <datepublicationfinale>2015-01-23</datepublicationfinale>
+    <montantfinal>42115.030000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>630742</numeroseao>
+    <numero>600250802</numero>
+    <datefinale>2015-10-07</datefinale>
+    <datepublicationfinale>2014-12-19</datepublicationfinale>
+    <montantfinal>212438.430000</montantfinal>
+    <nomcontractant>TELUS</nomcontractant>
+    <neqcontractant>3363451546</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>630847</numeroseao>
+    <numero>VMI-13-005</numero>
+    <datefinale>1900-01-01</datefinale>
+    <datepublicationfinale>2015-12-16</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>631319</numeroseao>
+    <numero>DSA-2013-01</numero>
+    <datefinale>2016-03-31</datefinale>
+    <datepublicationfinale>2016-05-03</datepublicationfinale>
+    <montantfinal>325960.000000</montantfinal>
+    <nomcontractant>M3P Services-Conseils</nomcontractant>
+    <neqcontractant>1164929185</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>633558</numeroseao>
+    <numero>600247193</numero>
+    <datefinale>2016-04-02</datefinale>
+    <datepublicationfinale>2015-02-19</datepublicationfinale>
+    <montantfinal>224902.400000</montantfinal>
+    <nomcontractant>GDG Informatique et Gestion inc.</nomcontractant>
+    <neqcontractant>1147027768</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>686949</numeroseao>
+    <numero>CGER 386321</numero>
+    <datefinale>2016-03-31</datefinale>
+    <datepublicationfinale>2015-01-19</datepublicationfinale>
+    <montantfinal>33010.000000</montantfinal>
+    <nomcontractant>Naus et associés</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>693752</numeroseao>
+    <numero>23652800</numero>
+    <datefinale>2016-04-30</datefinale>
+    <datepublicationfinale>2016-05-11</datepublicationfinale>
+    <montantfinal>54403.140000</montantfinal>
+    <nomcontractant>Société de Contrôle Johnson Canada, S.E.C.</nomcontractant>
+    <neqcontractant>3367672865</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>697838</numeroseao>
+    <numero>23402100</numero>
+    <datefinale>2015-01-15</datefinale>
+    <datepublicationfinale>2015-01-15</datepublicationfinale>
+    <montantfinal>67954.250000</montantfinal>
+    <nomcontractant>Chubb Edwards, soc. D'UTC incendie &amp; sécurité</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>716568</numeroseao>
+    <numero>26493500</numero>
+    <datefinale>2016-05-12</datefinale>
+    <datepublicationfinale>2016-04-15</datepublicationfinale>
+    <montantfinal>110363.870000</montantfinal>
+    <nomcontractant>LCC &amp; Associés Canada Inc.</nomcontractant>
+    <neqcontractant>1166591686</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>743803</numeroseao>
+    <numero>2014-3253-06</numero>
+    <datefinale>2016-05-03</datefinale>
+    <datepublicationfinale>2015-07-23</datepublicationfinale>
+    <montantfinal>47838.000000</montantfinal>
+    <nomcontractant>AGAT Laboratoires</nomcontractant>
+    <neqcontractant>1163893325</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>749868</numeroseao>
+    <numero>13-630</numero>
+    <datefinale>2015-09-09</datefinale>
+    <datepublicationfinale>2015-11-17</datepublicationfinale>
+    <montantfinal>1468305.980000</montantfinal>
+    <nomcontractant>Groupe Excel S.M. Inc.</nomcontractant>
+    <neqcontractant>8100596922</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>757976</numeroseao>
+    <numero>600589902</numero>
+    <datefinale>1900-01-01</datefinale>
+    <datepublicationfinale>2015-05-14</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant>Ebsco Canada ltée</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>762546</numeroseao>
+    <numero>VMI-14-13619</numero>
+    <datefinale>2014-12-10</datefinale>
+    <datepublicationfinale>2015-01-30</datepublicationfinale>
+    <montantfinal>72228.320000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>764972</numeroseao>
+    <numero>2014-1389-13</numero>
+    <datefinale>2016-04-04</datefinale>
+    <datepublicationfinale>2015-06-16</datepublicationfinale>
+    <montantfinal>1962650.570000</montantfinal>
+    <nomcontractant>Construction Val D'or Ltée.</nomcontractant>
+    <neqcontractant>1142988790</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>796533</numeroseao>
+    <numero>VMI-14-022</numero>
+    <datefinale>1900-01-01</datefinale>
+    <datepublicationfinale>2015-12-16</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>822788</numeroseao>
+    <numero>IMM-14-03</numero>
+    <datefinale>1900-01-01</datefinale>
+    <datepublicationfinale>2015-11-03</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>841425</numeroseao>
+    <numero>BON141501195</numero>
+    <datefinale>2015-04-17</datefinale>
+    <datepublicationfinale>2015-06-26</datepublicationfinale>
+    <montantfinal>47214.760000</montantfinal>
+    <nomcontractant>Mini Excavation Jocelyn Plamondon</nomcontractant>
+    <neqcontractant>1148653125</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>857065</numeroseao>
+    <numero>CE-2015-19</numero>
+    <datefinale>1900-01-01</datefinale>
+    <datepublicationfinale>2016-01-22</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>891817</numeroseao>
+    <numero>753 045 657</numero>
+    <datefinale>2016-03-31</datefinale>
+    <datepublicationfinale>2016-04-08</datepublicationfinale>
+    <montantfinal>15840.000000</montantfinal>
+    <nomcontractant>Doreen Dubé</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>891818</numeroseao>
+    <numero>753 045 655</numero>
+    <datefinale>2016-03-31</datefinale>
+    <datepublicationfinale>2016-04-08</datepublicationfinale>
+    <montantfinal>43148.000000</montantfinal>
+    <nomcontractant>Jocelyne Auger</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>891821</numeroseao>
+    <numero>753 045 662</numero>
+    <datefinale>2016-03-31</datefinale>
+    <datepublicationfinale>2016-04-08</datepublicationfinale>
+    <montantfinal>24144.000000</montantfinal>
+    <nomcontractant>Danielle Desrosiers</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>903491</numeroseao>
+    <numero>28103300</numero>
+    <datefinale>2016-04-19</datefinale>
+    <datepublicationfinale>2016-01-11</datepublicationfinale>
+    <montantfinal>42400.000000</montantfinal>
+    <nomcontractant>DWB Consultant</nomcontractant>
+    <neqcontractant>1160969102</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>904219</numeroseao>
+    <numero>GAT 2015 SI 124</numero>
+    <datefinale>1900-01-01</datefinale>
+    <datepublicationfinale>2016-01-22</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>911687</numeroseao>
+    <numero>30128900</numero>
+    <datefinale>2016-05-09</datefinale>
+    <datepublicationfinale>2016-04-14</datepublicationfinale>
+    <montantfinal>31257.740000</montantfinal>
+    <nomcontractant>Construction Tanguay &amp; Bonneau</nomcontractant>
+    <neqcontractant>1143597335</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>924103</numeroseao>
+    <numero>212-28-400</numero>
+    <datefinale>2015-08-13</datefinale>
+    <datepublicationfinale>2016-05-10</datepublicationfinale>
+    <montantfinal>109644.100000</montantfinal>
+    <nomcontractant>EMS</nomcontractant>
+    <neqcontractant>1163730576</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>934064</numeroseao>
+    <numero>DPCP 2015-2016-23</numero>
+    <datefinale>2016-03-31</datefinale>
+    <datepublicationfinale>2016-01-26</datepublicationfinale>
+    <montantfinal>17349.480000</montantfinal>
+    <nomcontractant>Mme Stella Gabbino</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>941960</numeroseao>
+    <numero>CA11 240342 (646871)</numero>
+    <datefinale>1900-01-01</datefinale>
+    <datepublicationfinale>2015-12-16</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>951608</numeroseao>
+    <numero>UQO-A1601C165</numero>
+    <datefinale>2015-09-29</datefinale>
+    <datepublicationfinale>2016-02-01</datepublicationfinale>
+    <montantfinal>49793.210000</montantfinal>
+    <nomcontractant>Les Industries GC2L</nomcontractant>
+    <neqcontractant>1164721566</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>969088</numeroseao>
+    <numero>BC71849</numero>
+    <datefinale>2016-06-01</datefinale>
+    <datepublicationfinale>2016-05-05</datepublicationfinale>
+    <montantfinal>68366.860000</montantfinal>
+    <nomcontractant>La Cie électrique Britton Ltée.</nomcontractant>
+    <neqcontractant>1118615243</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>972016</numeroseao>
+    <numero>31207500</numero>
+    <datefinale>2016-04-28</datefinale>
+    <datepublicationfinale>2016-05-03</datepublicationfinale>
+    <montantfinal>28950.000000</montantfinal>
+    <nomcontractant>Air-Ins inc.</nomcontractant>
+    <neqcontractant>1143292390</neqcontractant>
+  </contrat>
+</export>

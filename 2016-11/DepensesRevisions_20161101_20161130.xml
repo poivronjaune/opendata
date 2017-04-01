@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2016-11-01" datefin="2016-11-30">
+  <avis>
+    <numeroseao>555436</numeroseao>
+    <numero>MUHC-CS11-044</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-06-22</datedepense>
+        <datepublicationdepense>2015-07-16</datepublicationdepense>
+        <montantdepense>1803807.000000</montantdepense>
+        <description>Modification du contrat original pour rajouter les dépenses de la phase 2 du projet d'entepôt de données.</description>
+        <nomcontractant>Logibec Groupe Informatique Ltée</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2016-10-13</datedepense>
+        <datepublicationdepense>2016-10-14</datepublicationdepense>
+        <montantdepense>1523351.000000</montantdepense>
+        <description>Modification du contrat original pour rajouter d'un progiciel Radimage</description>
+        <nomcontractant>Logibec Groupe Informatique Ltée</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>631225</numeroseao>
+    <numero>AG-202</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-07-29</datedepense>
+        <datepublicationdepense>2016-11-25</datepublicationdepense>
+        <montantdepense>181000.000000</montantdepense>
+        <description>Services additionnels requis  et prolongation du mandat.</description>
+        <nomcontractant>Strategia Conseil inc</nomcontractant>
+        <neqcontractant>1163916415</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>636391</numeroseao>
+    <numero>700 000 923</numero>
+    <depenses>
+      <depense>
+        <datedepense>2014-08-22</datedepense>
+        <datepublicationdepense>2016-11-25</datepublicationdepense>
+        <montantdepense>3500.000000</montantdepense>
+        <description>Formation pour le personnel en contact avec la clientèle externe du Nord du Québec relativement à l’intervention préventive en situation d’agressivité, d’intimidation et de menace</description>
+        <nomcontractant>Consultants Verret inc.</nomcontractant>
+        <neqcontractant>1140985111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-08</datedepense>
+        <datepublicationdepense>2016-11-25</datepublicationdepense>
+        <montantdepense>5000.000000</montantdepense>
+        <description>Dans le cadre du déploiement de Services Québec, un montant supplémentaire est nécessaire afin d'organiser des sessions de formation additionnelles</description>
+        <nomcontractant>Consultants Verret inc.</nomcontractant>
+        <neqcontractant>1140985111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-06</datedepense>
+        <datepublicationdepense>2016-11-25</datepublicationdepense>
+        <montantdepense>525.000000</montantdepense>
+        <description>Considérant que le personnel du bureau aura sous peu à offrir sa prestation de services dans le nouveau cadre du déploiement de Services Québec, une session avec la formatrice a été planifiée</description>
+        <nomcontractant>Consultants Verret inc.</nomcontractant>
+        <neqcontractant>1140985111</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>778778</numeroseao>
+    <numero>13-14-03-158-1</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-11-21</datedepense>
+        <datepublicationdepense>2016-11-21</datepublicationdepense>
+        <montantdepense>552468.670000</montantdepense>
+        <description>Dépassement de coût attribuable à des conditions de chantier non prévisible , des omissions et des demandes du client en cours de projet.. Les détails sont disponibles sur demande . La fiche d'autorisation du dirigeant de l'organisme a été complété.</description>
+        <nomcontractant>Kingston Byers inc</nomcontractant>
+        <neqcontractant>1143009521</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>832800</numeroseao>
+    <numero>14-278 / 4PGLOM.01-06-02</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-03-24</datedepense>
+        <datepublicationdepense>2015-09-16</datepublicationdepense>
+        <montantdepense>2832.090000</montantdepense>
+        <description>1 - Remplacement du matériau des comptoirs des vanités pour quelque chose de plus durable et changement de la dimension de la porte de la salle mécanique pour permettre le dégagement fonctionnel des équipements</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-03-24</datedepense>
+        <datepublicationdepense>2015-09-16</datepublicationdepense>
+        <montantdepense>18441.850000</montantdepense>
+        <description>2 - Démolition supplémentaires en condition d'amiante au plafond, murs, poutres et colonnes des blocs sanitaires. Ce qui semblait être du béton apparent est en fait un crépis contenant de l'amiante qu'il faut démolir afin d'installer un renforcement structural.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-03-24</datedepense>
+        <datepublicationdepense>2015-09-16</datepublicationdepense>
+        <montantdepense>7884.820000</montantdepense>
+        <description>3 - L'auget principal est non-conforme, plein et ne permet pas le raccordement des nouveaux panneaux prévus au projet, il faut donc le remplacer. Changement d'un type de luminaires pour s'accorder avec les cloisons de toilettes.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-04-27</datedepense>
+        <datepublicationdepense>2015-09-16</datepublicationdepense>
+        <montantdepense>3183.050000</montantdepense>
+        <description>4 - Condition de chantier. Contreventement des panneaux diviseurs de douche et rails à rideau de douche, changement des faces de portes de bois, intervention de Chubb Edwards pour le panneau de contrôle d'alarm incendie, démolition de la gorge de plinthe existance du local 064A...</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-04-28</datedepense>
+        <datepublicationdepense>2015-09-16</datepublicationdepense>
+        <montantdepense>11462.950000</montantdepense>
+        <description>5 - Condition de chantier, structure. Fermeture de trappes d'accès existantes au plancher de la scène et réparation de la dalle de plancher de la mezzanine pour combler les différences de niveau. (Condition de chantier apparues lors de la démolition)</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-08-12</datedepense>
+        <datepublicationdepense>2015-09-16</datepublicationdepense>
+        <montantdepense>13572.940000</montantdepense>
+        <description>6 - Condition de chantier, divers. Modification et ajustement de divers éléments architecturaux tel que les plinthes, les moulures d'acier, soufflage et jambage du mur rideau, le puits mécanique de l'Escalier, les vanités, les garde-corps de l'escalier, ect.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-09-15</datedepense>
+        <datepublicationdepense>2015-11-10</datepublicationdepense>
+        <montantdepense>7042.910000</montantdepense>
+        <description>7 - Condition de chantier, architecture. Modification de systèmes intérieures afin de s'adapter à diverses conditions de chantier. Reconstruction d'une plinthe à gorge dans l'escalier 6, dû à des conditions de chantier. Construction d'une retombée de plafond dans l'escalier 5 ......</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-05-26</datedepense>
+        <datepublicationdepense>2016-05-31</datepublicationdepense>
+        <montantdepense>6339.120000</montantdepense>
+        <description>8- Condition de chantier, architecture. Modifications et ajouts de différents finis de plancher, plinthes et escaliers nécessaires pour l'agencement avec l'existant Modifications et ajouts de différents finis de plancher, plinthes et escaliers nécessaires pour l'agencement avec l'existant suite à la</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-05-26</datedepense>
+        <datepublicationdepense>2016-05-31</datepublicationdepense>
+        <montantdepense>479.310000</montantdepense>
+        <description>9- Omission architecture. Ajout d'un coin protecteur dans les escaliers et autres éléments de coordination en chantier.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-05-26</datedepense>
+        <datepublicationdepense>2016-05-31</datepublicationdepense>
+        <montantdepense>3390.700000</montantdepense>
+        <description>10- condition de chantier, mécanique. Installation d'une persienne d'évacuation, raccordement d'un tuyau de drainage sanitaire, crédit pour la relocalisation d'un tuyau de chauffage plus requis et nouveau tuyaux de cuivre dans le drain français.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-06-07</datedepense>
+        <datepublicationdepense>2016-06-13</datepublicationdepense>
+        <montantdepense>1837.220000</montantdepense>
+        <description>11- Condition de chantier, divers. Correction des plinthes de céramique nécessaire dû au nivellement du plancher existant et relocalisation des deux conduites d'alarme incendie qui empêchent l'installation de divers équipements et finis.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-27</datedepense>
+        <datepublicationdepense>2016-11-04</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 12 - (Crédit -5 317,14 $) - Condition de chantier - ARCHITECTURE: Lors de la réfection du fini de plancher adjacent, l'entrepreneur a endommagé le plancher du gymnase. Afin de clore le dossier et que personne ne soit perdant, la CSMB se chargera de faire réparer le plancher et nous demandons .....</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-27</datedepense>
+        <datepublicationdepense>2016-11-11</datepublicationdepense>
+        <montantdepense>5011.820000</montantdepense>
+        <description># 13 - Condition de chantier - ARCHITECTURE : Suite à la démolition du fini de plancher de la scène, il apparaît que la démolition et la reconstruction(nivellement) du nouveau plancher nécessitent beaucoup plus de matériaux et de temps.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-27</datedepense>
+        <datepublicationdepense>2016-11-11</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 14 - (Crédit 750,00 $)-Condition de chantier-ARCHITECTURE: En chantier, une portion de vitrage du nouveau mur rideau intérieur (salle de musculation) a été égratigné. Comme c'est mineur, nous avons convenu de ne pas le remplacer mais nous ne voulons pas non plus payer le plein prix alors ....</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-27</datedepense>
+        <datepublicationdepense>2016-11-11</datepublicationdepense>
+        <montantdepense>19794.600000</montantdepense>
+        <description># 15 - Condition de chantier - STRUCTURE: Suite à la démolition de la dalle du sous-sol, le niveau du roc est beaucoup plus haut que prévu. Il faut donc absolument  excaver le roc pour passer les conduites principales vis-à-vis des caniveaux. La hauteur du plafond ne nous permet pas....</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>856598</numeroseao>
+    <numero>CC-1025-AO-15</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-06-10</datedepense>
+        <datepublicationdepense>2016-11-03</datepublicationdepense>
+        <montantdepense>278088.300000</montantdepense>
+        <description>12 ODC d'ajustements majeurs survenus durant l'exécution des travaux de ce projet qui touchaient une terrasse extérieure en béton mais qui était aussi le toit d'une partie du sous-sol de l'édifice représentant 32,3% du montant initial de la soumission originale.</description>
+        <nomcontractant>Construction CPB Inc..</nomcontractant>
+        <neqcontractant>1163035877</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>888477</numeroseao>
+    <numero>P13013AA-11044AA</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-11-17</datedepense>
+        <datepublicationdepense>2016-11-18</datepublicationdepense>
+        <montantdepense>47203.630000</montantdepense>
+        <description>ODC 1, 2, 3 et 4 Conditions retrouvées au chantier suite aux ouvertures et le début des travaux</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>889881</numeroseao>
+    <numero>P13040HH-14033HH</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-08-29</datedepense>
+        <datepublicationdepense>2016-09-07</datepublicationdepense>
+        <montantdepense>44897.460000</montantdepense>
+        <description>ODC 01 et ODC 02 Conditions de chantier et agrandir locaux entrée d'eau</description>
+        <nomcontractant>Biron. (9170-7570 Qc inc.)</nomcontractant>
+        <neqcontractant>1163792774</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-16</datedepense>
+        <datepublicationdepense>2016-09-19</datepublicationdepense>
+        <montantdepense>3733.860000</montantdepense>
+        <description>ODC 3  Remplacer portion tuyauterie non prévue</description>
+        <nomcontractant>Biron. (9170-7570 Qc inc.)</nomcontractant>
+        <neqcontractant>1163792774</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-11</datedepense>
+        <datepublicationdepense>2016-11-14</datepublicationdepense>
+        <montantdepense>46157.340000</montantdepense>
+        <description>ODC 4, 5 et 6 Plusieurs conditions imprévues ont déterminé des modifications au contrat</description>
+        <nomcontractant>Biron. (9170-7570 Qc inc.)</nomcontractant>
+        <neqcontractant>1163792774</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>903441</numeroseao>
+    <numero>1514-C</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-02-10</datedepense>
+        <datepublicationdepense>2016-05-06</datepublicationdepense>
+        <montantdepense>33706.160000</montantdepense>
+        <description>Avenant 1: Modification implantation du bâtiment, modification du type d'armoire, modification des exigences en protection des incendies et remplacement complet du pavage.</description>
+        <nomcontractant>DUOTECH Construction Inc</nomcontractant>
+        <neqcontractant>1165836447</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-10</datedepense>
+        <datepublicationdepense>2016-05-06</datepublicationdepense>
+        <montantdepense>9962.830000</montantdepense>
+        <description>Avenant 2: Isolation du pont roulant et de l'entrée d'eau, pavage supplémentaire, modification de l'entrée du bâtiment et modification au drainage de la ventilation.</description>
+        <nomcontractant>DUOTECH Construction Inc</nomcontractant>
+        <neqcontractant>1165836447</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>918970</numeroseao>
+    <numero>14-163 GP</numero>
+    <depenses />
+  </avis>
+  <avis>
+    <numeroseao>942353</numeroseao>
+    <numero>710-1516MAM12</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-04-04</datedepense>
+        <datepublicationdepense>2016-11-21</datepublicationdepense>
+        <montantdepense>7977.000000</montantdepense>
+        <description>Travaux supplémentaires pour la préparation des murs, branchement électrique et plomberie.</description>
+        <nomcontractant>MFT &amp; Fils Inc</nomcontractant>
+        <neqcontractant>1167654624</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>947285</numeroseao>
+    <numero>15MB-017</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-11-07</datedepense>
+        <datepublicationdepense>2016-11-07</datepublicationdepense>
+        <montantdepense>10857.100000</montantdepense>
+        <description>Modification aux murs et aux dalles de bétons existants. </description>
+        <nomcontractant>Constructions Guy Sebas Inc.</nomcontractant>
+        <neqcontractant>1144279677</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>951897</numeroseao>
+    <numero>044-044-45533</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-08-17</datedepense>
+        <datepublicationdepense>2016-10-26</datepublicationdepense>
+        <montantdepense>2765.010000</montantdepense>
+        <description>Ordres de changements 1, 2, 3, 5 et 6 - Changement de thermos et pose de pellicule givrée, modification de l'entrée d'eau, enlèvement de panneaux d'aluminium, sciage de maçonnerie et ajout de prises de courant pour climatiseurs</description>
+        <nomcontractant>Constructions J.Boulais Inc.</nomcontractant>
+        <neqcontractant>1166261942</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-12</datedepense>
+        <datepublicationdepense>2016-11-21</datepublicationdepense>
+        <montantdepense>17820.520000</montantdepense>
+        <description>Ordre de changement no 4 - Ajout d'une nouvelle porte, raccordements électriques et travaux de réparation de béton</description>
+        <nomcontractant>Constructions J.Boulais Inc.</nomcontractant>
+        <neqcontractant>1166261942</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>957624</numeroseao>
+    <numero>16P1A-015</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-11-07</datedepense>
+        <datepublicationdepense>2016-11-14</datepublicationdepense>
+        <montantdepense>7739.690000</montantdepense>
+        <description>Reconstruction des murs donnant sur l'extérieur (non prévu)</description>
+        <nomcontractant>Constructions Guy Sebas Inc.</nomcontractant>
+        <neqcontractant>1144279677</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>959475</numeroseao>
+    <numero>S15-15</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-08-29</datedepense>
+        <datepublicationdepense>2016-11-09</datepublicationdepense>
+        <montantdepense>50098.000000</montantdepense>
+        <description>Travaux supplémentaires à exécuter selon les recommandations de l'architecte et de l'ingénieur en structure tel que décrits sur l'ordre de changement (ODC) #5, voir autorisation #57836</description>
+        <nomcontractant>MGB Associés</nomcontractant>
+        <neqcontractant>1140350373</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-20</datedepense>
+        <datepublicationdepense>2016-11-09</datepublicationdepense>
+        <montantdepense>1697.000000</montantdepense>
+        <description>Changement de type de peinture à métal extérieur pour un type plus résistant aux conditions climatiques. Conformément à l'ordre de changement (ODC-07) émise par l'architecte. Voir autorisation # 60721</description>
+        <nomcontractant>MGB Associés</nomcontractant>
+        <neqcontractant>1140350373</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-09</datedepense>
+        <datepublicationdepense>2016-11-25</datepublicationdepense>
+        <montantdepense>976.000000</montantdepense>
+        <description>Les scellements existants entre la fondation et les murs rideaux ainsi que les scellements à d'autres endroits doivent être corrigés . Il faut enlever l'ancien scellant et nettoyer les ouvertures, installer le nouveau scellant et nettoyer l'ensemble du terrain. Voir autorisation #64258</description>
+        <nomcontractant>MGB Associés</nomcontractant>
+        <neqcontractant>1140350373</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>959479</numeroseao>
+    <numero>S15-17</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-09-09</datedepense>
+        <datepublicationdepense>2016-11-09</datepublicationdepense>
+        <montantdepense>50184.000000</montantdepense>
+        <description>Travaux supplémentaires se rattachant à une partie des demandes de changement DC9-S102 et DC9-S102.1 comprenant entre autres des travaux de modification du support du luminaire et du traitement des colonnes d'acier du porche, le tout décrit à l'ordre de changement ODC-03. Voir autorisation #59555</description>
+        <nomcontractant>M.C. Rainville inc.</nomcontractant>
+        <neqcontractant>1162637467</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-16</datedepense>
+        <datepublicationdepense>2016-11-29</datepublicationdepense>
+        <montantdepense>7897.000000</montantdepense>
+        <description>les travaux supplémentaires visaient la réparation de l'asphalte, l'installation de dispositifs d'ancrage pour l'affichage, la réparation de la membrane de PVC du toit, l'installation d'allèges et la transplantation d'un pommier (référer aux demandes de changement CD16 à DC20). voir annexe #64790</description>
+        <nomcontractant>M.C. Rainville inc.</nomcontractant>
+        <neqcontractant>1162637467</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>963023</numeroseao>
+    <numero>0171M1516</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-10-31</datedepense>
+        <datepublicationdepense>2016-11-04</datepublicationdepense>
+        <montantdepense>3349.950000</montantdepense>
+        <description>1.Dir A-03 : Prévoir et installer 2 nouveaux grillages vis-à-vis fenêtres 6 et 7; annuler remplacement fenêtres 1 et 42. Prévoir soufflage, recouvrir d'une membrane - Dir. 04 : Prévoir remplacer pièces par des matériaux similaires (fenêtres), planche en mdf ou contreplaqué peint en blanc</description>
+        <nomcontractant>Les Constructions Scandinaves</nomcontractant>
+        <neqcontractant>1162226550</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>968754</numeroseao>
+    <numero>T-3953</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-07-04</datedepense>
+        <datepublicationdepense>2016-11-04</datepublicationdepense>
+        <montantdepense>8196.660000</montantdepense>
+        <description>conditions de chantier</description>
+        <nomcontractant>MécanicAction Inc</nomcontractant>
+        <neqcontractant>1166046475</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>980982</numeroseao>
+    <numero>16-048 - 5NDRAM.01.02.03</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-10-24</datedepense>
+        <datepublicationdepense>2016-11-18</datepublicationdepense>
+        <montantdepense>17872.340000</montantdepense>
+        <description># 1 - ARCHITECTURE: Lors du retrait de l'amiante sur les poutres du plafond du gymnase, une petite cornière collée qui fait le tour du plafond était sous la couche d'amiante. La colle a été analysée par le laboratoire et elle contient de l'amiante. L'entrepreneur devra enlever la colle présente ...</description>
+        <nomcontractant>T3P construction inc.</nomcontractant>
+        <neqcontractant>1164560691</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-24</datedepense>
+        <datepublicationdepense>2016-11-18</datepublicationdepense>
+        <montantdepense>5985.500000</montantdepense>
+        <description># 2 - ARCHITECTURE: Les anciennes boites de jonction qui alimentaient l'ancien système d'éclairage du gymnase étaient encastrées dans le plafond de béton. Suite à leurs retraits, une pâte cimentaire (SIKA Quick) sera appliquée pour boucher les trous au plafond.</description>
+        <nomcontractant>T3P construction inc.</nomcontractant>
+        <neqcontractant>1164560691</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-24</datedepense>
+        <datepublicationdepense>2016-11-18</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 3 - ARCHITECTURE: La tablette de fenêtre en stratifié originalement prévu au plan a été remplacée par une finition de gypse tel que les fenêtres existantes. Changement sans frais.</description>
+        <nomcontractant>T3P construction inc.</nomcontractant>
+        <neqcontractant>1164560691</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-24</datedepense>
+        <datepublicationdepense>2016-11-18</datepublicationdepense>
+        <montantdepense>3080.000000</montantdepense>
+        <description># 4 - ARCHITECTURE: Sabler et peinturer les portes et cadres des cages d'escaliers, tels que dans l'existant.</description>
+        <nomcontractant>T3P construction inc.</nomcontractant>
+        <neqcontractant>1164560691</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-24</datedepense>
+        <datepublicationdepense>2016-11-18</datepublicationdepense>
+        <montantdepense>4345.000000</montantdepense>
+        <description># 5 - Demande du propriétaire - ARCHITECTURE: Demande DGA: Peindre la moitié des murs du gymnase.</description>
+        <nomcontractant>T3P construction inc.</nomcontractant>
+        <neqcontractant>1164560691</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-24</datedepense>
+        <datepublicationdepense>2016-11-18</datepublicationdepense>
+        <montantdepense>1204.570000</montantdepense>
+        <description># 6 - ARCHITECTURE: Lors de la démolition des blocs de verre dans le gymnase, des conduits électriques ont été découverts à l'intérieur. Les conduits alimentaient l'ancien réseau d'éclairage du gymnase. Ils ont été coupés et débranchés du panneau électrique existant.</description>
+        <nomcontractant>T3P construction inc.</nomcontractant>
+        <neqcontractant>1164560691</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-27</datedepense>
+        <datepublicationdepense>2016-11-21</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 7 - (Crédit - 350,00) - ARCHITECTURE: Annulation de la pose de panneaux rigide prévu à l'endos des panneaux de mur-rideau dans l'espace vide contre le bloc de terra-cotta.</description>
+        <nomcontractant>T3P construction inc.</nomcontractant>
+        <neqcontractant>1164560691</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-11</datedepense>
+        <datepublicationdepense>2016-11-21</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 8  - (Crédit -1 120,12 $) - Dans les plans et devis, une couche supplémentaitre d'amiante à enlever avait été prévue pour les cages d'escalier, car lors d'un projet antérieur, une couche supplémentaire avait été trouvée. Lors de la démolition de cet été, cette seconde couche n'était pas présente..</description>
+        <nomcontractant>T3P construction inc.</nomcontractant>
+        <neqcontractant>1164560691</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>981520</numeroseao>
+    <numero>CHUSJ-567.1</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-07-31</datedepense>
+        <datepublicationdepense>2016-11-18</datepublicationdepense>
+        <montantdepense>80000.000000</montantdepense>
+        <description>Permettre au conseiller EMS-TI de compléter l'acquisition et l'Implantation des EMS dans les nouveaux bâtiments. </description>
+        <nomcontractant>CIM - Conseil en Immobilisation &amp; Management Inc.</nomcontractant>
+        <neqcontractant>1147304134</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>992337</numeroseao>
+    <numero>2015/16-213</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-06-30</datedepense>
+        <datepublicationdepense>2016-11-22</datepublicationdepense>
+        <montantdepense>3158.130000</montantdepense>
+        <description>Le gypse recouvrant la base des murs (1200pc) local de musique n'était pas selon spécifications du projet et ce mur ne possèdait pas d'isolation acoustique.  Travaux supplémentaires étaient d'enlever et remplacer 1200 pc de gypse 1/2" par du 5/8" Mold Tough et installer 600pc laine Roxul</description>
+        <nomcontractant>Ralvec Construction Inc.</nomcontractant>
+        <neqcontractant>1144002160</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>994967</numeroseao>
+    <numero>i16-01-02</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-08-23</datedepense>
+        <datepublicationdepense>2016-11-22</datepublicationdepense>
+        <montantdepense>6859.290000</montantdepense>
+        <description>Ajout de nouveaux ancrages pour paniers de basketball</description>
+        <nomcontractant>GP Construction De Val D'Or Inc.</nomcontractant>
+        <neqcontractant>1170390141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-23</datedepense>
+        <datepublicationdepense>2016-11-22</datepublicationdepense>
+        <montantdepense>2906.000000</montantdepense>
+        <description>Achat de nouveaux paniers de basketball</description>
+        <nomcontractant>GP Construction De Val D'Or Inc.</nomcontractant>
+        <neqcontractant>1170390141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-24</datedepense>
+        <datepublicationdepense>2016-11-22</datepublicationdepense>
+        <montantdepense>625.190000</montantdepense>
+        <description>Ajout de prises pour des micro-ondes</description>
+        <nomcontractant>GP Construction De Val D'Or Inc.</nomcontractant>
+        <neqcontractant>1170390141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-08</datedepense>
+        <datepublicationdepense>2016-11-22</datepublicationdepense>
+        <montantdepense>1750.890000</montantdepense>
+        <description>Ragréage composition plafond du gymnase</description>
+        <nomcontractant>GP Construction De Val D'Or Inc.</nomcontractant>
+        <neqcontractant>1170390141</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+</export>

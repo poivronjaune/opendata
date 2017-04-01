@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2016-04-01" datefin="2016-04-30">
+  <contrat>
+    <numeroseao>421017</numeroseao>
+    <numero>DGA-999103479</numero>
+    <datefinale>2014-02-22</datefinale>
+    <datepublicationfinale>2014-09-16</datepublicationfinale>
+    <montantfinal>2204209.320000</montantfinal>
+    <nomcontractant>Société Conseil Groupe LGS</nomcontractant>
+    <neqcontractant>1142691709</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>528540</numeroseao>
+    <numero>DGA-999104470</numero>
+    <datefinale>2015-07-31</datefinale>
+    <datepublicationfinale>2015-12-22</datepublicationfinale>
+    <montantfinal>23182170.320000</montantfinal>
+    <nomcontractant>Fujitsu Canada (Réception des appels d'offres)</nomcontractant>
+    <neqcontractant>1143039486</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>563550</numeroseao>
+    <numero>P19234</numero>
+    <datefinale>2015-08-31</datefinale>
+    <datepublicationfinale>2015-10-28</datepublicationfinale>
+    <montantfinal>162380.930000</montantfinal>
+    <nomcontractant>Les Ascenseurs ThyssenKrupp Canada Ltée</nomcontractant>
+    <neqcontractant>1166288408</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>583952</numeroseao>
+    <numero>15-11</numero>
+    <datefinale>1900-01-01</datefinale>
+    <datepublicationfinale>2015-10-08</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>602353</numeroseao>
+    <numero>433-12-2012</numero>
+    <datefinale>2013-12-31</datefinale>
+    <datepublicationfinale>2015-02-17</datepublicationfinale>
+    <montantfinal>40313.300000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>611773</numeroseao>
+    <numero>CA13 14 0007</numero>
+    <datefinale>2013-03-29</datefinale>
+    <datepublicationfinale>2014-06-03</datepublicationfinale>
+    <montantfinal>24800.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>625516</numeroseao>
+    <numero>PARCS-13-02</numero>
+    <datefinale>2013-10-15</datefinale>
+    <datepublicationfinale>2014-04-10</datepublicationfinale>
+    <montantfinal>488157.500000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>657129</numeroseao>
+    <numero>IMM-13-10</numero>
+    <datefinale>2014-11-17</datefinale>
+    <datepublicationfinale>2014-11-24</datepublicationfinale>
+    <montantfinal>161004.920000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>694244</numeroseao>
+    <numero>25938100</numero>
+    <datefinale>2015-05-13</datefinale>
+    <datepublicationfinale>2015-04-20</datepublicationfinale>
+    <montantfinal>170474.000000</montantfinal>
+    <nomcontractant>Édifice 500 René-Lévesque ouest Sec.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>702747</numeroseao>
+    <numero>08/12/0142</numero>
+    <datefinale>2012-01-01</datefinale>
+    <datepublicationfinale>2015-09-16</datepublicationfinale>
+    <montantfinal>973.440000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>744327</numeroseao>
+    <numero>374843</numero>
+    <datefinale>2015-03-31</datefinale>
+    <datepublicationfinale>2015-09-10</datepublicationfinale>
+    <montantfinal>37013.000000</montantfinal>
+    <nomcontractant>MédiSolution</nomcontractant>
+    <neqcontractant>1155129388</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>751128</numeroseao>
+    <numero>25893803</numero>
+    <datefinale>2015-08-18</datefinale>
+    <datepublicationfinale>2015-09-17</datepublicationfinale>
+    <montantfinal>34210.710000</montantfinal>
+    <nomcontractant>Les entreprises de construction Profil inc.</nomcontractant>
+    <neqcontractant>1143023563</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>767015</numeroseao>
+    <numero>27323000</numero>
+    <datefinale>2015-07-27</datefinale>
+    <datepublicationfinale>2015-08-31</datepublicationfinale>
+    <montantfinal>87952.460000</montantfinal>
+    <nomcontractant>Service Construction Mobile Ltee</nomcontractant>
+    <neqcontractant>1142554964</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>768716</numeroseao>
+    <numero>2014-05-23</numero>
+    <datefinale>2014-07-10</datefinale>
+    <datepublicationfinale>2014-10-14</datepublicationfinale>
+    <montantfinal>246081.070000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>780446</numeroseao>
+    <numero>BC0000020396 </numero>
+    <datefinale>2016-03-15</datefinale>
+    <datepublicationfinale>2016-03-17</datepublicationfinale>
+    <montantfinal>86235.720000</montantfinal>
+    <nomcontractant>Shellex Groupe Conseil Inc.</nomcontractant>
+    <neqcontractant>1160433208</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>819224</numeroseao>
+    <numero>27102200</numero>
+    <datefinale>2015-07-28</datefinale>
+    <datepublicationfinale>2015-10-09</datepublicationfinale>
+    <montantfinal>25000.000000</montantfinal>
+    <nomcontractant>TST Système énergie inc</nomcontractant>
+    <neqcontractant>1161271656</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>827630</numeroseao>
+    <numero>753 044 662</numero>
+    <datefinale>2015-09-19</datefinale>
+    <datepublicationfinale>2015-10-28</datepublicationfinale>
+    <montantfinal>22065.850000</montantfinal>
+    <nomcontractant>Ibtissam Mehrat</nomcontractant>
+    <neqcontractant>0000000000</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>827631</numeroseao>
+    <numero>753 044 664</numero>
+    <datefinale>2015-09-19</datefinale>
+    <datepublicationfinale>2015-10-28</datepublicationfinale>
+    <montantfinal>19278.210000</montantfinal>
+    <nomcontractant>Fernande Krahulec</nomcontractant>
+    <neqcontractant>0000000000</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>828250</numeroseao>
+    <numero>28102800</numero>
+    <datefinale>2015-04-30</datefinale>
+    <datepublicationfinale>2015-08-12</datepublicationfinale>
+    <montantfinal>372465.450000</montantfinal>
+    <nomcontractant>groupe RODIMAX INC.</nomcontractant>
+    <neqcontractant>1143978998</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>840738</numeroseao>
+    <numero>211428</numero>
+    <datefinale>2015-06-11</datefinale>
+    <datepublicationfinale>2015-08-26</datepublicationfinale>
+    <montantfinal>30798.120000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>842377</numeroseao>
+    <numero>211438</numero>
+    <datefinale>2015-11-08</datefinale>
+    <datepublicationfinale>2015-09-16</datepublicationfinale>
+    <montantfinal>66570.530000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>849575</numeroseao>
+    <numero>44503702</numero>
+    <datefinale>2015-04-28</datefinale>
+    <datepublicationfinale>2015-11-02</datepublicationfinale>
+    <montantfinal>45003.000000</montantfinal>
+    <nomcontractant>Le Groupe Gesfor, Poirier, Pïnchin inc.</nomcontractant>
+    <neqcontractant>1163424907</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>853628</numeroseao>
+    <numero>19515800</numero>
+    <datefinale>2014-07-31</datefinale>
+    <datepublicationfinale>2015-01-06</datepublicationfinale>
+    <montantfinal>120194.230000</montantfinal>
+    <nomcontractant>Corporation Ashland</nomcontractant>
+    <neqcontractant>1149702715</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>856617</numeroseao>
+    <numero>44503732</numero>
+    <datefinale>2015-04-15</datefinale>
+    <datepublicationfinale>2015-04-23</datepublicationfinale>
+    <montantfinal>29431.500000</montantfinal>
+    <nomcontractant>LES ENTREPRISES VICTOR ET FRANCOIS INC.</nomcontractant>
+    <neqcontractant>1141817230</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>862124</numeroseao>
+    <numero>44503793</numero>
+    <datefinale>2015-09-21</datefinale>
+    <datepublicationfinale>2015-10-26</datepublicationfinale>
+    <montantfinal>44834.410000</montantfinal>
+    <nomcontractant>AMEC Environment &amp; Infrastructure</nomcontractant>
+    <neqcontractant>1149862121</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>862729</numeroseao>
+    <numero>14-275 / 4STGEM.01</numero>
+    <datefinale>2015-08-19</datefinale>
+    <datepublicationfinale>2016-01-13</datepublicationfinale>
+    <montantfinal>135554.910000</montantfinal>
+    <nomcontractant>Pavage Des Moulins Inc.</nomcontractant>
+    <neqcontractant>1143122118</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>876663</numeroseao>
+    <numero>44503975</numero>
+    <datefinale>2015-07-07</datefinale>
+    <datepublicationfinale>2015-10-09</datepublicationfinale>
+    <montantfinal>47590.000000</montantfinal>
+    <nomcontractant>Construction Serge Bergeron &amp; Associés Inc.</nomcontractant>
+    <neqcontractant>1148062947</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>878455</numeroseao>
+    <numero>44504025</numero>
+    <datefinale>2015-06-30</datefinale>
+    <datepublicationfinale>2015-08-12</datepublicationfinale>
+    <montantfinal>45200.000000</montantfinal>
+    <nomcontractant>Navada Ltée.</nomcontractant>
+    <neqcontractant>1142254490</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>882255</numeroseao>
+    <numero>294-51-100</numero>
+    <datefinale>2016-02-16</datefinale>
+    <datepublicationfinale>2016-02-01</datepublicationfinale>
+    <montantfinal>35900.000000</montantfinal>
+    <nomcontractant>Les Services EXP inc.</nomcontractant>
+    <neqcontractant>1167268128</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>885850</numeroseao>
+    <numero>44504126</numero>
+    <datefinale>2015-06-11</datefinale>
+    <datepublicationfinale>2015-08-26</datepublicationfinale>
+    <montantfinal>21890.000000</montantfinal>
+    <nomcontractant>Le Groupe Gesfor, Poirier, Pïnchin inc.</nomcontractant>
+    <neqcontractant>1163424907</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>888366</numeroseao>
+    <numero>29635800</numero>
+    <datefinale>2015-08-31</datefinale>
+    <datepublicationfinale>2015-10-09</datepublicationfinale>
+    <montantfinal>23750.000000</montantfinal>
+    <nomcontractant>Le Groupe Forces S.E.N.C.</nomcontractant>
+    <neqcontractant>3342106617</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>891516</numeroseao>
+    <numero>15-109 - SIN010</numero>
+    <datefinale>2016-03-10</datefinale>
+    <datepublicationfinale>2016-03-31</datepublicationfinale>
+    <montantfinal>50223.140000</montantfinal>
+    <nomcontractant>Restauration PremièreAction S.E.C.</nomcontractant>
+    <neqcontractant>3364697212</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>892734</numeroseao>
+    <numero>29629500</numero>
+    <datefinale>2015-08-11</datefinale>
+    <datepublicationfinale>2015-10-09</datepublicationfinale>
+    <montantfinal>14055.000000</montantfinal>
+    <nomcontractant>Parizeau, Pawulski Achitectes</nomcontractant>
+    <neqcontractant>3364451057</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>902046</numeroseao>
+    <numero>44504427</numero>
+    <datefinale>2015-10-26</datefinale>
+    <datepublicationfinale>2015-11-03</datepublicationfinale>
+    <montantfinal>25696.000000</montantfinal>
+    <nomcontractant>Le Groupe Gesfor, Poirier, Pïnchin inc.</nomcontractant>
+    <neqcontractant>1163424907</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>903491</numeroseao>
+    <numero>28103300</numero>
+    <datefinale>2016-03-22</datefinale>
+    <datepublicationfinale>2016-01-11</datepublicationfinale>
+    <montantfinal>42400.000000</montantfinal>
+    <nomcontractant>DWB Consultant</nomcontractant>
+    <neqcontractant>1160969102</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>916259</numeroseao>
+    <numero>24865800</numero>
+    <datefinale>2015-04-27</datefinale>
+    <datepublicationfinale>2015-08-12</datepublicationfinale>
+    <montantfinal>27078.140000</montantfinal>
+    <nomcontractant>Consultherm Inc.</nomcontractant>
+    <neqcontractant>1142753442</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>924770</numeroseao>
+    <numero>28318800</numero>
+    <datefinale>2015-07-28</datefinale>
+    <datepublicationfinale>2015-09-24</datepublicationfinale>
+    <montantfinal>25834.020000</montantfinal>
+    <nomcontractant>A.R.T.B. Inc..</nomcontractant>
+    <neqcontractant>1142302315</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>942594</numeroseao>
+    <numero>2015-02-0093</numero>
+    <datefinale>1900-01-01</datefinale>
+    <datepublicationfinale>2015-12-23</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>946154</numeroseao>
+    <numero>2015-071</numero>
+    <datefinale>1900-01-01</datefinale>
+    <datepublicationfinale>2016-01-12</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+</export>

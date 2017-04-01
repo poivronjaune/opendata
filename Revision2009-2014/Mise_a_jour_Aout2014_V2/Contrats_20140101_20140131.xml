@@ -1,0 +1,4854 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2014-01-01" datefin="2014-01-31">
+  <contrat>
+    <numeroseao>119608</numeroseao>
+    <numero>210006-01</numero>
+    <datefinale>2013-11-09</datefinale>
+    <montantfinal>9774094.020000</montantfinal>
+    <nomcontractant>La Société conseil Lambda inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>159160</numeroseao>
+    <numero>2789</numero>
+    <datefinale>2013-09-30</datefinale>
+    <montantfinal>150127.000000</montantfinal>
+    <nomcontractant>STERIS Canada Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>325358</numeroseao>
+    <numero>551000030</numero>
+    <datefinale>2013-09-30</datefinale>
+    <montantfinal>78551.100000</montantfinal>
+    <nomcontractant>Advanis Jolicoeur</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>341481</numeroseao>
+    <numero>20091112</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>84408.910000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>358529</numeroseao>
+    <numero>2009EES002</numero>
+    <datefinale>2013-12-20</datefinale>
+    <montantfinal>1089954.000000</montantfinal>
+    <nomcontractant>WSP Canada Inc. (Est-du-Québec et Centre-du-Québec)</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>399888</numeroseao>
+    <numero>P15904</numero>
+    <datefinale>2014-01-14</datefinale>
+    <montantfinal>3630920.000000</montantfinal>
+    <nomcontractant>CGI Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>407567</numeroseao>
+    <numero>191-18-900</numero>
+    <datefinale>2013-12-04</datefinale>
+    <montantfinal>56920.000000</montantfinal>
+    <nomcontractant>Nidaki Construction</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>447439</numeroseao>
+    <numero>CT-1709</numero>
+    <datefinale>2013-10-31</datefinale>
+    <montantfinal>1582588.000000</montantfinal>
+    <nomcontractant>Sécurité Gentel Inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>449379</numeroseao>
+    <numero>DRI-2010-18</numero>
+    <datefinale>2013-10-14</datefinale>
+    <montantfinal>223937.000000</montantfinal>
+    <nomcontractant>Consolidex Solutions Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>459039</numeroseao>
+    <numero>19722400</numero>
+    <datefinale>2013-12-14</datefinale>
+    <montantfinal>616731.720000</montantfinal>
+    <nomcontractant>GRH MCKINNON</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>478946</numeroseao>
+    <numero>APP-10-267/APP-10-268</numero>
+    <datefinale>2012-12-31</datefinale>
+    <montantfinal>144322.420000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>494387</numeroseao>
+    <numero>VP 2010-43</numero>
+    <datefinale>2012-11-21</datefinale>
+    <montantfinal>737671.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>495490</numeroseao>
+    <numero>SG2011-017</numero>
+    <datefinale>2013-12-05</datefinale>
+    <montantfinal>196993.410000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>495801</numeroseao>
+    <numero>STM-3932-11-10-31</numero>
+    <datefinale>2012-10-16</datefinale>
+    <montantfinal>305330.480000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>496037</numeroseao>
+    <numero>AO-11-03-I</numero>
+    <datefinale>2013-10-01</datefinale>
+    <montantfinal>52336.970000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>497457</numeroseao>
+    <numero>2011-BS-35</numero>
+    <datefinale>2011-05-17</datefinale>
+    <montantfinal>145785.540000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>497502</numeroseao>
+    <numero>ST-2010-0403</numero>
+    <datefinale>2011-09-09</datefinale>
+    <montantfinal>43781.380000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>498032</numeroseao>
+    <numero>ST-2011-1004</numero>
+    <datefinale>2011-08-04</datefinale>
+    <montantfinal>36740.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>498036</numeroseao>
+    <numero>CT-1760</numero>
+    <datefinale>2013-01-31</datefinale>
+    <montantfinal>33744.000000</montantfinal>
+    <nomcontractant>Simplex Grinnell protection incendie</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>498046</numeroseao>
+    <numero>ST--2011-1003</numero>
+    <datefinale>2011-11-16</datefinale>
+    <montantfinal>53373.860000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>498062</numeroseao>
+    <numero>ST-2011-1002</numero>
+    <datefinale>2011-06-17</datefinale>
+    <montantfinal>33185.210000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>498107</numeroseao>
+    <numero>ST-2011-0401D</numero>
+    <datefinale>2013-07-18</datefinale>
+    <montantfinal>90619.560000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>498381</numeroseao>
+    <numero>2010-1044</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>528752.000000</montantfinal>
+    <nomcontractant>STERIS Canada Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>498803</numeroseao>
+    <numero>ST-2011-1005</numero>
+    <datefinale>2011-11-16</datefinale>
+    <montantfinal>243251.500000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>499688</numeroseao>
+    <numero>2010-1116</numero>
+    <datefinale>2013-10-31</datefinale>
+    <montantfinal>339498.000000</montantfinal>
+    <nomcontractant>Roche Diagnostics</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>501374</numeroseao>
+    <numero>10003</numero>
+    <datefinale>2011-08-30</datefinale>
+    <montantfinal>45336.390000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>502278</numeroseao>
+    <numero>2011-022</numero>
+    <datefinale>2012-08-22</datefinale>
+    <montantfinal>195365.520000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>504342</numeroseao>
+    <numero>2011-90</numero>
+    <datefinale>2011-12-31</datefinale>
+    <montantfinal>43427.170000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>504926</numeroseao>
+    <numero>APP-11-116 (2011-GP608)</numero>
+    <datefinale>2011-07-05</datefinale>
+    <montantfinal>202437.950000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>505187</numeroseao>
+    <numero>19862000</numero>
+    <datefinale>2013-10-31</datefinale>
+    <montantfinal>27628.040000</montantfinal>
+    <nomcontractant>PBS 2740621 Canada Ltée</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>506814</numeroseao>
+    <numero>1104280201</numero>
+    <datefinale>2011-05-20</datefinale>
+    <montantfinal>95789.750000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>507391</numeroseao>
+    <numero>21229400</numero>
+    <datefinale>2013-12-19</datefinale>
+    <montantfinal>37321.000000</montantfinal>
+    <nomcontractant>Les immeubles Fairway inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>507471</numeroseao>
+    <numero>APP-11-067 (2011-AVL542)</numero>
+    <datefinale>2013-05-31</datefinale>
+    <montantfinal>128924.480000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>508085</numeroseao>
+    <numero>APP-11-044 (2011-VL604)</numero>
+    <datefinale>2011-05-17</datefinale>
+    <montantfinal>62405.590000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>508090</numeroseao>
+    <numero>APP-11-045 (2011-VL664)</numero>
+    <datefinale>2011-05-17</datefinale>
+    <montantfinal>28614.960000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>509342</numeroseao>
+    <numero>INV-2603</numero>
+    <datefinale>2013-08-09</datefinale>
+    <montantfinal>126376.070000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>509402</numeroseao>
+    <numero>19862300</numero>
+    <datefinale>2013-10-13</datefinale>
+    <montantfinal>19279.570000</montantfinal>
+    <nomcontractant>3097-4547 Québec inc. Gazon Briss</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>509653</numeroseao>
+    <numero>560408777</numero>
+    <datefinale>2013-12-17</datefinale>
+    <montantfinal>138335.000000</montantfinal>
+    <nomcontractant>Maître Liette Harvey</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>509693</numeroseao>
+    <numero>APP-11-028 (2011-STH534)</numero>
+    <datefinale>2012-06-30</datefinale>
+    <montantfinal>60107.060000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>509897</numeroseao>
+    <numero>APP-11-069 (2011-VL432</numero>
+    <datefinale>2011-12-31</datefinale>
+    <montantfinal>55469.260000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>510471</numeroseao>
+    <numero>10013</numero>
+    <datefinale>2011-11-10</datefinale>
+    <montantfinal>45513.040000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>510688</numeroseao>
+    <numero>9904</numero>
+    <datefinale>2013-09-04</datefinale>
+    <montantfinal>176437.040000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>511969</numeroseao>
+    <numero>9910</numero>
+    <datefinale>2013-09-18</datefinale>
+    <montantfinal>213035.490000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>511980</numeroseao>
+    <numero>9911</numero>
+    <datefinale>2013-10-16</datefinale>
+    <montantfinal>200275.570000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>512829</numeroseao>
+    <numero>AO-12163</numero>
+    <datefinale>2011-11-23</datefinale>
+    <montantfinal>95072.020000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>514176</numeroseao>
+    <numero>APP-11-152 (2011-AGG923)</numero>
+    <datefinale>2011-09-06</datefinale>
+    <montantfinal>13871427.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>515254</numeroseao>
+    <numero>6000000001</numero>
+    <datefinale>2011-04-27</datefinale>
+    <montantfinal>68009.580000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>516026</numeroseao>
+    <numero>6000000010</numero>
+    <datefinale>2012-12-05</datefinale>
+    <montantfinal>55880.700000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>516035</numeroseao>
+    <numero>6000000061</numero>
+    <datefinale>2011-08-05</datefinale>
+    <montantfinal>25573.370000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>516036</numeroseao>
+    <numero>6000000065</numero>
+    <datefinale>2011-09-22</datefinale>
+    <montantfinal>45570.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>516782</numeroseao>
+    <numero>21674200</numero>
+    <datefinale>2013-11-06</datefinale>
+    <montantfinal>10413.450000</montantfinal>
+    <nomcontractant>ABCP architecture et urbanisme</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>516800</numeroseao>
+    <numero>21674300</numero>
+    <datefinale>2013-10-26</datefinale>
+    <montantfinal>23877.910000</montantfinal>
+    <nomcontractant>DMA architectes s.e.n.c.r.l.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>516810</numeroseao>
+    <numero>21674400</numero>
+    <datefinale>2013-11-06</datefinale>
+    <montantfinal>4761.080000</montantfinal>
+    <nomcontractant>CIMA Québec s.e.n.c.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>516815</numeroseao>
+    <numero>21674500</numero>
+    <datefinale>2013-11-16</datefinale>
+    <montantfinal>13668.750000</montantfinal>
+    <nomcontractant>Bouthillette Parizeau Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>517299</numeroseao>
+    <numero>2011-109</numero>
+    <datefinale>2011-12-31</datefinale>
+    <montantfinal>34915.800000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>517506</numeroseao>
+    <numero>UR-2011-02</numero>
+    <datefinale>2012-11-22</datefinale>
+    <montantfinal>222322.720000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>519042</numeroseao>
+    <numero>TP-2011-760-01</numero>
+    <datefinale>2011-11-16</datefinale>
+    <montantfinal>190562.860000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>519312</numeroseao>
+    <numero>F14781002</numero>
+    <datefinale>2013-09-15</datefinale>
+    <montantfinal>27489.000000</montantfinal>
+    <nomcontractant>Siemens</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>519538</numeroseao>
+    <numero>ST-2011-0903</numero>
+    <datefinale>2013-02-05</datefinale>
+    <montantfinal>35416.520000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>520315</numeroseao>
+    <numero>00605</numero>
+    <datefinale>2012-11-16</datefinale>
+    <montantfinal>275940.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>520645</numeroseao>
+    <numero>AO-11-15-P</numero>
+    <datefinale>2013-04-02</datefinale>
+    <montantfinal>831515.290000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>521371</numeroseao>
+    <numero>600523334</numero>
+    <datefinale>2013-12-03</datefinale>
+    <montantfinal>1389887.330000</montantfinal>
+    <nomcontractant>Somival Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>521377</numeroseao>
+    <numero>600523333</numero>
+    <datefinale>2013-11-04</datefinale>
+    <montantfinal>1966546.880000</montantfinal>
+    <nomcontractant>Coopératives Serres et pépinière Girardville</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>521379</numeroseao>
+    <numero>600523332</numero>
+    <datefinale>2013-11-26</datefinale>
+    <montantfinal>548611.900000</montantfinal>
+    <nomcontractant>Pépinière Baie-des-Chaleurs inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>521393</numeroseao>
+    <numero>600523327</numero>
+    <datefinale>2014-04-04</datefinale>
+    <montantfinal>704627.230000</montantfinal>
+    <nomcontractant>Coopérative forestière des Hautes-Laurentides</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>521404</numeroseao>
+    <numero>600519197</numero>
+    <datefinale>2014-01-07</datefinale>
+    <montantfinal>374183.110000</montantfinal>
+    <nomcontractant>Sargim inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>521408</numeroseao>
+    <numero>600519105</numero>
+    <datefinale>2013-11-22</datefinale>
+    <montantfinal>2369876.400000</montantfinal>
+    <nomcontractant>Les serres coopératives de Guyenne</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>521552</numeroseao>
+    <numero>SOUM 2005-90,1</numero>
+    <datefinale>2013-11-21</datefinale>
+    <montantfinal>395343.990000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>523343</numeroseao>
+    <numero>INV-2623</numero>
+    <datefinale>2013-09-04</datefinale>
+    <montantfinal>36874.520000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>524010</numeroseao>
+    <numero>OPQ360-2011-5</numero>
+    <datefinale>2013-12-08</datefinale>
+    <montantfinal>85828.000000</montantfinal>
+    <nomcontractant>INFORMATIQUE SOLUTIONALEX</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>526199</numeroseao>
+    <numero>APP-11-192 (2011-GP429)</numero>
+    <datefinale>2013-05-15</datefinale>
+    <montantfinal>1409957.630000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>527358</numeroseao>
+    <numero>PREV2011-001</numero>
+    <datefinale>2011-05-19</datefinale>
+    <montantfinal>27273.650000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>527600</numeroseao>
+    <numero>INC2011-001</numero>
+    <datefinale>2011-12-15</datefinale>
+    <montantfinal>46939.380000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>527683</numeroseao>
+    <numero>ST-2011-0501</numero>
+    <datefinale>2012-05-08</datefinale>
+    <montantfinal>41440.220000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>527783</numeroseao>
+    <numero>LO-2011-08-25</numero>
+    <datefinale>2012-06-26</datefinale>
+    <montantfinal>35772.920000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>528507</numeroseao>
+    <numero>UR-2011-01</numero>
+    <datefinale>2011-10-03</datefinale>
+    <montantfinal>25840.470000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>529008</numeroseao>
+    <numero>APP-11-211 (2011-VL020)</numero>
+    <datefinale>2013-05-15</datefinale>
+    <montantfinal>145489.370000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>529187</numeroseao>
+    <numero>6000000079</numero>
+    <datefinale>2011-10-28</datefinale>
+    <montantfinal>181200.060000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>529192</numeroseao>
+    <numero>6000000115</numero>
+    <datefinale>2012-01-12</datefinale>
+    <montantfinal>48400.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>529193</numeroseao>
+    <numero>6000000117</numero>
+    <datefinale>2012-01-11</datefinale>
+    <montantfinal>48894.110000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>529195</numeroseao>
+    <numero>6000000130</numero>
+    <datefinale>2012-04-27</datefinale>
+    <montantfinal>61154.940000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>529956</numeroseao>
+    <numero>11-556</numero>
+    <datefinale>2012-11-12</datefinale>
+    <montantfinal>1451964.880000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>530536</numeroseao>
+    <numero>6000000133</numero>
+    <datefinale>2011-08-30</datefinale>
+    <montantfinal>28338.840000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>530538</numeroseao>
+    <numero>6000000146</numero>
+    <datefinale>2012-05-23</datefinale>
+    <montantfinal>109872.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>530539</numeroseao>
+    <numero>6000000153</numero>
+    <datefinale>2011-10-17</datefinale>
+    <montantfinal>28338.840000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>531894</numeroseao>
+    <numero>6000000032</numero>
+    <datefinale>2011-07-18</datefinale>
+    <montantfinal>42350.700000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>532876</numeroseao>
+    <numero>6000000173</numero>
+    <datefinale>2011-10-31</datefinale>
+    <montantfinal>79201.120000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>533383</numeroseao>
+    <numero>10023</numero>
+    <datefinale>2012-05-03</datefinale>
+    <montantfinal>35635.440000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>533593</numeroseao>
+    <numero>CAFQC-2011</numero>
+    <datefinale>2013-09-30</datefinale>
+    <montantfinal>46810.000000</montantfinal>
+    <nomcontractant>Consultant Réjean Hardy inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>534402</numeroseao>
+    <numero>21743300</numero>
+    <datefinale>2013-12-18</datefinale>
+    <montantfinal>1210910.000000</montantfinal>
+    <nomcontractant>MGB Associés</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>535125</numeroseao>
+    <numero>APP-11-180</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>41081.240000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>535419</numeroseao>
+    <numero>6000000184</numero>
+    <datefinale>2011-12-20</datefinale>
+    <montantfinal>31068.560000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>535424</numeroseao>
+    <numero>6000000192</numero>
+    <datefinale>2011-11-22</datefinale>
+    <montantfinal>31554.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>536638</numeroseao>
+    <numero>RÉSOLUTION 11-462</numero>
+    <datefinale>2012-09-30</datefinale>
+    <montantfinal>430371.860000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>537432</numeroseao>
+    <numero>Dossier 10118</numero>
+    <datefinale>2013-08-29</datefinale>
+    <montantfinal>470899.290000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>537635</numeroseao>
+    <numero>SP20110122</numero>
+    <datefinale>2013-11-13</datefinale>
+    <montantfinal>256987.550000</montantfinal>
+    <nomcontractant>GDG Informatique et Gestion inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>537755</numeroseao>
+    <numero>1111083901</numero>
+    <datefinale>2012-04-19</datefinale>
+    <montantfinal>1163704.830000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>538382</numeroseao>
+    <numero>SG-2012-0205</numero>
+    <datefinale>2013-08-23</datefinale>
+    <montantfinal>147336.780000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>538988</numeroseao>
+    <numero>2011- 233</numero>
+    <datefinale>2012-12-31</datefinale>
+    <montantfinal>42624.030000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>539190</numeroseao>
+    <numero>2011-449</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>63236.130000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>539198</numeroseao>
+    <numero>2011-450</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>32905.620000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>539496</numeroseao>
+    <numero>AO-DSTIIT-11-12-008</numero>
+    <datefinale>2014-01-09</datefinale>
+    <montantfinal>125000.000000</montantfinal>
+    <nomcontractant>WSP Canada Inc. (Est-du-Québec et Centre-du-Québec)</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>540154</numeroseao>
+    <numero>AO-11-27-I</numero>
+    <datefinale>2012-12-31</datefinale>
+    <montantfinal>23465.360000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>540467</numeroseao>
+    <numero>DSTIIT-20111123-PTE</numero>
+    <datefinale>2014-01-14</datefinale>
+    <montantfinal>124750.000000</montantfinal>
+    <nomcontractant>Econoler.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>541305</numeroseao>
+    <numero>CGANGHE712</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>698400.000000</montantfinal>
+    <nomcontractant>Abbott Vascular</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>541634</numeroseao>
+    <numero>AO-12-01-P</numero>
+    <datefinale>2013-11-28</datefinale>
+    <montantfinal>57533.390000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>541709</numeroseao>
+    <numero>600195185</numero>
+    <datefinale>2013-12-23</datefinale>
+    <montantfinal>194919.430000</montantfinal>
+    <nomcontractant>Fujitsu Canada (Réception des appels d'offres)</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>543363</numeroseao>
+    <numero>1322-10-68</numero>
+    <datefinale>2012-08-24</datefinale>
+    <montantfinal>178833.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>543826</numeroseao>
+    <numero>6000000193</numero>
+    <datefinale>2012-04-27</datefinale>
+    <montantfinal>29665.970000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>543827</numeroseao>
+    <numero>6000000202</numero>
+    <datefinale>2012-06-26</datefinale>
+    <montantfinal>36120.280000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>543828</numeroseao>
+    <numero>6000000203</numero>
+    <datefinale>2013-06-11</datefinale>
+    <montantfinal>61132.080000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>543829</numeroseao>
+    <numero>6000000204</numero>
+    <datefinale>2011-11-22</datefinale>
+    <montantfinal>105152.440000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>543830</numeroseao>
+    <numero>6000000205</numero>
+    <datefinale>2011-11-01</datefinale>
+    <montantfinal>48153.590000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>543832</numeroseao>
+    <numero>6000000208</numero>
+    <datefinale>2012-05-17</datefinale>
+    <montantfinal>37367.930000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>543833</numeroseao>
+    <numero>6000000209</numero>
+    <datefinale>2011-12-11</datefinale>
+    <montantfinal>47119.380000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>543834</numeroseao>
+    <numero>6000000213</numero>
+    <datefinale>2012-02-25</datefinale>
+    <montantfinal>42542.750000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>543840</numeroseao>
+    <numero>6000000238</numero>
+    <datefinale>2011-11-28</datefinale>
+    <montantfinal>52631.310000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>544804</numeroseao>
+    <numero>01950</numero>
+    <datefinale>2012-05-14</datefinale>
+    <montantfinal>150000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>544861</numeroseao>
+    <numero>M12-01-004</numero>
+    <datefinale>2012-12-31</datefinale>
+    <montantfinal>34160.610000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>545666</numeroseao>
+    <numero>6000000226</numero>
+    <datefinale>2011-12-07</datefinale>
+    <montantfinal>1878883.870000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>545667</numeroseao>
+    <numero>6000000228</numero>
+    <datefinale>2011-12-14</datefinale>
+    <montantfinal>972308.090000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>545668</numeroseao>
+    <numero>6000000231</numero>
+    <datefinale>2011-12-19</datefinale>
+    <montantfinal>74962.660000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>545678</numeroseao>
+    <numero>P1455-02-/997S</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>50198.290000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>548470</numeroseao>
+    <numero>6000000233</numero>
+    <datefinale>2011-12-20</datefinale>
+    <montantfinal>82174.080000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>548477</numeroseao>
+    <numero>6000000256</numero>
+    <datefinale>2012-02-01</datefinale>
+    <montantfinal>31808.980000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>553278</numeroseao>
+    <numero>SG2010-022 P</numero>
+    <datefinale>2013-12-09</datefinale>
+    <montantfinal>4026369.070000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>553609</numeroseao>
+    <numero>12-12097</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>278924.840000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>553847</numeroseao>
+    <numero>APP-11-260 (2012-VL607)</numero>
+    <datefinale>2012-12-31</datefinale>
+    <montantfinal>51761.750000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>554436</numeroseao>
+    <numero>2011-05-109</numero>
+    <datefinale>2012-11-13</datefinale>
+    <montantfinal>36453.430000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>554821</numeroseao>
+    <numero>504013203</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>27094.510000</montantfinal>
+    <nomcontractant>Syntell inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>555483</numeroseao>
+    <numero>3244</numero>
+    <datefinale>2013-01-25</datefinale>
+    <montantfinal>418176.500000</montantfinal>
+    <nomcontractant>Marcel Vézina Couvreur 2000 Inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>555890</numeroseao>
+    <numero>117840512-2012-5</numero>
+    <datefinale>2013-12-10</datefinale>
+    <montantfinal>1314901.800000</montantfinal>
+    <nomcontractant>CGG</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>556512</numeroseao>
+    <numero>2012-016</numero>
+    <datefinale>2013-11-08</datefinale>
+    <montantfinal>41218.540000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>556720</numeroseao>
+    <numero>SOUM 2011-33 ET SOUM 33,1</numero>
+    <datefinale>2013-12-05</datefinale>
+    <montantfinal>290102.570000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>556800</numeroseao>
+    <numero>600541634</numero>
+    <datefinale>2014-01-18</datefinale>
+    <montantfinal>25000.000000</montantfinal>
+    <nomcontractant>Fédération de l'UPA de la Mauricie</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>556960</numeroseao>
+    <numero>SG2010-041 P</numero>
+    <datefinale>2013-11-18</datefinale>
+    <montantfinal>408417.420000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>557360</numeroseao>
+    <numero>11-12-75</numero>
+    <datefinale>2013-12-16</datefinale>
+    <montantfinal>197488.820000</montantfinal>
+    <nomcontractant>L'Archevêque et Rivest Ltée</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>558989</numeroseao>
+    <numero>01-2012</numero>
+    <datefinale>2012-04-03</datefinale>
+    <montantfinal>26655.240000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>559894</numeroseao>
+    <numero>10036</numero>
+    <datefinale>2013-11-20</datefinale>
+    <montantfinal>373634.490000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>560422</numeroseao>
+    <numero>GR -1720-03-19</numero>
+    <datefinale>2012-12-01</datefinale>
+    <montantfinal>90725.480000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>560453</numeroseao>
+    <numero>1720-01-17</numero>
+    <datefinale>2012-12-31</datefinale>
+    <montantfinal>29506.590000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>560457</numeroseao>
+    <numero>VM 2012-02</numero>
+    <datefinale>2013-05-13</datefinale>
+    <montantfinal>814429.850000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>560688</numeroseao>
+    <numero>GR-1720-01-17</numero>
+    <datefinale>2012-12-31</datefinale>
+    <montantfinal>30433.110000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>560752</numeroseao>
+    <numero>INV-2643</numero>
+    <datefinale>2013-11-30</datefinale>
+    <montantfinal>47132.400000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>561272</numeroseao>
+    <numero>1424-07-15</numero>
+    <datefinale>2012-07-07</datefinale>
+    <montantfinal>57805.960000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>563335</numeroseao>
+    <numero>02668</numero>
+    <datefinale>2013-06-19</datefinale>
+    <montantfinal>32100.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>563336</numeroseao>
+    <numero>02667</numero>
+    <datefinale>2012-08-30</datefinale>
+    <montantfinal>94279.500000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>563341</numeroseao>
+    <numero>02664</numero>
+    <datefinale>2012-08-28</datefinale>
+    <montantfinal>25000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>563816</numeroseao>
+    <numero>2012-91</numero>
+    <datefinale>2012-12-31</datefinale>
+    <montantfinal>47415.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>563865</numeroseao>
+    <numero>02887</numero>
+    <datefinale>2012-07-20</datefinale>
+    <montantfinal>160965.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>564506</numeroseao>
+    <numero>MLS1214</numero>
+    <datefinale>2012-12-19</datefinale>
+    <montantfinal>63237.000000</montantfinal>
+    <nomcontractant>Construction M.V.F. Larochelle Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>566981</numeroseao>
+    <numero>SG2012-006 P</numero>
+    <datefinale>2013-11-15</datefinale>
+    <montantfinal>1479216.960000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>567020</numeroseao>
+    <numero>22095000</numero>
+    <datefinale>2013-09-30</datefinale>
+    <montantfinal>25717.000000</montantfinal>
+    <nomcontractant>BFI Canada Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>567022</numeroseao>
+    <numero>10072</numero>
+    <datefinale>2013-06-05</datefinale>
+    <montantfinal>3388364.580000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>568354</numeroseao>
+    <numero>19861800</numero>
+    <datefinale>2013-10-30</datefinale>
+    <montantfinal>23941.660000</montantfinal>
+    <nomcontractant>Le Jardin Éducatif du Pontiac</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>569603</numeroseao>
+    <numero>SOUM 2010-45</numero>
+    <datefinale>2014-01-08</datefinale>
+    <montantfinal>1773743.320000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>569871</numeroseao>
+    <numero>VPR-2012-13</numero>
+    <datefinale>2013-06-05</datefinale>
+    <montantfinal>43391.620000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>570788</numeroseao>
+    <numero>1411-03-04</numero>
+    <datefinale>2012-03-24</datefinale>
+    <montantfinal>38264.540000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>572652</numeroseao>
+    <numero>2012-127</numero>
+    <datefinale>2012-07-31</datefinale>
+    <montantfinal>13797.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>572732</numeroseao>
+    <numero>28036</numero>
+    <datefinale>2013-01-09</datefinale>
+    <montantfinal>296471.610000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>573779</numeroseao>
+    <numero>11-12-104</numero>
+    <datefinale>2013-09-19</datefinale>
+    <montantfinal>111378.470000</montantfinal>
+    <nomcontractant>L'Archevêque &amp; Rivest Ltée</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>575058</numeroseao>
+    <numero>AO-12-19-P</numero>
+    <datefinale>2013-11-28</datefinale>
+    <montantfinal>149668.860000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>575072</numeroseao>
+    <numero>AO-12-22-P</numero>
+    <datefinale>2013-11-28</datefinale>
+    <montantfinal>75756.990000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>577802</numeroseao>
+    <numero>M12-07-206</numero>
+    <datefinale>2013-07-09</datefinale>
+    <montantfinal>59298.250000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>579317</numeroseao>
+    <numero>04175</numero>
+    <datefinale>2013-04-15</datefinale>
+    <montantfinal>26444.250000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>579601</numeroseao>
+    <numero>2012-184-1</numero>
+    <datefinale>2013-05-13</datefinale>
+    <montantfinal>99446.570000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>579608</numeroseao>
+    <numero>2012-184-2</numero>
+    <datefinale>2013-05-13</datefinale>
+    <montantfinal>72120.570000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>580302</numeroseao>
+    <numero>SAP-2012-17</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>26041.000000</montantfinal>
+    <nomcontractant>Optima Management inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>580373</numeroseao>
+    <numero>2012-BS-133</numero>
+    <datefinale>2012-11-29</datefinale>
+    <montantfinal>77007.960000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>582417</numeroseao>
+    <numero>1252714</numero>
+    <datefinale>2013-04-30</datefinale>
+    <montantfinal>2467461.720000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>582965</numeroseao>
+    <numero>OS-28060</numero>
+    <datefinale>2013-02-15</datefinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>583085</numeroseao>
+    <numero>OS-28090</numero>
+    <datefinale>2013-08-28</datefinale>
+    <montantfinal>206897.500000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>583942</numeroseao>
+    <numero>28061</numero>
+    <datefinale>2013-04-03</datefinale>
+    <montantfinal>206165.120000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>584190</numeroseao>
+    <numero>112944607</numero>
+    <datefinale>2014-01-14</datefinale>
+    <montantfinal>165000.000000</montantfinal>
+    <nomcontractant>WSP Canada Inc. (Est-du-Québec et Centre-du-Québec)</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>584784</numeroseao>
+    <numero>SP-120815</numero>
+    <datefinale>2014-01-08</datefinale>
+    <montantfinal>409415.210000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>585326</numeroseao>
+    <numero>12 - 586</numero>
+    <datefinale>2013-12-09</datefinale>
+    <montantfinal>724391.650000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>586758</numeroseao>
+    <numero>10147</numero>
+    <datefinale>2013-03-20</datefinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>586964</numeroseao>
+    <numero>600012-21</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>104625.000000</montantfinal>
+    <nomcontractant>Aéro-Photo (1961) inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>587509</numeroseao>
+    <numero>AO-12-21-I</numero>
+    <datefinale>2013-11-28</datefinale>
+    <montantfinal>26674.610000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>588054</numeroseao>
+    <numero>600012-22</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>119000.000000</montantfinal>
+    <nomcontractant>Perron Hudon Bélanger</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>588303</numeroseao>
+    <numero>1207196603</numero>
+    <datefinale>2012-10-15</datefinale>
+    <montantfinal>38014.430000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>588504</numeroseao>
+    <numero>DS-203452</numero>
+    <datefinale>2013-12-05</datefinale>
+    <montantfinal>105605.000000</montantfinal>
+    <nomcontractant>Denson Automation Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>589135</numeroseao>
+    <numero>1254734</numero>
+    <datefinale>2012-09-26</datefinale>
+    <montantfinal>150000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>589137</numeroseao>
+    <numero>1255100</numero>
+    <datefinale>2012-09-26</datefinale>
+    <montantfinal>25000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>589161</numeroseao>
+    <numero>1255404</numero>
+    <datefinale>2013-04-03</datefinale>
+    <montantfinal>119182.450000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>589165</numeroseao>
+    <numero>1254782</numero>
+    <datefinale>2012-10-15</datefinale>
+    <montantfinal>25000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>589291</numeroseao>
+    <numero>GI-2012-44</numero>
+    <datefinale>2013-12-03</datefinale>
+    <montantfinal>189996.180000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>589422</numeroseao>
+    <numero>1255893</numero>
+    <datefinale>2012-12-03</datefinale>
+    <montantfinal>31529.600000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>589687</numeroseao>
+    <numero>1256678</numero>
+    <datefinale>2012-09-26</datefinale>
+    <montantfinal>407800.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>589991</numeroseao>
+    <numero>1256817</numero>
+    <datefinale>2012-09-24</datefinale>
+    <montantfinal>300000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>589995</numeroseao>
+    <numero>1256113</numero>
+    <datefinale>2012-10-17</datefinale>
+    <montantfinal>30000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>590963</numeroseao>
+    <numero>INV-2671</numero>
+    <datefinale>2013-06-26</datefinale>
+    <montantfinal>63161.520000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>591176</numeroseao>
+    <numero>INV-2673</numero>
+    <datefinale>2013-02-13</datefinale>
+    <montantfinal>40804.630000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>591220</numeroseao>
+    <numero>INV-2670</numero>
+    <datefinale>2013-05-13</datefinale>
+    <montantfinal>35211.090000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>591238</numeroseao>
+    <numero>INV-2666</numero>
+    <datefinale>2012-12-31</datefinale>
+    <montantfinal>34377.530000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>591385</numeroseao>
+    <numero>1257316</numero>
+    <datefinale>2013-11-27</datefinale>
+    <montantfinal>40000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>592768</numeroseao>
+    <numero>1258889</numero>
+    <datefinale>2013-01-18</datefinale>
+    <montantfinal>139491.280000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>592983</numeroseao>
+    <numero>096/2012</numero>
+    <datefinale>2013-11-30</datefinale>
+    <montantfinal>42906.740000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>592985</numeroseao>
+    <numero>1257313</numero>
+    <datefinale>2012-10-29</datefinale>
+    <montantfinal>65000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>592991</numeroseao>
+    <numero>1257842</numero>
+    <datefinale>2013-12-12</datefinale>
+    <montantfinal>35000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>592993</numeroseao>
+    <numero>1257785</numero>
+    <datefinale>2013-12-06</datefinale>
+    <montantfinal>35000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>593170</numeroseao>
+    <numero>AO 12721</numero>
+    <datefinale>2013-11-01</datefinale>
+    <montantfinal>80241.050000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>593313</numeroseao>
+    <numero>6752-1</numero>
+    <datefinale>2014-01-31</datefinale>
+    <montantfinal>33834.370000</montantfinal>
+    <nomcontractant>Oracle Canada ULC</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>594926</numeroseao>
+    <numero>APP-121018-01</numero>
+    <datefinale>2013-11-19</datefinale>
+    <montantfinal>114401.000000</montantfinal>
+    <nomcontractant>Disco Hi-Tec America Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>594936</numeroseao>
+    <numero>MA-193</numero>
+    <datefinale>2013-11-29</datefinale>
+    <montantfinal>399359.000000</montantfinal>
+    <nomcontractant>Le Groupe Drumco Construction Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>594990</numeroseao>
+    <numero>1256197</numero>
+    <datefinale>2012-12-03</datefinale>
+    <montantfinal>25000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>595097</numeroseao>
+    <numero>1260403</numero>
+    <datefinale>2012-12-31</datefinale>
+    <montantfinal>200000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>595595</numeroseao>
+    <numero>05513</numero>
+    <datefinale>2013-05-09</datefinale>
+    <montantfinal>27949.270000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>595874</numeroseao>
+    <numero>1259817</numero>
+    <datefinale>2012-11-26</datefinale>
+    <montantfinal>45000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>595965</numeroseao>
+    <numero>SI-12-120</numero>
+    <datefinale>2013-12-19</datefinale>
+    <montantfinal>112355.710000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>596198</numeroseao>
+    <numero>DS-203843</numero>
+    <datefinale>2014-01-06</datefinale>
+    <montantfinal>49180.000000</montantfinal>
+    <nomcontractant>IPG Photonics Corporation</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>596633</numeroseao>
+    <numero>1260124</numero>
+    <datefinale>2012-11-26</datefinale>
+    <montantfinal>60000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>596637</numeroseao>
+    <numero>1261249</numero>
+    <datefinale>2012-11-26</datefinale>
+    <montantfinal>44900.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>597072</numeroseao>
+    <numero>1260594</numero>
+    <datefinale>2012-11-01</datefinale>
+    <montantfinal>315568.590000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>597815</numeroseao>
+    <numero>DB7098</numero>
+    <datefinale>2013-10-31</datefinale>
+    <montantfinal>92790.000000</montantfinal>
+    <nomcontractant>Gestion Upsilon Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>598223</numeroseao>
+    <numero>SIP-2012-24</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>48738.500000</montantfinal>
+    <nomcontractant>R3D Conseil inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>598236</numeroseao>
+    <numero>QC-RAMQ-20120733</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>71400.000000</montantfinal>
+    <nomcontractant>Les services conseils Systématix inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>598824</numeroseao>
+    <numero>QC-RAMQ-20120470</numero>
+    <datefinale>2013-12-11</datefinale>
+    <montantfinal>852117.820000</montantfinal>
+    <nomcontractant>Groupe Symaco Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>599039</numeroseao>
+    <numero>SR20120172</numero>
+    <datefinale>2013-10-17</datefinale>
+    <montantfinal>25086.350000</montantfinal>
+    <nomcontractant>Les Entreprises AR Carrier</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>601555</numeroseao>
+    <numero>06026</numero>
+    <datefinale>2013-01-25</datefinale>
+    <montantfinal>12072.380000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>601924</numeroseao>
+    <numero>00025937</numero>
+    <datefinale>2014-01-13</datefinale>
+    <montantfinal>490000.000000</montantfinal>
+    <nomcontractant>Bruker Ltd</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>602524</numeroseao>
+    <numero>M12-12-350</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>29578.980000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>602538</numeroseao>
+    <numero>M12-12-363</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>52333.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>602986</numeroseao>
+    <numero>2012-247</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>40129.870000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>602989</numeroseao>
+    <numero>QC-RAMQ-20120857</numero>
+    <datefinale>2013-10-31</datefinale>
+    <montantfinal>114240.000000</montantfinal>
+    <nomcontractant>TechnoConseil Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>603959</numeroseao>
+    <numero>6829-1</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>25947.000000</montantfinal>
+    <nomcontractant>Thot Cursus</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>604594</numeroseao>
+    <numero>2012-416</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>29725.640000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>604602</numeroseao>
+    <numero>2012-440</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>76027.220000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>604684</numeroseao>
+    <numero>2012-420</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>48196.890000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>604686</numeroseao>
+    <numero>2012-421</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>23819.230000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>604694</numeroseao>
+    <numero>2012-441</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>35657.190000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>604697</numeroseao>
+    <numero>2012-443</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>56050.320000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>604823</numeroseao>
+    <numero>RF-MA-07-1</numero>
+    <datefinale>2013-08-13</datefinale>
+    <montantfinal>84888.000000</montantfinal>
+    <nomcontractant>Construction Idéal de Granby Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>605016</numeroseao>
+    <numero>118/2012</numero>
+    <datefinale>2013-12-18</datefinale>
+    <montantfinal>9019.160000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>605830</numeroseao>
+    <numero>ST-2013-01</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>185358.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>605893</numeroseao>
+    <numero>BC00030463</numero>
+    <datefinale>2013-12-28</datefinale>
+    <montantfinal>31358.780000</montantfinal>
+    <nomcontractant>Blackboard Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>605992</numeroseao>
+    <numero>1259019</numero>
+    <datefinale>2012-12-19</datefinale>
+    <montantfinal>112620.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>606679</numeroseao>
+    <numero>06449</numero>
+    <datefinale>2013-06-13</datefinale>
+    <montantfinal>325000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>606685</numeroseao>
+    <numero>13-12593</numero>
+    <datefinale>2013-05-22</datefinale>
+    <montantfinal>502637.360000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>607180</numeroseao>
+    <numero>F14481201</numero>
+    <datefinale>2013-09-30</datefinale>
+    <montantfinal>97200.000000</montantfinal>
+    <nomcontractant>Cohésion Stratégie</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>607214</numeroseao>
+    <numero>130114-1766</numero>
+    <datefinale>2013-11-01</datefinale>
+    <montantfinal>192661.000000</montantfinal>
+    <nomcontractant>Construction Benoit Jobin</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>608212</numeroseao>
+    <numero>14-608.111</numero>
+    <datefinale>2013-05-09</datefinale>
+    <montantfinal>82014.550000</montantfinal>
+    <nomcontractant>Alain M. &amp; M.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>608232</numeroseao>
+    <numero>12-682</numero>
+    <datefinale>2013-03-31</datefinale>
+    <montantfinal>50886.000000</montantfinal>
+    <nomcontractant>Construction Jean Pronovost Inc..</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>608237</numeroseao>
+    <numero>12-678</numero>
+    <datefinale>2013-05-10</datefinale>
+    <montantfinal>68089.250000</montantfinal>
+    <nomcontractant>Alain M. &amp; M.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>608808</numeroseao>
+    <numero>20120426</numero>
+    <datefinale>2012-04-26</datefinale>
+    <montantfinal>36469.440000</montantfinal>
+    <nomcontractant>ASSEK Technologie</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>609569</numeroseao>
+    <numero>36467</numero>
+    <datefinale>2014-01-20</datefinale>
+    <montantfinal>44065.250000</montantfinal>
+    <nomcontractant>Ariane Aubé Beaudoin</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>610265</numeroseao>
+    <numero>425 SST 2012-01</numero>
+    <datefinale>2013-12-13</datefinale>
+    <montantfinal>48000.000000</montantfinal>
+    <nomcontractant>Gauvin, Jean-Philippe</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>610582</numeroseao>
+    <numero>SAA-12-11</numero>
+    <datefinale>2013-09-01</datefinale>
+    <montantfinal>124567.000000</montantfinal>
+    <nomcontractant>Florent Gsgné</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>610649</numeroseao>
+    <numero>SAA-12-14</numero>
+    <datefinale>2013-12-30</datefinale>
+    <montantfinal>71524.000000</montantfinal>
+    <nomcontractant>N. Bergeron conseils stratégiques inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>611116</numeroseao>
+    <numero>6856</numero>
+    <datefinale>2014-01-28</datefinale>
+    <montantfinal>201189.000000</montantfinal>
+    <nomcontractant>Groupe Qualitas inc. (Saguenay)</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>611145</numeroseao>
+    <numero>ST-2013-02</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>26587.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>611749</numeroseao>
+    <numero>06726</numero>
+    <datefinale>2013-02-05</datefinale>
+    <montantfinal>88885.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>611772</numeroseao>
+    <numero>06860</numero>
+    <datefinale>2013-11-01</datefinale>
+    <montantfinal>69000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>612219</numeroseao>
+    <numero>2013-008</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>106420.860000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>612229</numeroseao>
+    <numero>2013-007</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>170746.250000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>612236</numeroseao>
+    <numero>CFREACON13</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>34003.000000</montantfinal>
+    <nomcontractant>Beckman Coulter Canada LP</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>612460</numeroseao>
+    <numero>36516</numero>
+    <datefinale>2014-01-21</datefinale>
+    <montantfinal>36931.330000</montantfinal>
+    <nomcontractant>Sébastien Otis</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>612708</numeroseao>
+    <numero>1424-07-01</numero>
+    <datefinale>2012-12-31</datefinale>
+    <montantfinal>21556.260000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>612712</numeroseao>
+    <numero>C-2106-2013</numero>
+    <datefinale>2013-11-30</datefinale>
+    <montantfinal>207978.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>613095</numeroseao>
+    <numero>RM-2013-013-SPIME</numero>
+    <datefinale>2014-01-31</datefinale>
+    <montantfinal>33115.000000</montantfinal>
+    <nomcontractant>R+O Énergie</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>613119</numeroseao>
+    <numero>C-2100-2013</numero>
+    <datefinale>2013-02-28</datefinale>
+    <montantfinal>25234.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>613131</numeroseao>
+    <numero>C-2102-2013</numero>
+    <datefinale>2013-04-30</datefinale>
+    <montantfinal>25288.730000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>613409</numeroseao>
+    <numero>M20910a</numero>
+    <datefinale>2013-03-07</datefinale>
+    <montantfinal>93841.000000</montantfinal>
+    <nomcontractant>Construction Chartel Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>613433</numeroseao>
+    <numero>B12 25122</numero>
+    <datefinale>2012-07-30</datefinale>
+    <montantfinal>77333.000000</montantfinal>
+    <nomcontractant>Technologies Metafore Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>613435</numeroseao>
+    <numero>B12 25123</numero>
+    <datefinale>2012-08-20</datefinale>
+    <montantfinal>175970.000000</montantfinal>
+    <nomcontractant>Technologies Metafore Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>613440</numeroseao>
+    <numero>B12 25295</numero>
+    <datefinale>2012-09-12</datefinale>
+    <montantfinal>61716.000000</montantfinal>
+    <nomcontractant>Technologies Metafore Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>613713</numeroseao>
+    <numero>UC-1302015(AM) </numero>
+    <datefinale>2013-05-10</datefinale>
+    <montantfinal>142572.260000</montantfinal>
+    <nomcontractant>ESI Technologies inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>613930</numeroseao>
+    <numero>RM-2013-010-SPIME</numero>
+    <datefinale>2014-01-31</datefinale>
+    <montantfinal>30139.000000</montantfinal>
+    <nomcontractant>R+O Énergie</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>614601</numeroseao>
+    <numero>BC00033195</numero>
+    <datefinale>2014-01-03</datefinale>
+    <montantfinal>63974.840000</montantfinal>
+    <nomcontractant>Le Groupe Herjavec</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>615187</numeroseao>
+    <numero>00031997</numero>
+    <datefinale>2014-01-20</datefinale>
+    <montantfinal>129113.250000</montantfinal>
+    <nomcontractant>ProjecTech Divertiessement</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>615201</numeroseao>
+    <numero>BC00034627</numero>
+    <datefinale>2014-01-03</datefinale>
+    <montantfinal>112375.920000</montantfinal>
+    <nomcontractant>GE Santé Canada </nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>615227</numeroseao>
+    <numero>9005.1</numero>
+    <datefinale>2013-05-01</datefinale>
+    <montantfinal>99000.000000</montantfinal>
+    <nomcontractant>Groupe Nexxolutions Inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>615593</numeroseao>
+    <numero>130225</numero>
+    <datefinale>2013-10-18</datefinale>
+    <montantfinal>60000.000000</montantfinal>
+    <nomcontractant>Pitneyworks</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>615962</numeroseao>
+    <numero>22585200</numero>
+    <datefinale>2014-01-13</datefinale>
+    <montantfinal>9328.000000</montantfinal>
+    <nomcontractant>Aménagement Coté Jardin Inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>616435</numeroseao>
+    <numero>753 038 370</numero>
+    <datefinale>2013-11-25</datefinale>
+    <montantfinal>41258.370000</montantfinal>
+    <nomcontractant>Consultation Électro</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>616565</numeroseao>
+    <numero>GI-2013-05</numero>
+    <datefinale>2013-11-13</datefinale>
+    <montantfinal>404787.880000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>616724</numeroseao>
+    <numero>GI-2013-04</numero>
+    <datefinale>2013-06-28</datefinale>
+    <montantfinal>89100.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>617740</numeroseao>
+    <numero>13-12761</numero>
+    <datefinale>2013-08-28</datefinale>
+    <montantfinal>214606.250000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>617748</numeroseao>
+    <numero>GI-2013-09</numero>
+    <datefinale>2013-11-15</datefinale>
+    <montantfinal>319018.640000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>617909</numeroseao>
+    <numero>APP-12-233 </numero>
+    <datefinale>2013-05-31</datefinale>
+    <montantfinal>32560.920000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>617933</numeroseao>
+    <numero>SA-794-AD-13</numero>
+    <datefinale>2014-01-01</datefinale>
+    <montantfinal>76596.360000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>617967</numeroseao>
+    <numero>1052-13-PR-086</numero>
+    <datefinale>2013-11-25</datefinale>
+    <montantfinal>137630.000000</montantfinal>
+    <nomcontractant>Système intérieu GTRL inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>618218</numeroseao>
+    <numero>GI-2013-07</numero>
+    <datefinale>2013-11-05</datefinale>
+    <montantfinal>346802.160000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>618277</numeroseao>
+    <numero>SR20120220</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>87654.800000</montantfinal>
+    <nomcontractant>IBM Canada ltée</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>618294</numeroseao>
+    <numero>Projet R-1118, lot3</numero>
+    <datefinale>2013-05-24</datefinale>
+    <montantfinal>29408.310000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>618442</numeroseao>
+    <numero>13-117</numero>
+    <datefinale>2013-10-21</datefinale>
+    <montantfinal>94087.000000</montantfinal>
+    <nomcontractant>Construction et Rénovation Berthier Ouellet Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>618502</numeroseao>
+    <numero>130313-1769</numero>
+    <datefinale>2014-01-17</datefinale>
+    <montantfinal>312220.760000</montantfinal>
+    <nomcontractant>Construction GHM</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>618508</numeroseao>
+    <numero>01-2013</numero>
+    <datefinale>2013-07-29</datefinale>
+    <montantfinal>125368.740000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>618852</numeroseao>
+    <numero>07221</numero>
+    <datefinale>2013-12-12</datefinale>
+    <montantfinal>40452.520000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>619364</numeroseao>
+    <numero>07126</numero>
+    <datefinale>2013-06-26</datefinale>
+    <montantfinal>70000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>619368</numeroseao>
+    <numero>07128</numero>
+    <datefinale>2013-10-03</datefinale>
+    <montantfinal>40500.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>619370</numeroseao>
+    <numero>07129</numero>
+    <datefinale>2013-11-29</datefinale>
+    <montantfinal>32450.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>619371</numeroseao>
+    <numero>07130</numero>
+    <datefinale>2013-04-22</datefinale>
+    <montantfinal>44885.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>619444</numeroseao>
+    <numero>Résolution 12-356 - 2 </numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>34320.050000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>619468</numeroseao>
+    <numero>QC-RAMQ-20121188</numero>
+    <datefinale>2013-09-30</datefinale>
+    <montantfinal>48289.500000</montantfinal>
+    <nomcontractant>R3D Conseil Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>619598</numeroseao>
+    <numero>20130410</numero>
+    <datefinale>2013-10-24</datefinale>
+    <montantfinal>104711.000000</montantfinal>
+    <nomcontractant>Les Constructions Unic Inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>619609</numeroseao>
+    <numero>320-2013-01</numero>
+    <datefinale>2013-07-31</datefinale>
+    <montantfinal>220555.960000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>619622</numeroseao>
+    <numero>320-2013-03</numero>
+    <datefinale>2013-05-01</datefinale>
+    <montantfinal>49353.010000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>619686</numeroseao>
+    <numero>12-099, 12-100, 12-101</numero>
+    <datefinale>2014-01-08</datefinale>
+    <montantfinal>641905.000000</montantfinal>
+    <nomcontractant>Construction Génac inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>619708</numeroseao>
+    <numero>2013-100</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>85851.060000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>619985</numeroseao>
+    <numero>10079</numero>
+    <datefinale>2013-05-31</datefinale>
+    <montantfinal>14728.300000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>620043</numeroseao>
+    <numero>9.22-52075-01</numero>
+    <datefinale>2013-10-01</datefinale>
+    <montantfinal>299676.040000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>620527</numeroseao>
+    <numero>AP17792</numero>
+    <datefinale>2013-06-13</datefinale>
+    <montantfinal>120152.330000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>620766</numeroseao>
+    <numero>600013-06</numero>
+    <datefinale>2014-01-14</datefinale>
+    <montantfinal>180000.000000</montantfinal>
+    <nomcontractant>Perron Hudon Bélanger</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>620778</numeroseao>
+    <numero>13-1892</numero>
+    <datefinale>2013-12-16</datefinale>
+    <montantfinal>122136.070000</montantfinal>
+    <nomcontractant>Groupe Symaco Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>621071</numeroseao>
+    <numero>C-30047</numero>
+    <datefinale>2013-12-04</datefinale>
+    <montantfinal>25400.000000</montantfinal>
+    <nomcontractant>Gagnon Letellier Cyr Ricard Mathieu, Architectes</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>621237</numeroseao>
+    <numero>GI-2013-11</numero>
+    <datefinale>2013-10-02</datefinale>
+    <montantfinal>203198.390000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>621292</numeroseao>
+    <numero>2013-010</numero>
+    <datefinale>2013-09-27</datefinale>
+    <montantfinal>63535.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>621592</numeroseao>
+    <numero>1213-19127</numero>
+    <datefinale>2013-11-05</datefinale>
+    <montantfinal>27955.000000</montantfinal>
+    <nomcontractant>Les Toitures Gilles Mongeon</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>621596</numeroseao>
+    <numero>1213-19126</numero>
+    <datefinale>2013-11-08</datefinale>
+    <montantfinal>112355.000000</montantfinal>
+    <nomcontractant>Couvreur Rolland Boudreault 2413-2276 Québec inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>621640</numeroseao>
+    <numero>57458</numero>
+    <datefinale>2013-03-25</datefinale>
+    <montantfinal>34619.000000</montantfinal>
+    <nomcontractant>Medtronic of Canada</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>622263</numeroseao>
+    <numero>IE-13-54017-006</numero>
+    <datefinale>2013-09-30</datefinale>
+    <montantfinal>830362.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>622285</numeroseao>
+    <numero>00036938</numero>
+    <datefinale>2014-01-24</datefinale>
+    <montantfinal>128580.400000</montantfinal>
+    <nomcontractant>Carl Zeiss Canada</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>622297</numeroseao>
+    <numero>2013-043</numero>
+    <datefinale>2013-11-30</datefinale>
+    <montantfinal>77375.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>622658</numeroseao>
+    <numero>SG2013-024 P</numero>
+    <datefinale>2013-09-27</datefinale>
+    <montantfinal>241478.740000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>622812</numeroseao>
+    <numero>BC00034822</numero>
+    <datefinale>2014-01-03</datefinale>
+    <montantfinal>75496.320000</montantfinal>
+    <nomcontractant>Actian Corporation</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>622866</numeroseao>
+    <numero>BC00035927</numero>
+    <datefinale>2014-01-03</datefinale>
+    <montantfinal>143538.290000</montantfinal>
+    <nomcontractant>IBM Canada Ltée</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>623233</numeroseao>
+    <numero>1213010</numero>
+    <datefinale>2013-12-12</datefinale>
+    <montantfinal>254379.000000</montantfinal>
+    <nomcontractant>Plomberie Brébeuf inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>623281</numeroseao>
+    <numero>201303CF</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>40000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>623289</numeroseao>
+    <numero>201304CF</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>35000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>623361</numeroseao>
+    <numero>BC00036254</numero>
+    <datefinale>2014-01-03</datefinale>
+    <montantfinal>38371.400000</montantfinal>
+    <nomcontractant>IBM Canada Ltée</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>623585</numeroseao>
+    <numero>130410-1773</numero>
+    <datefinale>2013-11-20</datefinale>
+    <montantfinal>136214.250000</montantfinal>
+    <nomcontractant>Constructions Stéphane Gagnon 2000 inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>623755</numeroseao>
+    <numero>12-13-74</numero>
+    <datefinale>2013-09-26</datefinale>
+    <montantfinal>95060.000000</montantfinal>
+    <nomcontractant>Les Excavations G. Allard inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>623913</numeroseao>
+    <numero>SI-13-125</numero>
+    <datefinale>2013-11-13</datefinale>
+    <montantfinal>200279.560000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>623953</numeroseao>
+    <numero>RM-2013-014</numero>
+    <datefinale>2013-11-18</datefinale>
+    <montantfinal>374334.920000</montantfinal>
+    <nomcontractant>R.Beaumont et fils inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>623988</numeroseao>
+    <numero>SG2013-027 P</numero>
+    <datefinale>2013-11-06</datefinale>
+    <montantfinal>95475.240000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>624276</numeroseao>
+    <numero>RM-2013-031</numero>
+    <datefinale>2013-11-04</datefinale>
+    <montantfinal>44450.750000</montantfinal>
+    <nomcontractant>Garage N. Thiboutot Inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>624309</numeroseao>
+    <numero>S13 451</numero>
+    <datefinale>2013-11-30</datefinale>
+    <montantfinal>174470.000000</montantfinal>
+    <nomcontractant>Système intérieu GTRL inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>624473</numeroseao>
+    <numero>GI-2013-20</numero>
+    <datefinale>2013-12-13</datefinale>
+    <montantfinal>128072.660000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>624503</numeroseao>
+    <numero>07505</numero>
+    <datefinale>2013-12-11</datefinale>
+    <montantfinal>34492.500000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>624509</numeroseao>
+    <numero>07511</numero>
+    <datefinale>2013-12-06</datefinale>
+    <montantfinal>47971.870000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>624602</numeroseao>
+    <numero>13-12696</numero>
+    <datefinale>2013-11-17</datefinale>
+    <montantfinal>43115.630000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>624879</numeroseao>
+    <numero>C-2123-2013</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>370579.410000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>624922</numeroseao>
+    <numero>TP2013-04</numero>
+    <datefinale>2013-12-13</datefinale>
+    <montantfinal>1034221.120000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>624953</numeroseao>
+    <numero>SF-20-2013</numero>
+    <datefinale>2013-10-31</datefinale>
+    <montantfinal>33883.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>625010</numeroseao>
+    <numero>20130510</numero>
+    <datefinale>2013-12-04</datefinale>
+    <montantfinal>92569.000000</montantfinal>
+    <nomcontractant>Maurice Bérubé &amp; Fils Inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>625248</numeroseao>
+    <numero>07542</numero>
+    <datefinale>2013-07-04</datefinale>
+    <montantfinal>25064.550000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>625905</numeroseao>
+    <numero>Résolution 13-186</numero>
+    <datefinale>2013-08-18</datefinale>
+    <montantfinal>78497.200000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>625912</numeroseao>
+    <numero>24848600</numero>
+    <datefinale>2014-01-17</datefinale>
+    <montantfinal>59394.240000</montantfinal>
+    <nomcontractant>J.P. Binette inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>625937</numeroseao>
+    <numero>2013-007</numero>
+    <datefinale>2013-12-16</datefinale>
+    <montantfinal>38237.040000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>626111</numeroseao>
+    <numero>00039942</numero>
+    <datefinale>2014-01-24</datefinale>
+    <montantfinal>156052.000000</montantfinal>
+    <nomcontractant>Hypertechnologie Ciara</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>626210</numeroseao>
+    <numero>03-53-2013</numero>
+    <datefinale>2013-06-01</datefinale>
+    <montantfinal>36792.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>626211</numeroseao>
+    <numero>04-71-2013</numero>
+    <datefinale>2013-08-16</datefinale>
+    <montantfinal>21678.590000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>626374</numeroseao>
+    <numero>SA-120-P-13</numero>
+    <datefinale>2014-01-01</datefinale>
+    <montantfinal>178678.830000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>626751</numeroseao>
+    <numero>243-42-900</numero>
+    <datefinale>2013-10-10</datefinale>
+    <montantfinal>63500.000000</montantfinal>
+    <nomcontractant>Ville de Coaticook</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>627090</numeroseao>
+    <numero>BC00036761</numero>
+    <datefinale>2014-01-03</datefinale>
+    <montantfinal>30775.000000</montantfinal>
+    <nomcontractant>Apple Canada Inc./div. Mtl</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>627308</numeroseao>
+    <numero>UQTR1107</numero>
+    <datefinale>2013-10-08</datefinale>
+    <montantfinal>112993.000000</montantfinal>
+    <nomcontractant>Henri St-Amant et Fils Inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>627964</numeroseao>
+    <numero>ST-2013-04</numero>
+    <datefinale>2013-10-03</datefinale>
+    <montantfinal>238986.100000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>627968</numeroseao>
+    <numero>ST-2013-08</numero>
+    <datefinale>2013-10-03</datefinale>
+    <montantfinal>134290.430000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>628018</numeroseao>
+    <numero>AO 12991</numero>
+    <datefinale>2013-10-29</datefinale>
+    <montantfinal>91405.130000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>628624</numeroseao>
+    <numero>SG2012-036-2 P</numero>
+    <datefinale>2013-11-04</datefinale>
+    <montantfinal>22532.080000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>628631</numeroseao>
+    <numero>SG2013-028 P</numero>
+    <datefinale>2013-11-25</datefinale>
+    <montantfinal>241088.960000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>628733</numeroseao>
+    <numero>C-SCN-13-01</numero>
+    <datefinale>2013-12-20</datefinale>
+    <montantfinal>64297.000000</montantfinal>
+    <nomcontractant>Raymond Verreault- Consultant en développement stratégique et gestionnaire d'événements</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>628834</numeroseao>
+    <numero>SES-Décembre 2012-003</numero>
+    <datefinale>2013-10-31</datefinale>
+    <montantfinal>54514.000000</montantfinal>
+    <nomcontractant>Optimum Talent</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>628852</numeroseao>
+    <numero>SES-Décembre 2012-002</numero>
+    <datefinale>2013-10-31</datefinale>
+    <montantfinal>25389.000000</montantfinal>
+    <nomcontractant>Bernier Pierre</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>628886</numeroseao>
+    <numero>12-13-83</numero>
+    <datefinale>2013-09-23</datefinale>
+    <montantfinal>37091.960000</montantfinal>
+    <nomcontractant>Martin Produits Bureau</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>629183</numeroseao>
+    <numero>1213-19123</numero>
+    <datefinale>2013-10-15</datefinale>
+    <montantfinal>53990.300000</montantfinal>
+    <nomcontractant>Empereur Construction 91399980 Québec Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>629204</numeroseao>
+    <numero>C-2096-2013</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>1964842.180000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>629206</numeroseao>
+    <numero>2013-017</numero>
+    <datefinale>2013-11-29</datefinale>
+    <montantfinal>965275.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>629214</numeroseao>
+    <numero>7025-1</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>25000.000000</montantfinal>
+    <nomcontractant>Société de gestion Place Laurier Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>629739</numeroseao>
+    <numero>2013-014</numero>
+    <datefinale>2013-11-29</datefinale>
+    <montantfinal>34747.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>629793</numeroseao>
+    <numero>VMP-13-006</numero>
+    <datefinale>2014-01-21</datefinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>630112</numeroseao>
+    <numero>C1990</numero>
+    <datefinale>2013-07-08</datefinale>
+    <montantfinal>51900.000000</montantfinal>
+    <nomcontractant>Calfeutrage et maçonnerie Savard</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>630242</numeroseao>
+    <numero>1331-TP</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>25352.800000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>630435</numeroseao>
+    <numero>C-2122-2013</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>93541.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>630561</numeroseao>
+    <numero>BC00039143</numero>
+    <datefinale>2014-01-03</datefinale>
+    <montantfinal>361959.990000</montantfinal>
+    <nomcontractant>Oracle Canada ULC</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>630719</numeroseao>
+    <numero>BC00039652</numero>
+    <datefinale>2014-01-03</datefinale>
+    <montantfinal>32780.120000</montantfinal>
+    <nomcontractant>Groupe conseil Integrim inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>631167</numeroseao>
+    <numero>20130514</numero>
+    <datefinale>2013-11-29</datefinale>
+    <montantfinal>835360.690000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>631202</numeroseao>
+    <numero>P0055511</numero>
+    <datefinale>2013-05-02</datefinale>
+    <montantfinal>27043.240000</montantfinal>
+    <nomcontractant>Insight Canada</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>631209</numeroseao>
+    <numero>P0055560</numero>
+    <datefinale>2013-05-23</datefinale>
+    <montantfinal>34998.000000</montantfinal>
+    <nomcontractant>Open Storage Solutions Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>631268</numeroseao>
+    <numero>504015851</numero>
+    <datefinale>2013-10-29</datefinale>
+    <montantfinal>42349.790000</montantfinal>
+    <nomcontractant>Deland, Pierre</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>631320</numeroseao>
+    <numero>CP001897</numero>
+    <datefinale>2013-09-26</datefinale>
+    <montantfinal>64777.000000</montantfinal>
+    <nomcontractant>Kone Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>631330</numeroseao>
+    <numero>2013-068-A</numero>
+    <datefinale>2013-09-30</datefinale>
+    <montantfinal>28697.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>631538</numeroseao>
+    <numero>2013-3005.1</numero>
+    <datefinale>2014-01-23</datefinale>
+    <montantfinal>1598000.000000</montantfinal>
+    <nomcontractant>Bracco Imaging Canada</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>631601</numeroseao>
+    <numero>C1950.2</numero>
+    <datefinale>2013-10-01</datefinale>
+    <montantfinal>31000.000000</montantfinal>
+    <nomcontractant>Lemay associés</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>631711</numeroseao>
+    <numero>M13-05-134</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>240385.590000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>632101</numeroseao>
+    <numero>440 003 113</numero>
+    <datefinale>2013-09-25</datefinale>
+    <montantfinal>194436.000000</montantfinal>
+    <nomcontractant>Moore Canada s/n RR Donnelley</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>632286</numeroseao>
+    <numero>2013-012</numero>
+    <datefinale>2013-10-31</datefinale>
+    <montantfinal>68620.490000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>632550</numeroseao>
+    <numero>07932</numero>
+    <datefinale>2013-11-28</datefinale>
+    <montantfinal>38140.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>633182</numeroseao>
+    <numero>DB7909</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>59966.000000</montantfinal>
+    <nomcontractant>Lavoir G et A / 9093-6733 Québec Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>633300</numeroseao>
+    <numero>BC302618</numero>
+    <datefinale>2014-01-15</datefinale>
+    <montantfinal>482284.000000</montantfinal>
+    <nomcontractant>RG Solution</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>633553</numeroseao>
+    <numero>BL003629</numero>
+    <datefinale>2013-07-23</datefinale>
+    <montantfinal>98025.000000</montantfinal>
+    <nomcontractant>CloudRaker inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>634130</numeroseao>
+    <numero>201305CF</numero>
+    <datefinale>2013-11-13</datefinale>
+    <montantfinal>28541.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>634141</numeroseao>
+    <numero>SA-302-LP-13</numero>
+    <datefinale>2014-01-01</datefinale>
+    <montantfinal>97556.290000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>634156</numeroseao>
+    <numero>1213-19130</numero>
+    <datefinale>2013-11-01</datefinale>
+    <montantfinal>11174.570000</montantfinal>
+    <nomcontractant>Lesage &amp; Turgeon électrique</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>634195</numeroseao>
+    <numero>GI-2013-27</numero>
+    <datefinale>2013-11-20</datefinale>
+    <montantfinal>91276.810000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>635634</numeroseao>
+    <numero>VPR-2013-13</numero>
+    <datefinale>2013-12-04</datefinale>
+    <montantfinal>30372.280000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>636331</numeroseao>
+    <numero>Résolution 13-289</numero>
+    <datefinale>2013-11-26</datefinale>
+    <montantfinal>23207.700000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>636347</numeroseao>
+    <numero>2013-01</numero>
+    <datefinale>2013-11-30</datefinale>
+    <montantfinal>205202.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>636376</numeroseao>
+    <numero>Résolution 13-290</numero>
+    <datefinale>2013-08-30</datefinale>
+    <montantfinal>25364.690000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>636380</numeroseao>
+    <numero>2013-182</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>55188.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>636646</numeroseao>
+    <numero>TP2013-25</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>143417.520000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>637010</numeroseao>
+    <numero>C2090</numero>
+    <datefinale>2013-12-02</datefinale>
+    <montantfinal>79708.000000</montantfinal>
+    <nomcontractant>Isolation Algon (2000) Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>637604</numeroseao>
+    <numero>25328300</numero>
+    <datefinale>2013-11-11</datefinale>
+    <montantfinal>156512.970000</montantfinal>
+    <nomcontractant>Micheline Dion en co-entreprise</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>637605</numeroseao>
+    <numero>2013-92</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>68441.960000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>637611</numeroseao>
+    <numero>2013-010</numero>
+    <datefinale>2013-08-12</datefinale>
+    <montantfinal>32187.250000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>637621</numeroseao>
+    <numero>13-1911</numero>
+    <datefinale>2013-10-07</datefinale>
+    <montantfinal>400667.000000</montantfinal>
+    <nomcontractant>P.E. Pageau Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>637622</numeroseao>
+    <numero>2013-011</numero>
+    <datefinale>2014-01-13</datefinale>
+    <montantfinal>28513.800000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>637648</numeroseao>
+    <numero>2013-013</numero>
+    <datefinale>2013-11-11</datefinale>
+    <montantfinal>53911.780000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>637652</numeroseao>
+    <numero>2013-015</numero>
+    <datefinale>2013-11-08</datefinale>
+    <montantfinal>48618.330000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>637692</numeroseao>
+    <numero>C-2107-2013</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>141781.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>637714</numeroseao>
+    <numero>13-13016</numero>
+    <datefinale>2013-11-03</datefinale>
+    <montantfinal>84667.950000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>637954</numeroseao>
+    <numero>310047</numero>
+    <datefinale>2013-10-18</datefinale>
+    <montantfinal>43588.000000</montantfinal>
+    <nomcontractant>Construction Henri St-Amant et fils Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>638024</numeroseao>
+    <numero>RPPG12-10055-OI</numero>
+    <datefinale>2013-11-15</datefinale>
+    <montantfinal>24450.140000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>638292</numeroseao>
+    <numero>13-13020</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>188932.670000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>638603</numeroseao>
+    <numero>GI-2013-10</numero>
+    <datefinale>2013-11-12</datefinale>
+    <montantfinal>453017.220000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>638609</numeroseao>
+    <numero>052013</numero>
+    <datefinale>2013-09-30</datefinale>
+    <montantfinal>33329.820000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>639239</numeroseao>
+    <numero>SA-122A-P-12</numero>
+    <datefinale>2014-01-01</datefinale>
+    <montantfinal>76515.870000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>639559</numeroseao>
+    <numero>RM-2013-201</numero>
+    <datefinale>2013-11-07</datefinale>
+    <montantfinal>134229.020000</montantfinal>
+    <nomcontractant>Le Centre Routier (1994) Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>639822</numeroseao>
+    <numero>13-13054</numero>
+    <datefinale>2013-11-03</datefinale>
+    <montantfinal>170795.360000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>640540</numeroseao>
+    <numero>700 183 867</numero>
+    <datefinale>2013-11-30</datefinale>
+    <montantfinal>132727.190000</montantfinal>
+    <nomcontractant>Rita Dionne-Marsolais</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>640550</numeroseao>
+    <numero>700 183 878</numero>
+    <datefinale>2013-11-30</datefinale>
+    <montantfinal>82516.020000</montantfinal>
+    <nomcontractant>Yvon Boudreau</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>640713</numeroseao>
+    <numero>C-2128-2013</numero>
+    <datefinale>2013-10-31</datefinale>
+    <montantfinal>21659.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>642334</numeroseao>
+    <numero>C-2130-2013</numero>
+    <datefinale>2013-10-31</datefinale>
+    <montantfinal>45708.680000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>642346</numeroseao>
+    <numero>20130710</numero>
+    <datefinale>2013-09-30</datefinale>
+    <montantfinal>156667.330000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>642730</numeroseao>
+    <numero>070/2013</numero>
+    <datefinale>2013-12-18</datefinale>
+    <montantfinal>67176.440000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>643530</numeroseao>
+    <numero>5940-CM1452</numero>
+    <datefinale>2013-10-31</datefinale>
+    <montantfinal>50875.000000</montantfinal>
+    <nomcontractant>Bard Canada Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>643533</numeroseao>
+    <numero>5940-CM1454</numero>
+    <datefinale>2013-10-31</datefinale>
+    <montantfinal>264425.000000</montantfinal>
+    <nomcontractant>Boston Scientific Ltd</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>643540</numeroseao>
+    <numero>5940-CM1456</numero>
+    <datefinale>2013-10-31</datefinale>
+    <montantfinal>14830.000000</montantfinal>
+    <nomcontractant>Canadian Hospital Specialties Ltd.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>643542</numeroseao>
+    <numero>5940-CM1457</numero>
+    <datefinale>2013-10-31</datefinale>
+    <montantfinal>110519.000000</montantfinal>
+    <nomcontractant>Cook (Canada) Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>643545</numeroseao>
+    <numero>5940-CM1460</numero>
+    <datefinale>2013-10-31</datefinale>
+    <montantfinal>67810.000000</montantfinal>
+    <nomcontractant>Johnson &amp; Johnson Medical Products</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>643553</numeroseao>
+    <numero>5940-CM1464</numero>
+    <datefinale>2013-10-31</datefinale>
+    <montantfinal>8430.000000</montantfinal>
+    <nomcontractant>SORIN GROUP CANADA INC.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>643557</numeroseao>
+    <numero>5940-CM1934</numero>
+    <datefinale>2013-10-31</datefinale>
+    <montantfinal>10701.000000</montantfinal>
+    <nomcontractant>Stryker</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>644110</numeroseao>
+    <numero>00045745</numero>
+    <datefinale>2014-01-03</datefinale>
+    <montantfinal>655990.000000</montantfinal>
+    <nomcontractant>Inso</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>645663</numeroseao>
+    <numero>UC-1305002(AM) </numero>
+    <datefinale>2013-11-07</datefinale>
+    <montantfinal>625562.010000</montantfinal>
+    <nomcontractant>Rohde &amp; Schwarz DVS</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>645770</numeroseao>
+    <numero>3119-005</numero>
+    <datefinale>2013-12-19</datefinale>
+    <montantfinal>79385.000000</montantfinal>
+    <nomcontractant>WSP Canada Inc. (Est-du-Québec et Centre-du-Québec)</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>646250</numeroseao>
+    <numero>UC-1307008(AM) </numero>
+    <datefinale>2013-08-07</datefinale>
+    <montantfinal>119812.930000</montantfinal>
+    <nomcontractant>Technologies Metafore Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>646758</numeroseao>
+    <numero>RM-2013-301-3</numero>
+    <datefinale>2013-08-30</datefinale>
+    <montantfinal>26950.000000</montantfinal>
+    <nomcontractant>Excavation Bourgoin et Dickner Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>647259</numeroseao>
+    <numero>5220-05-05-2013</numero>
+    <datefinale>2013-11-30</datefinale>
+    <montantfinal>36193.850000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>647822</numeroseao>
+    <numero>20134151MART-PORTNEUF-001</numero>
+    <datefinale>2013-12-17</datefinale>
+    <montantfinal>29630.900000</montantfinal>
+    <nomcontractant>Ressources Foret (9140-0457 Que.inc)</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>647997</numeroseao>
+    <numero>600576048</numero>
+    <datefinale>2014-01-14</datefinale>
+    <montantfinal>48878.480000</montantfinal>
+    <nomcontractant>Laurent Émond</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>648039</numeroseao>
+    <numero>AO-13084</numero>
+    <datefinale>2013-12-20</datefinale>
+    <montantfinal>32687.390000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>648553</numeroseao>
+    <numero>DRI-2012-01-09</numero>
+    <datefinale>2013-09-20</datefinale>
+    <montantfinal>35700.000000</montantfinal>
+    <nomcontractant>Fujitsu Conseil (Canada) inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>648982</numeroseao>
+    <numero>2013-009</numero>
+    <datefinale>2014-01-13</datefinale>
+    <montantfinal>318104.710000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>649102</numeroseao>
+    <numero>13-13087</numero>
+    <datefinale>2014-05-31</datefinale>
+    <montantfinal>202180.310000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>649502</numeroseao>
+    <numero>UC-1307009(AM) </numero>
+    <datefinale>2013-11-06</datefinale>
+    <montantfinal>275802.320000</montantfinal>
+    <nomcontractant>ESI Technologies inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>649909</numeroseao>
+    <numero>24491801</numero>
+    <datefinale>2013-12-03</datefinale>
+    <montantfinal>59900.000000</montantfinal>
+    <nomcontractant>Construction Bruno Blanchette</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>650449</numeroseao>
+    <numero> BC00043619 </numero>
+    <datefinale>2014-01-03</datefinale>
+    <montantfinal>26523.000000</montantfinal>
+    <nomcontractant>ESRI Canada Ltée</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>650850</numeroseao>
+    <numero>M1575332</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>36910.000000</montantfinal>
+    <nomcontractant>American Institue of Physics</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>650861</numeroseao>
+    <numero>M162409</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>96571.000000</montantfinal>
+    <nomcontractant>Elsevier B.V.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>650865</numeroseao>
+    <numero>OI-67310</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>152004.000000</montantfinal>
+    <nomcontractant>Ovid Techonoogies Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>650870</numeroseao>
+    <numero>70200940</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>193148.000000</montantfinal>
+    <nomcontractant>ProQuest LLC</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>650936</numeroseao>
+    <numero>2013-BS-072</numero>
+    <datefinale>2013-03-30</datefinale>
+    <montantfinal>94756.650000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>650944</numeroseao>
+    <numero>P0055672</numero>
+    <datefinale>2013-08-14</datefinale>
+    <montantfinal>49600.000000</montantfinal>
+    <nomcontractant>Société de la Place-des-arts</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>651284</numeroseao>
+    <numero>1074-13</numero>
+    <datefinale>2013-12-20</datefinale>
+    <montantfinal>31305.000000</montantfinal>
+    <nomcontractant>Atelier Ébénisterie Sylvain Frenette</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>651292</numeroseao>
+    <numero>1077-13-B</numero>
+    <datefinale>2013-11-30</datefinale>
+    <montantfinal>54614.000000</montantfinal>
+    <nomcontractant>Coopérative Forestière Ferland-Boileau</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>651453</numeroseao>
+    <numero>BLA03634</numero>
+    <datefinale>2013-04-24</datefinale>
+    <montantfinal>55963.330000</montantfinal>
+    <nomcontractant>Adobe Systems</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>651896</numeroseao>
+    <numero>255-80-400</numero>
+    <datefinale>2014-01-13</datefinale>
+    <montantfinal>249538.000000</montantfinal>
+    <nomcontractant>Édifice 2144 King Ouest enr.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>651899</numeroseao>
+    <numero>P0055468</numero>
+    <datefinale>2013-08-15</datefinale>
+    <montantfinal>38043.440000</montantfinal>
+    <nomcontractant>Bell - Marché Affaires</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>652761</numeroseao>
+    <numero>DS-205869</numero>
+    <datefinale>2013-12-20</datefinale>
+    <montantfinal>137327.000000</montantfinal>
+    <nomcontractant>Future Digital Scientific Corp.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>653199</numeroseao>
+    <numero>R08-2013-19</numero>
+    <datefinale>2014-01-13</datefinale>
+    <montantfinal>112650.000000</montantfinal>
+    <nomcontractant>PPF Synergie</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>653230</numeroseao>
+    <numero>600574531</numero>
+    <datefinale>2013-12-18</datefinale>
+    <montantfinal>66105.420000</montantfinal>
+    <nomcontractant>Innvest Hotels LP</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>653588</numeroseao>
+    <numero>7201-2</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>60000.000000</montantfinal>
+    <nomcontractant>PANalytical</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>653625</numeroseao>
+    <numero>GI-2013-40</numero>
+    <datefinale>2014-01-24</datefinale>
+    <montantfinal>84650.340000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>653634</numeroseao>
+    <numero>2013-AD-617 (CA13-053)</numero>
+    <datefinale>2013-11-29</datefinale>
+    <montantfinal>84070.500000</montantfinal>
+    <nomcontractant>Construction Soter Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>653642</numeroseao>
+    <numero>R08-2013-20</numero>
+    <datefinale>2014-01-17</datefinale>
+    <montantfinal>36040.000000</montantfinal>
+    <nomcontractant>Groupe Mc Neil Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>653680</numeroseao>
+    <numero>2013-147</numero>
+    <datefinale>2013-09-30</datefinale>
+    <montantfinal>35135.600000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>653706</numeroseao>
+    <numero>R-1136 lot1</numero>
+    <datefinale>2013-12-04</datefinale>
+    <montantfinal>211035.460000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>653717</numeroseao>
+    <numero>Projet R-1136 lot2</numero>
+    <datefinale>2013-12-09</datefinale>
+    <montantfinal>225477.170000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>654141</numeroseao>
+    <numero>2013-07-109</numero>
+    <datefinale>2013-09-30</datefinale>
+    <montantfinal>185277.610000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>654650</numeroseao>
+    <numero>13-13136</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>417381.670000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>654684</numeroseao>
+    <numero>R08-2013-21</numero>
+    <datefinale>2013-12-12</datefinale>
+    <montantfinal>40227.000000</montantfinal>
+    <nomcontractant>Entreprise forestière Michaël Gagné </nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>654688</numeroseao>
+    <numero>SA-815-AD-13</numero>
+    <datefinale>2014-01-01</datefinale>
+    <montantfinal>32153.910000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>655114</numeroseao>
+    <numero>CP001981</numero>
+    <datefinale>2013-08-19</datefinale>
+    <montantfinal>38000.000000</montantfinal>
+    <nomcontractant>Kingston Byers inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>655127</numeroseao>
+    <numero>RO-2013-3</numero>
+    <datefinale>2013-10-28</datefinale>
+    <montantfinal>26078.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>656199</numeroseao>
+    <numero>P0057139</numero>
+    <datefinale>2013-11-22</datefinale>
+    <montantfinal>25108.900000</montantfinal>
+    <nomcontractant>GE Healthcare BioSciences Inc  (Amersham Biosciences Inc.)</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>656648</numeroseao>
+    <numero>7212</numero>
+    <datefinale>2013-11-12</datefinale>
+    <montantfinal>69788.000000</montantfinal>
+    <nomcontractant>Aquatic Life</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>656654</numeroseao>
+    <numero>7214</numero>
+    <datefinale>2013-11-19</datefinale>
+    <montantfinal>56298.000000</montantfinal>
+    <nomcontractant>Aquatic Life</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>657148</numeroseao>
+    <numero>BL003643</numero>
+    <datefinale>2013-07-17</datefinale>
+    <montantfinal>43112.000000</montantfinal>
+    <nomcontractant>Dahouet &amp; Co.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>657149</numeroseao>
+    <numero>BL003652 </numero>
+    <datefinale>2013-09-11</datefinale>
+    <montantfinal>25456.950000</montantfinal>
+    <nomcontractant>Stoneworks Technologies Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>657170</numeroseao>
+    <numero>13-13110</numero>
+    <datefinale>2014-03-21</datefinale>
+    <montantfinal>369698.800000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>657644</numeroseao>
+    <numero>C-SPPS-13-02</numero>
+    <datefinale>2013-11-15</datefinale>
+    <montantfinal>44288.000000</montantfinal>
+    <nomcontractant>Langlois, Pierre</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>657648</numeroseao>
+    <numero>5019</numero>
+    <datefinale>2013-11-04</datefinale>
+    <montantfinal>35178.000000</montantfinal>
+    <nomcontractant>R.C. Roy Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>657650</numeroseao>
+    <numero>C-SPPS-13-03</numero>
+    <datefinale>2013-10-31</datefinale>
+    <montantfinal>32155.000000</montantfinal>
+    <nomcontractant>L'Homme, Denis</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>658065</numeroseao>
+    <numero>BL003685</numero>
+    <datefinale>2013-08-20</datefinale>
+    <montantfinal>34289.000000</montantfinal>
+    <nomcontractant>Apple Canada Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>658080</numeroseao>
+    <numero>CP0A1948</numero>
+    <datefinale>2013-08-23</datefinale>
+    <montantfinal>26391.940000</montantfinal>
+    <nomcontractant>Bell Canada</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>658169</numeroseao>
+    <numero>09170</numero>
+    <datefinale>2013-12-19</datefinale>
+    <montantfinal>44845.990000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>658524</numeroseao>
+    <numero>440 003 254</numero>
+    <datefinale>2013-11-28</datefinale>
+    <montantfinal>35807.370000</montantfinal>
+    <nomcontractant>Groupe Data Ltée</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>658534</numeroseao>
+    <numero>440 003 259</numero>
+    <datefinale>2013-11-27</datefinale>
+    <montantfinal>40622.650000</montantfinal>
+    <nomcontractant>Groupe Data Ltée</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>658642</numeroseao>
+    <numero>440 003 261</numero>
+    <datefinale>2013-10-02</datefinale>
+    <montantfinal>58824.000000</montantfinal>
+    <nomcontractant>Groupe Data Ltée</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>658658</numeroseao>
+    <numero>440 003 263</numero>
+    <datefinale>2013-11-19</datefinale>
+    <montantfinal>80974.800000</montantfinal>
+    <nomcontractant>Groupe Data Ltée</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>658684</numeroseao>
+    <numero>AOP-04-2013</numero>
+    <datefinale>2013-11-19</datefinale>
+    <montantfinal>255867.220000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>659059</numeroseao>
+    <numero>440 003 269</numero>
+    <datefinale>2013-11-27</datefinale>
+    <montantfinal>67058.220000</montantfinal>
+    <nomcontractant>Enveloppe Laurentide inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>659646</numeroseao>
+    <numero>P0057559</numero>
+    <datefinale>2013-10-28</datefinale>
+    <montantfinal>67318.590000</montantfinal>
+    <nomcontractant>L.L.Lozeau inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>660121</numeroseao>
+    <numero>BL003678</numero>
+    <datefinale>2013-10-10</datefinale>
+    <montantfinal>32617.500000</montantfinal>
+    <nomcontractant>SIMUTECH GROUP CANADA</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>660492</numeroseao>
+    <numero>7148-1</numero>
+    <datefinale>2013-11-28</datefinale>
+    <montantfinal>26640.000000</montantfinal>
+    <nomcontractant>Canberra Co</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>660626</numeroseao>
+    <numero>2013-263</numero>
+    <datefinale>2013-11-15</datefinale>
+    <montantfinal>84131.780000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>661613</numeroseao>
+    <numero>CV-2013-03-37</numero>
+    <datefinale>2014-01-20</datefinale>
+    <montantfinal>25000.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>662845</numeroseao>
+    <numero>084/2013</numero>
+    <datefinale>2013-11-29</datefinale>
+    <montantfinal>38516.630000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>662887</numeroseao>
+    <numero>CA-272155</numero>
+    <datefinale>2013-12-19</datefinale>
+    <montantfinal>148000.000000</montantfinal>
+    <nomcontractant>Delta Photonics</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>663384</numeroseao>
+    <numero>440 003 272</numero>
+    <datefinale>2013-10-30</datefinale>
+    <montantfinal>82377.000000</montantfinal>
+    <nomcontractant>Moore Canada s/n RR Donnelley</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>663387</numeroseao>
+    <numero>440 003 278</numero>
+    <datefinale>2013-10-16</datefinale>
+    <montantfinal>31352.550000</montantfinal>
+    <nomcontractant>Groupe Data Ltée</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>663779</numeroseao>
+    <numero>BL003668</numero>
+    <datefinale>2013-08-21</datefinale>
+    <montantfinal>42659.000000</montantfinal>
+    <nomcontractant>TRUSTEES, UNIVERSITY OF PENNSYLVANIA</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>663929</numeroseao>
+    <numero>BC00047111</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>33000.000000</montantfinal>
+    <nomcontractant>Strategia</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>664581</numeroseao>
+    <numero>7167-1</numero>
+    <datefinale>2013-11-15</datefinale>
+    <montantfinal>36081.000000</montantfinal>
+    <nomcontractant>Atlas Médic inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>664585</numeroseao>
+    <numero>CGER 13 640033</numero>
+    <datefinale>2013-12-11</datefinale>
+    <montantfinal>324729.000000</montantfinal>
+    <nomcontractant>Équipement SMS inc..</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>664984</numeroseao>
+    <numero>2013-00-5100-01</numero>
+    <datefinale>2014-01-08</datefinale>
+    <montantfinal>69651.000000</montantfinal>
+    <nomcontractant>JSC Trains Consultant</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>665094</numeroseao>
+    <numero>VPR-2013-19</numero>
+    <datefinale>2014-01-15</datefinale>
+    <montantfinal>31848.080000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>665140</numeroseao>
+    <numero>CGER 12 630196</numero>
+    <datefinale>2014-01-16</datefinale>
+    <montantfinal>118828.380000</montantfinal>
+    <nomcontractant>Boite de Camions Dynamic</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>667583</numeroseao>
+    <numero>M184681</numero>
+    <datefinale>2014-01-03</datefinale>
+    <montantfinal>68745.000000</montantfinal>
+    <nomcontractant>Elsevier</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>667607</numeroseao>
+    <numero>CP0A1951</numero>
+    <datefinale>2013-09-09</datefinale>
+    <montantfinal>29319.810000</montantfinal>
+    <nomcontractant>BELL CANADA</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>668796</numeroseao>
+    <numero>2013-34</numero>
+    <datefinale>2013-10-02</datefinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>671481</numeroseao>
+    <numero>P0057049</numero>
+    <datefinale>2013-10-16</datefinale>
+    <montantfinal>25000.000000</montantfinal>
+    <nomcontractant>ORACLE CANADA ULC</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>671501</numeroseao>
+    <numero>BL003706</numero>
+    <datefinale>2013-08-02</datefinale>
+    <montantfinal>43950.000000</montantfinal>
+    <nomcontractant>Capital IQ</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>671514</numeroseao>
+    <numero>BL003680</numero>
+    <datefinale>2013-07-10</datefinale>
+    <montantfinal>34246.000000</montantfinal>
+    <nomcontractant>CIMA+ 210-08</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>671515</numeroseao>
+    <numero>600013-33</numero>
+    <datefinale>2013-12-17</datefinale>
+    <montantfinal>49200.000000</montantfinal>
+    <nomcontractant>Aéro-Photo (1961) inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>671533</numeroseao>
+    <numero>P0057849</numero>
+    <datefinale>2013-11-11</datefinale>
+    <montantfinal>75145.500000</montantfinal>
+    <nomcontractant>Gaspard LP</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>671557</numeroseao>
+    <numero>CP001964</numero>
+    <datefinale>2013-09-09</datefinale>
+    <montantfinal>30396.180000</montantfinal>
+    <nomcontractant>Teknion|Roy &amp; Breton</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>671572</numeroseao>
+    <numero>CP002024</numero>
+    <datefinale>2014-03-24</datefinale>
+    <montantfinal>80007.350000</montantfinal>
+    <nomcontractant>Sono Vidéo Inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>671918</numeroseao>
+    <numero>SRM010619</numero>
+    <datefinale>2013-10-14</datefinale>
+    <montantfinal>100130.000000</montantfinal>
+    <nomcontractant>sp solution</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>671921</numeroseao>
+    <numero>SRM010649</numero>
+    <datefinale>2013-11-19</datefinale>
+    <montantfinal>157706.000000</montantfinal>
+    <nomcontractant>AMB TRESEC</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>671950</numeroseao>
+    <numero>2013-09</numero>
+    <datefinale>2013-10-31</datefinale>
+    <montantfinal>37971.560000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>672005</numeroseao>
+    <numero>P0055150</numero>
+    <datefinale>2013-10-22</datefinale>
+    <montantfinal>43620.430000</montantfinal>
+    <nomcontractant>Techni-Logique</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>672419</numeroseao>
+    <numero>2013-0160-23</numero>
+    <datefinale>2013-12-24</datefinale>
+    <montantfinal>51138.000000</montantfinal>
+    <nomcontractant>Services Miniers Nord-Ouest</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>672449</numeroseao>
+    <numero>BIB900024270</numero>
+    <datefinale>2014-01-03</datefinale>
+    <montantfinal>25736.340000</montantfinal>
+    <nomcontractant>Proquest</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>672481</numeroseao>
+    <numero>BIBOI75330</numero>
+    <datefinale>2014-01-03</datefinale>
+    <montantfinal>36721.000000</montantfinal>
+    <nomcontractant>Ovid Technologies inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>672483</numeroseao>
+    <numero>P0055770</numero>
+    <datefinale>2013-12-19</datefinale>
+    <montantfinal>59469.850000</montantfinal>
+    <nomcontractant>Clublink</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>672489</numeroseao>
+    <numero>P0055812</numero>
+    <datefinale>2013-09-11</datefinale>
+    <montantfinal>79500.000000</montantfinal>
+    <nomcontractant>Échafaudages à érection rapide (1992)</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>672521</numeroseao>
+    <numero>P0055880</numero>
+    <datefinale>2013-07-08</datefinale>
+    <montantfinal>48450.000000</montantfinal>
+    <nomcontractant>Bain Magique</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>672538</numeroseao>
+    <numero>P0056136</numero>
+    <datefinale>2013-08-20</datefinale>
+    <montantfinal>25000.000000</montantfinal>
+    <nomcontractant>University of California</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>672544</numeroseao>
+    <numero>P0056160</numero>
+    <datefinale>2013-06-05</datefinale>
+    <montantfinal>65500.000000</montantfinal>
+    <nomcontractant>Linkopings Universitet</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>672547</numeroseao>
+    <numero>P0056187</numero>
+    <datefinale>2013-08-20</datefinale>
+    <montantfinal>58599.800000</montantfinal>
+    <nomcontractant>3 Di Synthèses</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>672560</numeroseao>
+    <numero>P0056196</numero>
+    <datefinale>2013-07-22</datefinale>
+    <montantfinal>34216.750000</montantfinal>
+    <nomcontractant>Techni-logique </nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>672566</numeroseao>
+    <numero>P0056199</numero>
+    <datefinale>2013-08-02</datefinale>
+    <montantfinal>40535.000000</montantfinal>
+    <nomcontractant>Spacelabs Medical</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>672571</numeroseao>
+    <numero>P0056201</numero>
+    <datefinale>2013-11-27</datefinale>
+    <montantfinal>25000.000000</montantfinal>
+    <nomcontractant>Cloud Horizon Technologies Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>673055</numeroseao>
+    <numero>P0056231</numero>
+    <datefinale>2013-07-08</datefinale>
+    <montantfinal>37950.000000</montantfinal>
+    <nomcontractant>CPU DESIGN INC</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>673075</numeroseao>
+    <numero>P0056270</numero>
+    <datefinale>2013-08-09</datefinale>
+    <montantfinal>33385.000000</montantfinal>
+    <nomcontractant>Parquet Deluxe LaSalle inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>673089</numeroseao>
+    <numero>P0056386</numero>
+    <datefinale>2013-06-25</datefinale>
+    <montantfinal>64900.000000</montantfinal>
+    <nomcontractant>Phire</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>673098</numeroseao>
+    <numero>P0056419</numero>
+    <datefinale>2013-10-22</datefinale>
+    <montantfinal>46636.000000</montantfinal>
+    <nomcontractant>Applied Electronics Ltd.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>673113</numeroseao>
+    <numero>P0056468</numero>
+    <datefinale>2013-07-15</datefinale>
+    <montantfinal>31716.720000</montantfinal>
+    <nomcontractant>Technologies Metafore Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>673127</numeroseao>
+    <numero>CGER 13 640038</numero>
+    <datefinale>2013-11-18</datefinale>
+    <montantfinal>551550.000000</montantfinal>
+    <nomcontractant>Carrefour du Camion RDL</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>673127</numeroseao>
+    <numero>CGER 13 640038</numero>
+    <datefinale>2013-11-25</datefinale>
+    <montantfinal>186356.700000</montantfinal>
+    <nomcontractant>Simard Suspensions inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>673555</numeroseao>
+    <numero>CGER 640039</numero>
+    <datefinale>2013-12-05</datefinale>
+    <montantfinal>24767.000000</montantfinal>
+    <nomcontractant>JOHNSTON EQUIPMENT</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>674009</numeroseao>
+    <numero>BL003743</numero>
+    <datefinale>2013-10-23</datefinale>
+    <montantfinal>33000.000000</montantfinal>
+    <nomcontractant>RISKONNECT INC</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>674132</numeroseao>
+    <numero>SF-48-2013</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>30686.830000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>674265</numeroseao>
+    <numero>SRM010709</numero>
+    <datefinale>2013-11-19</datefinale>
+    <montantfinal>73500.000000</montantfinal>
+    <nomcontractant>Acoustico Inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>674278</numeroseao>
+    <numero>SRM010810</numero>
+    <datefinale>2013-11-20</datefinale>
+    <montantfinal>31100.000000</montantfinal>
+    <nomcontractant>R.M. Solutions Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>674334</numeroseao>
+    <numero>P0056720</numero>
+    <datefinale>2013-08-28</datefinale>
+    <montantfinal>42566.560000</montantfinal>
+    <nomcontractant>Red Digital Cinema</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>674348</numeroseao>
+    <numero>P0057000</numero>
+    <datefinale>2013-08-06</datefinale>
+    <montantfinal>35600.000000</montantfinal>
+    <nomcontractant>Camtec Photo</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>674359</numeroseao>
+    <numero>P0057088</numero>
+    <datefinale>2013-09-16</datefinale>
+    <montantfinal>38243.370000</montantfinal>
+    <nomcontractant>Ministre des ressources naturelles</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>674810</numeroseao>
+    <numero>P0057192</numero>
+    <datefinale>2013-09-04</datefinale>
+    <montantfinal>32799.000000</montantfinal>
+    <nomcontractant>Technologies Metafore Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>675273</numeroseao>
+    <numero>25041903</numero>
+    <datefinale>2013-12-20</datefinale>
+    <montantfinal>82740.190000</montantfinal>
+    <nomcontractant>Construction Gératek Ltée</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>675400</numeroseao>
+    <numero>7265</numero>
+    <datefinale>2013-11-28</datefinale>
+    <montantfinal>45286.000000</montantfinal>
+    <nomcontractant>D'un arbre à l'autre Inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>675892</numeroseao>
+    <numero>CGER 12 630199</numero>
+    <datefinale>2014-01-24</datefinale>
+    <montantfinal>86350.000000</montantfinal>
+    <nomcontractant>Carrefour du Camion RDL</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>675939</numeroseao>
+    <numero>2013- BC 302761</numero>
+    <datefinale>2014-01-15</datefinale>
+    <montantfinal>104670.000000</montantfinal>
+    <nomcontractant>Life Technologies Inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>675996</numeroseao>
+    <numero>VML-E-13-01</numero>
+    <datefinale>2013-11-15</datefinale>
+    <montantfinal>45990.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>676021</numeroseao>
+    <numero>RM-2013-LCOP046</numero>
+    <datefinale>2013-10-25</datefinale>
+    <montantfinal>40156.380000</montantfinal>
+    <nomcontractant>Bell Aliant</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>676434</numeroseao>
+    <numero>P0057260</numero>
+    <datefinale>2013-10-08</datefinale>
+    <montantfinal>61837.900000</montantfinal>
+    <nomcontractant>Bell - Marché Affaires</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>676444</numeroseao>
+    <numero>P0057939</numero>
+    <datefinale>2013-12-11</datefinale>
+    <montantfinal>25429.790000</montantfinal>
+    <nomcontractant>Image Gear</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>676475</numeroseao>
+    <numero>CA-275566</numero>
+    <datefinale>2013-12-19</datefinale>
+    <montantfinal>80065.280000</montantfinal>
+    <nomcontractant>Tecmag Inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>676486</numeroseao>
+    <numero>P0B53740</numero>
+    <datefinale>2013-06-06</datefinale>
+    <montantfinal>60750.000000</montantfinal>
+    <nomcontractant>Printeron Corporation</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>676487</numeroseao>
+    <numero>F-0065-13</numero>
+    <datefinale>2013-12-13</datefinale>
+    <montantfinal>41600.000000</montantfinal>
+    <nomcontractant>Conseillers en gestion et informatique CGI Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>676498</numeroseao>
+    <numero>P0056001</numero>
+    <datefinale>2013-08-05</datefinale>
+    <montantfinal>28367.560000</montantfinal>
+    <nomcontractant>Inso</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>676507</numeroseao>
+    <numero>2013 - BC514485</numero>
+    <datefinale>2013-12-30</datefinale>
+    <montantfinal>48470.000000</montantfinal>
+    <nomcontractant>Burlodge</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>676508</numeroseao>
+    <numero>603041562</numero>
+    <datefinale>2013-10-31</datefinale>
+    <montantfinal>34000.000000</montantfinal>
+    <nomcontractant>Centre de recherche informatique de Montréal</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>676591</numeroseao>
+    <numero>603040619</numero>
+    <datefinale>2014-01-06</datefinale>
+    <montantfinal>17610.130000</montantfinal>
+    <nomcontractant>Stéphane Lemire M.D.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>677025</numeroseao>
+    <numero>C-31785</numero>
+    <datefinale>2013-12-04</datefinale>
+    <montantfinal>30240.000000</montantfinal>
+    <nomcontractant>Zoom Média</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>677040</numeroseao>
+    <numero>B12-26935</numero>
+    <datefinale>2013-07-30</datefinale>
+    <montantfinal>36641.000000</montantfinal>
+    <nomcontractant>LES PEINTURES R.C</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>677049</numeroseao>
+    <numero>C-32027</numero>
+    <datefinale>2013-12-04</datefinale>
+    <montantfinal>40700.000000</montantfinal>
+    <nomcontractant>MBMS Solution Inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>677077</numeroseao>
+    <numero>C-32192</numero>
+    <datefinale>2013-10-09</datefinale>
+    <montantfinal>38190.000000</montantfinal>
+    <nomcontractant>MOI Informatique</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>677478</numeroseao>
+    <numero>4500622312</numero>
+    <datefinale>2013-12-11</datefinale>
+    <montantfinal>49875.000000</montantfinal>
+    <nomcontractant>CIM - Conseil en Immobilisation &amp; Management Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>677498</numeroseao>
+    <numero>2011-AD-602(3)</numero>
+    <datefinale>2013-06-30</datefinale>
+    <montantfinal>40000.000000</montantfinal>
+    <nomcontractant>Les Pavages K.I. Bon et Paysagistes Ltée</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>677531</numeroseao>
+    <numero>BC 44629</numero>
+    <datefinale>2013-10-29</datefinale>
+    <montantfinal>32500.000000</montantfinal>
+    <nomcontractant>Actian Corporation</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>677539</numeroseao>
+    <numero>SA-2143-TP-13</numero>
+    <datefinale>2014-01-01</datefinale>
+    <montantfinal>28513.800000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>677559</numeroseao>
+    <numero>1105-13</numero>
+    <datefinale>2014-01-08</datefinale>
+    <montantfinal>68515.000000</montantfinal>
+    <nomcontractant>Anatomage Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>678084</numeroseao>
+    <numero>BL003751</numero>
+    <datefinale>2013-10-07</datefinale>
+    <montantfinal>121923.000000</montantfinal>
+    <nomcontractant>Innovative Interfaces</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>678613</numeroseao>
+    <numero>BC0000019817</numero>
+    <datefinale>2013-12-29</datefinale>
+    <montantfinal>119701.080000</montantfinal>
+    <nomcontractant>SOCIETE RADIO-CANADA</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>678637</numeroseao>
+    <numero>CA-275594</numero>
+    <datefinale>2013-10-17</datefinale>
+    <montantfinal>34589.590000</montantfinal>
+    <nomcontractant>Dassault Systemes Canada Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>679123</numeroseao>
+    <numero>CGER640043</numero>
+    <datefinale>2013-12-30</datefinale>
+    <montantfinal>401532.000000</montantfinal>
+    <nomcontractant>Équipements JKL Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>679146</numeroseao>
+    <numero>CGER 13 640044</numero>
+    <datefinale>2013-12-12</datefinale>
+    <montantfinal>120986.000000</montantfinal>
+    <nomcontractant>Équipements G. Gagnon inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>679215</numeroseao>
+    <numero>CA-274704</numero>
+    <datefinale>2013-11-07</datefinale>
+    <montantfinal>48333.320000</montantfinal>
+    <nomcontractant>Les Systèmes Cisco Canada Cie</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>679226</numeroseao>
+    <numero>CGER 13 640036-1</numero>
+    <datefinale>2013-12-19</datefinale>
+    <montantfinal>586288.000000</montantfinal>
+    <nomcontractant>Équipements Plannord ltée</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>679630</numeroseao>
+    <numero>201309-40</numero>
+    <datefinale>2013-12-06</datefinale>
+    <montantfinal>51721.500000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>679776</numeroseao>
+    <numero>M13-09-278</numero>
+    <datefinale>2013-10-01</datefinale>
+    <montantfinal>25658.580000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>679783</numeroseao>
+    <numero>CGER 13 640045</numero>
+    <datefinale>2013-11-14</datefinale>
+    <montantfinal>24790.000000</montantfinal>
+    <nomcontractant>Geroquip Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>679804</numeroseao>
+    <numero>M13-10-289</numero>
+    <datefinale>2013-12-17</datefinale>
+    <montantfinal>25976.300000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>680220</numeroseao>
+    <numero>B12 25565</numero>
+    <datefinale>2013-01-22</datefinale>
+    <montantfinal>36440.000000</montantfinal>
+    <nomcontractant>Reseau Koumbit</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>680346</numeroseao>
+    <numero>YOU-12i-14-05</numero>
+    <datefinale>2013-12-19</datefinale>
+    <montantfinal>45200.000000</montantfinal>
+    <nomcontractant>Maçonnerie M. Corriveau inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>681293</numeroseao>
+    <numero>210017953</numero>
+    <datefinale>2013-12-01</datefinale>
+    <montantfinal>44000.000000</montantfinal>
+    <nomcontractant>Trebora Conseil</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>681300</numeroseao>
+    <numero>20131001</numero>
+    <datefinale>2013-09-17</datefinale>
+    <montantfinal>46875.000000</montantfinal>
+    <nomcontractant>Géomont</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>681450</numeroseao>
+    <numero>UC-1309030(AM)</numero>
+    <datefinale>2014-01-13</datefinale>
+    <montantfinal>104607.540000</montantfinal>
+    <nomcontractant>Bell Canada</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>681473</numeroseao>
+    <numero>7278-1</numero>
+    <datefinale>2014-01-16</datefinale>
+    <montantfinal>65184.000000</montantfinal>
+    <nomcontractant>Emerson Network Power / Liebert Canada</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>682038</numeroseao>
+    <numero>7291-1</numero>
+    <datefinale>2013-11-19</datefinale>
+    <montantfinal>27531.000000</montantfinal>
+    <nomcontractant>Agilent Technologies inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>682064</numeroseao>
+    <numero>313-000426</numero>
+    <datefinale>2013-12-16</datefinale>
+    <montantfinal>68200.000000</montantfinal>
+    <nomcontractant>Aerofil inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>682078</numeroseao>
+    <numero>P0056298</numero>
+    <datefinale>2013-09-11</datefinale>
+    <montantfinal>29054.870000</montantfinal>
+    <nomcontractant>MINDWARE TECHNOLOGIES LTD</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>682081</numeroseao>
+    <numero>P0056300</numero>
+    <datefinale>2013-09-11</datefinale>
+    <montantfinal>26920.000000</montantfinal>
+    <nomcontractant>MINDWARE</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>682085</numeroseao>
+    <numero>7257-1</numero>
+    <datefinale>2013-12-03</datefinale>
+    <montantfinal>29836.000000</montantfinal>
+    <nomcontractant>Avensys Inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>682088</numeroseao>
+    <numero>7241-4</numero>
+    <datefinale>2013-11-26</datefinale>
+    <montantfinal>29760.000000</montantfinal>
+    <nomcontractant>Avensys Inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>682865</numeroseao>
+    <numero>313-000931</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>11540.000000</montantfinal>
+    <nomcontractant>Consulab Éducatech Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>682931</numeroseao>
+    <numero>BL003772</numero>
+    <datefinale>2013-10-25</datefinale>
+    <montantfinal>25200.000000</montantfinal>
+    <nomcontractant>INTELLIRESPONSE SYSTEMS</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>683495</numeroseao>
+    <numero>B12-26160-19</numero>
+    <datefinale>2013-11-12</datefinale>
+    <montantfinal>49500.000000</montantfinal>
+    <nomcontractant>ROBERT DANIEL SZCZECH</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>684517</numeroseao>
+    <numero>BL003769</numero>
+    <datefinale>2013-12-04</datefinale>
+    <montantfinal>155618.670000</montantfinal>
+    <nomcontractant>Oracle Canada ULC</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>684893</numeroseao>
+    <numero>440 712 654</numero>
+    <datefinale>2013-10-17</datefinale>
+    <montantfinal>28736.000000</montantfinal>
+    <nomcontractant>Imprimerie Ste-Julie inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>684911</numeroseao>
+    <numero>C-32319</numero>
+    <datefinale>2013-12-19</datefinale>
+    <montantfinal>98988.670000</montantfinal>
+    <nomcontractant>Sea-Birds Electronics Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>684923</numeroseao>
+    <numero>440 713 288</numero>
+    <datefinale>2013-10-10</datefinale>
+    <montantfinal>26265.000000</montantfinal>
+    <nomcontractant>Enveloppe Laurentide inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>685007</numeroseao>
+    <numero>CP002050</numero>
+    <datefinale>2014-01-13</datefinale>
+    <montantfinal>97495.360000</montantfinal>
+    <nomcontractant>Satori Interréseautage Inc. </nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>685490</numeroseao>
+    <numero>P0058259</numero>
+    <datefinale>2013-11-06</datefinale>
+    <montantfinal>25002.000000</montantfinal>
+    <nomcontractant>CANON BSD</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>685876</numeroseao>
+    <numero>BL003778 ET BL003779</numero>
+    <datefinale>2013-10-23</datefinale>
+    <montantfinal>224856.000000</montantfinal>
+    <nomcontractant>Réseau d'informations scientifiques du Québec</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>685923</numeroseao>
+    <numero>7271-1</numero>
+    <datefinale>2013-12-17</datefinale>
+    <montantfinal>16278.000000</montantfinal>
+    <nomcontractant>Lucie Desgagné</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>686888</numeroseao>
+    <numero>702400</numero>
+    <datefinale>2012-05-10</datefinale>
+    <montantfinal>44155.050000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>686917</numeroseao>
+    <numero>744736</numero>
+    <datefinale>2012-06-26</datefinale>
+    <montantfinal>48864.380000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>687825</numeroseao>
+    <numero>CGER 13 640050</numero>
+    <datefinale>2013-12-12</datefinale>
+    <montantfinal>219525.000000</montantfinal>
+    <nomcontractant>Mecanique J Clair</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>687857</numeroseao>
+    <numero>SES-2013-002</numero>
+    <datefinale>2013-12-16</datefinale>
+    <montantfinal>26000.000000</montantfinal>
+    <nomcontractant>Hay Group</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>688288</numeroseao>
+    <numero>809721</numero>
+    <datefinale>2012-12-31</datefinale>
+    <montantfinal>35884.570000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>689009</numeroseao>
+    <numero>2013-BC302799</numero>
+    <datefinale>2013-11-29</datefinale>
+    <montantfinal>27741.070000</montantfinal>
+    <nomcontractant>P.E. Boisvert Auto Ltée</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>689015</numeroseao>
+    <numero>12-10057</numero>
+    <datefinale>2012-12-07</datefinale>
+    <montantfinal>34152.170000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>689052</numeroseao>
+    <numero>787579</numero>
+    <datefinale>2013-01-15</datefinale>
+    <montantfinal>26662.710000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>689064</numeroseao>
+    <numero>797826</numero>
+    <datefinale>2012-11-27</datefinale>
+    <montantfinal>26978.880000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>689084</numeroseao>
+    <numero>746097</numero>
+    <datefinale>2013-01-22</datefinale>
+    <montantfinal>47277.720000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>689106</numeroseao>
+    <numero>600538</numero>
+    <datefinale>2011-07-18</datefinale>
+    <montantfinal>28709.100000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>689113</numeroseao>
+    <numero>757848</numero>
+    <datefinale>2012-08-09</datefinale>
+    <montantfinal>70063.180000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>689122</numeroseao>
+    <numero>638378</numero>
+    <datefinale>2011-07-18</datefinale>
+    <montantfinal>43854.260000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>689129</numeroseao>
+    <numero>702385</numero>
+    <datefinale>2012-05-31</datefinale>
+    <montantfinal>50413.090000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>689138</numeroseao>
+    <numero>674558</numero>
+    <datefinale>2012-05-03</datefinale>
+    <montantfinal>35635.440000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>689139</numeroseao>
+    <numero>733921</numero>
+    <datefinale>2012-09-06</datefinale>
+    <montantfinal>25940.260000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>689149</numeroseao>
+    <numero>2010-06</numero>
+    <datefinale>2012-11-01</datefinale>
+    <montantfinal>33881.980000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>689680</numeroseao>
+    <numero>868767</numero>
+    <datefinale>2013-10-17</datefinale>
+    <montantfinal>28870.220000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>689684</numeroseao>
+    <numero>13-12980</numero>
+    <datefinale>2013-10-07</datefinale>
+    <montantfinal>42604.870000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>689688</numeroseao>
+    <numero>2011-09</numero>
+    <datefinale>2013-10-15</datefinale>
+    <montantfinal>24982.750000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>690133</numeroseao>
+    <numero>440003368</numero>
+    <datefinale>2014-01-08</datefinale>
+    <montantfinal>35980.000000</montantfinal>
+    <nomcontractant>Moore Canada s/n RR Donnelley</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>690718</numeroseao>
+    <numero>440 003 366</numero>
+    <datefinale>2014-01-14</datefinale>
+    <montantfinal>60840.000000</montantfinal>
+    <nomcontractant>Moore Canada s/n RR Donnelley</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>690726</numeroseao>
+    <numero>440 003 367</numero>
+    <datefinale>2013-12-17</datefinale>
+    <montantfinal>25775.000000</montantfinal>
+    <nomcontractant>Datamark Systems.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>690750</numeroseao>
+    <numero>DS-206678</numero>
+    <datefinale>2013-12-03</datefinale>
+    <montantfinal>40000.000000</montantfinal>
+    <nomcontractant>Fanuc Robotique Canada Ltée</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>690848</numeroseao>
+    <numero>CA-277903</numero>
+    <datefinale>2014-01-23</datefinale>
+    <montantfinal>52547.450000</montantfinal>
+    <nomcontractant>Anur Enterprises Ltd</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>691401</numeroseao>
+    <numero>CA-278202</numero>
+    <datefinale>2013-12-19</datefinale>
+    <montantfinal>71388.300000</montantfinal>
+    <nomcontractant>Dalimar Instruments</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>691787</numeroseao>
+    <numero>AD2013-01</numero>
+    <datefinale>2014-12-31</datefinale>
+    <montantfinal>84444.480000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>692248</numeroseao>
+    <numero>PO 55350</numero>
+    <datefinale>2013-11-19</datefinale>
+    <montantfinal>27259.000000</montantfinal>
+    <nomcontractant>Dalimar Instruments</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>692772</numeroseao>
+    <numero>DCOM0242</numero>
+    <datefinale>2013-12-10</datefinale>
+    <montantfinal>32318.000000</montantfinal>
+    <nomcontractant>Le Groupe Quadriscan</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>692849</numeroseao>
+    <numero>DS-206755</numero>
+    <datefinale>2014-01-23</datefinale>
+    <montantfinal>8829.000000</montantfinal>
+    <nomcontractant>Mëkanic Infrastructure de recherche</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>693221</numeroseao>
+    <numero>CA-276812</numero>
+    <datefinale>2013-11-28</datefinale>
+    <montantfinal>62462.950000</montantfinal>
+    <nomcontractant>Perkin Elmer</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>693682</numeroseao>
+    <numero>SRM010922</numero>
+    <datefinale>2013-11-20</datefinale>
+    <montantfinal>80938.680000</montantfinal>
+    <nomcontractant>Roland Grenier Construction</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>694833</numeroseao>
+    <numero>38393</numero>
+    <datefinale>2014-01-22</datefinale>
+    <montantfinal>10403.380000</montantfinal>
+    <nomcontractant>Amélie Boilard</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>695326</numeroseao>
+    <numero>BC00043718</numero>
+    <datefinale>2014-01-24</datefinale>
+    <montantfinal>31557.500000</montantfinal>
+    <nomcontractant>Santérégie Inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>695369</numeroseao>
+    <numero>C-32463</numero>
+    <datefinale>2013-12-04</datefinale>
+    <montantfinal>36894.300000</montantfinal>
+    <nomcontractant>Les Puits Artésiens Deschênes Rivière-Ouelle Inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>695546</numeroseao>
+    <numero>BL003803</numero>
+    <datefinale>2013-11-27</datefinale>
+    <montantfinal>57642.230000</montantfinal>
+    <nomcontractant>ADOBE SYSTEMS INC.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>696376</numeroseao>
+    <numero>CGER 13 640056</numero>
+    <datefinale>2014-01-24</datefinale>
+    <montantfinal>210000.000000</montantfinal>
+    <nomcontractant>Performance Rimouski s.e.c.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>696896</numeroseao>
+    <numero># 13-611</numero>
+    <datefinale>2013-08-29</datefinale>
+    <montantfinal>75423.600000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>696960</numeroseao>
+    <numero># 13-612</numero>
+    <datefinale>2013-09-27</datefinale>
+    <montantfinal>74764.800000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>697313</numeroseao>
+    <numero>BC 44710</numero>
+    <datefinale>2014-01-03</datefinale>
+    <montantfinal>25398.000000</montantfinal>
+    <nomcontractant>Apple Canada IOnc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>697392</numeroseao>
+    <numero>2013-4</numero>
+    <datefinale>2013-09-30</datefinale>
+    <montantfinal>39522.660000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>697395</numeroseao>
+    <numero>2013-053</numero>
+    <datefinale>2013-11-08</datefinale>
+    <montantfinal>24535.500000</montantfinal>
+    <nomcontractant>AVW Telav inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>697397</numeroseao>
+    <numero># 13-606</numero>
+    <datefinale>2013-09-17</datefinale>
+    <montantfinal>40678.160000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>697402</numeroseao>
+    <numero># 13-610</numero>
+    <datefinale>2013-11-01</datefinale>
+    <montantfinal>53162.950000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>697450</numeroseao>
+    <numero>210018616</numero>
+    <datefinale>2013-11-12</datefinale>
+    <montantfinal>28932.200000</montantfinal>
+    <nomcontractant>Raymond Chabot Grant Thornton &amp; Cie</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>697963</numeroseao>
+    <numero>C-2147-2013</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>37261.580000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>698355</numeroseao>
+    <numero>600579438</numero>
+    <datefinale>2013-12-20</datefinale>
+    <montantfinal>30438.000000</montantfinal>
+    <nomcontractant>Novafor inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>698413</numeroseao>
+    <numero>CA-280179</numero>
+    <datefinale>2014-01-03</datefinale>
+    <montantfinal>99500.000000</montantfinal>
+    <nomcontractant>SYSTEMS FOR RESEARCH</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>698940</numeroseao>
+    <numero>BL003810</numero>
+    <datefinale>2013-12-09</datefinale>
+    <montantfinal>280554.000000</montantfinal>
+    <nomcontractant>IBM CANADA LIMITEE</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>700178</numeroseao>
+    <numero>2013-326</numero>
+    <datefinale>2014-01-25</datefinale>
+    <montantfinal>51806.010000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>701398</numeroseao>
+    <numero>GGR-351-13</numero>
+    <datefinale>2013-12-23</datefinale>
+    <montantfinal>88690.000000</montantfinal>
+    <nomcontractant>Zoom Media Inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>702601</numeroseao>
+    <numero>25641401</numero>
+    <datefinale>2014-01-14</datefinale>
+    <montantfinal>29670.000000</montantfinal>
+    <nomcontractant>TAPIDO ENRG.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>703874</numeroseao>
+    <numero>C-2013-11-18-GS-02 </numero>
+    <datefinale>2013-12-10</datefinale>
+    <montantfinal>41742.490000</montantfinal>
+    <nomcontractant>LSM Ambiocréateurs</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>703879</numeroseao>
+    <numero>C-2013-11-18-GS-01</numero>
+    <datefinale>2014-01-09</datefinale>
+    <montantfinal>31687.540000</montantfinal>
+    <nomcontractant>Hôtel du Jardin</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>704498</numeroseao>
+    <numero>131209-25</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>68015.900000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>704995</numeroseao>
+    <numero>C-2013-11-18-DB-01</numero>
+    <datefinale>2013-12-11</datefinale>
+    <montantfinal>46692.000000</montantfinal>
+    <nomcontractant>PQM.net</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>705033</numeroseao>
+    <numero>C-2013-11-18-GS-03</numero>
+    <datefinale>2014-01-10</datefinale>
+    <montantfinal>48726.750000</montantfinal>
+    <nomcontractant>AVW Telav (3627730 CANADA INC.)</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>705617</numeroseao>
+    <numero>2013-11-448</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>35021.400000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>706049</numeroseao>
+    <numero>p0059197</numero>
+    <datefinale>2013-12-16</datefinale>
+    <montantfinal>31513.480000</montantfinal>
+    <nomcontractant>Kaplan Schweser</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>706093</numeroseao>
+    <numero>BL003825</numero>
+    <datefinale>2013-12-13</datefinale>
+    <montantfinal>68111.880000</montantfinal>
+    <nomcontractant>THOMSON REUTERS (FINANCIAL &amp; RISK) CANADA</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>707575</numeroseao>
+    <numero>CR20130139</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>60000.000000</montantfinal>
+    <nomcontractant>Green Shield Canada</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>708554</numeroseao>
+    <numero>36468</numero>
+    <datefinale>2013-04-18</datefinale>
+    <montantfinal>49700.000000</montantfinal>
+    <nomcontractant>Jeunes explorateur d'un jour</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>708590</numeroseao>
+    <numero>SOLS2013</numero>
+    <datefinale>2013-11-01</datefinale>
+    <montantfinal>55269.000000</montantfinal>
+    <nomcontractant>Excavation Tourville inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>708634</numeroseao>
+    <numero>RM-2013-LCOP050</numero>
+    <datefinale>2013-11-20</datefinale>
+    <montantfinal>28545.800000</montantfinal>
+    <nomcontractant>ED-REC CITRUS</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>708653</numeroseao>
+    <numero>RM-2013-LCOP047</numero>
+    <datefinale>2013-10-21</datefinale>
+    <montantfinal>26460.000000</montantfinal>
+    <nomcontractant>ÉDUCATOURS</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>710058</numeroseao>
+    <numero>MA-1434</numero>
+    <datefinale>2013-12-20</datefinale>
+    <montantfinal>86000.000000</montantfinal>
+    <nomcontractant>Automatech Service inc</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>713715</numeroseao>
+    <numero>DSP10052013</numero>
+    <datefinale>2013-08-31</datefinale>
+    <montantfinal>46000.000000</montantfinal>
+    <nomcontractant>CROP Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>713726</numeroseao>
+    <numero>553032316</numero>
+    <datefinale>2013-09-27</datefinale>
+    <montantfinal>34000.000000</montantfinal>
+    <nomcontractant>Adviso Conseil inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>714088</numeroseao>
+    <numero>DS-207113</numero>
+    <datefinale>2014-01-21</datefinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant>PCI Automatisation Industrielle</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>714165</numeroseao>
+    <numero>7038</numero>
+    <datefinale>2013-12-20</datefinale>
+    <montantfinal>36868.000000</montantfinal>
+    <nomcontractant>Dexco Marquis Excavation (2013) inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>715040</numeroseao>
+    <numero>JANVIER2013/553032458</numero>
+    <datefinale>2013-10-31</datefinale>
+    <montantfinal>65000.000000</montantfinal>
+    <nomcontractant>Gestion Pierre-Paul Clermont 9189-7793 Québec Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>715044</numeroseao>
+    <numero>JANVIER2013/105025918</numero>
+    <datefinale>2013-03-31</datefinale>
+    <montantfinal>30000.000000</montantfinal>
+    <nomcontractant>Centre interuniversitaire de recherche en analyse des organisations (CIRANO)</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>715058</numeroseao>
+    <numero>700182342-1</numero>
+    <datefinale>2013-11-30</datefinale>
+    <montantfinal>41354.800000</montantfinal>
+    <nomcontractant>Brisson Louise</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>715063</numeroseao>
+    <numero>JANV2013/105024804/5821</numero>
+    <datefinale>2013-10-14</datefinale>
+    <montantfinal>98700.000000</montantfinal>
+    <nomcontractant>Chambre de commerce du Montréal métropolitain</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>715083</numeroseao>
+    <numero>700182343</numero>
+    <datefinale>2013-11-30</datefinale>
+    <montantfinal>94543.870000</montantfinal>
+    <nomcontractant>Francine Roy</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>715095</numeroseao>
+    <numero>700183867 </numero>
+    <datefinale>2013-11-30</datefinale>
+    <montantfinal>132727.190000</montantfinal>
+    <nomcontractant>Rita Dionne-Marsolais </nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>716093</numeroseao>
+    <numero>07-2013 </numero>
+    <datefinale>2013-11-15</datefinale>
+    <montantfinal>65457.790000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>716146</numeroseao>
+    <numero>367301721</numero>
+    <datefinale>2014-01-30</datefinale>
+    <montantfinal>26494.440000</montantfinal>
+    <nomcontractant>Joli-Coeur Lacasse S.E.N.C.R.L.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>716503</numeroseao>
+    <numero>44502435</numero>
+    <datefinale>2013-12-27</datefinale>
+    <montantfinal>71350.000000</montantfinal>
+    <nomcontractant>Siemens Canada Limitée</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>716532</numeroseao>
+    <numero>DSP23052013</numero>
+    <datefinale>2013-09-30</datefinale>
+    <montantfinal>30875.000000</montantfinal>
+    <nomcontractant>Chrisny Felix</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>716538</numeroseao>
+    <numero>25452202</numero>
+    <datefinale>2013-12-18</datefinale>
+    <montantfinal>62097.840000</montantfinal>
+    <nomcontractant>Jean-Paul Sabourin et Joseph Bénard</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>716559</numeroseao>
+    <numero>2013-016</numero>
+    <datefinale>2013-12-16</datefinale>
+    <montantfinal>30660.000000</montantfinal>
+    <nomcontractant>M. Daniel Daoust</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>717631</numeroseao>
+    <numero>25430900</numero>
+    <datefinale>2013-10-16</datefinale>
+    <montantfinal>43008.000000</montantfinal>
+    <nomcontractant>Géo-Énergie</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>717648</numeroseao>
+    <numero>316-2012</numero>
+    <datefinale>2012-10-31</datefinale>
+    <montantfinal>193090.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>718000</numeroseao>
+    <numero>1450713</numero>
+    <datefinale>2013-09-30</datefinale>
+    <montantfinal>27657.320000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>718089</numeroseao>
+    <numero>BOB131400539</numero>
+    <datefinale>2014-01-20</datefinale>
+    <montantfinal>26650.000000</montantfinal>
+    <nomcontractant>Les Équipements JPB</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>718624</numeroseao>
+    <numero>RM-2013-029-1</numero>
+    <datefinale>2014-01-14</datefinale>
+    <montantfinal>60318.700000</montantfinal>
+    <nomcontractant>Les Constructions Roland Lebel enr.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>719101</numeroseao>
+    <numero>RM-2013-029-2</numero>
+    <datefinale>2014-01-14</datefinale>
+    <montantfinal>66033.000000</montantfinal>
+    <nomcontractant>Les Constructions Roland Lebel enr.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>719238</numeroseao>
+    <numero>2013-10-01</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>45990.000000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>719693</numeroseao>
+    <numero>BL003759</numero>
+    <datefinale>2013-10-30</datefinale>
+    <montantfinal>70888.000000</montantfinal>
+    <nomcontractant>NOW SOLUTIONS INC.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>721952</numeroseao>
+    <numero>9.22-52075-02</numero>
+    <datefinale>2013-08-22</datefinale>
+    <montantfinal>65427.830000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>722029</numeroseao>
+    <numero>bc 283264</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>25728.000000</montantfinal>
+    <nomcontractant>CIM - Conseil en Immobilisation &amp; Management Inc.</nomcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>722040</numeroseao>
+    <numero>PG-2013</numero>
+    <datefinale>2013-12-31</datefinale>
+    <montantfinal>41963.730000</montantfinal>
+    <nomcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>722044</numeroseao>
+    <numero>PG-2014</numero>
+    <datefinale>2014-12-31</datefinale>
+    <montantfinal>40712.670000</montantfinal>
+    <nomcontractant />
+  </contrat>
+</export>

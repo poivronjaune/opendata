@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2016-09-01" datefin="2016-09-30">
+  <avis>
+    <numeroseao>599931</numeroseao>
+    <numero>12-13-29</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-12-31</datedepense>
+        <datepublicationdepense>2016-01-21</datepublicationdepense>
+        <montantdepense>1947.790000</montantdepense>
+        <description>Surplus de vêtements</description>
+        <nomcontractant>Les Uniformes W. Gradinger Ltée</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>759781</numeroseao>
+    <numero>14-111 - 158-2012LEVS1</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-07-14</datedepense>
+        <datepublicationdepense>2016-09-28</datepublicationdepense>
+        <montantdepense>2326.230000</montantdepense>
+        <description># 2 - Remplacement d'éléments de bois pourris n'ayant pas le pentes requises.</description>
+        <nomcontractant>Entreprises Ricbo inc.</nomcontractant>
+        <neqcontractant>1164409055</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-14</datedepense>
+        <datepublicationdepense>2016-09-28</datepublicationdepense>
+        <montantdepense>550.000000</montantdepense>
+        <description># 3 - Installation d'une plaque d'acier afin de  servir d'appui au nouveau drain.</description>
+        <nomcontractant>Entreprises Ricbo inc.</nomcontractant>
+        <neqcontractant>1164409055</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-14</datedepense>
+        <datepublicationdepense>2016-09-28</datepublicationdepense>
+        <montantdepense>900.000000</montantdepense>
+        <description># 4 - Installation de laine roxul afin de remplir des espacements existants sur le mur de façade des parapets.</description>
+        <nomcontractant>Entreprises Ricbo inc.</nomcontractant>
+        <neqcontractant>1164409055</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-14</datedepense>
+        <datepublicationdepense>2016-09-28</datepublicationdepense>
+        <montantdepense>17588.560000</montantdepense>
+        <description># 5 - Toiture: Correction des dépressions dans la dallle de béton, et fourniture et installlation d'une plaque d'acier pour obturation d'une ouverture au pontage existant.</description>
+        <nomcontractant>Entreprises Ricbo inc.</nomcontractant>
+        <neqcontractant>1164409055</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-14</datedepense>
+        <datepublicationdepense>2016-09-28</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 6 - (Crédit -2 200,00 $) pour travaux non réalisés - Toiture: Travaux de démolition du pare-vapeur existant (1200,00 $). Maçonnerie: Rejointoiement additionnel (1000,00 $).</description>
+        <nomcontractant>Entreprises Ricbo inc.</nomcontractant>
+        <neqcontractant>1164409055</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-14</datedepense>
+        <datepublicationdepense>2016-09-28</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 7 - (Crédit -5 000,00$) -Entente entre CSMB et Ricbo afin de ne pas terminer la correction des déficiences à l'exception de la plaque métallique d'un ancrage de but sur le plancher du gymnase.</description>
+        <nomcontractant>Entreprises Ricbo inc.</nomcontractant>
+        <neqcontractant>1164409055</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>883277</numeroseao>
+    <numero>15-071 / 2011JFKY1 / 2012</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-08-18</datedepense>
+        <datepublicationdepense>2016-09-13</datepublicationdepense>
+        <montantdepense>4455.000000</montantdepense>
+        <description>#2 - Réfection du balcon de l'entrée secondaire compte tenu que celui-ci est structural.</description>
+        <nomcontractant>MELK Construction</nomcontractant>
+        <neqcontractant>1148046502</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-18</datedepense>
+        <datepublicationdepense>2016-09-13</datepublicationdepense>
+        <montantdepense>2728.000000</montantdepense>
+        <description># 3 - Étanchéiser la base de béton et l'ouverture au mur de fondation.</description>
+        <nomcontractant>MELK Construction</nomcontractant>
+        <neqcontractant>1148046502</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-18</datedepense>
+        <datepublicationdepense>2016-09-13</datepublicationdepense>
+        <montantdepense>6745.520000</montantdepense>
+        <description># 4 - Modification du conduit de ventilation extérieur et relocalisation des conduits d'évents et d'alimentation de gaz naturel.</description>
+        <nomcontractant>MELK Construction</nomcontractant>
+        <neqcontractant>1148046502</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-18</datedepense>
+        <datepublicationdepense>2016-09-13</datepublicationdepense>
+        <montantdepense>1974.500000</montantdepense>
+        <description># 5 -  Modification aux alimentations électriques des ventilo-convecteurs des locaux 124-125-127 et 128.</description>
+        <nomcontractant>MELK Construction</nomcontractant>
+        <neqcontractant>1148046502</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-18</datedepense>
+        <datepublicationdepense>2016-09-13</datepublicationdepense>
+        <montantdepense>2029.500000</montantdepense>
+        <description># 1 - Imperméabilisation du nouveau palier structural à l'entrée latérale.</description>
+        <nomcontractant>MELK Construction</nomcontractant>
+        <neqcontractant>1148046502</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>885815</numeroseao>
+    <numero>1419</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-01-08</datedepense>
+        <datepublicationdepense>2016-01-08</datepublicationdepense>
+        <montantdepense>7882.950000</montantdepense>
+        <description>ODC 3 - dépassement des quantité excavé par rapport aux estimations initiales</description>
+        <nomcontractant>Excavation DDL</nomcontractant>
+        <neqcontractant>1146070991</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-01-08</datedepense>
+        <datepublicationdepense>2016-01-08</datepublicationdepense>
+        <montantdepense>2375.000000</montantdepense>
+        <description>ODC 1 - Remplacement d'une conduite de 18 po non prévue</description>
+        <nomcontractant>Excavation DDL</nomcontractant>
+        <neqcontractant>1146070991</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-01-08</datedepense>
+        <datepublicationdepense>2016-01-08</datepublicationdepense>
+        <montantdepense>4275.000000</montantdepense>
+        <description>ODC 2 - Remblayage sous bâtiment existant</description>
+        <nomcontractant>Excavation DDL</nomcontractant>
+        <neqcontractant>1146070991</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-01-08</datedepense>
+        <datepublicationdepense>2016-01-08</datepublicationdepense>
+        <montantdepense>4787.840000</montantdepense>
+        <description>ODC 4 - Modification des classes de matériel de remblai</description>
+        <nomcontractant>Excavation DDL</nomcontractant>
+        <neqcontractant>1146070991</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>889881</numeroseao>
+    <numero>P13040HH-14033HH</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-08-29</datedepense>
+        <datepublicationdepense>2016-09-07</datepublicationdepense>
+        <montantdepense>44897.460000</montantdepense>
+        <description>ODC 01 et ODC 02 Conditions de chantier et agrandir locaux entrée d'eau</description>
+        <nomcontractant>Biron. (9170-7570 Qc inc.)</nomcontractant>
+        <neqcontractant>1163792774</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-16</datedepense>
+        <datepublicationdepense>2016-09-19</datepublicationdepense>
+        <montantdepense>3733.860000</montantdepense>
+        <description>ODC 3</description>
+        <nomcontractant>Biron. (9170-7570 Qc inc.)</nomcontractant>
+        <neqcontractant>1163792774</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>891064</numeroseao>
+    <numero>627713-0000</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-07-15</datedepense>
+        <datepublicationdepense>2016-09-29</datepublicationdepense>
+        <montantdepense>6361.100000</montantdepense>
+        <description>Désamiantage supplémentaire</description>
+        <nomcontractant>P.D.G. Industries inc.</nomcontractant>
+        <neqcontractant>1165603805</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-10-22</datedepense>
+        <datepublicationdepense>2016-09-29</datepublicationdepense>
+        <montantdepense>4366.560000</montantdepense>
+        <description>Travaux divers - isolation, ajout d'un neutre dans le caniveau, tuyeau de chauffage 25mm</description>
+        <nomcontractant>P.D.G. Industries inc.</nomcontractant>
+        <neqcontractant>1165603805</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-08-05</datedepense>
+        <datepublicationdepense>2016-09-29</datepublicationdepense>
+        <montantdepense>8645.980000</montantdepense>
+        <description>Fermer mur coupe-feu, démantèlement conduits électrique</description>
+        <nomcontractant>P.D.G. Industries inc.</nomcontractant>
+        <neqcontractant>1165603805</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>896265</numeroseao>
+    <numero>14180</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-08-13</datedepense>
+        <datepublicationdepense>2015-10-05</datepublicationdepense>
+        <montantdepense>7386.900000</montantdepense>
+        <description>Percer la cloison entre les locaux 3508 et 3509 plutôt que de percer entre 3508 et 3511. Peinturer les cloisons touchées par les travaux ainsi que tous les murs du local 3511.</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-08-24</datedepense>
+        <datepublicationdepense>2015-10-05</datepublicationdepense>
+        <montantdepense>1353.880000</montantdepense>
+        <description>Nettoyer le clin existant sur la façade de l'escalier ESC3, en prenant les précautions necessaires afin de protéger l'étanchéité des fenêtres (joints) et des fondations existantes.</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-08-24</datedepense>
+        <datepublicationdepense>2015-10-05</datepublicationdepense>
+        <montantdepense>799.700000</montantdepense>
+        <description>Installer gypse au plafond du local 1004 et de l'entrée devant l'escalier ECS1 dans la pièce 1001. Démolir une portion du mur adjacent entre le local 1051 et le vide au-dessus de la pièce 1003. Crédit pour la démolition du plancher et le ragréage des murs de la pièce 1051 (annulé).</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-08-24</datedepense>
+        <datepublicationdepense>2015-10-05</datepublicationdepense>
+        <montantdepense>12505.100000</montantdepense>
+        <description>Nouvelles divisions dans le secteur de la maternelle. Travaux local 3001, 3002, 3003 3004,3007, 3008, 3009 et 3010. Mettre gypse sur fourrure sous les solives de toit des locaux. Démolir la retombée de gypse P6, le long du corridor. </description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-08-24</datedepense>
+        <datepublicationdepense>2015-10-05</datepublicationdepense>
+        <montantdepense>11578.400000</montantdepense>
+        <description>Fournir le coût pour modifier l'aménagement du local 1010. Fournir et installer une nouvelle porte P1010-1.</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-08-25</datedepense>
+        <datepublicationdepense>2015-10-05</datepublicationdepense>
+        <montantdepense>3450.500000</montantdepense>
+        <description>Démolition de la boîte de béton. Remplacer la conduite entre le bâtiment et le puits. Remplacer la tête de puits existante. Aménager monticule de 600 mm de hauteur autour du puits. Raccorder la pompe. Prévoir la prise de mesure sur place par un puisatier. Fournir les dessins de la tête de puits.</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-08-25</datedepense>
+        <datepublicationdepense>2015-10-05</datepublicationdepense>
+        <montantdepense>4439.050000</montantdepense>
+        <description>Procéder à l'abattage de l'arbre centenaire situé au coin nord-ouest de l'école.</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-09-10</datedepense>
+        <datepublicationdepense>2015-10-05</datepublicationdepense>
+        <montantdepense>29125.250000</montantdepense>
+        <description>Modification des travux civils: Modifier la zone de réfection du pavage. Ajouter un trottoir en façade. Ajouter marquage pour stationnement. Ajouter un puisard.</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-09-10</datedepense>
+        <datepublicationdepense>2015-10-05</datepublicationdepense>
+        <montantdepense>967.490000</montantdepense>
+        <description>Débrancher et rebrancher la pompe de puits 240V pour permettre la modification de la tête de puits. Fournir et installer 2 prises pour les systèmes de "UV" et d'adoucisseur d'eau. Installation en surface sur le support des panneaux de contrôle, en face des réservoirs d'eau. Fournir 2 disjoncteurs.</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-09-10</datedepense>
+        <datepublicationdepense>2015-10-05</datepublicationdepense>
+        <montantdepense>1372.890000</montantdepense>
+        <description>Vestibule 2001, l'entrepreneur doit débrancher l'aéroconvecteur mural existant, éliminer la filerie jusqu'à la source et remettre au propriétaire. Fournir un nouvel aéroconvecteur mural de 4000W/347V thermostat intégré, l'installer sur le mur opposé, fournir un sectionneur 30A/fusible à 20A</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-09-10</datedepense>
+        <datepublicationdepense>2015-10-05</datepublicationdepense>
+        <montantdepense>2061.590000</montantdepense>
+        <description>Remplacer l'interrupteur simple par deux interrupteurs 3 voies pour l'éclairage du local. Ajouter deux indicateurs d'issues et deux projecteurs d'urgence doubles. Après la pose du gypse, du scellant coupe-feu doit être mis pour chaque ouverture associée à la filerie d'électricité. </description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-09-10</datedepense>
+        <datepublicationdepense>2015-10-05</datepublicationdepense>
+        <montantdepense>377.610000</montantdepense>
+        <description>L'entrepreneur doit se référer aux croquis pour l'aménagement des locaux 3001, 3003, 3008, 3009 et le corridor d'accès à l'ascenseur. Il doit éliminer l'interrupteur d'éclairage du local 3509 et raccorder l'éclairage existant du local 3509 et l'éclairage 3508.</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-09-10</datedepense>
+        <datepublicationdepense>2015-10-05</datepublicationdepense>
+        <montantdepense>1989.740000</montantdepense>
+        <description>L'entrepreneur doit prévoir enlever et réinstaller le luminaire du local 1004. Il doit ajouter un 2e détecteur thermique dans le local 1004 pour qu'il y en ait un de chaque côté de la retombée centrale. Ajout un interrupteur d'éclairage et de 2 luminiares dans les locaux 1002 et 1003. </description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-09-10</datedepense>
+        <datepublicationdepense>2015-10-05</datepublicationdepense>
+        <montantdepense>1851.560000</montantdepense>
+        <description>Remplacement des câbles dont l'isolant est désuet pour maintenir les appareils en fonction. Remplacement des câbles non conformes pour réalimenter les sorties à relocaliser. Relocaliser les  4 boîtes de jonctions cachés dans la retombée du niveau 3000. </description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-09-10</datedepense>
+        <datepublicationdepense>2015-10-05</datepublicationdepense>
+        <montantdepense>1100.000000</montantdepense>
+        <description>Suite à une décision de M. Elphèse Thibodeau qui assure le suivi des travaux de désamiantage, Indusco a dû, à la demande de M. Thibodeau, procéder à la modification de l'enceinte # 5 à votre devis pour un rique élevé avec douche dû au volume rencontré.</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-09-22</datedepense>
+        <datepublicationdepense>2015-10-30</datepublicationdepense>
+        <montantdepense>51055.210000</montantdepense>
+        <description>Faire une base de contreplaqué rectangulaire, une colonne et couvrir la structure aux endroits indiqués pour la pose de coussin protecteur. 4 lecteurs de cartes pour ascenseur et 2 controleurs. Divers travaux afin de permettre les travaux de structure à la fondation de pierre existante. </description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-10-27</datedepense>
+        <datepublicationdepense>2015-11-17</datepublicationdepense>
+        <montantdepense>27549.220000</montantdepense>
+        <description>Récupération et réinstallation des casiers. Relocaliser le calorifère du local 3001. Mise à la terre et opérateurs de porte motorisée. Travaux électriques et de plomberie.Extermination des fourmis charpentières découvertes lors des travaux. </description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-10-15</datedepense>
+        <datepublicationdepense>2015-11-17</datepublicationdepense>
+        <montantdepense>27388.630000</montantdepense>
+        <description>Coût pour étaiement de Levage Senay qui est le seul sous-traitant à forfait pour cette demande.</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-10-20</datedepense>
+        <datepublicationdepense>2015-11-17</datepublicationdepense>
+        <montantdepense>37490.230000</montantdepense>
+        <description>Modification des niveaux de terrain et de l'aménagement (côté est). Agrandissement de la dalle de béton de l'entrée du sous-sol. Excavation et remblayage par la tranchée électrique et la base de lampadaire. Ajout d'un réseau d'égout pluvial afin de raccorder le drain de l'ascenseur. </description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-10-27</datedepense>
+        <datepublicationdepense>2015-11-17</datepublicationdepense>
+        <montantdepense>13647.160000</montantdepense>
+        <description>Une structure de bois était prévue pour l'ouverture de l'ascenseur au niveau 3000. Remplacer cette structure de bois par une structure d'acier. </description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-10-27</datedepense>
+        <datepublicationdepense>2015-11-17</datepublicationdepense>
+        <montantdepense>11811.270000</montantdepense>
+        <description>Isolation de la conduite d'eau potable qui alimente les loisirs de la municipalité. Ajouter une tranchée drainante dans le parc de l'école. Révision des niveaux de terrain fini. Ajout d'un palier de béton. Modification de la porte P1010.</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-11-03</datedepense>
+        <datepublicationdepense>2015-11-17</datepublicationdepense>
+        <montantdepense>700.700000</montantdepense>
+        <description>Fournir et installer les câbles suivants: de type catégorie 6, plus ou moins 125 pieds, de type téléphonique, 2 fois plus ou moins 60 pieds. Il doit fixer les câbles bas voltage existants dans les locaux 1008 et 1010.</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-11-10</datedepense>
+        <datepublicationdepense>2016-01-29</datepublicationdepense>
+        <montantdepense>4216.460000</montantdepense>
+        <description>Travaux de renfort des plaques d'ancrages des colonnes d'acier existantes de la vieille partie de l'école (1906).</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-11-17</datedepense>
+        <datepublicationdepense>2016-01-29</datepublicationdepense>
+        <montantdepense>11077.790000</montantdepense>
+        <description>Agrandissement du stationnement sur la rue Ste-Anne, transplantation d'arbres, Abattre 15 arbres en façade.</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-12-01</datedepense>
+        <datepublicationdepense>2016-01-29</datepublicationdepense>
+        <montantdepense>13766.020000</montantdepense>
+        <description>Ancrage de la structure de l'ascenseur au bâtiment existant. Installation d'un garde-corps en acier peint. Tous les tuyaux de chauffage montant et passant au travers le plafond (plancher niveau 2000) devront être descendus de ± 100mm.</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-12-08</datedepense>
+        <datepublicationdepense>2016-01-29</datepublicationdepense>
+        <montantdepense>4038.660000</montantdepense>
+        <description>Finition dans les locaux 1014, 1001, 1011, 1015 et ESC2 - niveau 2000. Remplacement de la gouttière horizontale et descentes de gouttières.Centrale d'alarme et ligne cellulaire d'alarme incendie.Travaux de plomberie niveau 3000.</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-12-08</datedepense>
+        <datepublicationdepense>2016-01-29</datepublicationdepense>
+        <montantdepense>20577.500000</montantdepense>
+        <description>Remplacement des lisses existantes le long du mur extérieur sous le local 2503. Construction d'un mur porteur et peinture. Réparation de fissures local 3511 et le mur au bas de l'escalier ESC3.</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-12-15</datedepense>
+        <datepublicationdepense>2016-01-29</datepublicationdepense>
+        <montantdepense>52059.830000</montantdepense>
+        <description>Travaux complet de l'entrée d'eau et remplacement de l'aérotherme électrique du niveau 2000, par un appareil neuf en surface de la même puissance que l'existant.</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-11-16</datedepense>
+        <datepublicationdepense>2016-01-29</datepublicationdepense>
+        <montantdepense>997.000000</montantdepense>
+        <description>nnulation de la pompe PS-2. Crédit de -3 092,98. Travaux de plomberie et chauffage niveau 2000. Ventilation - niveau 1000, vide ascenseur.</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-11-24</datedepense>
+        <datepublicationdepense>2016-01-29</datepublicationdepense>
+        <montantdepense>3083.760000</montantdepense>
+        <description>Installer un dispositif anti-refoulement à double clapets. Installation d'un luminaire mural. Installation de huit miroirs. Installation de coins de protections. Ajouter un drain perforé de fondation. Exterminer les fourmis dans le bâtiment. Fournir et installer un plafond suspendu.</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-22</datedepense>
+        <datepublicationdepense>2016-03-17</datepublicationdepense>
+        <montantdepense>3120.320000</montantdepense>
+        <description>Pour les travaux d'excavation dans le secteur de l'ascenseur, l'entrepreneur a dû soutenir le poteau d'utilité publique durant un délai additionnel de 4 semaines en raison des travaux de reconstruction des murs de fondation.</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-01-27</datedepense>
+        <datepublicationdepense>2016-03-17</datepublicationdepense>
+        <montantdepense>7905.590000</montantdepense>
+        <description>Peinture local 1004 et retirer 2 x 4 sur le mur de la classe 3006 et repeindre. Ajout d'un garde-corps sur le palier de béton à l'extérieur de la pièce 2510. Pose de revêtement de vinyle verticale sur la petite portion du gymnase dans l'enlignement de l'axe A de l'ascenseur.</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-23</datedepense>
+        <datepublicationdepense>2016-03-17</datepublicationdepense>
+        <montantdepense>11344.690000</montantdepense>
+        <description>Reprendre la descente de gouttière de la nouvelle marquise. Ragréer les murs de l'escalier # 1 et 2. Réparer ou changer le soffite. Ajouter une plaque soudée entre le mur et l'escalier du corridor 3004. Faire la réparation des solives coupées près de l'ascenseur. Ajout de deux trappes d'accès.</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-10</datedepense>
+        <datepublicationdepense>2016-03-17</datepublicationdepense>
+        <montantdepense>8366.380000</montantdepense>
+        <description>Nouvelle marquise.</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-16</datedepense>
+        <datepublicationdepense>2016-05-11</datepublicationdepense>
+        <montantdepense>5493.830000</montantdepense>
+        <description>Travaux complémentaires: éliminer ancien carillon; ajout de grilles de protection; remplacer les acryliques des luminaires; remplacedr des prises électriques; câblage pour la téléphonie.</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-03-02</datedepense>
+        <datepublicationdepense>2016-05-11</datepublicationdepense>
+        <montantdepense>669.690000</montantdepense>
+        <description>Ragréer le plancher des locaux 3508, 3509, 3510.</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-04-01</datedepense>
+        <datepublicationdepense>2016-05-11</datepublicationdepense>
+        <montantdepense>5507.340000</montantdepense>
+        <description>Ragréer le clin de vinyle existant à deux endroits. Remplacer et déplacer un butoir de plancher. Désamiantage et intallation de 6 coins de protections et d'une trappe d'accès, installation de tuiles accoustiques, d'un nez de marche et d'un ventilateur, ragréer la dalle de béton. Repeindre du lambris</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-05-18</datedepense>
+        <datepublicationdepense>2016-09-19</datepublicationdepense>
+        <montantdepense>800.860000</montantdepense>
+        <description>Relocaliser le sectionneur et le boîtier de contrôle de la pompe. Fournir et installer une boîte de jonction pour permettre la relocalisation.</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-06-01</datedepense>
+        <datepublicationdepense>2016-09-19</datepublicationdepense>
+        <montantdepense>554.990000</montantdepense>
+        <description>En rapport avec le nouveau système d'eau potable, faire dalle de propreté pour réservoir dans le vide technique.</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-15</datedepense>
+        <datepublicationdepense>2016-09-19</datepublicationdepense>
+        <montantdepense>35.210000</montantdepense>
+        <description>Rehaussement du puisard = 432.21 Fournir un crédit pour les cinq coussins de protection du gymnase = (397.00).</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-05-10</datedepense>
+        <datepublicationdepense>2016-09-21</datepublicationdepense>
+        <montantdepense>134283.490000</montantdepense>
+        <description>Une condition de chantier, remplacer les murs de fondation originalement conçu en pierre par une fondation de béton, ainsi que des travaux associés au mouvement du bâtiment.</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>945470</numeroseao>
+    <numero>15-185 - 4CFPD.AGR</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-05-25</datedepense>
+        <datepublicationdepense>2016-05-31</datepublicationdepense>
+        <montantdepense>1389.440000</montantdepense>
+        <description># 1- Omission architecture. Fournir une gargouille pour chacun des cinq nouveaux bassins.La dépense est couverte par le budget. Ces travaux ne dénaturent pas le projet. La séquence des numéros a été validée</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-06-17</datedepense>
+        <datepublicationdepense>2016-06-22</datepublicationdepense>
+        <montantdepense>1214.370000</montantdepense>
+        <description># 2- Omission architecture. Fournir un comptoir et un dosseret en acier inox pour remplacer un comptoir et dosseret en stratifié</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-14</datedepense>
+        <datepublicationdepense>2016-09-21</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 3 - Crédit ( -564,26 $) - Annuler les travaux de gicleur prévu dans le bâtiment existant (locaux N-216 et N-227)</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-18</datedepense>
+        <datepublicationdepense>2016-09-21</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 4 - (Crédit) - Annuler deux essais dynamiques sur les pieux et annuler quatre pieux pour sous-oeuvre.</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-18</datedepense>
+        <datepublicationdepense>2016-09-21</datepublicationdepense>
+        <montantdepense>599.130000</montantdepense>
+        <description># 5 - Remettre le plafond existant à niveau dans le local D-240.</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-18</datedepense>
+        <datepublicationdepense>2016-09-21</datepublicationdepense>
+        <montantdepense>511.310000</montantdepense>
+        <description># 6 - Enlever le revêtement de plancher dans le corridor N-148.</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-18</datedepense>
+        <datepublicationdepense>2016-09-21</datepublicationdepense>
+        <montantdepense>1393.330000</montantdepense>
+        <description># 7 - Désamiantage de l'isolant sur la valve et sur le coude de la tuyauterie d'eau froide.</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-24</datedepense>
+        <datepublicationdepense>2016-09-21</datepublicationdepense>
+        <montantdepense>2655.760000</montantdepense>
+        <description># 8 - Enlèvement du crépi cimentaire et d'isolant au plafond du puits mécanique existant pour l'installation des conduits de ventilation.</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-09</datedepense>
+        <datepublicationdepense>2016-09-27</datepublicationdepense>
+        <montantdepense>12532.950000</montantdepense>
+        <description># 9 - Condition de chantier: CIVIL : Le volume de sol contaminé excavé en présence du laboratoire était plus élevé.</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>947015</numeroseao>
+    <numero>445-05-325</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-07-21</datedepense>
+        <datepublicationdepense>2016-09-28</datepublicationdepense>
+        <montantdepense>31080.820000</montantdepense>
+        <description>Imprévu de chantier</description>
+        <nomcontractant>Poulin Électrique (Claude Poulin)</nomcontractant>
+        <neqcontractant>1148666176</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>950812</numeroseao>
+    <numero>16-021 - 3EMINM.02</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-03-01</datedepense>
+        <datepublicationdepense>2016-03-01</datepublicationdepense>
+        <montantdepense>1023.000000</montantdepense>
+        <description>1-Installation de tablettes dans le nouveau rangement du gymnase (local 158.2). </description>
+        <nomcontractant>Anjalec Construction inc.</nomcontractant>
+        <neqcontractant>1146549275</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-03-04</datedepense>
+        <datepublicationdepense>2016-03-14</datepublicationdepense>
+        <montantdepense>1862.890000</montantdepense>
+        <description>2-  Retirer les plinthes de caoutchouc du contrat. Nettoyage et installation des moulures d'aluminium existantes. Ces travaux ne dénaturent pas le projet.</description>
+        <nomcontractant>Anjalec Construction inc.</nomcontractant>
+        <neqcontractant>1146549275</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-03-07</datedepense>
+        <datepublicationdepense>2016-03-14</datepublicationdepense>
+        <montantdepense>1226.500000</montantdepense>
+        <description>3-Ajout de 60 points au plancher du gymnase (lignage). Ces travaux ne dénaturent pas le projet. </description>
+        <nomcontractant>Anjalec Construction inc.</nomcontractant>
+        <neqcontractant>1146549275</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>959908</numeroseao>
+    <numero>15m51_2016-03-02</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-06-10</datedepense>
+        <datepublicationdepense>2016-07-05</datepublicationdepense>
+        <montantdepense>22886.250000</montantdepense>
+        <description>O de C # 1 : Condition d'amiante</description>
+        <nomcontractant>Paul A. Bisson Inc.</nomcontractant>
+        <neqcontractant>1142841130</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-06-28</datedepense>
+        <datepublicationdepense>2016-07-05</datepublicationdepense>
+        <montantdepense>24951.420000</montantdepense>
+        <description>O de C # 2 : Travaux divers et réaménagement salle de bain</description>
+        <nomcontractant>Paul A. Bisson Inc.</nomcontractant>
+        <neqcontractant>1142841130</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-30</datedepense>
+        <datepublicationdepense>2016-09-15</datepublicationdepense>
+        <montantdepense>23542.740000</montantdepense>
+        <description>O de C # 3: Réparation terrazo, démolition mur, travaux divers.</description>
+        <nomcontractant>Paul A. Bisson Inc.</nomcontractant>
+        <neqcontractant>1142841130</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-27</datedepense>
+        <datepublicationdepense>2016-09-29</datepublicationdepense>
+        <montantdepense>428.210000</montantdepense>
+        <description>O de C # 4 - Quincaillerie</description>
+        <nomcontractant>Paul A. Bisson Inc.</nomcontractant>
+        <neqcontractant>1142841130</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>974149</numeroseao>
+    <numero>15-16-62</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-08-16</datedepense>
+        <datepublicationdepense>2016-09-06</datepublicationdepense>
+        <montantdepense>396.000000</montantdepense>
+        <description>Remplacé la valve de l'entrée d'eau à l'école le Bourg-Neuf</description>
+        <nomcontractant>Plomberie Aquada inc.</nomcontractant>
+        <neqcontractant>1164361447</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-16</datedepense>
+        <datepublicationdepense>2016-09-06</datepublicationdepense>
+        <montantdepense>1598.850000</montantdepense>
+        <description>Remplacé la valve de l'entrée d'eau à l'école du Moulin</description>
+        <nomcontractant>Plomberie Aquada inc.</nomcontractant>
+        <neqcontractant>1164361447</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-16</datedepense>
+        <datepublicationdepense>2016-09-06</datepublicationdepense>
+        <montantdepense>12426.500000</montantdepense>
+        <description>Remplacement de l'entrée d'eau - Relocalisation de la tuyauterie existante en aval du nouveau dispositif antirefoulement à l'école Pie-XII</description>
+        <nomcontractant>Plomberie Aquada inc.</nomcontractant>
+        <neqcontractant>1164361447</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>974877</numeroseao>
+    <numero>S01-15174</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-07-08</datedepense>
+        <datepublicationdepense>2016-08-09</datepublicationdepense>
+        <montantdepense>446.730000</montantdepense>
+        <description>Ajouter des ancrages au allèges de béton pour éviter qu'elles ne versent vers l'avant</description>
+        <nomcontractant>Construction Olivier &amp; Lyonnais Inc..</nomcontractant>
+        <neqcontractant>1142640003</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-20</datedepense>
+        <datepublicationdepense>2016-09-15</datepublicationdepense>
+        <montantdepense>2135.160000</montantdepense>
+        <description>Démantèlement du câblage électrique et relocalisation d'un interrupteur. Installation de trois boitiers de sorties électriques. </description>
+        <nomcontractant>Construction Olivier &amp; Lyonnais Inc..</nomcontractant>
+        <neqcontractant>1142640003</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-08</datedepense>
+        <datepublicationdepense>2016-09-15</datepublicationdepense>
+        <montantdepense>734.760000</montantdepense>
+        <description>Local 19 - fournir et installer la tuile de céramique pour la différence de hauteur en rapport avec le plan. Démantèlement d'une conduite inutilisé.</description>
+        <nomcontractant>Construction Olivier &amp; Lyonnais Inc..</nomcontractant>
+        <neqcontractant>1142640003</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-10</datedepense>
+        <datepublicationdepense>2016-09-15</datepublicationdepense>
+        <montantdepense>4893.980000</montantdepense>
+        <description>Fournir et installation de luminaires ext. Remplacer une allège de granite. Repeindre le plafond du local 16. Ragréage non inclus. Fixer la porte extérieure droite en façade.</description>
+        <nomcontractant>Construction Olivier &amp; Lyonnais Inc..</nomcontractant>
+        <neqcontractant>1142640003</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-10</datedepense>
+        <datepublicationdepense>2016-09-15</datepublicationdepense>
+        <montantdepense>1986.250000</montantdepense>
+        <description>Ajout d'un contreplaqué derrière le mur des urinoirs. Soufflage muret sous fenêtre local 19.</description>
+        <nomcontractant>Construction Olivier &amp; Lyonnais Inc..</nomcontractant>
+        <neqcontractant>1142640003</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-22</datedepense>
+        <datepublicationdepense>2016-09-15</datepublicationdepense>
+        <montantdepense>341.980000</montantdepense>
+        <description>Peindre le bord du béton aux toitures des deux entrées.</description>
+        <nomcontractant>Construction Olivier &amp; Lyonnais Inc..</nomcontractant>
+        <neqcontractant>1142640003</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-22</datedepense>
+        <datepublicationdepense>2016-09-15</datepublicationdepense>
+        <montantdepense>418.690000</montantdepense>
+        <description>Raccourcir les mains-courantes de l'escalier existant arrière.</description>
+        <nomcontractant>Construction Olivier &amp; Lyonnais Inc..</nomcontractant>
+        <neqcontractant>1142640003</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>975728</numeroseao>
+    <numero>27949300</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-04-21</datedepense>
+        <datepublicationdepense>2016-04-26</datepublicationdepense>
+        <montantdepense>2475.000000</montantdepense>
+        <description>Honoraires additionnels pour 5 visites supplémentaires</description>
+        <nomcontractant>PLANIFITECH INC.</nomcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-12-10</datedepense>
+        <datepublicationdepense>2016-09-20</datepublicationdepense>
+        <montantdepense>997.500000</montantdepense>
+        <description>Honoraires pour une demande de changement client DDC PCM-1 et PCE-01</description>
+        <nomcontractant>PLANIFITECH INC.</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1002524</numeroseao>
+    <numero>31411201</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-07-20</datedepense>
+        <datepublicationdepense>2016-07-26</datepublicationdepense>
+        <montantdepense>25000.000000</montantdepense>
+        <description>Gardiennage supplémentaire</description>
+        <nomcontractant>Groupe de sécurité GARDA SENC.</nomcontractant>
+        <neqcontractant>3368599133</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+</export>

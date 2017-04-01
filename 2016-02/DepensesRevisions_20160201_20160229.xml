@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2016-02-01" datefin="2016-02-29">
+  <avis>
+    <numeroseao>623231</numeroseao>
+    <numero>25-1974P</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-09-16</datedepense>
+        <datepublicationdepense>2014-11-03</datepublicationdepense>
+        <montantdepense>8674.390000</montantdepense>
+        <description>A-33-748, avenant 1</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-10-24</datedepense>
+        <datepublicationdepense>2014-11-03</datepublicationdepense>
+        <montantdepense>33749.040000</montantdepense>
+        <description>A-33-748, avenant 2</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>668173</numeroseao>
+    <numero>25-2044P</numero>
+    <depenses>
+      <depense>
+        <datedepense>2014-01-23</datedepense>
+        <datepublicationdepense>2015-02-10</datepublicationdepense>
+        <montantdepense>20243.600000</montantdepense>
+        <description>A-33-773, résolution 2014-02-11, avenant M1</description>
+        <nomcontractant>Neve Refrigeration Inc</nomcontractant>
+        <neqcontractant>1142956318</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>731896</numeroseao>
+    <numero>4303-13-ZZ05</numero>
+    <depenses />
+  </avis>
+  <avis>
+    <numeroseao>753699</numeroseao>
+    <numero>14086</numero>
+    <depenses>
+      <depense>
+        <datedepense>2014-09-10</datedepense>
+        <datepublicationdepense>2014-10-28</datepublicationdepense>
+        <montantdepense>866.490000</montantdepense>
+        <description>1-Parition d'urinoirs</description>
+        <nomcontractant>Construction Maju ltée</nomcontractant>
+        <neqcontractant>1142943647</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2014-10-08</datedepense>
+        <datepublicationdepense>2014-10-28</datepublicationdepense>
+        <montantdepense>1764.640000</montantdepense>
+        <description>2-Modifier le sens des portes pc2.2 et pc2.3</description>
+        <nomcontractant>Construction Maju ltée</nomcontractant>
+        <neqcontractant>1142943647</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2014-10-08</datedepense>
+        <datepublicationdepense>2014-10-28</datepublicationdepense>
+        <montantdepense>21429.410000</montantdepense>
+        <description>3- Travaux requis en structure (plans incomplets)</description>
+        <nomcontractant>Construction Maju ltée</nomcontractant>
+        <neqcontractant>1142943647</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2014-10-08</datedepense>
+        <datepublicationdepense>2014-10-28</datepublicationdepense>
+        <montantdepense>406.070000</montantdepense>
+        <description>4-Éléments à démolir</description>
+        <nomcontractant>Construction Maju ltée</nomcontractant>
+        <neqcontractant>1142943647</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2014-10-08</datedepense>
+        <datepublicationdepense>2014-10-28</datepublicationdepense>
+        <montantdepense>24436.920000</montantdepense>
+        <description>5-Soufflage de gypse au gymnase suite à la démolitions</description>
+        <nomcontractant>Construction Maju ltée</nomcontractant>
+        <neqcontractant>1142943647</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2014-10-08</datedepense>
+        <datepublicationdepense>2014-10-28</datepublicationdepense>
+        <montantdepense>506.000000</montantdepense>
+        <description>6-Soufflage au-dessus de la murale (hall d'entrée)</description>
+        <nomcontractant>Construction Maju ltée</nomcontractant>
+        <neqcontractant>1142943647</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-02-27</datedepense>
+        <datepublicationdepense>2015-03-31</datepublicationdepense>
+        <montantdepense>3302.280000</montantdepense>
+        <description>7- Déplacement de l'évent (conditions de chantier). Lors d'un percement de la dalle, un évent (non-connu) est apparu dans la trajectoire de la conduite de ventilation. il faut donc déplacer l'évent. La portée des travaux reste intégrale.</description>
+        <nomcontractant>Construction Maju ltée</nomcontractant>
+        <neqcontractant>1142943647</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-02-27</datedepense>
+        <datepublicationdepense>2015-03-31</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>8- Crédit: Pour l'inspection en quincaillerie prévue contractuellement par l'entrepreneur. Le mandat sera plutôt confié à un autre entrepreneur spécialisé, plus impartial. Crédit acceptable au montant exact soumissionné.</description>
+        <nomcontractant>Construction Maju ltée</nomcontractant>
+        <neqcontractant>1142943647</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-02-27</datedepense>
+        <datepublicationdepense>2015-03-31</datepublicationdepense>
+        <montantdepense>2333.020000</montantdepense>
+        <description>9- Lors du montant accordé par les professionnels pour l'ODC A9r1 (l'entrepreneur a déposé un avis de différend), le 15% pour administration et profils de l'entrepreneur a été omis. Comme il n'est plus possible de modifié l'ODC, le présent ODC sert à ajuster le tout.</description>
+        <nomcontractant>Construction Maju ltée</nomcontractant>
+        <neqcontractant>1142943647</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-02-27</datedepense>
+        <datepublicationdepense>2015-03-31</datepublicationdepense>
+        <montantdepense>4079.580000</montantdepense>
+        <description>10- Révision des travaux de structure. Suite à la démolition des plafonds, des éléments structuraux non relevés (caché par les plafonds) entravent le parcours des nouveaux supports de lavabo. Il faut donc modifier ceux-ci et faire des renforts structuraux dans les percements de la ventilation.</description>
+        <nomcontractant>Construction Maju ltée</nomcontractant>
+        <neqcontractant>1142943647</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-02-27</datedepense>
+        <datepublicationdepense>2015-03-31</datepublicationdepense>
+        <montantdepense>426.070000</montantdepense>
+        <description>11- Travaux de ventilation pour effectuer les travaux de S2. Suite à la modification S2 (conditions de chantier), des modification aux gaines de ventilation sont également nécessaires. </description>
+        <nomcontractant>Construction Maju ltée</nomcontractant>
+        <neqcontractant>1142943647</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-18</datedepense>
+        <datepublicationdepense>2016-02-25</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>12- CRÉDIT: 5 397.79$ - Paiement permis de construction, prévu contractuellement par l'entrepreneur au condition générales du devis.</description>
+        <nomcontractant>Construction Maju ltée</nomcontractant>
+        <neqcontractant>1142943647</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-06-02</datedepense>
+        <datepublicationdepense>2016-02-25</datepublicationdepense>
+        <montantdepense>1292.200000</montantdepense>
+        <description>13- Changement d'un volet motorisé pour un volet à grativé. Fournir un démarreur magnétique. </description>
+        <nomcontractant>Construction Maju ltée</nomcontractant>
+        <neqcontractant>1142943647</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-18</datedepense>
+        <datepublicationdepense>2016-02-25</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>14- CRÉDIT: 291.44$ - Crédit pour les grilles de ventilation non-installées au gymnases</description>
+        <nomcontractant>Construction Maju ltée</nomcontractant>
+        <neqcontractant>1142943647</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-18</datedepense>
+        <datepublicationdepense>2016-02-25</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>15- CRÉDIT: 1 214.00$ - Crédti pour 17 panneaux acoustiques endommagés et nons installés au gymnase.</description>
+        <nomcontractant>Construction Maju ltée</nomcontractant>
+        <neqcontractant>1142943647</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-18</datedepense>
+        <datepublicationdepense>2016-02-25</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>16- CRÉDIT: 2 174.39$ - Crédit pour travaux de cloisons sèches des puits mécaniques verticaux prévus au contrat et non complétés, tel qu'entendu entre les différentes parties. </description>
+        <nomcontractant>Construction Maju ltée</nomcontractant>
+        <neqcontractant>1142943647</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>778644</numeroseao>
+    <numero>8606-14-4506</numero>
+    <depenses />
+  </avis>
+  <avis>
+    <numeroseao>779889</numeroseao>
+    <numero>15A 12</numero>
+    <depenses>
+      <depense>
+        <datedepense>2014-12-04</datedepense>
+        <datepublicationdepense>2016-02-26</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>ajout</description>
+        <nomcontractant>PAUL TREMBLAY TRANSPORT LTEE</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>810119</numeroseao>
+    <numero>8907-14-NL04</numero>
+    <depenses />
+  </avis>
+  <avis>
+    <numeroseao>814040</numeroseao>
+    <numero>8907-14-NL01</numero>
+    <depenses />
+  </avis>
+  <avis>
+    <numeroseao>839857</numeroseao>
+    <numero>28395300</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-07-22</datedepense>
+        <datepublicationdepense>2015-09-09</datepublicationdepense>
+        <montantdepense>14250.000000</montantdepense>
+        <description>Prolongation du mandat </description>
+        <nomcontractant>Raymond Chabot Grant Thornton S.E.N.C.R.L.</nomcontractant>
+        <neqcontractant>3342037838</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-01-19</datedepense>
+        <datepublicationdepense>2016-02-10</datepublicationdepense>
+        <montantdepense>2850.000000</montantdepense>
+        <description>Prolongation du mandat</description>
+        <nomcontractant>Raymond Chabot Grant Thornton S.E.N.C.R.L.</nomcontractant>
+        <neqcontractant>3342037838</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>865094</numeroseao>
+    <numero>15-028 / 4PGLOM.05 - 03</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-08-06</datedepense>
+        <datepublicationdepense>2016-01-07</datepublicationdepense>
+        <montantdepense>2524.500000</montantdepense>
+        <description>1- 'enlèvement et l'évacuation de la vermiculite sous la scène, la démolition de la tuile de plancher du hall d'entrée et le dé-garnissage de divers objets au plafond au dessus de la scène</description>
+        <nomcontractant>Merlain Canada inc.</nomcontractant>
+        <neqcontractant>1165903700</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-08-21</datedepense>
+        <datepublicationdepense>2016-01-07</datepublicationdepense>
+        <montantdepense>990.000000</montantdepense>
+        <description>2-Omission, structure. Frais relatifs à le revue structurale du tuyau d'accrochage F.O.H. par un ingénieur professionnel en fonction des charges indiquées aux dessins lors de la revue des dessins d'atelier des métaux ouvrés.</description>
+        <nomcontractant>Merlain Canada inc.</nomcontractant>
+        <neqcontractant>1165903700</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-01-06</datedepense>
+        <datepublicationdepense>2016-01-07</datepublicationdepense>
+        <montantdepense>121.130000</montantdepense>
+        <description>3-Après coordination, le palan à chaînes au-dessus de la scène risque d'être visible depuis la salle. Il faut donc commander des accessoires supplémentaires pour l'habillage de celui-ci en noir (cache palan et sac à chaînes).</description>
+        <nomcontractant>Merlain Canada inc.</nomcontractant>
+        <neqcontractant>1165903700</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-01-06</datedepense>
+        <datepublicationdepense>2016-01-07</datepublicationdepense>
+        <montantdepense>374.000000</montantdepense>
+        <description>4- Condition de chantier, mécanique. Après démolition d'un mur, une conduite de ventilation dans un espace de rangement scénique doit être raccourcie pour la sécurité des usagers, car elle se situe à hauteur de tête.</description>
+        <nomcontractant>Merlain Canada inc.</nomcontractant>
+        <neqcontractant>1165903700</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-01-06</datedepense>
+        <datepublicationdepense>2016-01-07</datepublicationdepense>
+        <montantdepense>8085.730000</montantdepense>
+        <description>5- Mauvaise coordination, électricité. Modifier l'alimentation électrique de la grille de support de l'éclairage afin de s'adapter aux équipements à venir (coordination).</description>
+        <nomcontractant>Merlain Canada inc.</nomcontractant>
+        <neqcontractant>1165903700</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-01-06</datedepense>
+        <datepublicationdepense>2016-01-07</datepublicationdepense>
+        <montantdepense>613.250000</montantdepense>
+        <description>6- Condition de chantier, architecture. Suite à l'enlèvement d'un porte dans le corridor, il n'y a pas de soutien adéquat alors il faut ajouter un linteau.</description>
+        <nomcontractant>Merlain Canada inc.</nomcontractant>
+        <neqcontractant>1165903700</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-01-06</datedepense>
+        <datepublicationdepense>2016-01-07</datepublicationdepense>
+        <montantdepense>635.860000</montantdepense>
+        <description>7- Demande du propriétaire, architecture. Le nez de scène a été spécifier avec un simple verni clair, mais cela est trop pâle pour l'éclairage durant un spectacle. Il faut donc ajouter une couche de teinture avant le vernis.</description>
+        <nomcontractant>Merlain Canada inc.</nomcontractant>
+        <neqcontractant>1165903700</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-01-06</datedepense>
+        <datepublicationdepense>2016-01-08</datepublicationdepense>
+        <montantdepense>1994.400000</montantdepense>
+        <description>8- Le moteur du rideau principal ne peut être installé à l'endroit prévu à cause d'un colonne découverte en chantier alors il est relocalisé, mais il faut prévoir une nouvelle alimentation électrique et de l'éclairage à cet endroit.</description>
+        <nomcontractant>Merlain Canada inc.</nomcontractant>
+        <neqcontractant>1165903700</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-01-06</datedepense>
+        <datepublicationdepense>2016-01-08</datepublicationdepense>
+        <montantdepense>2053.730000</montantdepense>
+        <description>9- Condition de chantier, architecture. Les escaliers de scène sont prévus en acier, mais nous en demandons en bois pour raccourcir le délais de livraison. Nous devons également changer les moulures de finition sur la scène pour s'adapter aux conditions existantes.</description>
+        <nomcontractant>Merlain Canada inc.</nomcontractant>
+        <neqcontractant>1165903700</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-17</datedepense>
+        <datepublicationdepense>2016-02-24</datepublicationdepense>
+        <montantdepense>6417.620000</montantdepense>
+        <description>10- Condition de chantier, divers. La hauteur de l'acier de la scène doit être ajustée car la dalle existante n'est pas de niveau. IDEM pour l'acier des coulisses. Il faut également construire un nouveau plancher dans un endroit des coulisses qu'on ne peut condamner à cause d'une trappe d'accès.</description>
+        <nomcontractant>Merlain Canada inc.</nomcontractant>
+        <neqcontractant>1165903700</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-17</datedepense>
+        <datepublicationdepense>2016-02-25</datepublicationdepense>
+        <montantdepense>2837.790000</montantdepense>
+        <description>11- Condition de chantier, architecture. Ragréage mural dans le corridor, le local de rangement côté cour et nouvelle ouverture murale pour le système de levage des rideaux.</description>
+        <nomcontractant>Merlain Canada inc.</nomcontractant>
+        <neqcontractant>1165903700</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-17</datedepense>
+        <datepublicationdepense>2016-02-25</datepublicationdepense>
+        <montantdepense>10227.370000</montantdepense>
+        <description>12- Condition de chantier, divers. Construction d'un nouveau plancher pour entreposage côté cour, démolition pour système de levage des rideaux, gypse sur conduites dans l'escalier d'issue et supports d'acier requis pour l'équipement de scène.</description>
+        <nomcontractant>Merlain Canada inc.</nomcontractant>
+        <neqcontractant>1165903700</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-17</datedepense>
+        <datepublicationdepense>2016-02-25</datepublicationdepense>
+        <montantdepense>29643.900000</montantdepense>
+        <description>13-Divers changements sont nécessaires au niveau de l'entrée, de la scène et du boitier de téléviseur, mais ils n'ont pu être émis en addenda par manque de temps.</description>
+        <nomcontractant>Merlain Canada inc.</nomcontractant>
+        <neqcontractant>1165903700</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-17</datedepense>
+        <datepublicationdepense>2016-02-25</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>14- CRÉDIT: 2250.00$ - Crédit applicable pour la suppression du boitier de téléviseur car l'entrepreneur tardait à trouver un sous-traitant</description>
+        <nomcontractant>Merlain Canada inc.</nomcontractant>
+        <neqcontractant>1165903700</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-17</datedepense>
+        <datepublicationdepense>2016-02-25</datepublicationdepense>
+        <montantdepense>16160.950000</montantdepense>
+        <description>15- condition de chantier, divers. Dû aux travaux de la phase 1, diverses conditions de chantier, changements pour coordination et autres, le chantier s'est prolongé. L'entrepreneur a soumis s'est frais de délai et une entente a été négociée le 28 janvier 2016 pour fermer le dossier.</description>
+        <nomcontractant>Merlain Canada inc.</nomcontractant>
+        <neqcontractant>1165903700</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>877692</numeroseao>
+    <numero>1407-C</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-06-29</datedepense>
+        <datepublicationdepense>2015-07-02</datepublicationdepense>
+        <montantdepense>382228.220000</montantdepense>
+        <description>Remplacement des conduites principales d'alimentation en eau dans le vide sanitaire</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-09-10</datedepense>
+        <datepublicationdepense>2015-09-10</datepublicationdepense>
+        <montantdepense>342.940000</montantdepense>
+        <description>AM-03 : Enlevement d'un conduit de ventilation exitant dans atelier de robotique</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-09-10</datedepense>
+        <datepublicationdepense>2015-09-10</datepublicationdepense>
+        <montantdepense>1654.280000</montantdepense>
+        <description>AM-04 Installation de nouveaux disjoncteurs dans panneaux électriques existants</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-09-10</datedepense>
+        <datepublicationdepense>2015-09-10</datepublicationdepense>
+        <montantdepense>1037.300000</montantdepense>
+        <description>AM-05 Remplacement de cadres de porte existants</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-09-10</datedepense>
+        <datepublicationdepense>2015-09-10</datepublicationdepense>
+        <montantdepense>20658.680000</montantdepense>
+        <description>AM-08 : Modification aux fondations des nouvelles cages d'escalier</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-09-10</datedepense>
+        <datepublicationdepense>2015-09-10</datepublicationdepense>
+        <montantdepense>8610.250000</montantdepense>
+        <description>AM-10 : Installation de nouveaux planchers dans classe et bureaux adjacents au RDC</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-10-09</datedepense>
+        <datepublicationdepense>2015-10-09</datepublicationdepense>
+        <montantdepense>7067.500000</montantdepense>
+        <description>AM-06  Remplacement de contreventements en acier des 4 nouvelles cages d'escalier.</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-10-09</datedepense>
+        <datepublicationdepense>2015-10-09</datepublicationdepense>
+        <montantdepense>379.500000</montantdepense>
+        <description>AM-07  Relcalisation de casiers existants dans corridor de l'aile E</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-10-09</datedepense>
+        <datepublicationdepense>2015-10-09</datepublicationdepense>
+        <montantdepense>545.220000</montantdepense>
+        <description>AM-12  Modification  founrniture de la nouvelle quincaillerie de porte </description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-10-09</datedepense>
+        <datepublicationdepense>2015-10-09</datepublicationdepense>
+        <montantdepense>534.500000</montantdepense>
+        <description>AM-13 Modification fourniture d'acessoires de toilettes</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-10-09</datedepense>
+        <datepublicationdepense>2015-10-09</datepublicationdepense>
+        <montantdepense>1460.220000</montantdepense>
+        <description>AM-15 Ajout de céramique murale dans toiettes filles ( zone 10)</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-10-09</datedepense>
+        <datepublicationdepense>2015-10-09</datepublicationdepense>
+        <montantdepense>2226.400000</montantdepense>
+        <description>AM-16 Revêtement époxy dans atelier de robotique ( local no. 118)</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-10-09</datedepense>
+        <datepublicationdepense>2015-10-09</datepublicationdepense>
+        <montantdepense>265.650000</montantdepense>
+        <description>AM-17 Peiture des limons des escaliers existants situés  près du hall central</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-10-09</datedepense>
+        <datepublicationdepense>2015-10-09</datepublicationdepense>
+        <montantdepense>2179.100000</montantdepense>
+        <description>AM-18 Modifications d'éléments au système d'alarme incendie </description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-03</datedepense>
+        <datepublicationdepense>2016-02-03</datepublicationdepense>
+        <montantdepense>8654.250000</montantdepense>
+        <description>AM-02 Nettoyer les débris existants pouvant contenir de l'amiante dans 9 vides techniques afin de permettre les travaux</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-03</datedepense>
+        <datepublicationdepense>2016-02-03</datepublicationdepense>
+        <montantdepense>560.630000</montantdepense>
+        <description>AM-14 Ajout de 9'' d'agrégat sous pavé extérieur de la porte d'issue de la bibliothèque</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-03</datedepense>
+        <datepublicationdepense>2016-02-03</datepublicationdepense>
+        <montantdepense>7549.750000</montantdepense>
+        <description>AM-22 Réparation de pomberie et nettoyage pour plusieurs dégâts d'eau qui ont eu lieu au mois d'août 2015, causés par des conduits hors-service.</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-03</datedepense>
+        <datepublicationdepense>2016-02-03</datepublicationdepense>
+        <montantdepense>7364.500000</montantdepense>
+        <description>AM-24 Ajout d'un garde-corps au balcon de l'auditorium</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-03</datedepense>
+        <datepublicationdepense>2016-02-03</datepublicationdepense>
+        <montantdepense>25162.760000</montantdepense>
+        <description>AM-25 Modifications au système d'alarme incendie ( Klaxon, détecteur de fumée et chaleur) et réfection du câblage existant sous la scène de l'auditorium</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-03</datedepense>
+        <datepublicationdepense>2016-02-03</datepublicationdepense>
+        <montantdepense>708.860000</montantdepense>
+        <description>AM-28  Remplacement de la serrure de la  porte de la nouvelle toilette des employés de la cafetaria</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-03</datedepense>
+        <datepublicationdepense>2016-02-03</datepublicationdepense>
+        <montantdepense>1983.410000</montantdepense>
+        <description>AM-29 Ouverture au plafond des bureaux de la direction en condition d'amiante</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-03</datedepense>
+        <datepublicationdepense>2016-02-03</datepublicationdepense>
+        <montantdepense>759.000000</montantdepense>
+        <description>AM-30 Modification de la cloison de type D03 dans atelier de robotique</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-03</datedepense>
+        <datepublicationdepense>2016-02-03</datepublicationdepense>
+        <montantdepense>5755.750000</montantdepense>
+        <description>AM-31 Ouvrir &amp; fermer les murs existants en maçonnerie dans salles de toilette étudiants pour permettre les travaux de plomberie (lavabos).</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-03</datedepense>
+        <datepublicationdepense>2016-02-03</datepublicationdepense>
+        <montantdepense>6186.950000</montantdepense>
+        <description>AM-33 Travaux de ragréage en gypse aux murs près des escaliers et corridor d'issue</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-03</datedepense>
+        <datepublicationdepense>2016-02-03</datepublicationdepense>
+        <montantdepense>2019.600000</montantdepense>
+        <description>AM-34 Ajout de céramique au mur derrière les lavabos de la toilette des professeurs femmes</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-03</datedepense>
+        <datepublicationdepense>2016-02-03</datepublicationdepense>
+        <montantdepense>783.860000</montantdepense>
+        <description>AM-35 Ajout d'un soufflage en gypse autour d'un panneau électrique dans corridor pour camouffler les conduits</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-03</datedepense>
+        <datepublicationdepense>2016-02-03</datepublicationdepense>
+        <montantdepense>2404.150000</montantdepense>
+        <description>AM-42 Nouvelles grilles de protection pour éclairage d'urgence dans gymnase et ragréage de peinture</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-03</datedepense>
+        <datepublicationdepense>2016-02-03</datepublicationdepense>
+        <montantdepense>508.200000</montantdepense>
+        <description>AM-47 Modification à la structure des murs d'un nouvel escalier suite à la découverte d'une conduite sanitaire</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-03</datedepense>
+        <datepublicationdepense>2016-02-03</datepublicationdepense>
+        <montantdepense>422.510000</montantdepense>
+        <description>AM-48 Modification au type de gypse utilisé dans le projet (gypse résistants aux impacts &amp; moisissures)</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>882745</numeroseao>
+    <numero>2015.01</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-10-13</datedepense>
+        <datepublicationdepense>2016-02-08</datepublicationdepense>
+        <montantdepense>180.880000</montantdepense>
+        <description>AVENANTS DE MODIFICATIONS #1</description>
+        <nomcontractant>construction René Bouchard</nomcontractant>
+        <neqcontractant>1167580282</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>890894</numeroseao>
+    <numero>29633900</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-09-15</datedepense>
+        <datepublicationdepense>2015-09-16</datepublicationdepense>
+        <montantdepense>29500.100000</montantdepense>
+        <description>imprévu de chantier (odc #1 et #2)</description>
+        <nomcontractant>Rénovation Guy Lord inc.</nomcontractant>
+        <neqcontractant>1141065509</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-09-16</datedepense>
+        <datepublicationdepense>2015-09-21</datepublicationdepense>
+        <montantdepense>579.720000</montantdepense>
+        <description>imprévu de design (odc #4)</description>
+        <nomcontractant>Rénovation Guy Lord inc.</nomcontractant>
+        <neqcontractant>1141065509</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-10-21</datedepense>
+        <datepublicationdepense>2015-10-22</datepublicationdepense>
+        <montantdepense>5048.180000</montantdepense>
+        <description>imprévu de chantier (odc #6)</description>
+        <nomcontractant>Rénovation Guy Lord inc.</nomcontractant>
+        <neqcontractant>1141065509</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-10-29</datedepense>
+        <datepublicationdepense>2015-10-30</datepublicationdepense>
+        <montantdepense>1606.110000</montantdepense>
+        <description>imprévu de chantier (odc #7)</description>
+        <nomcontractant>Rénovation Guy Lord inc.</nomcontractant>
+        <neqcontractant>1141065509</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-01-12</datedepense>
+        <datepublicationdepense>2016-01-20</datepublicationdepense>
+        <montantdepense>518.800000</montantdepense>
+        <description>Imprévu de chantier (odc #8)</description>
+        <nomcontractant>Rénovation Guy Lord inc.</nomcontractant>
+        <neqcontractant>1141065509</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-01-26</datedepense>
+        <datepublicationdepense>2016-02-01</datepublicationdepense>
+        <montantdepense>278.000000</montantdepense>
+        <description>Changement de design (odc #9)</description>
+        <nomcontractant>Rénovation Guy Lord inc.</nomcontractant>
+        <neqcontractant>1141065509</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-01-26</datedepense>
+        <datepublicationdepense>2016-02-01</datepublicationdepense>
+        <montantdepense>914.180000</montantdepense>
+        <description>Imprévu de chantier (odc #10)</description>
+        <nomcontractant>Rénovation Guy Lord inc.</nomcontractant>
+        <neqcontractant>1141065509</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>911214</numeroseao>
+    <numero>27908101</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-09-18</datedepense>
+        <datepublicationdepense>2015-11-05</datepublicationdepense>
+        <montantdepense>5116.810000</montantdepense>
+        <description>Imprévu de chantier</description>
+        <nomcontractant>Génial Construction inc.</nomcontractant>
+        <neqcontractant>1162306188</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-11</datedepense>
+        <datepublicationdepense>2016-02-12</datepublicationdepense>
+        <montantdepense>10164.000000</montantdepense>
+        <description>Autres</description>
+        <nomcontractant>Génial Construction inc.</nomcontractant>
+        <neqcontractant>1162306188</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>917950</numeroseao>
+    <numero>44504465</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-01-12</datedepense>
+        <datepublicationdepense>2016-01-12</datepublicationdepense>
+        <montantdepense>9656.900000</montantdepense>
+        <description>Imprévu de chantier </description>
+        <nomcontractant>Construction Langevin &amp; Frères</nomcontractant>
+        <neqcontractant>1144003473</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-01</datedepense>
+        <datepublicationdepense>2016-02-04</datepublicationdepense>
+        <montantdepense>2386.830000</montantdepense>
+        <description>Imprévu de chantier</description>
+        <nomcontractant>Construction Langevin &amp; Frères</nomcontractant>
+        <neqcontractant>1144003473</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-11</datedepense>
+        <datepublicationdepense>2016-02-12</datepublicationdepense>
+        <montantdepense>994.210000</montantdepense>
+        <description>Imprévu de chantier</description>
+        <nomcontractant>Construction Langevin &amp; Frères</nomcontractant>
+        <neqcontractant>1144003473</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>937047</numeroseao>
+    <numero>4MUDUM.02</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-12-15</datedepense>
+        <datepublicationdepense>2015-12-15</datepublicationdepense>
+        <montantdepense>563.500000</montantdepense>
+        <description>ODC #1 : Casser le roque sous la fondation pour permettre le passage du nouvel égout sanitaire. </description>
+        <nomcontractant>N. Sani Cie Ltée</nomcontractant>
+        <neqcontractant>1143015163</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-12-15</datedepense>
+        <datepublicationdepense>2015-12-15</datepublicationdepense>
+        <montantdepense>6889.650000</montantdepense>
+        <description>ODC #2 : Dévier un élément structural, pour un nouveau cheminement de l’égout sanitaire. Démolition d’un mur incluant les armoires. Démolition de la dalle avec un marteau piqueur. Reconstruction d’un nouveau mur incluant peinture et la finition du plancher. </description>
+        <nomcontractant>N. Sani Cie Ltée</nomcontractant>
+        <neqcontractant>1143015163</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-12-15</datedepense>
+        <datepublicationdepense>2015-12-15</datepublicationdepense>
+        <montantdepense>2887.630000</montantdepense>
+        <description>ODC #3 : Refaire une partie de la conduite sanitaire provenant blocs sanitaires du rez-de-chaussée, refaire conduite d'un évier provenant du bureau du Service de garde. Raccorder à la nouvelle installation. Cette dépense est couverte par le budget. </description>
+        <nomcontractant>N. Sani Cie Ltée</nomcontractant>
+        <neqcontractant>1143015163</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-12-15</datedepense>
+        <datepublicationdepense>2015-12-15</datepublicationdepense>
+        <montantdepense>984.500000</montantdepense>
+        <description>ODC #4 : Enlever les conduites d'eau sous dalles et refaire les conduites en surface pour alimenter la cuve de concierge et la laveuse à linge. </description>
+        <nomcontractant>N. Sani Cie Ltée</nomcontractant>
+        <neqcontractant>1143015163</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-12-15</datedepense>
+        <datepublicationdepense>2015-12-15</datepublicationdepense>
+        <montantdepense>1408.000000</montantdepense>
+        <description>ODC #5 : Corriger le diamètre de la conduite sanitaire du Service de garde, corriger la pente inversée.</description>
+        <nomcontractant>N. Sani Cie Ltée</nomcontractant>
+        <neqcontractant>1143015163</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-12-16</datedepense>
+        <datepublicationdepense>2015-12-16</datepublicationdepense>
+        <montantdepense>2218.320000</montantdepense>
+        <description>ODC #6: Local 38B - remplacer le conduit électrique qui se trouve dans la dalle de béton (conduit en mauvais état). Le nouveau conduit va être en surface. Local Service de garde - Refaire le filage des prises de courant conforme au code d'électricité (absence de mise à la terre).</description>
+        <nomcontractant>N. Sani Cie Ltée</nomcontractant>
+        <neqcontractant>1143015163</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-03</datedepense>
+        <datepublicationdepense>2016-02-03</datepublicationdepense>
+        <montantdepense>3933.000000</montantdepense>
+        <description>ODC #7: Installation d'un nouveau comptoir incluant les portes avec évier et installation des armoires hautes. (Le tout, en remplacement des armoires qui ont été endommagées afin de modifier l'emplacement de l'égout sanitaire)</description>
+        <nomcontractant>N. Sani Cie Ltée</nomcontractant>
+        <neqcontractant>1143015163</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>938092</numeroseao>
+    <numero>15-238 - 4CCHAM.03</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-01-25</datedepense>
+        <datepublicationdepense>2016-01-26</datepublicationdepense>
+        <montantdepense>3890.850000</montantdepense>
+        <description>1-Condition de chantier: Démolir le cadre de la porte 113B entièrement ainsi que les rangs de briques existants qui y sont insérés et remplacer la porte existante par une porte double.</description>
+        <nomcontractant>Groupe Trilogues inc</nomcontractant>
+        <neqcontractant>1162244298</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+</export>
