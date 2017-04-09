@@ -1,0 +1,2398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2017-03-01" datefin="2017-03-31">
+  <avis>
+    <numeroseao>408128</numeroseao>
+    <numero>F2010-01</numero>
+    <depenses>
+      <depense>
+        <datedepense>2010-11-08</datedepense>
+        <datepublicationdepense>2017-03-24</datepublicationdepense>
+        <montantdepense>63720.000000</montantdepense>
+        <description>augmentation des besoins basée sur le nombre de patients à traiter</description>
+        <nomcontractant>Vantage Endoscopy Inc</nomcontractant>
+        <neqcontractant>0860190164</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>545962</numeroseao>
+    <numero>8801-11-HE03</numero>
+    <depenses>
+      <depense>
+        <datedepense>2014-04-22</datedepense>
+        <datepublicationdepense>2014-06-17</datepublicationdepense>
+        <montantdepense>10383.120000</montantdepense>
+        <description>Dépassement relié à des modifications au contrat de services professionnels</description>
+        <nomcontractant>Stantec Experts-Conseils ltée</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-06-10</datedepense>
+        <datepublicationdepense>2017-02-15</datepublicationdepense>
+        <montantdepense>40075.370000</montantdepense>
+        <description>Dépassement relié à des modifications au contrat de services professionnels</description>
+        <nomcontractant>Stantec Experts-Conseils ltée</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2014-04-22</datedepense>
+        <datepublicationdepense>2017-03-07</datepublicationdepense>
+        <montantdepense>112349.140000</montantdepense>
+        <description>Dépassement relié à des modifications au contrat de services professionnels </description>
+        <nomcontractant>Stantec Experts-Conseils ltée</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>757298</numeroseao>
+    <numero>6301-11-HE05</numero>
+    <depenses>
+      <depense>
+        <datedepense>2014-03-10</datedepense>
+        <datepublicationdepense>2017-02-15</datepublicationdepense>
+        <montantdepense>2362.740000</montantdepense>
+        <description>Dépassement relié à des modifications au contrat de services professionnels</description>
+        <nomcontractant>Roche ltée, Groupe-Conseil</nomcontractant>
+        <neqcontractant>1165310831</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2014-03-10</datedepense>
+        <datepublicationdepense>2017-03-08</datepublicationdepense>
+        <montantdepense>35396.760000</montantdepense>
+        <description>Dépassement relié à des modifications au contrat de services professionnels le 10-03-2014</description>
+        <nomcontractant>Roche ltée, Groupe-Conseil</nomcontractant>
+        <neqcontractant>1165310831</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>773245</numeroseao>
+    <numero>14027-0</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-08-03</datedepense>
+        <datepublicationdepense>2017-03-24</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>ODC 1 - Remplacer le système de fixationmécanique par un système collé</description>
+        <nomcontractant>Toiture Bon Prix Abitibi Inc.</nomcontractant>
+        <neqcontractant>1142079137</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-06-08</datedepense>
+        <datepublicationdepense>2017-03-24</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>ODC 2 - Modification des drains</description>
+        <nomcontractant>Toiture Bon Prix Abitibi Inc.</nomcontractant>
+        <neqcontractant>1142079137</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-06-08</datedepense>
+        <datepublicationdepense>2017-03-24</datepublicationdepense>
+        <montantdepense>8259.530000</montantdepense>
+        <description>ODC 3 - Suppléments pour la démolition et la reconstruction de certains parapets</description>
+        <nomcontractant>Toiture Bon Prix Abitibi Inc.</nomcontractant>
+        <neqcontractant>1142079137</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-15</datedepense>
+        <datepublicationdepense>2017-03-24</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>ODC 4 - révision 1 Crédit pour les travaux de peinture 750$ avant taxes</description>
+        <nomcontractant>Toiture Bon Prix Abitibi Inc.</nomcontractant>
+        <neqcontractant>1142079137</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>803173</numeroseao>
+    <numero>2012-030</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-08-09</datedepense>
+        <datepublicationdepense>2016-09-28</datepublicationdepense>
+        <montantdepense>253528.570000</montantdepense>
+        <description>CO#0 à 12r1</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-02</datedepense>
+        <datepublicationdepense>2016-09-28</datepublicationdepense>
+        <montantdepense>20609.500000</montantdepense>
+        <description>CO#13</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-26</datedepense>
+        <datepublicationdepense>2016-09-28</datepublicationdepense>
+        <montantdepense>76152.610000</montantdepense>
+        <description>CO#14</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-02</datedepense>
+        <datepublicationdepense>2017-03-10</datepublicationdepense>
+        <montantdepense>32170.130000</montantdepense>
+        <description>CO 15</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-02</datedepense>
+        <datepublicationdepense>2017-03-10</datepublicationdepense>
+        <montantdepense>71248.350000</montantdepense>
+        <description>CO 16</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-02</datedepense>
+        <datepublicationdepense>2017-03-10</datepublicationdepense>
+        <montantdepense>22296.440000</montantdepense>
+        <description>CO 17</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-14</datedepense>
+        <datepublicationdepense>2017-03-10</datepublicationdepense>
+        <montantdepense>47587.630000</montantdepense>
+        <description>CO 18</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-18</datedepense>
+        <datepublicationdepense>2017-03-10</datepublicationdepense>
+        <montantdepense>4700.640000</montantdepense>
+        <description>CO 19</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-29</datedepense>
+        <datepublicationdepense>2017-03-10</datepublicationdepense>
+        <montantdepense>219609.060000</montantdepense>
+        <description>CO 20</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-01-17</datedepense>
+        <datepublicationdepense>2017-03-10</datepublicationdepense>
+        <montantdepense>35873.950000</montantdepense>
+        <description>CO 21</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-10</datedepense>
+        <datepublicationdepense>2017-03-10</datepublicationdepense>
+        <montantdepense>121453.500000</montantdepense>
+        <description>CO 22</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>810701</numeroseao>
+    <numero>24-323P</numero>
+    <depenses />
+  </avis>
+  <avis>
+    <numeroseao>885455</numeroseao>
+    <numero>9001-12-HG30</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-02-09</datedepense>
+        <datepublicationdepense>2017-03-28</datepublicationdepense>
+        <montantdepense>16000.000000</montantdepense>
+        <description>Surveillance additionnelle liée à des imprévus ou à une prolongation de l'échéancier ou à une situation particulière</description>
+        <nomcontractant>Consultants SM inc., Les</nomcontractant>
+        <neqcontractant>1143019660</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>889797</numeroseao>
+    <numero>15-098 / 4DALBM.01</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-10-07</datedepense>
+        <datepublicationdepense>2015-11-09</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>1 - Crédit - (2 100,00 $) - Travaux de démolition de terazzo annulés. Le nouveau revêtement de sol époxydique sera installé à-même le terrazzo existant, et ce, selon les indications du fabricant.</description>
+        <nomcontractant>Construction Léandre</nomcontractant>
+        <neqcontractant>1140473472</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-10-07</datedepense>
+        <datepublicationdepense>2015-11-09</datepublicationdepense>
+        <montantdepense>829.930000</montantdepense>
+        <description>2 - Condition de chantier, mécanique. Remplacement des drains de plancher dans le local 153. Le budget couvre cette dépense. Ces travaux ne dénature pas le projet. La séquence des numéros a été validés.</description>
+        <nomcontractant>Construction Léandre</nomcontractant>
+        <neqcontractant>1140473472</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-10-07</datedepense>
+        <datepublicationdepense>2015-11-09</datepublicationdepense>
+        <montantdepense>822.990000</montantdepense>
+        <description>3 - Condition de chantier, mécanique. ajout d'un sèche-main. Le budget couvre cette dépense. Ces travaux ne dénaturent pas le projet. La séquence des numéros a été validée</description>
+        <nomcontractant>Construction Léandre</nomcontractant>
+        <neqcontractant>1140473472</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-10-07</datedepense>
+        <datepublicationdepense>2015-11-09</datepublicationdepense>
+        <montantdepense>8070.480000</montantdepense>
+        <description>4 - Condition de chantier, mécanique. Remplacement de la tuyauterie d'alimentation d'eau froide et installation de nouveau supports. Le budget couvre cette dépense. Ces travaux ne dénaturent pas le projet. La séquence des numéros a été validée.</description>
+        <nomcontractant>Construction Léandre</nomcontractant>
+        <neqcontractant>1140473472</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-10-07</datedepense>
+        <datepublicationdepense>2015-11-09</datepublicationdepense>
+        <montantdepense>1710.960000</montantdepense>
+        <description>5 - Condition de mécanique. Installation de valves d'isolement sur la tuyauterie existante et remplacement d'une section d'un tuyau de drainage. Le budget couvre cette dépense. Ces travaux ne dénature pas le projet. La séquence des numéros a été validée.</description>
+        <nomcontractant>Construction Léandre</nomcontractant>
+        <neqcontractant>1140473472</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-10-07</datedepense>
+        <datepublicationdepense>2015-11-09</datepublicationdepense>
+        <montantdepense>1908.740000</montantdepense>
+        <description>6 - Condition de chantier, mécanique. Remplacement d'une colonne d'évent existante percée par la corrosion. Le budget couvre cette dépense. Ces travaux ne dénature pas le projet. La séquence des numéros a été validée</description>
+        <nomcontractant>Construction Léandre</nomcontractant>
+        <neqcontractant>1140473472</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-10-29</datedepense>
+        <datepublicationdepense>2015-11-09</datepublicationdepense>
+        <montantdepense>308.000000</montantdepense>
+        <description>7 - Condition de chantier, architecture. Relocalisation des équipements sanitaires. La dépense est couverte par le budget. Ces travaux ne dénaturent pas le projet. La séquence des numéros a été validés.</description>
+        <nomcontractant>Construction Léandre</nomcontractant>
+        <neqcontractant>1140473472</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-10-29</datedepense>
+        <datepublicationdepense>2015-11-09</datepublicationdepense>
+        <montantdepense>116.380000</montantdepense>
+        <description>8 - Condition de chantier, architecture. Ajout de deux barres transversales pour solidifier les partions de toilettes. La dépense est couverte par le budget. Ces travaux ne dénature pas le projet. La séquence des numéros a été validée.</description>
+        <nomcontractant>Construction Léandre</nomcontractant>
+        <neqcontractant>1140473472</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>892666</numeroseao>
+    <numero>16774  16775</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-03-24</datedepense>
+        <datepublicationdepense>2016-01-18</datepublicationdepense>
+        <montantdepense>73000.000000</montantdepense>
+        <description>Achat de gaz médical</description>
+        <nomcontractant>IKARIA</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2017-03-22</datedepense>
+        <datepublicationdepense>2017-03-22</datepublicationdepense>
+        <montantdepense>100150.000000</montantdepense>
+        <description>Acquisition de gaz NO</description>
+        <nomcontractant>IKARIA</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2016-01-14</datedepense>
+        <datepublicationdepense>2017-03-22</datepublicationdepense>
+        <montantdepense>50000.000000</montantdepense>
+        <description>Acquisition de gaz NO</description>
+        <nomcontractant>IKARIA</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>904608</numeroseao>
+    <numero>15-026 / 4SPRG.AGR</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-04-14</datedepense>
+        <datepublicationdepense>2016-04-18</datepublicationdepense>
+        <montantdepense>1754.230000</montantdepense>
+        <description>1- Omission structure. Ajouter 2 empattements afin de supporter les colonnes des axes 1.6 et C.7 et 1.6 et F1</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-04-14</datedepense>
+        <datepublicationdepense>2016-04-18</datepublicationdepense>
+        <montantdepense>1111.700000</montantdepense>
+        <description>2- Mauvaise coordination, architecture. Démolition de la dalle de propreté dans la salle mécanique existante 156. </description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-04-14</datedepense>
+        <datepublicationdepense>2016-04-18</datepublicationdepense>
+        <montantdepense>597.590000</montantdepense>
+        <description>3- Omission mécanique. Démolition de conduits dans local L-158 pour la relocalisation de l'unité de ventilation</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-04-14</datedepense>
+        <datepublicationdepense>2016-04-18</datepublicationdepense>
+        <montantdepense>973.380000</montantdepense>
+        <description>4- Condition de chantier, civil. Aménagement chemin d'accès pour déneigeur</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-04-14</datedepense>
+        <datepublicationdepense>2016-04-18</datepublicationdepense>
+        <montantdepense>1104.110000</montantdepense>
+        <description>5- Omission mécanique. Modification des boucles du plancher radiant.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-18</datedepense>
+        <datepublicationdepense>2016-09-16</datepublicationdepense>
+        <montantdepense>2369.090000</montantdepense>
+        <description># 31 - Ajout d'un refroidisseur de condensat pour l'humidificateur HO-07 et réorientation du transfert d'air du local.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-18</datedepense>
+        <datepublicationdepense>2016-09-16</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 32 - Crédit (-977.50 $) - Annulation du haut-parleur extérieur et des haut-parleurs du gymnase.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-06</datedepense>
+        <datepublicationdepense>2017-01-11</datepublicationdepense>
+        <montantdepense>11100.420000</montantdepense>
+        <description># 57 - CIVIL: Modification de l'alignement entre le trottoir du débarcadère et l'entrée chartière du débarcadère.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-04-27</datedepense>
+        <datepublicationdepense>2016-05-02</datepublicationdepense>
+        <montantdepense>971.880000</montantdepense>
+        <description>6- Omission Mécanique - Restaurer a porte d'issue du gymnase existant afin d'améliorer la sécurité des utilisateurs.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-04-27</datedepense>
+        <datepublicationdepense>2016-05-02</datepublicationdepense>
+        <montantdepense>2112.520000</montantdepense>
+        <description>7- Omission mécanique - Relocalisation des conduits mécaniques pour permettre l'installation de la nouvelle mezzanine.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-04-27</datedepense>
+        <datepublicationdepense>2016-05-02</datepublicationdepense>
+        <montantdepense>1098.460000</montantdepense>
+        <description>8- Oeuvre d'art (Électricité) - Relocalisation d'appareils suite à la démolition de la retombée de plafond pour l'implantation de l'oeuvre d'art.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-05-16</datedepense>
+        <datepublicationdepense>2016-05-19</datepublicationdepense>
+        <montantdepense>637.110000</montantdepense>
+        <description>9- Ajout d'un conduit vide pour le raccordement d'un clavier alarme-intrusion.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-05-16</datedepense>
+        <datepublicationdepense>2016-05-19</datepublicationdepense>
+        <montantdepense>471.800000</montantdepense>
+        <description>10- Modification des démarreurs magnétique et prolongation de conduits</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-05-16</datedepense>
+        <datepublicationdepense>2016-05-19</datepublicationdepense>
+        <montantdepense>5696.640000</montantdepense>
+        <description>11- Retirer les chaises sous le treillis du plancher chauffant pour permettre le recouvrement des conduits, ce qui évite les risques.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-05-16</datedepense>
+        <datepublicationdepense>2016-05-19</datepublicationdepense>
+        <montantdepense>313.500000</montantdepense>
+        <description>12- Procéder à l'étanchéité de la fondation de l'ascenseur.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-05-16</datedepense>
+        <datepublicationdepense>2016-05-19</datepublicationdepense>
+        <montantdepense>1939.160000</montantdepense>
+        <description>13- Modification au local mécanique ascenseur. Ajout de registre coupe-feu, de grille de porte et relocalisation de la tuyauterie de chauffage/refroidissement.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-05-16</datedepense>
+        <datepublicationdepense>2016-05-19</datepublicationdepense>
+        <montantdepense>1635.820000</montantdepense>
+        <description>14-Construction de 5 maternelles, 12 classes primaires, 1 classe informatique, 1 gymnase simple, et un salon du personnel. Aménagement d'un nouveau débarcadère et d'un nouveau stationnement de même que l'agrandissement de la cour d'école</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-05-16</datedepense>
+        <datepublicationdepense>2016-05-19</datepublicationdepense>
+        <montantdepense>1337.400000</montantdepense>
+        <description>15-Ajout d'un volet motorisé au conduit de retour des vestiaires ainsi que la relocalisation de la buse d'humidification du gymnase</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-05-16</datedepense>
+        <datepublicationdepense>2016-05-19</datepublicationdepense>
+        <montantdepense>21755.300000</montantdepense>
+        <description>16-Modification aux murs de béton pour adapter aux contreventements structuraux.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-05-16</datedepense>
+        <datepublicationdepense>2016-05-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>17 - CRÉDIT: 35 138.02$ pour les frais de permis déjà payé par la CSMB</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-05-16</datedepense>
+        <datepublicationdepense>2016-05-19</datepublicationdepense>
+        <montantdepense>841.300000</montantdepense>
+        <description>18-Mauvais coordination, mécanique. Modification d'un cadre de porte qui doit être réduit pour libérer un puits mécanique.  Dépense couverte par le budget.Séquence des numéros est validée.Ne dénature pas le contrat.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-05-16</datedepense>
+        <datepublicationdepense>2016-05-19</datepublicationdepense>
+        <montantdepense>1086.570000</montantdepense>
+        <description>19-Omission mécanique. Modification des soupapes de chasses et les aérothermes. Dépense couverte par le budget.Séquence des numéros est validée.Ne dénature pas le contrat.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-05-16</datedepense>
+        <datepublicationdepense>2016-05-19</datepublicationdepense>
+        <montantdepense>2707.610000</montantdepense>
+        <description>20- Omission mécanique. Modification des douches des blocs sanitaires du gymnase. Dépense couverte par le budget.Séquence des numéros est validée.Ne dénature pas le contrat.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-06-14</datedepense>
+        <datepublicationdepense>2016-09-16</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 21- Crédit - (-2641.91 $) -Demande du propriétaire, architecture. Modifications aux valves de contrôle.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-06-14</datedepense>
+        <datepublicationdepense>2016-09-16</datepublicationdepense>
+        <montantdepense>919.970000</montantdepense>
+        <description># 22 - Omission mécanique - Simplification des contrôles de thermopompe.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-06-14</datedepense>
+        <datepublicationdepense>2016-09-16</datepublicationdepense>
+        <montantdepense>1006.430000</montantdepense>
+        <description># 23 - Mauvais coordination, architecture. Couper les ancrages et préparation de la dalle pour le revêtement sous la dalle de propreté démolie.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-06-14</datedepense>
+        <datepublicationdepense>2016-09-16</datepublicationdepense>
+        <montantdepense>1565.800000</montantdepense>
+        <description># 24 - Omission structure. Installation de plaques d'acier pour prolonger la mezzanine.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-06-14</datedepense>
+        <datepublicationdepense>2016-09-16</datepublicationdepense>
+        <montantdepense>7507.450000</montantdepense>
+        <description># 25 - Mauvaise coordination, structure. Modification de l'épaisseur du bloc de béton des murs des cages d'escalier pour éviter conflit avec la structure.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-05</datedepense>
+        <datepublicationdepense>2016-09-16</datepublicationdepense>
+        <montantdepense>4799.660000</montantdepense>
+        <description># 26 - Omission architecture. Modification èa la membrane d'étanchéité du parapet.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-05</datedepense>
+        <datepublicationdepense>2016-09-16</datepublicationdepense>
+        <montantdepense>950.940000</montantdepense>
+        <description># 27 - Mauvais coordination, mécanique. Installation d'un bloc de béton sur la face arrière du panneau de contrôle de </description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-05</datedepense>
+        <datepublicationdepense>2016-09-16</datepublicationdepense>
+        <montantdepense>1809.560000</montantdepense>
+        <description># 28 - Omission architecture. Modification de la porte 154 et 155 du local du bureau du gym.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-14</datedepense>
+        <datepublicationdepense>2016-09-16</datepublicationdepense>
+        <montantdepense>2481.420000</montantdepense>
+        <description># 29 - Omission électricité - Ajout de chauffage dans la toilette #A 134.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-14</datedepense>
+        <datepublicationdepense>2016-09-16</datepublicationdepense>
+        <montantdepense>1136.060000</montantdepense>
+        <description># 30 - Omission mécanique - Travaux de contrôle pour la toilette A134.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-18</datedepense>
+        <datepublicationdepense>2016-09-19</datepublicationdepense>
+        <montantdepense>688.670000</montantdepense>
+        <description># 33 - Ajout d'une clôture de chantier pour sécuriser le débarcadère existant. Demande de l'organisation scolaire.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-18</datedepense>
+        <datepublicationdepense>2016-09-19</datepublicationdepense>
+        <montantdepense>2201.500000</montantdepense>
+        <description># 34 - Modification de la quincaillerie aux portes 107B et 108.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-18</datedepense>
+        <datepublicationdepense>2016-09-19</datepublicationdepense>
+        <montantdepense>4753.900000</montantdepense>
+        <description># 35 - Modifier la main courante en acier inoxydable #304.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-18</datedepense>
+        <datepublicationdepense>2016-09-19</datepublicationdepense>
+        <montantdepense>2077.840000</montantdepense>
+        <description># 36 - Restaurer le porte d'issue du gymnase existant afin d'améliorer la sécurité des utilisateurs.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-24</datedepense>
+        <datepublicationdepense>2016-09-19</datepublicationdepense>
+        <montantdepense>2399.040000</montantdepense>
+        <description># 37 - Modification des nouveaux ventilo-convecteurs et du réseau de protection incendie existant.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-26</datedepense>
+        <datepublicationdepense>2016-09-19</datepublicationdepense>
+        <montantdepense>1136.960000</montantdepense>
+        <description># 38 - Remplacement des luminaires encastrés par des luminaires en surface dans le local A101.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-26</datedepense>
+        <datepublicationdepense>2016-09-19</datepublicationdepense>
+        <montantdepense>1190.760000</montantdepense>
+        <description># 39 - Installation d'une tôle pliée entre la brique et le mur de blocc de la salle mécanique.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-26</datedepense>
+        <datepublicationdepense>2016-09-19</datepublicationdepense>
+        <montantdepense>1036.640000</montantdepense>
+        <description># 40 - Enlèvement d'un robinet extérieur et recouvrement PVC d'une colonne pluviale existante.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-09</datedepense>
+        <datepublicationdepense>2016-09-26</datepublicationdepense>
+        <montantdepense>1896.220000</montantdepense>
+        <description># 41 - Condition de chantier - ÉLECTRICITÉ:  Relocalisation d'una aiphone et de conduits en conflit avec une fenêtre.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-09</datedepense>
+        <datepublicationdepense>2016-09-27</datepublicationdepense>
+        <montantdepense>822.820000</montantdepense>
+        <description># 42 - Condition de chantier - ÉLECTRICITÉ: Enlèvement d'une prise de courant et remplacement des conduits électriques.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-09</datedepense>
+        <datepublicationdepense>2016-09-27</datepublicationdepense>
+        <montantdepense>1614.200000</montantdepense>
+        <description># 43 - Omission - MÉCANIQUE: Ajout d'un volet motorisé dans le conduit de retour de l'unité de ventilation relocalisée dans la salle mécanique.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-24</datedepense>
+        <datepublicationdepense>2016-11-04</datepublicationdepense>
+        <montantdepense>5814.040000</montantdepense>
+        <description># 44 - Condition de chantier - CIVIL - Agrandissement de la zone de pavage à refaire dans le stationnement existant suite à la constatation de la mauvaise qualité de pavage existant.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-24</datedepense>
+        <datepublicationdepense>2016-11-04</datepublicationdepense>
+        <montantdepense>861.340000</montantdepense>
+        <description># 45 - Oeuvre d'art - ÉLECTRICITÉ: Installer une canalisation en plastique de type Wiremold pour dissimuler le filtrage.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-24</datedepense>
+        <datepublicationdepense>2016-11-04</datepublicationdepense>
+        <montantdepense>1852.720000</montantdepense>
+        <description># 46 - Mauvaise coordination - ÉLECTRICITÉ: Ajout d'une prise électrique gouble dans la salle télécom.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-24</datedepense>
+        <datepublicationdepense>2016-11-04</datepublicationdepense>
+        <montantdepense>1229.330000</montantdepense>
+        <description># 47 - Condition de chantier - ARCHITECTURE: Modification du revêtement de sol sportif du gymnase car celui spécifié est discontinué.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-24</datedepense>
+        <datepublicationdepense>2016-11-04</datepublicationdepense>
+        <montantdepense>3139.610000</montantdepense>
+        <description># 48 - Omission - MÉCANIQUE: Ajout de gargouilles pour permettre l'écoulement des surplus pluviaux.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-24</datedepense>
+        <datepublicationdepense>2016-11-04</datepublicationdepense>
+        <montantdepense>214.840000</montantdepense>
+        <description># 49 - Demande du propriétaire: ARCHITECTURE: Modification des mirroirs et distributeurs de savon afin de diminuer les coûts en entretien.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-24</datedepense>
+        <datepublicationdepense>2016-11-04</datepublicationdepense>
+        <montantdepense>2084.010000</montantdepense>
+        <description># 50 - Omission - ÉLECTRICITÉ: Ajout d'un klaxon d'alarme-incendie dans les locaux A119 et 112.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-24</datedepense>
+        <datepublicationdepense>2016-11-04</datepublicationdepense>
+        <montantdepense>92809.470000</montantdepense>
+        <description># 51 - Présence clientèle - CIVIL: Agrandissement de la zone de pavage à refaire dans l'entrée principale et dans la cour d'école existante suite à la constatation de la mauvaise qualité du pavage dans le but de sécuriser les lieux pour les usagers.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-27</datedepense>
+        <datepublicationdepense>2016-11-04</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 52 - (Crédit -289,28 $) - Mauvaise coordination - ARCHITECTURE: Crédit pour les plaques de signalisation non requises.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-27</datedepense>
+        <datepublicationdepense>2016-11-04</datepublicationdepense>
+        <montantdepense>4375.530000</montantdepense>
+        <description># 53 - Oeuvre d'art - ARCHITECTURE: Modification des soufflages de gypse pour l'installation de l'oeuvre d'art.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-27</datedepense>
+        <datepublicationdepense>2016-12-01</datepublicationdepense>
+        <montantdepense>4544.020000</montantdepense>
+        <description># 54 - CIVIL: Remplacement des bases de béton des poteaux de clôture actuellement hors du sous-sol dans la cours d'école afin de sécuriser les lieux.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-27</datedepense>
+        <datepublicationdepense>2016-12-01</datepublicationdepense>
+        <montantdepense>608.900000</montantdepense>
+        <description># 55 - ARCHITECTURE: Ajout une plaque d'acier le long de l'escalier 2 au limon du côté mur-rideau pour des fins de sécurité.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-03</datedepense>
+        <datepublicationdepense>2016-12-01</datepublicationdepense>
+        <montantdepense>4079.470000</montantdepense>
+        <description># 56 - ARCHITECTURE: Retrait des cornières soudées sous les poutres et réinstallation des nouvelles cornières conformes suite à la modification)</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-06</datedepense>
+        <datepublicationdepense>2017-03-06</datepublicationdepense>
+        <montantdepense>11100.420000</montantdepense>
+        <description># 57 - Omission - CIVIL: Modification de l'alignement entre le trottoir du débarcadère et l'entrée chartière du débarcadère.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-15</datedepense>
+        <datepublicationdepense>2017-03-06</datepublicationdepense>
+        <montantdepense>1655.190000</montantdepense>
+        <description># 58 - Installation de la porte A159 selon les modulations du bloc.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-15</datedepense>
+        <datepublicationdepense>2017-03-06</datepublicationdepense>
+        <montantdepense>1161.500000</montantdepense>
+        <description># 59 - Ajout d'un système d'ajustement de la hauteur des paniers de basketball du nouveau gymnase.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-01-26</datedepense>
+        <datepublicationdepense>2017-03-06</datepublicationdepense>
+        <montantdepense>2427.790000</montantdepense>
+        <description># 60 - Ajout de 2 détecteurs de fumée dans l'entre-plafond du corridor 154.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-01-26</datedepense>
+        <datepublicationdepense>2017-03-06</datepublicationdepense>
+        <montantdepense>1749.880000</montantdepense>
+        <description># 61 - Électricité: Refaire le conduit et filage endommagés entre les 2 lampadaires existants suite aux travaux d'excavation.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-15</datedepense>
+        <datepublicationdepense>2017-03-06</datepublicationdepense>
+        <montantdepense>1455.960000</montantdepense>
+        <description># 62 - Mécanique: Ajout d'un muret dans l'entre-plafond entre les corridors A-154 et A-100 à la demande de l'ingénieur mécanique afin d'isoler la zone à gicler dans l'entre-plafond.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-15</datedepense>
+        <datepublicationdepense>2017-03-06</datepublicationdepense>
+        <montantdepense>801.960000</montantdepense>
+        <description># 63 - Architecture: Modification des butoirs de portes en conflit avec tableaux et des balais de bas de prote pour respecter dégagement code sous porte.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-22</datedepense>
+        <datepublicationdepense>2017-03-06</datepublicationdepense>
+        <montantdepense>1262.620000</montantdepense>
+        <description># 64 - Mécanique: Raccorder les contacts des fenêtres des corridors du rez-de-chaussée et de l'étage au système de contrôle.</description>
+        <nomcontractant>Dorbec Construction Inc</nomcontractant>
+        <neqcontractant>1161476628</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>925455</numeroseao>
+    <numero>CT1040581</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-07-27</datedepense>
+        <datepublicationdepense>2016-07-27</datepublicationdepense>
+        <montantdepense>19186.000000</montantdepense>
+        <description>Permettre de finaliser le mandat confié.</description>
+        <nomcontractant>Normandin Beaudry, actuaires conseil</nomcontractant>
+        <neqcontractant>1144181287</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>942653</numeroseao>
+    <numero>YvesPAP2015</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-03-29</datedepense>
+        <datepublicationdepense>2017-01-11</datepublicationdepense>
+        <montantdepense>200000.000000</montantdepense>
+        <description>Renouvellement du contrat initial pour la période du 1 er janvier 2016 au 31 dec. 2016</description>
+        <nomcontractant>Yves Papillon</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2017-03-07</datedepense>
+        <datepublicationdepense>2017-03-28</datepublicationdepense>
+        <montantdepense>202400.000000</montantdepense>
+        <description>Second amendement: La date de fin du contrat amendée au 31 décembre 2017 inclusivment.</description>
+        <nomcontractant>Yves Papillon</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>945470</numeroseao>
+    <numero>15-185 - 4CFPD.AGR</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-10-14</datedepense>
+        <datepublicationdepense>2016-11-22</datepublicationdepense>
+        <montantdepense>1190.590000</montantdepense>
+        <description># 12 - Changement sur le cabinet de chauffage existant parce qu'il est en interférence avec le nouveau corridor.</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-14</datedepense>
+        <datepublicationdepense>2016-11-22</datepublicationdepense>
+        <montantdepense>833.660000</montantdepense>
+        <description># 13 - ARCHITECTURE: Remplacer le tube de la main courante par une plaque d'acier peinte.</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-21</datedepense>
+        <datepublicationdepense>2017-01-12</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 26 - (Crédit -4 400,73 $) - Annuler les conduits d'alimentation d'air apparente au rez-de-chaussée de l'agrandissement.</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-21</datedepense>
+        <datepublicationdepense>2017-01-12</datepublicationdepense>
+        <montantdepense>2761.090000</montantdepense>
+        <description># 27 - Fournir et installer du bloc de béton de 140mm ULC 2 heures au feu (type 18, au plan A150) sur l'axe no. 5, entre les axes nD et nG, car il manque environ 50mm dû aux cannelures de la maçonnerie existante et l,angle du mur existant sur l'axe 22.</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-21</datedepense>
+        <datepublicationdepense>2017-01-12</datepublicationdepense>
+        <montantdepense>2093.130000</montantdepense>
+        <description># 28 - Ajout d'un raccord d'un ventilateur avec une lampe témoin pour la modification de la conduite de sécheuse (partie électrique de la P20) pour répondre aux normes des évacuations des conduits de sécheuse en terme de protection d'incendie.</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-05-25</datedepense>
+        <datepublicationdepense>2016-05-31</datepublicationdepense>
+        <montantdepense>1389.440000</montantdepense>
+        <description># 1- Omission architecture. Fournir une gargouille pour chacun des cinq nouveaux bassins.La dépense est couverte par le budget. Ces travaux ne dénaturent pas le projet. La séquence des numéros a été validée</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-06-17</datedepense>
+        <datepublicationdepense>2016-06-22</datepublicationdepense>
+        <montantdepense>1214.370000</montantdepense>
+        <description># 2- Omission architecture. Fournir un comptoir et un dosseret en acier inox pour remplacer un comptoir et dosseret en stratifié</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-14</datedepense>
+        <datepublicationdepense>2016-09-21</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 3 - Crédit ( -564,26 $) - Annuler les travaux de gicleur prévu dans le bâtiment existant (locaux N-216 et N-227)</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-18</datedepense>
+        <datepublicationdepense>2016-09-21</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 4 - (Crédit) - Annuler deux essais dynamiques sur les pieux et annuler quatre pieux pour sous-oeuvre.</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-18</datedepense>
+        <datepublicationdepense>2016-09-21</datepublicationdepense>
+        <montantdepense>599.130000</montantdepense>
+        <description># 5 - Remettre le plafond existant à niveau dans le local D-240.</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-18</datedepense>
+        <datepublicationdepense>2016-09-21</datepublicationdepense>
+        <montantdepense>511.310000</montantdepense>
+        <description># 6 - Enlever le revêtement de plancher dans le corridor N-148.</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-18</datedepense>
+        <datepublicationdepense>2016-09-21</datepublicationdepense>
+        <montantdepense>1393.330000</montantdepense>
+        <description># 7 - Désamiantage de l'isolant sur la valve et sur le coude de la tuyauterie d'eau froide.</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-24</datedepense>
+        <datepublicationdepense>2016-09-21</datepublicationdepense>
+        <montantdepense>2655.760000</montantdepense>
+        <description># 8 - Enlèvement du crépi cimentaire et d'isolant au plafond du puits mécanique existant pour l'installation des conduits de ventilation.</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-09</datedepense>
+        <datepublicationdepense>2016-09-27</datepublicationdepense>
+        <montantdepense>12532.950000</montantdepense>
+        <description># 9 - Condition de chantier: CIVIL : Le volume de sol contaminé excavé en présence du laboratoire était plus élevé.</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-24</datedepense>
+        <datepublicationdepense>2016-11-04</datepublicationdepense>
+        <montantdepense>3058.420000</montantdepense>
+        <description># 10 - Omission - ÉLECTRICITÉ: Déplacement d'un klaxon d'alarme incendie existant.</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-24</datedepense>
+        <datepublicationdepense>2016-11-04</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 11 - (Crédit -3 488,25 $): Condition de chantier - ARCHITECTURE: Annulation du tapis de circulation au toit.</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-22</datedepense>
+        <datepublicationdepense>2016-12-01</datepublicationdepense>
+        <montantdepense>861.050000</montantdepense>
+        <description># 14 - STRUCTURE: Corbeau en béton sur le mur de fondation, en raison d'une divergence entre les plans d'architecture et de structure, il a été remarqué que le mur de fondation n'était pas assez long.</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-22</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>252.550000</montantdepense>
+        <description># 15 - ARCHITECTURE: Fournir et installer un nouveau protège-coin dans le corridor D-240.1 pour la jonction entre deux matériaux différents (bloc de béton et gypse).</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-22</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>1991.560000</montantdepense>
+        <description># 16 - ÉLECTRICITÉ: Local N-227: Ajout de nouvelles prises supplémentaires sur les colonettes existantes et d'une nouvelle colonette avec prises de courant.</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-22</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>1293.840000</montantdepense>
+        <description># 17 - ÉLECTRICITÉ: Raccordement temporaire de la salle électrique pour ne pas ralentir le projet. Nous sommes en attente d'Hydro-Québec pour effectuer une coupure de courant pour raccorder l'agrandissement de façon permanente.</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-22</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>18175.410000</montantdepense>
+        <description># 18 - ARCHITECTURE: Effectuer des travaux préparatoires pour le transfert électrique pour connecter l'agrandissement à l'existant (un disjoncteur 2000 A type K-2000 et d'un disjoncteur 4000 A UNELEC).</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-22</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>1826.870000</montantdepense>
+        <description># 19 - CIVIL: Démolition et la reconstruction d'une section de trottoir pour arriver au bon niveau.</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-01</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>2521.970000</montantdepense>
+        <description># 20: MÉCANIQUE:DIR-M-02:Ajout de volets coupe-feu au 2e étage de l'agrandissement dans les conduits de ventilation (entre le local P-203 et P-204 et corridor P-200 et P-208).</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-01</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>3359.110000</montantdepense>
+        <description># 21:ÉLECTRICITÉ:Modifier la conduite de sécheuse et ajouter un ventilateur d'extraction à cette conduite pour rendre la sécheuse plus efficace et performante. Ajouter un transfert d'air à la salle D135.2.</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-01</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>2319.100000</montantdepense>
+        <description># 22: ARCHITECTURE: Travaux de jet de sable effectués la fin de semaine pour éviter de nuire aux cours.</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-01</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>1647.700000</montantdepense>
+        <description># 23:MÉCANIQUE:Modifier les températures des réseaux d'eau de chauffage et le plinthes de chauffage hydronique. Le réseau d'eau de chauffage alimentant les plinthes sera raccordé de façon indépendante au réseau existant afin de respecter les mesures d'efficacité énergétique mises en place puisque...</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-01</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>887.460000</montantdepense>
+        <description># 24: ÉLECTRICITÉ:Modification des raccords des unités UAN-1 et UTA-1.</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-01</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>1047.880000</montantdepense>
+        <description># 25:MÉCANIQUE: Modifier le passage de la tuyauterie de drainage pluvial dans la salle P-105. L'installation actuelle ne permet pas l'accès à l'entièreté du local de dépôt.</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-09</datedepense>
+        <datepublicationdepense>2017-03-07</datepublicationdepense>
+        <montantdepense>1834.060000</montantdepense>
+        <description># 29 -Architecture: Corridor N-100: Peindre les nouvelles portes(côté corridor seulement) de la même couleur que les portes existantes (rouge). Corridor N-148:Peindre les portes existantes (côté corridor seulement) de la même couleur que les nouvelles portes (P11) (couleur grise).</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-09</datedepense>
+        <datepublicationdepense>2017-03-07</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 30 - (Crédit -818,51 $)-Architecture: AC-AR-14:Annulation du mobilier intégré M" dans le local #E-116. Le directeur préférait avoir un bureau qu'un mobilier intégré.</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-09</datedepense>
+        <datepublicationdepense>2017-03-07</datepublicationdepense>
+        <montantdepense>1418.710000</montantdepense>
+        <description># 31 - Électricité: AC-E-7: Révision du calibre de disjoncteur de l'équipement EQ-C02 et révision du calibre de l'artère...</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-09</datedepense>
+        <datepublicationdepense>2017-03-08</datepublicationdepense>
+        <montantdepense>3525.690000</montantdepense>
+        <description># 32 - Architecture: AC-E-08: Ajout d'un raccord de refroidisseur sur le toit du local P-103. Le refroidisseur est fourni avec un sectionneur et nous devons ajouter un sectionneur supplémentaire dans la salle P-103 pour la sécurité des étudiants lors des maintenances...</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>948485</numeroseao>
+    <numero>2016-03</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-06-29</datedepense>
+        <datepublicationdepense>2017-03-03</datepublicationdepense>
+        <montantdepense>8572.300000</montantdepense>
+        <description>ODC-02</description>
+        <nomcontractant>Biron. (9170-7570 Qc inc.)</nomcontractant>
+        <neqcontractant>1163792774</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-18</datedepense>
+        <datepublicationdepense>2017-03-03</datepublicationdepense>
+        <montantdepense>17875.790000</montantdepense>
+        <description>ODC-03</description>
+        <nomcontractant>Biron. (9170-7570 Qc inc.)</nomcontractant>
+        <neqcontractant>1163792774</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-13</datedepense>
+        <datepublicationdepense>2017-03-03</datepublicationdepense>
+        <montantdepense>4104.930000</montantdepense>
+        <description>ODC-04</description>
+        <nomcontractant>Biron. (9170-7570 Qc inc.)</nomcontractant>
+        <neqcontractant>1163792774</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-19</datedepense>
+        <datepublicationdepense>2017-03-03</datepublicationdepense>
+        <montantdepense>1647.710000</montantdepense>
+        <description>ODC-05</description>
+        <nomcontractant>Biron. (9170-7570 Qc inc.)</nomcontractant>
+        <neqcontractant>1163792774</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>960313</numeroseao>
+    <numero>16-042</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-10-14</datedepense>
+        <datepublicationdepense>2016-11-17</datepublicationdepense>
+        <montantdepense>938.440000</montantdepense>
+        <description># 3 - Électricité: Fournir, installer et raccorder un nouvel interrupteur pour contrôler les appareils d'éclairage de la salle du personnel. Raccorder l'interrupteur existant de la cuisinette de façon à ce qu'il puisse contrôler les appareils de la cuisine seulement.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-14</datedepense>
+        <datepublicationdepense>2016-11-17</datepublicationdepense>
+        <montantdepense>8517.390000</montantdepense>
+        <description># 4 - Électricité: Retrait des conduits électriques en conflit avec le puits d'ascenseur.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-14</datedepense>
+        <datepublicationdepense>2016-11-17</datepublicationdepense>
+        <montantdepense>2730.000000</montantdepense>
+        <description># 5 - STRUCTURE: Enlever les caniveaux existants en acier dans la dalle sur le sol de la bibliothèque responsable de la détérioration de la surface de la dalle de béton.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-14</datedepense>
+        <datepublicationdepense>2016-11-17</datepublicationdepense>
+        <montantdepense>1612.960000</montantdepense>
+        <description># 6 -ARCHITECTURE: Procéder aux travaux de réparation concernant le dégât d'eau dans les locaux sous la scène no. 406 et no. 467.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-28</datedepense>
+        <datepublicationdepense>2016-11-17</datepublicationdepense>
+        <montantdepense>23208.260000</montantdepense>
+        <description># 7 - STRUCTURE: Modification des fondations de l'escalier extérieur et de la rampe d'accès suite à la découverte de sol argileux et de pilotis.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-28</datedepense>
+        <datepublicationdepense>2016-11-17</datepublicationdepense>
+        <montantdepense>1936.020000</montantdepense>
+        <description># 8 - Mauvaise coordination - ÉLECTRICITÉ:Enlever le sectionneur qui alimente le panneau S6-N1-1. Installer sur chacun des disjoncteurs du panneau S6-N1-1 des dispositifs de verrouillage en position OFF afin de rencontrer les exigences d'Hydro-Québec. Installer un conduit vide de 2"0' dans le mur ..</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-28</datedepense>
+        <datepublicationdepense>2016-11-17</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 9 - SANS FRAIS-Mauvaise coordination-MÉCANIQUE: Ventilation: modification dans la distribution d'air dans l'auditorium. Le positionnement des grilles d'alimentation au périmètre de la salle ont été revu. Certaines grilles d'alimentation ont changer de type de raccordement passant de flexible...</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-08</datedepense>
+        <datepublicationdepense>2016-11-21</datepublicationdepense>
+        <montantdepense>40234.930000</montantdepense>
+        <description># 10 - STRUCTURE: Modifier les travaux de renforts des poutrelles existantes de l'auditorium selon les conditions de chantier.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-08</datedepense>
+        <datepublicationdepense>2016-11-21</datepublicationdepense>
+        <montantdepense>7238.990000</montantdepense>
+        <description># 11 -ÉLECTRICITÉ: Modification des appareils d'éclairage et ajout de deux appareils.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-08</datedepense>
+        <datepublicationdepense>2016-11-21</datepublicationdepense>
+        <montantdepense>3356.570000</montantdepense>
+        <description># 12 - MÉCANIQUE: Rehausser la conduite d'eau froide domestique existante située au plafond de l'auditorium.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-08</datedepense>
+        <datepublicationdepense>2016-11-21</datepublicationdepense>
+        <montantdepense>2262.990000</montantdepense>
+        <description># 13 - ÉLECTRICITÉ: Ajout des têtes d'éclairage d'urgence tel que montré sur le croquis C01. Également, sélectionner la puissance de la batterie X1 en conséquence.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-11</datedepense>
+        <datepublicationdepense>2016-11-21</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 14 - (Crédit -1 045,26 $) - MÉCANIQUE:Éléments de ventilation prévus au plan finalement non requis. Annuler les quatre conduits de transfert d'air, les grilles de plafond type E ainsi que leurs volets coupe-feu. Ajouter à la cloison du mur extérieur un volet coupe-feu, sur le conduit ...</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-14</datedepense>
+        <datepublicationdepense>2016-09-27</datepublicationdepense>
+        <montantdepense>3113.690000</montantdepense>
+        <description># 1 - Condition de chantier - ÉLECTRICITÉ: Remonter les 2 conduits 1 1/4 po et leurs conducteurs situés sur le mur du local 102 (condition de chantier)</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-14</datedepense>
+        <datepublicationdepense>2016-09-27</datepublicationdepense>
+        <montantdepense>6914.740000</montantdepense>
+        <description># 2 - Demande du propriétaire - ARCHITECTURE: Remplacement tuiles bibliothèque et local A-103 suite à l'enlèvement des caniveaux.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-01</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>3416.390000</montantdepense>
+        <description># 15 - MÉCANIQUE: Retirer l'isolant de l'amiante de l'échangeur à vapeur présent sous la scène dans l'auditorium. Retirer l'échangeur à vapeur situé sous la scène dans l'auditorium. Obstruer de façon émétique la tuyauterie existante raccordée à l'échangeur à retirer.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-01</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>6003.060000</montantdepense>
+        <description># 16 -ÉLECTRICITÉ: Fournir, installer et raccorder un appareil de chauffage infrarouge dans le sas d'entrée de l'auditorium, local incluant son alimentation et le thermostat.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-01</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>3636.480000</montantdepense>
+        <description># 17 - ÉLECTRICITÉ: Modification de raccordement d'appareils et prises. Fournir, installer et raccorder tout le câblage et le matériel pour le raccordement des équipements et prises tel qu'indiqué. Remplacer le type des prises selon les indications...</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-01</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>1510.620000</montantdepense>
+        <description># 18: MÉCANIQUE: Déplacer le ventilateur d'extraction de toilettes existant situé au toit au-dessus de l'appentis 106B. Travaux en conséquence de l'agrandissement de l'appentis.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-15</datedepense>
+        <datepublicationdepense>2017-03-08</datepublicationdepense>
+        <montantdepense>1678.040000</montantdepense>
+        <description># 19 - Structure: Travaux de démolition et la construction de la chape de béton au-dessus de la dalle sur le sol au niveau du seuil d'entrée selon les conditions de chantier. Le seuil et le cadre de la porte doivent être enlevés afin de permettre d'exécuter les travaux de réparation de la chape.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-15</datedepense>
+        <datepublicationdepense>2017-03-08</datepublicationdepense>
+        <montantdepense>216.350000</montantdepense>
+        <description># 20 - Électricité: Fournir, installer et raccorder un interrupteur mural à détecteur de mouvement afin de contrôler le luminaire et le ventilateur de la salle de toilette pour personne à mobilité réduite.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-15</datedepense>
+        <datepublicationdepense>2017-03-08</datepublicationdepense>
+        <montantdepense>930.920000</montantdepense>
+        <description># 21: Électricité: Modifier le raccordement électrique du ventilateur d'extraction de toilettes existant situé au toit au-dessus de la salle mécanique 106B.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-01-31</datedepense>
+        <datepublicationdepense>2017-03-08</datepublicationdepense>
+        <montantdepense>2329.690000</montantdepense>
+        <description># 22 - Architecture:Suite à la constatation de l'état et du niveau de dégradation du plancher de la scène, remplacement complet(plutôt que partiel) du plancher existant de la scène par un nouveau plancher puisqu'il est impossible de le restaurer comme il était prévu au plan.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-09</datedepense>
+        <datepublicationdepense>2017-03-08</datepublicationdepense>
+        <montantdepense>251.230000</montantdepense>
+        <description># 23 - Architecture: Procéder à l'abaissement des plafonds escalier 101-C et hall 200 tels qu'illustrés et dimensionnés aux dessins pour avoir assez d'espace pour la gaine de ventilation. (Note: Le plafond avait d'abord été construit selon les plans et devis).</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-09</datedepense>
+        <datepublicationdepense>2017-03-08</datepublicationdepense>
+        <montantdepense>899.210000</montantdepense>
+        <description># 24 - Architecture: Procéder au ragréage du mur entre les locaux du concierge no 058 et les toilettes hommes no 057 suite au remplacement du panneau électrique défectueux. En lien avec les travaux de la DDC E03 (P7). Cette dépense est couverte.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-22</datedepense>
+        <datepublicationdepense>2017-03-08</datepublicationdepense>
+        <montantdepense>916.940000</montantdepense>
+        <description># 25 - Structure: Ajouter un support vertical en acier (colonne W150X30) pour supporter le rail de l'ascenceur sur l'axe 5.6, entre l'axe E et F au niveau de l'appentis de l'ascenceur.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-23</datedepense>
+        <datepublicationdepense>2017-03-29</datepublicationdepense>
+        <montantdepense>1563.420000</montantdepense>
+        <description># 26 - Architecture: Ajout d'un recouvrement en gypse de la poutre et de la colonne de béton qui devaient demeurées apparentes dans les deux cages d'escalier. Le recouvrement est nécessaire puisque les dalles et poutres ne pouvaient être coupées proprement car les colonnes sont creuses.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-23</datedepense>
+        <datepublicationdepense>2017-03-29</datepublicationdepense>
+        <montantdepense>4387.480000</montantdepense>
+        <description># 27 - Architecture: Procéder à l'ajout de cloisons à l'aménagement de la cuisinette. Ajouter un soufflage de 64 mm sur la cloison de toilette à l'axe 6. Ajout de la porte 150 avec cadre et quincaillerie.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-23</datedepense>
+        <datepublicationdepense>2017-03-29</datepublicationdepense>
+        <montantdepense>4622.520000</montantdepense>
+        <description># 28 - Électricité: Fournir, installer et raccorder tout le câblage et le matériel pour le raccordement des équipements, de prises et lumières de sièges selon la coordination avec le fournisseur de l'entrepreneur.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-23</datedepense>
+        <datepublicationdepense>2017-03-29</datepublicationdepense>
+        <montantdepense>4393.060000</montantdepense>
+        <description># 29 - Mauvaise coordination - Architecture: Agrandir l'appentis de façon à englober la base de l'extracteur. La base entre en conflit avec le mur prévu au plans et devis.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>962322</numeroseao>
+    <numero>15050-0</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-08-16</datedepense>
+        <datepublicationdepense>2017-03-03</datepublicationdepense>
+        <montantdepense>21164.260000</montantdepense>
+        <description>ODC-01</description>
+        <nomcontractant>Larouche construction</nomcontractant>
+        <neqcontractant>1144313666</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-07</datedepense>
+        <datepublicationdepense>2017-03-03</datepublicationdepense>
+        <montantdepense>35118.460000</montantdepense>
+        <description>ODC-02</description>
+        <nomcontractant>Larouche construction</nomcontractant>
+        <neqcontractant>1144313666</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-25</datedepense>
+        <datepublicationdepense>2017-03-03</datepublicationdepense>
+        <montantdepense>23916.700000</montantdepense>
+        <description>ODC-03</description>
+        <nomcontractant>Larouche construction</nomcontractant>
+        <neqcontractant>1144313666</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-14</datedepense>
+        <datepublicationdepense>2017-03-03</datepublicationdepense>
+        <montantdepense>2200.000000</montantdepense>
+        <description>ODC-04</description>
+        <nomcontractant>Larouche construction</nomcontractant>
+        <neqcontractant>1144313666</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-12</datedepense>
+        <datepublicationdepense>2017-03-03</datepublicationdepense>
+        <montantdepense>1485.000000</montantdepense>
+        <description>ODC-05</description>
+        <nomcontractant>Larouche construction</nomcontractant>
+        <neqcontractant>1144313666</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>966865</numeroseao>
+    <numero>14-5968</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-10-14</datedepense>
+        <datepublicationdepense>2016-10-28</datepublicationdepense>
+        <montantdepense>8516.000000</montantdepense>
+        <description>ODC 3 - Remplacement d'une Porte</description>
+        <nomcontractant>construction VX inc.</nomcontractant>
+        <neqcontractant>1167283630</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-14</datedepense>
+        <datepublicationdepense>2016-10-28</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>ODC 4 - Installation d'une membrane sur la face extérieur des murs de fondation</description>
+        <nomcontractant>construction VX inc.</nomcontractant>
+        <neqcontractant>1167283630</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-11</datedepense>
+        <datepublicationdepense>2016-10-28</datepublicationdepense>
+        <montantdepense>12047.000000</montantdepense>
+        <description>ODC 1 - Composition des murs, remplacer les barres en Z par 2 rang de barres en Z</description>
+        <nomcontractant>construction VX inc.</nomcontractant>
+        <neqcontractant>1167283630</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-11</datedepense>
+        <datepublicationdepense>2016-10-28</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>ODC 2 - Crédit pour le modèle de fenêtre proposé en équivalence -10 500$</description>
+        <nomcontractant>construction VX inc.</nomcontractant>
+        <neqcontractant>1167283630</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-03-14</datedepense>
+        <datepublicationdepense>2017-03-17</datepublicationdepense>
+        <montantdepense>12478.280000</montantdepense>
+        <description>ODC 4.1 - Installation d'une membra auto-adhésive (révision ODC 4)</description>
+        <nomcontractant>construction VX inc.</nomcontractant>
+        <neqcontractant>1167283630</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-17</datedepense>
+        <datepublicationdepense>2017-03-17</datepublicationdepense>
+        <montantdepense>4147.000000</montantdepense>
+        <description>ODC 5 - Fourniture et installation de luminaires</description>
+        <nomcontractant>construction VX inc.</nomcontractant>
+        <neqcontractant>1167283630</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>968254</numeroseao>
+    <numero>AOP-0021</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-01-30</datedepense>
+        <datepublicationdepense>2017-01-30</datepublicationdepense>
+        <montantdepense>5542.830000</montantdepense>
+        <description>Travaux de gicleurs - Relocalisation aux niveaux 3 et 4 de tuyauteries de PI existantes pour permettre l'installation des appareils d'éclairage.</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-01-30</datedepense>
+        <datepublicationdepense>2017-01-30</datepublicationdepense>
+        <montantdepense>1385.670000</montantdepense>
+        <description>Travaux de démolition  - Porte à relocaliser - vitrine F-300 B.</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-12</datedepense>
+        <datepublicationdepense>2016-12-13</datepublicationdepense>
+        <montantdepense>1918.760000</montantdepense>
+        <description>Travaux de gypse : Soufflages de gypse pour passages de conduits. </description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-12</datedepense>
+        <datepublicationdepense>2016-12-13</datepublicationdepense>
+        <montantdepense>1075.960000</montantdepense>
+        <description>Travaux de démolition : Refaire le revêtement de plancher sur le palier de l'issue D-399A.</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-12</datedepense>
+        <datepublicationdepense>2016-12-13</datepublicationdepense>
+        <montantdepense>2306.580000</montantdepense>
+        <description>Travaux de gypse: Ajouter un soufflage de gypse sur mur de l'axe R entre 9 et 10.  </description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-12</datedepense>
+        <datepublicationdepense>2016-12-13</datepublicationdepense>
+        <montantdepense>1274.240000</montantdepense>
+        <description>Travaux de gypse: Ragréage du mur escalier E-399A.</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-12</datedepense>
+        <datepublicationdepense>2016-12-13</datepublicationdepense>
+        <montantdepense>4488.000000</montantdepense>
+        <description>Travaux de peinture: Changement de type de peinture pour portes et cadres (pour système bicouches).</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-12</datedepense>
+        <datepublicationdepense>2016-12-13</datepublicationdepense>
+        <montantdepense>3368.340000</montantdepense>
+        <description>Travaux de gypse: Gypse hydrofuge à refaire pour les toilettes du bloc E, niveau 3 et local E-320.  Isoler le mur de l’axe W et la division de toilette avec isolants acoustique.</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-12</datedepense>
+        <datepublicationdepense>2016-12-13</datepublicationdepense>
+        <montantdepense>6085.500000</montantdepense>
+        <description>Travaux de gypse: Gypse hydrofuge ½ à laminer sur mur de salle de toilette du bloc F, niveau 3, 4, 5</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-12</datedepense>
+        <datepublicationdepense>2016-12-13</datepublicationdepense>
+        <montantdepense>1222.980000</montantdepense>
+        <description>Travaux de démolition: Démolition du sous-plafond entre l’axe 1 et 2 et O et M au 5e étage du bloc F.</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-12</datedepense>
+        <datepublicationdepense>2016-12-13</datepublicationdepense>
+        <montantdepense>3143.880000</montantdepense>
+        <description>Travaux de gicleurs: Relocalisation des têtes de gicleurs au niveau 5 du bâtiment F pour permettre l'installation des cloisons coupe-feu des colonnes structurales.</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-27</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>7625.650000</montantdepense>
+        <description>Fourniture de panneaux acoustique 1" au lieu de 2"</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-02</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>476.000000</montantdepense>
+        <description>Travaux de demolition</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-02</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>16555.110000</montantdepense>
+        <description> Travaux de fourniture/installation contreplaqués</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-02</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>30924.010000</montantdepense>
+        <description>Travaux de plomberie</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-02</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>5560.750000</montantdepense>
+        <description>Travaux de d'électricité</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-02</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>1236.690000</montantdepense>
+        <description>Modifications de prises de courant et de prises DATA.  Fourniture et installation de disjoncteurs.</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-02</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>3465.570000</montantdepense>
+        <description>Travaux de système intérieur</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-02</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>23.560000</montantdepense>
+        <description>Extra fer angle d'arrêt sur tout le périmètre</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-02</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>12959.100000</montantdepense>
+        <description>Travaux réparation de béton</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-07</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>176056.810000</montantdepense>
+        <description>Travaux de démolition/désamiantage</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-16</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>1749.650000</montantdepense>
+        <description>Travaux d'électricité</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-16</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>809.370000</montantdepense>
+        <description>Travaux d'électricité</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-23</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>643.580000</montantdepense>
+        <description>Travaux démantèlement/réinstallation conduits électrique sur les colonnes (travaux fait par les électriciens)</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-23</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>120633.120000</montantdepense>
+        <description> Travaux de gypse/réparation retombés</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-23</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>420.750000</montantdepense>
+        <description>Travaux de forage sur différents étages</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-17</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>4453.770000</montantdepense>
+        <description> Travaux d'électricité</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-11</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>987.360000</montantdepense>
+        <description> Travaux de gicleurs</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-17</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>293.020000</montantdepense>
+        <description>Travaux de gypse</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-28</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>4851.790000</montantdepense>
+        <description>Travaux de ventilation</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-29</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>2580.600000</montantdepense>
+        <description>Travaux de régulation</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-01-20</datedepense>
+        <datepublicationdepense>2017-01-20</datepublicationdepense>
+        <montantdepense>6593.010000</montantdepense>
+        <description> Divers travaux d'électricité</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-01-20</datedepense>
+        <datepublicationdepense>2017-01-20</datepublicationdepense>
+        <montantdepense>1725.060000</montantdepense>
+        <description>Travaux d'électricité sur les portes d'accès à la bibliothèque</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-01-20</datedepense>
+        <datepublicationdepense>2017-01-20</datepublicationdepense>
+        <montantdepense>1688.610000</montantdepense>
+        <description>Travaux de quincaillerie - Changements d'ouverture de porte ou changements de quincaillerie</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-03-07</datedepense>
+        <datepublicationdepense>2017-03-07</datepublicationdepense>
+        <montantdepense>431.980000</montantdepense>
+        <description>Travaux de quincallerie - Remplacer l'ouvre porte automatique éliminé dans l'A-PM-28.  Ajustement supplémentaire</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-03-07</datedepense>
+        <datepublicationdepense>2017-03-07</datepublicationdepense>
+        <montantdepense>3970.590000</montantdepense>
+        <description>Travaux d'électricité - Divers</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-03-07</datedepense>
+        <datepublicationdepense>2017-03-07</datepublicationdepense>
+        <montantdepense>1392.930000</montantdepense>
+        <description>Travaux de gicleurs - Réparation des tuyaux et raccords Victaulic qui fuient au niveau 5</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-03-07</datedepense>
+        <datepublicationdepense>2017-03-07</datepublicationdepense>
+        <montantdepense>1806.420000</montantdepense>
+        <description>Travaux de ventilations - L'ajout de 5 filtres sur le plenum des 5 unités VRF</description>
+        <nomcontractant>Corporation de Construction Germano</nomcontractant>
+        <neqcontractant>1146850632</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>975460</numeroseao>
+    <numero>18A1502</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-08-16</datedepense>
+        <datepublicationdepense>2016-10-11</datepublicationdepense>
+        <montantdepense>67649.150000</montantdepense>
+        <description>Imprévu lors des travaux : Une cage d'escalier où l'isolant était déficient et la structure de mur n'était pas conforme; l'installation d'une membrane d'étanchéité sur un mur après avoir constaté l'état des murs et la hauteur de la nappe phréatique; l'isolant sur un mur a dû être fixé.</description>
+        <nomcontractant>9140-0663 Québec Inc. (GS Construction)</nomcontractant>
+        <neqcontractant>1162104666</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-26</datedepense>
+        <datepublicationdepense>2016-10-11</datepublicationdepense>
+        <montantdepense>36731.490000</montantdepense>
+        <description>Installation d'une nouvelle porte intérieure, remplacement de la conduite pluviale, construction de persienne et divers travaux.</description>
+        <nomcontractant>9140-0663 Québec Inc. (GS Construction)</nomcontractant>
+        <neqcontractant>1162104666</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>977112</numeroseao>
+    <numero>1502-A</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-11-16</datedepense>
+        <datepublicationdepense>2016-11-17</datepublicationdepense>
+        <montantdepense>9017.730000</montantdepense>
+        <description>ODC 14 : changement du type de luminaires dans les vestiaires et corridors</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-16</datedepense>
+        <datepublicationdepense>2016-11-17</datepublicationdepense>
+        <montantdepense>3397.280000</montantdepense>
+        <description>ODC 16 : remplacement de luminaires supplémentaires</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-16</datedepense>
+        <datepublicationdepense>2016-11-17</datepublicationdepense>
+        <montantdepense>216.820000</montantdepense>
+        <description>ODC 15 : modifier les services électriques existants dans le local B-219</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-11</datedepense>
+        <datepublicationdepense>2016-11-17</datepublicationdepense>
+        <montantdepense>9572.820000</montantdepense>
+        <description>ODC 13 : modification de l'alimentation électrique du CC-305 et EV-305 et fourniture d'équipement électrique</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-12</datedepense>
+        <datepublicationdepense>2016-11-22</datepublicationdepense>
+        <montantdepense>39930.150000</montantdepense>
+        <description>ODC 11: relocalisation d'équipement de chauffage et de tuyauterie</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-16</datedepense>
+        <datepublicationdepense>2017-02-23</datepublicationdepense>
+        <montantdepense>2700.260000</montantdepense>
+        <description>ODC 27 : ajustement de la rampe en béton pour handicapés</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-22</datedepense>
+        <datepublicationdepense>2017-02-23</datepublicationdepense>
+        <montantdepense>10224.100000</montantdepense>
+        <description>ODC 28 : remplacement du système d'intercom du CFP</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-05</datedepense>
+        <datepublicationdepense>2016-12-13</datepublicationdepense>
+        <montantdepense>3072.050000</montantdepense>
+        <description>ODC 18 : réparation de finis de plancher supplémentaire</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-12</datedepense>
+        <datepublicationdepense>2016-12-13</datepublicationdepense>
+        <montantdepense>10638.150000</montantdepense>
+        <description>ODC 19 : modifications électriques (détecteur de fumée, fontaine d'eau, conduits et câbles)</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-12</datedepense>
+        <datepublicationdepense>2016-12-13</datepublicationdepense>
+        <montantdepense>1494.950000</montantdepense>
+        <description>ODC 20 :  modifications électriques sur le système de protection incendie</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-13</datedepense>
+        <datepublicationdepense>2016-09-23</datepublicationdepense>
+        <montantdepense>1189.500000</montantdepense>
+        <description>ODC 8 : élimination de soupape de réduction</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-09</datedepense>
+        <datepublicationdepense>2016-09-23</datepublicationdepense>
+        <montantdepense>3804.190000</montantdepense>
+        <description>ODC 7 : modification de le ventilation</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-08</datedepense>
+        <datepublicationdepense>2016-09-23</datepublicationdepense>
+        <montantdepense>3818.020000</montantdepense>
+        <description>ODC 6 : ajouter 4 détecteurs de chaleur</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-09</datedepense>
+        <datepublicationdepense>2016-09-23</datepublicationdepense>
+        <montantdepense>799.410000</montantdepense>
+        <description>ODC 5R1 : remplacer le drain de plancher</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-02</datedepense>
+        <datepublicationdepense>2016-09-23</datepublicationdepense>
+        <montantdepense>6995.450000</montantdepense>
+        <description>ODC 4 : remplacer les sèches cheveux dans les vestiaires de la piscine</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-22</datedepense>
+        <datepublicationdepense>2016-09-23</datepublicationdepense>
+        <montantdepense>1204.500000</montantdepense>
+        <description>ODC 01 : remplacer le compartiment de la toilette du sauveteur</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-17</datedepense>
+        <datepublicationdepense>2016-09-23</datepublicationdepense>
+        <montantdepense>7583.680000</montantdepense>
+        <description>ODC 2 : compatibilité du système de contrôle</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-31</datedepense>
+        <datepublicationdepense>2016-09-23</datepublicationdepense>
+        <montantdepense>4198.200000</montantdepense>
+        <description>ODc 3 : modification de la plomberie dans les vestiaires</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-28</datedepense>
+        <datepublicationdepense>2016-10-03</datepublicationdepense>
+        <montantdepense>822.800000</montantdepense>
+        <description>ODC 8 :  fournir et installer un recouvrement en PVC sur des conduites existantes et apparantes du vestiaire</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-28</datedepense>
+        <datepublicationdepense>2016-10-03</datepublicationdepense>
+        <montantdepense>3678.400000</montantdepense>
+        <description>ODC 10 : travaux d'isolation de ventilation</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-26</datedepense>
+        <datepublicationdepense>2016-10-26</datepublicationdepense>
+        <montantdepense>50682.690000</montantdepense>
+        <description>ODC 12: ajout d'une 12e salle informtique</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-29</datedepense>
+        <datepublicationdepense>2016-11-30</datepublicationdepense>
+        <montantdepense>187.000000</montantdepense>
+        <description>ODC 17 : impression des plans d'évacuation avec nouveaux logo</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-13</datedepense>
+        <datepublicationdepense>2017-01-19</datepublicationdepense>
+        <montantdepense>556.310000</montantdepense>
+        <description>ODC 23 : déplacer une boite de jonction et un conduit électrique</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-13</datedepense>
+        <datepublicationdepense>2017-01-19</datepublicationdepense>
+        <montantdepense>12897.660000</montantdepense>
+        <description>ODC 22 : modifier les prises et les conduits électriques sous la mezzanine C-113 pour des équipements étanches </description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-08</datedepense>
+        <datepublicationdepense>2017-02-14</datepublicationdepense>
+        <montantdepense>8215.270000</montantdepense>
+        <description>ODC 26: modification des chemins de câbles, disjoncteurs et panneaux électriques</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-01-20</datedepense>
+        <datepublicationdepense>2017-02-14</datepublicationdepense>
+        <montantdepense>1866.380000</montantdepense>
+        <description>ODC 25R1 : ajout d'un câble résistant aux intempéries</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-03-17</datedepense>
+        <datepublicationdepense>2017-03-22</datepublicationdepense>
+        <montantdepense>1497.940000</montantdepense>
+        <description>ODC 29: remplacement de luminaires dans les 3 locaux </description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-16</datedepense>
+        <datepublicationdepense>2017-03-22</datepublicationdepense>
+        <montantdepense>4532.690000</montantdepense>
+        <description>ODC 30: enlèvement et réinstallation d'équipements existants au plafond dans le bloc A</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-08</datedepense>
+        <datepublicationdepense>2017-03-22</datepublicationdepense>
+        <montantdepense>3686.830000</montantdepense>
+        <description>ODC 31: Ajouter des prises informatiques et téléphoniques</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-14</datedepense>
+        <datepublicationdepense>2017-03-22</datepublicationdepense>
+        <montantdepense>3769.990000</montantdepense>
+        <description>ODC 32: Coordination de l'éclairage dans les blocs A et B</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-25</datedepense>
+        <datepublicationdepense>2017-03-22</datepublicationdepense>
+        <montantdepense>29369.640000</montantdepense>
+        <description>ODC 33: remplacer le filage dans le bloc B par un réseau en surface en conduits</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-15</datedepense>
+        <datepublicationdepense>2017-03-22</datepublicationdepense>
+        <montantdepense>3377.000000</montantdepense>
+        <description>ODC 34: Coordination des services IT et intercom du local B107</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-14</datedepense>
+        <datepublicationdepense>2017-03-22</datepublicationdepense>
+        <montantdepense>1869.390000</montantdepense>
+        <description>ODC 35: remplacer des luminaires et ajouter de plaques dans l'aile B</description>
+        <nomcontractant>3 Axes Construction Inc.</nomcontractant>
+        <neqcontractant>1166447582</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>982851</numeroseao>
+    <numero>SRM014043</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-01-11</datedepense>
+        <datepublicationdepense>2016-05-18</datepublicationdepense>
+        <montantdepense>11605.000000</montantdepense>
+        <description>SRM016276</description>
+        <nomcontractant>BARIN s.e.n.c.r.l., Architecture &amp; Design</nomcontractant>
+        <neqcontractant>3367893149</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-01-11</datedepense>
+        <datepublicationdepense>2017-03-28</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>SRM016276</description>
+        <nomcontractant>BARIN s.e.n.c.r.l., Architecture &amp; Design</nomcontractant>
+        <neqcontractant>3367893149</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>985478</numeroseao>
+    <numero>16-130 - 165-3PJARM.01</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-12-12</datedepense>
+        <datepublicationdepense>2017-03-09</datepublicationdepense>
+        <montantdepense>5400.000000</montantdepense>
+        <description># 1 - Architecture: Peindre les cadres de portes existants pour assurer la continuité avec ceux de l'agrandissement.</description>
+        <nomcontractant>Construction Argus Inc.</nomcontractant>
+        <neqcontractant>1141949686</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-12</datedepense>
+        <datepublicationdepense>2017-03-09</datepublicationdepense>
+        <montantdepense>3875.000000</montantdepense>
+        <description># 2 - Architecture: Installer une nouvelle quincaillerie pour des raisons coupe-feu sur les portes doubles qui ménent aux cages d'escalier. Modifier les cadres de portes existants (21) pour y installer les nouvelles portes.</description>
+        <nomcontractant>Construction Argus Inc.</nomcontractant>
+        <neqcontractant>1141949686</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1018574</numeroseao>
+    <numero>1233-10</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-11-18</datedepense>
+        <datepublicationdepense>2016-12-14</datepublicationdepense>
+        <montantdepense>11482.420000</montantdepense>
+        <description>Remplacer toutes les divisions de salles de bain et vestiaires par de nouvelles cloisons en panneaux de plastique plein +14 900 et crédit (3 417.58) pour la quincaillerie de portes. L'ancienne est conservée.</description>
+        <nomcontractant>Constructions Guy Sebas Inc.</nomcontractant>
+        <neqcontractant>1144279677</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-30</datedepense>
+        <datepublicationdepense>2016-12-14</datepublicationdepense>
+        <montantdepense>860.680000</montantdepense>
+        <description>Crédit pour accessoires de salles de bain. Surplus pour distributeurs de papiers à mains modèles équivalents. Crédit pour barre d'appui 36". Retirer les miroirs pour peinture et réinstaller les miroirs tels que spécifiés.</description>
+        <nomcontractant>Constructions Guy Sebas Inc.</nomcontractant>
+        <neqcontractant>1144279677</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-30</datedepense>
+        <datepublicationdepense>2016-12-14</datepublicationdepense>
+        <montantdepense>265.970000</montantdepense>
+        <description>Fournir et installer une nouvelle grille de transfert B200 pour la nouvelle salle de bain S125-3</description>
+        <nomcontractant>Constructions Guy Sebas Inc.</nomcontractant>
+        <neqcontractant>1144279677</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-30</datedepense>
+        <datepublicationdepense>2016-12-14</datepublicationdepense>
+        <montantdepense>2003.140000</montantdepense>
+        <description>Refaire les joints des blocs de béton du local S125-3</description>
+        <nomcontractant>Constructions Guy Sebas Inc.</nomcontractant>
+        <neqcontractant>1144279677</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-30</datedepense>
+        <datepublicationdepense>2016-12-14</datepublicationdepense>
+        <montantdepense>274.540000</montantdepense>
+        <description>Remplacer une grille d'évacuation existante par une nouvelle, local S125-3</description>
+        <nomcontractant>Constructions Guy Sebas Inc.</nomcontractant>
+        <neqcontractant>1144279677</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-29</datedepense>
+        <datepublicationdepense>2016-12-14</datepublicationdepense>
+        <montantdepense>5965.670000</montantdepense>
+        <description>Remplacer les siphons des drains de plancher lors du remplacement des drains de plancher.</description>
+        <nomcontractant>Constructions Guy Sebas Inc.</nomcontractant>
+        <neqcontractant>1144279677</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-29</datedepense>
+        <datepublicationdepense>2016-12-14</datepublicationdepense>
+        <montantdepense>713.840000</montantdepense>
+        <description>Changement de modèle de fontaine.</description>
+        <nomcontractant>Constructions Guy Sebas Inc.</nomcontractant>
+        <neqcontractant>1144279677</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-29</datedepense>
+        <datepublicationdepense>2016-12-14</datepublicationdepense>
+        <montantdepense>6992.740000</montantdepense>
+        <description>Ajout d'un pont roulant (lève-personne sur rail). </description>
+        <nomcontractant>Constructions Guy Sebas Inc.</nomcontractant>
+        <neqcontractant>1144279677</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-30</datedepense>
+        <datepublicationdepense>2016-12-14</datepublicationdepense>
+        <montantdepense>7168.370000</montantdepense>
+        <description>Remplacer la restauration des bancs en bois des vestiaires par la fourniture et l'installation de nouveaux bancs en polymère.</description>
+        <nomcontractant>Constructions Guy Sebas Inc.</nomcontractant>
+        <neqcontractant>1144279677</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-05</datedepense>
+        <datepublicationdepense>2016-12-14</datepublicationdepense>
+        <montantdepense>562.180000</montantdepense>
+        <description>Annuler les travaux d'enlèvement de la céramique (plancher et plinthe) et remplacement par de la nouvelle. Locaux S111-2 (WC) et S112-2 (WC). (655.24) et Local S-125-3: Ajouter un drain au plancher. +1 217.42</description>
+        <nomcontractant>Constructions Guy Sebas Inc.</nomcontractant>
+        <neqcontractant>1144279677</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-12</datedepense>
+        <datepublicationdepense>2016-12-14</datepublicationdepense>
+        <montantdepense>800.030000</montantdepense>
+        <description>Ajouter un joint de contrôle en stonflex entre les locaux S100-1 et S125-3.</description>
+        <nomcontractant>Constructions Guy Sebas Inc.</nomcontractant>
+        <neqcontractant>1144279677</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-12</datedepense>
+        <datepublicationdepense>2016-12-14</datepublicationdepense>
+        <montantdepense>1792.200000</montantdepense>
+        <description>Condamner les conduits arrivant de la dalle pour l'alimentation des contacteurs d'éclairage et refaire l'alimentation par le plafond (S100-1).</description>
+        <nomcontractant>Constructions Guy Sebas Inc.</nomcontractant>
+        <neqcontractant>1144279677</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-12</datedepense>
+        <datepublicationdepense>2016-12-14</datepublicationdepense>
+        <montantdepense>7509.590000</montantdepense>
+        <description>Réparer les conduits coupés lors des travaux de sciage de béton. Refaire la filerie endommagée. Réparer le conducteur de MALT.</description>
+        <nomcontractant>Constructions Guy Sebas Inc.</nomcontractant>
+        <neqcontractant>1144279677</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-12</datedepense>
+        <datepublicationdepense>2016-12-14</datepublicationdepense>
+        <montantdepense>290.230000</montantdepense>
+        <description>Ajouter une prise de courant pour le chargeur du lève-personne sur rail dans le local S125-3.</description>
+        <nomcontractant>Constructions Guy Sebas Inc.</nomcontractant>
+        <neqcontractant>1144279677</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-12</datedepense>
+        <datepublicationdepense>2016-12-14</datepublicationdepense>
+        <montantdepense>302.370000</montantdepense>
+        <description>Locaux S124 et S125: remplacer vannes. Locaux S-111 et S-112: annuler travaux remplacement drains de plancher. </description>
+        <nomcontractant>Constructions Guy Sebas Inc.</nomcontractant>
+        <neqcontractant>1144279677</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-13</datedepense>
+        <datepublicationdepense>2016-12-14</datepublicationdepense>
+        <montantdepense>1310.920000</montantdepense>
+        <description>Local 125-3: Ajout de pente pour la douche du vestiaire adapté et sciage des caniveaux des douches. Locaux S107-3 et S-108-3 Pose de revêtement époxy par-dessus la céramique existante dans la section centrale des douches. Crédit de 1516,17 $.</description>
+        <nomcontractant>Constructions Guy Sebas Inc.</nomcontractant>
+        <neqcontractant>1144279677</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-01-11</datedepense>
+        <datepublicationdepense>2017-03-06</datepublicationdepense>
+        <montantdepense>1042.500000</montantdepense>
+        <description>Réparation d'équipements existants réinstallés qui étaient défectueux.</description>
+        <nomcontractant>Constructions Guy Sebas Inc.</nomcontractant>
+        <neqcontractant>1144279677</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-01-11</datedepense>
+        <datepublicationdepense>2017-03-06</datepublicationdepense>
+        <montantdepense>3277.660000</montantdepense>
+        <description>Travaux pour le drain bouché au 2e étage. </description>
+        <nomcontractant>Constructions Guy Sebas Inc.</nomcontractant>
+        <neqcontractant>1144279677</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-10</datedepense>
+        <datepublicationdepense>2017-03-06</datepublicationdepense>
+        <montantdepense>189.700000</montantdepense>
+        <description>Débrancher l'alimentation d'eau chaude des douches. Raccorder l'eau chaude. Enlever le tuyau qui ne sert plus entre les deux locaux. Ajouter une plinthe de vinyle et 9 casiers métalliques. Ajout de céramique sur deux murs . Crédit de 5 367,85 $ - travaux de plomberie pour les douches.</description>
+        <nomcontractant>Constructions Guy Sebas Inc.</nomcontractant>
+        <neqcontractant>1144279677</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-22</datedepense>
+        <datepublicationdepense>2017-03-06</datepublicationdepense>
+        <montantdepense>2698.160000</montantdepense>
+        <description>Travaux locaux S 124 et S125 - Ajouter une plaque en acier inoxydable, une barre d'appui dans la partition d'habillage et ajouter deux casiers.</description>
+        <nomcontractant>Constructions Guy Sebas Inc.</nomcontractant>
+        <neqcontractant>1144279677</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-23</datedepense>
+        <datepublicationdepense>2017-03-06</datepublicationdepense>
+        <montantdepense>901.360000</montantdepense>
+        <description>Remonter 2 des 3 fontaines type F-1 sur le mur du corridor.</description>
+        <nomcontractant>Constructions Guy Sebas Inc.</nomcontractant>
+        <neqcontractant>1144279677</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-03-16</datedepense>
+        <datepublicationdepense>2017-03-23</datepublicationdepense>
+        <montantdepense>1714.690000</montantdepense>
+        <description>Fournir et installer un revêtement de plancher par-dessus la céramique dans les locaux S111-1 et S112-1.</description>
+        <nomcontractant>Constructions Guy Sebas Inc.</nomcontractant>
+        <neqcontractant>1144279677</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1019583</numeroseao>
+    <numero>P24108</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-02-21</datedepense>
+        <datepublicationdepense>2017-03-09</datepublicationdepense>
+        <montantdepense>113234.610000</montantdepense>
+        <description>Quantité supplémentaire de tapis.</description>
+        <nomcontractant>Groupe Symaco Inc.</nomcontractant>
+        <neqcontractant>1143241215</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1042250</numeroseao>
+    <numero>IM12892</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-02-15</datedepense>
+        <datepublicationdepense>2017-03-01</datepublicationdepense>
+        <montantdepense>8500.000000</montantdepense>
+        <description>Révision, rencontres et implantation </description>
+        <nomcontractant>Lemay CO inc.</nomcontractant>
+        <neqcontractant>1149007115</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-15</datedepense>
+        <datepublicationdepense>2017-03-01</datepublicationdepense>
+        <montantdepense>7500.000000</montantdepense>
+        <description>Modification importantes au PFT</description>
+        <nomcontractant>Lemay CO inc.</nomcontractant>
+        <neqcontractant>1149007115</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1063273</numeroseao>
+    <numero>DB13352</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-03-28</datedepense>
+        <datepublicationdepense>2017-03-29</datepublicationdepense>
+        <montantdepense>9300.000000</montantdepense>
+        <description>Prolongation pour compléter le mandat dans un domaine d'expertise rare</description>
+        <nomcontractant>Institut de tourisme et d'hôtellerie</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+</export>

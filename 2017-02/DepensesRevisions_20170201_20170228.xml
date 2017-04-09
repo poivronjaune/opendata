@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2017-02-01" datefin="2017-02-28">
+  <avis>
+    <numeroseao>512032</numeroseao>
+    <numero>P01123</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-11-14</datedepense>
+        <datepublicationdepense>2016-11-18</datepublicationdepense>
+        <montantdepense>48557.050000</montantdepense>
+        <description>Réclamation</description>
+        <nomcontractant>Régis Côté &amp; Associés, architectes, s.e.n.c.</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>545962</numeroseao>
+    <numero>8801-11-HE03</numero>
+    <depenses>
+      <depense>
+        <datedepense>2014-04-22</datedepense>
+        <datepublicationdepense>2014-06-17</datepublicationdepense>
+        <montantdepense>10383.120000</montantdepense>
+        <description>Dépassement relié à des modifications au contrat de services professionnels</description>
+        <nomcontractant>Stantec Experts-Conseils ltée</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-06-10</datedepense>
+        <datepublicationdepense>2017-02-15</datepublicationdepense>
+        <montantdepense>40075.370000</montantdepense>
+        <description>Dépassement relié à des modifications au contrat de services professionnels</description>
+        <nomcontractant>Stantec Experts-Conseils ltée</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>585684</numeroseao>
+    <numero>2012-049</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-02-07</datedepense>
+        <datepublicationdepense>2014-06-17</datepublicationdepense>
+        <montantdepense>8891.910000</montantdepense>
+        <description>ODC #1</description>
+        <nomcontractant>Daniel Coulombe Construction,</nomcontractant>
+        <neqcontractant>1143837228</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-02-28</datedepense>
+        <datepublicationdepense>2014-06-17</datepublicationdepense>
+        <montantdepense>30065.870000</montantdepense>
+        <description>ODC #2</description>
+        <nomcontractant>Daniel Coulombe Construction,</nomcontractant>
+        <neqcontractant>1143837228</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-03-01</datedepense>
+        <datepublicationdepense>2014-06-17</datepublicationdepense>
+        <montantdepense>6316.980000</montantdepense>
+        <description>ODC #3</description>
+        <nomcontractant>Daniel Coulombe Construction,</nomcontractant>
+        <neqcontractant>1143837228</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-02-26</datedepense>
+        <datepublicationdepense>2014-06-17</datepublicationdepense>
+        <montantdepense>5311.100000</montantdepense>
+        <description>ODC #4</description>
+        <nomcontractant>Daniel Coulombe Construction,</nomcontractant>
+        <neqcontractant>1143837228</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-07-12</datedepense>
+        <datepublicationdepense>2014-06-17</datepublicationdepense>
+        <montantdepense>4581.340000</montantdepense>
+        <description>ODC #5</description>
+        <nomcontractant>Daniel Coulombe Construction,</nomcontractant>
+        <neqcontractant>1143837228</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-07-12</datedepense>
+        <datepublicationdepense>2014-06-17</datepublicationdepense>
+        <montantdepense>102132.440000</montantdepense>
+        <description>ODC #6</description>
+        <nomcontractant>Daniel Coulombe Construction,</nomcontractant>
+        <neqcontractant>1143837228</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-07-19</datedepense>
+        <datepublicationdepense>2014-06-17</datepublicationdepense>
+        <montantdepense>5471.800000</montantdepense>
+        <description>ODC #7</description>
+        <nomcontractant>Daniel Coulombe Construction,</nomcontractant>
+        <neqcontractant>1143837228</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-12-11</datedepense>
+        <datepublicationdepense>2014-06-17</datepublicationdepense>
+        <montantdepense>6508.900000</montantdepense>
+        <description>ODC #8</description>
+        <nomcontractant>Daniel Coulombe Construction,</nomcontractant>
+        <neqcontractant>1143837228</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>611670</numeroseao>
+    <numero>CHUSJ-429</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-01-20</datedepense>
+        <datepublicationdepense>2017-02-16</datepublicationdepense>
+        <montantdepense>201865.000000</montantdepense>
+        <description>activités de révision inclus au contrat qui se sont prolongées</description>
+        <nomcontractant>Scéno Plus.</nomcontractant>
+        <neqcontractant>1142876714</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>630199</numeroseao>
+    <numero>2013-300-2</numero>
+    <depenses>
+      <depense>
+        <datedepense>2014-01-09</datedepense>
+        <datepublicationdepense>2014-06-11</datepublicationdepense>
+        <montantdepense>24993.270000</montantdepense>
+        <description>ODC #1- Révisé</description>
+        <nomcontractant>Lévesque et Associées Construction Inc.</nomcontractant>
+        <neqcontractant>1149139215</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2014-03-24</datedepense>
+        <datepublicationdepense>2015-04-13</datepublicationdepense>
+        <montantdepense>7138.860000</montantdepense>
+        <description>ODC #2 - Travaux imprévus en architecture</description>
+        <nomcontractant>Lévesque et Associées Construction Inc.</nomcontractant>
+        <neqcontractant>1149139215</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2014-04-22</datedepense>
+        <datepublicationdepense>2015-04-13</datepublicationdepense>
+        <montantdepense>2443.130000</montantdepense>
+        <description>ODC #3 - Travaux imprévus en structure</description>
+        <nomcontractant>Lévesque et Associées Construction Inc.</nomcontractant>
+        <neqcontractant>1149139215</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2014-04-22</datedepense>
+        <datepublicationdepense>2015-04-13</datepublicationdepense>
+        <montantdepense>9884.420000</montantdepense>
+        <description>ODC #4 - Travaux imprévus architecture et structure</description>
+        <nomcontractant>Lévesque et Associées Construction Inc.</nomcontractant>
+        <neqcontractant>1149139215</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2014-05-15</datedepense>
+        <datepublicationdepense>2015-04-13</datepublicationdepense>
+        <montantdepense>3170.250000</montantdepense>
+        <description>ODC #5 - Travaux imprévus cloisonnement temporaire</description>
+        <nomcontractant>Lévesque et Associées Construction Inc.</nomcontractant>
+        <neqcontractant>1149139215</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2014-05-15</datedepense>
+        <datepublicationdepense>2015-04-13</datepublicationdepense>
+        <montantdepense>33752.040000</montantdepense>
+        <description>ODC #6 - Travaux imprévus désamiantage</description>
+        <nomcontractant>Lévesque et Associées Construction Inc.</nomcontractant>
+        <neqcontractant>1149139215</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2014-06-16</datedepense>
+        <datepublicationdepense>2015-04-13</datepublicationdepense>
+        <montantdepense>4476.740000</montantdepense>
+        <description>ODC #7 - Travaux imprévus désamiantage</description>
+        <nomcontractant>Lévesque et Associées Construction Inc.</nomcontractant>
+        <neqcontractant>1149139215</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2014-06-16</datedepense>
+        <datepublicationdepense>2015-04-13</datepublicationdepense>
+        <montantdepense>3532.870000</montantdepense>
+        <description>ODC #8 - Travaux imprévus désamiantage</description>
+        <nomcontractant>Lévesque et Associées Construction Inc.</nomcontractant>
+        <neqcontractant>1149139215</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2014-09-05</datedepense>
+        <datepublicationdepense>2015-04-13</datepublicationdepense>
+        <montantdepense>22563.380000</montantdepense>
+        <description>ODC #9 - Travaux imprévus</description>
+        <nomcontractant>Lévesque et Associées Construction Inc.</nomcontractant>
+        <neqcontractant>1149139215</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2014-09-30</datedepense>
+        <datepublicationdepense>2015-04-13</datepublicationdepense>
+        <montantdepense>23006.200000</montantdepense>
+        <description>ODC #10 - Travaux imprévus</description>
+        <nomcontractant>Lévesque et Associées Construction Inc.</nomcontractant>
+        <neqcontractant>1149139215</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2014-12-09</datedepense>
+        <datepublicationdepense>2015-04-13</datepublicationdepense>
+        <montantdepense>4813.780000</montantdepense>
+        <description>ODC #11 - Travaux imprévus</description>
+        <nomcontractant>Lévesque et Associées Construction Inc.</nomcontractant>
+        <neqcontractant>1149139215</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-05-22</datedepense>
+        <datepublicationdepense>2015-04-13</datepublicationdepense>
+        <montantdepense>5799.190000</montantdepense>
+        <description>ODC #13 - Raccordements électriques</description>
+        <nomcontractant>Lévesque et Associées Construction Inc.</nomcontractant>
+        <neqcontractant>1149139215</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2014-12-09</datedepense>
+        <datepublicationdepense>2015-04-13</datepublicationdepense>
+        <montantdepense>14280.760000</montantdepense>
+        <description>ODC #12 - Travaux imprévus</description>
+        <nomcontractant>Lévesque et Associées Construction Inc.</nomcontractant>
+        <neqcontractant>1149139215</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>679099</numeroseao>
+    <numero>SR20130181</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-10-25</datedepense>
+        <datepublicationdepense>2017-02-15</datepublicationdepense>
+        <montantdepense>7000.000000</montantdepense>
+        <description>Prolongation de 2 mois au contrat</description>
+        <nomcontractant>Recyclage Vanier</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2016-08-11</datedepense>
+        <datepublicationdepense>2017-02-15</datepublicationdepense>
+        <montantdepense>7000.000000</montantdepense>
+        <description>Travaux supplémentaires engendrés par la rénovation des étages du siège social</description>
+        <nomcontractant>Recyclage Vanier</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>695325</numeroseao>
+    <numero>6705-13-0213</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-10-21</datedepense>
+        <datepublicationdepense>2016-12-09</datepublicationdepense>
+        <montantdepense>415679.590000</montantdepense>
+        <description>Dommages ne pouvant être décelés qu'au moment des travaux</description>
+        <nomcontractant>Les Excavations A. Savard  inc.</nomcontractant>
+        <neqcontractant>1143068220</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-25</datedepense>
+        <datepublicationdepense>2017-01-13</datepublicationdepense>
+        <montantdepense>129381.060000</montantdepense>
+        <description>Dépassement relié à des variations de quantité et/ou des modifications au contrat de construction ou de services de nature technique</description>
+        <nomcontractant>Les Excavations A. Savard  inc.</nomcontractant>
+        <neqcontractant>1143068220</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2014-12-06</datedepense>
+        <datepublicationdepense>2015-01-28</datepublicationdepense>
+        <montantdepense>367150.000000</montantdepense>
+        <description>Modifications au concept initial</description>
+        <nomcontractant>Les Excavations A. Savard  inc.</nomcontractant>
+        <neqcontractant>1143068220</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>754220</numeroseao>
+    <numero>2014-103</numero>
+    <depenses>
+      <depense>
+        <datedepense>2014-12-10</datedepense>
+        <datepublicationdepense>2015-04-10</datepublicationdepense>
+        <montantdepense>16568.650000</montantdepense>
+        <description>ODC #1 - Divers travaux en architecture</description>
+        <nomcontractant>Lévesque et Associées Construction Inc.</nomcontractant>
+        <neqcontractant>1149139215</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-02-23</datedepense>
+        <datepublicationdepense>2015-04-10</datepublicationdepense>
+        <montantdepense>36380.840000</montantdepense>
+        <description>ODC #2 - Divers travaux en architecture</description>
+        <nomcontractant>Lévesque et Associées Construction Inc.</nomcontractant>
+        <neqcontractant>1149139215</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-04-13</datedepense>
+        <datepublicationdepense>2016-01-14</datepublicationdepense>
+        <montantdepense>28462.860000</montantdepense>
+        <description>ODC #3 - Divers Travaux en architecture et en mécanique</description>
+        <nomcontractant>Lévesque et Associées Construction Inc.</nomcontractant>
+        <neqcontractant>1149139215</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-04-13</datedepense>
+        <datepublicationdepense>2016-01-14</datepublicationdepense>
+        <montantdepense>68634.500000</montantdepense>
+        <description>ODC #4 - Travaux divers en architecture</description>
+        <nomcontractant>Lévesque et Associées Construction Inc.</nomcontractant>
+        <neqcontractant>1149139215</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-05-05</datedepense>
+        <datepublicationdepense>2016-01-14</datepublicationdepense>
+        <montantdepense>81173.790000</montantdepense>
+        <description>ODC #5 - Travaux divers en architecture et en mécanique</description>
+        <nomcontractant>Lévesque et Associées Construction Inc.</nomcontractant>
+        <neqcontractant>1149139215</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-06-03</datedepense>
+        <datepublicationdepense>2016-01-14</datepublicationdepense>
+        <montantdepense>474.910000</montantdepense>
+        <description>ODC #6 - Travaux divers en architecture et en mécanique</description>
+        <nomcontractant>Lévesque et Associées Construction Inc.</nomcontractant>
+        <neqcontractant>1149139215</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>880858</numeroseao>
+    <numero>15-012</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-08-17</datedepense>
+        <datepublicationdepense>2017-02-23</datepublicationdepense>
+        <montantdepense>5113.280000</montantdepense>
+        <description>Avenant # 1</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-11-17</datedepense>
+        <datepublicationdepense>2017-02-23</datepublicationdepense>
+        <montantdepense>3863.470000</montantdepense>
+        <description>Avenant # 10</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-11-17</datedepense>
+        <datepublicationdepense>2017-02-23</datepublicationdepense>
+        <montantdepense>3099.660000</montantdepense>
+        <description>Avenant # 11</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-08-17</datedepense>
+        <datepublicationdepense>2017-02-23</datepublicationdepense>
+        <montantdepense>1615.880000</montantdepense>
+        <description>Avenant # 2</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-08-20</datedepense>
+        <datepublicationdepense>2017-02-23</datepublicationdepense>
+        <montantdepense>4513.310000</montantdepense>
+        <description>Avenant # 3</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-08-20</datedepense>
+        <datepublicationdepense>2017-02-23</datepublicationdepense>
+        <montantdepense>4354.220000</montantdepense>
+        <description>Avenant # 4</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-11-10</datedepense>
+        <datepublicationdepense>2017-02-23</datepublicationdepense>
+        <montantdepense>1307.030000</montantdepense>
+        <description>Avenant # 5</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-11-10</datedepense>
+        <datepublicationdepense>2017-02-23</datepublicationdepense>
+        <montantdepense>5719.020000</montantdepense>
+        <description>Avenant # 6</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-11-10</datedepense>
+        <datepublicationdepense>2017-02-23</datepublicationdepense>
+        <montantdepense>813.470000</montantdepense>
+        <description>Avenant # 7</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-11-17</datedepense>
+        <datepublicationdepense>2017-02-23</datepublicationdepense>
+        <montantdepense>12127.480000</montantdepense>
+        <description>Avenant # 8</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-11-17</datedepense>
+        <datepublicationdepense>2017-02-23</datepublicationdepense>
+        <montantdepense>60236.610000</montantdepense>
+        <description>Avenant # 9</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>895228</numeroseao>
+    <numero>74297</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-06-03</datedepense>
+        <datepublicationdepense>2016-08-15</datepublicationdepense>
+        <montantdepense>208919.730000</montantdepense>
+        <description>Directives de chantier.  Architecture et mécanique.</description>
+        <nomcontractant>L'Intendant Inc.</nomcontractant>
+        <neqcontractant>1142457655</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-18</datedepense>
+        <datepublicationdepense>2016-08-15</datepublicationdepense>
+        <montantdepense>29875.110000</montantdepense>
+        <description>ODC-12, Directives de chantier architecture et mécaniques</description>
+        <nomcontractant>L'Intendant Inc.</nomcontractant>
+        <neqcontractant>1142457655</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-01-20</datedepense>
+        <datepublicationdepense>2017-02-21</datepublicationdepense>
+        <montantdepense>13825.070000</montantdepense>
+        <description>ODC-17:  Directives de chantier ME-28rev1, A41rev1, ME-42rev-1, ME-43, M3-49, ME-55, ME-56, ME-57 et ME-58</description>
+        <nomcontractant>L'Intendant Inc.</nomcontractant>
+        <neqcontractant>1142457655</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-16</datedepense>
+        <datepublicationdepense>2016-09-28</datepublicationdepense>
+        <montantdepense>89382.360000</montantdepense>
+        <description>Ordre de changement 13 - Directive de chantier A28r6-cp, Directive de chantier Me-45-cp et Directive de chantier Me-50-cp</description>
+        <nomcontractant>L'Intendant Inc.</nomcontractant>
+        <neqcontractant>1142457655</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-16</datedepense>
+        <datepublicationdepense>2016-09-28</datepublicationdepense>
+        <montantdepense>85266.220000</montantdepense>
+        <description>Ordre de changement 14, Directive de chantier A36rev2-cp, Me35rev1-cp, Me-36rev1-cp et Me-37-cp</description>
+        <nomcontractant>L'Intendant Inc.</nomcontractant>
+        <neqcontractant>1142457655</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-16</datedepense>
+        <datepublicationdepense>2016-09-28</datepublicationdepense>
+        <montantdepense>22302.960000</montantdepense>
+        <description>Directives de chantier A42r, Me-39, Me-46, Me-48, Me-51 et annulation de directives C04 et C05</description>
+        <nomcontractant>L'Intendant Inc.</nomcontractant>
+        <neqcontractant>1142457655</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-18</datedepense>
+        <datepublicationdepense>2016-11-04</datepublicationdepense>
+        <montantdepense>18022.830000</montantdepense>
+        <description>ODC- 16 - Directives de chantier en architecture, mécanique, structure et civil en raisons de conditions de chantier en cours de construction.</description>
+        <nomcontractant>L'Intendant Inc.</nomcontractant>
+        <neqcontractant>1142457655</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>917123</numeroseao>
+    <numero>BC130999</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-09-22</datedepense>
+        <datepublicationdepense>2016-09-22</datepublicationdepense>
+        <montantdepense>119200.000000</montantdepense>
+        <description>Ajout de 4 générateurs jusqu'au 31 décembre 2016</description>
+        <nomcontractant>Jubilant DraxImage inc.</nomcontractant>
+        <neqcontractant>1165066078</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-01-30</datedepense>
+        <datepublicationdepense>2017-02-09</datepublicationdepense>
+        <montantdepense>301600.000000</montantdepense>
+        <description>Ajout de 4 générateurs v3 à 45 000$ + 4 générateus v2 à 29 800$ + 2 400$ jusqu'au 1er juin 2016</description>
+        <nomcontractant>Jubilant DraxImage inc.</nomcontractant>
+        <neqcontractant>1165066078</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>956888</numeroseao>
+    <numero>TR2270</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-06-13</datedepense>
+        <datepublicationdepense>2017-02-10</datepublicationdepense>
+        <montantdepense>2265.550000</montantdepense>
+        <description>Avenant de modification # 1 - Pour des scellements coupe-feu non-identifiés</description>
+        <nomcontractant>Construction A. Ouellet  / (9016-8436 Québec Inc)</nomcontractant>
+        <neqcontractant>1143088533</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-03</datedepense>
+        <datepublicationdepense>2017-02-10</datepublicationdepense>
+        <montantdepense>318.840000</montantdepense>
+        <description>Avenant de modification # 3 - Fournir et installer des séparateurs d'air en tôle galvanisé dans le plenum d'air neuf.</description>
+        <nomcontractant>Construction A. Ouellet  / (9016-8436 Québec Inc)</nomcontractant>
+        <neqcontractant>1143088533</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-22</datedepense>
+        <datepublicationdepense>2017-02-10</datepublicationdepense>
+        <montantdepense>6128.340000</montantdepense>
+        <description>Avenant de modification #2 - Ajout d'une cornière ancré au mur de béton, travaux de percement du mur de béton</description>
+        <nomcontractant>Construction A. Ouellet  / (9016-8436 Québec Inc)</nomcontractant>
+        <neqcontractant>1143088533</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-10</datedepense>
+        <datepublicationdepense>2017-02-10</datepublicationdepense>
+        <montantdepense>1238.600000</montantdepense>
+        <description>Avenant de modification # 5 - Ajouter du calorifuge sur la tuyauterie d'eau froide potablesur env. 200 pieds</description>
+        <nomcontractant>Construction A. Ouellet  / (9016-8436 Québec Inc)</nomcontractant>
+        <neqcontractant>1143088533</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>957597</numeroseao>
+    <numero>AO160224-26</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-09-26</datedepense>
+        <datepublicationdepense>2017-02-16</datepublicationdepense>
+        <montantdepense>10355.590000</montantdepense>
+        <description>Revêtement de plancher de l'ascenceur, changement d'une barre-panique, consolidation de terracotta sous fenêtres - imprévus.</description>
+        <nomcontractant>Lévis Construction</nomcontractant>
+        <neqcontractant>1140477598</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-26</datedepense>
+        <datepublicationdepense>2017-02-16</datepublicationdepense>
+        <montantdepense>55363.620000</montantdepense>
+        <description>Raccord d'aqueduc, renforcement axe 2, correction rive des dalles axe 2, renforcement poutres de rive aile B - imprévus.</description>
+        <nomcontractant>Lévis Construction</nomcontractant>
+        <neqcontractant>1140477598</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-06</datedepense>
+        <datepublicationdepense>2017-02-16</datepublicationdepense>
+        <montantdepense>22134.820000</montantdepense>
+        <description>Modification des ancrages des contreventements, démolition poutre de béton - imprévus.</description>
+        <nomcontractant>Lévis Construction</nomcontractant>
+        <neqcontractant>1140477598</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-06</datedepense>
+        <datepublicationdepense>2017-02-16</datepublicationdepense>
+        <montantdepense>1971.050000</montantdepense>
+        <description>Remplacement robinetterie, remplacement sectionneurs, panneaux électriques, ajout plenum - imprévus.</description>
+        <nomcontractant>Lévis Construction</nomcontractant>
+        <neqcontractant>1140477598</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-13</datedepense>
+        <datepublicationdepense>2017-02-16</datepublicationdepense>
+        <montantdepense>25753.820000</montantdepense>
+        <description>Modification contreventement rez-de-chaussé, têtes des fenêtres aile A et B - imprévus.</description>
+        <nomcontractant>Lévis Construction</nomcontractant>
+        <neqcontractant>1140477598</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-13</datedepense>
+        <datepublicationdepense>2017-02-16</datepublicationdepense>
+        <montantdepense>12873.490000</montantdepense>
+        <description>Structure de support : rotonde - imprévu.</description>
+        <nomcontractant>Lévis Construction</nomcontractant>
+        <neqcontractant>1140477598</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-17</datedepense>
+        <datepublicationdepense>2017-02-16</datepublicationdepense>
+        <montantdepense>925.220000</montantdepense>
+        <description>Démolition de briques, modification maçonnerie, acrovyn et mains courantes escaliers - imprévus.</description>
+        <nomcontractant>Lévis Construction</nomcontractant>
+        <neqcontractant>1140477598</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-14</datedepense>
+        <datepublicationdepense>2017-02-16</datepublicationdepense>
+        <montantdepense>3508.100000</montantdepense>
+        <description>Accessoires de toilette, démantèlement linteau aile B niveau 2 - imprévus.</description>
+        <nomcontractant>Lévis Construction</nomcontractant>
+        <neqcontractant>1140477598</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-28</datedepense>
+        <datepublicationdepense>2017-02-16</datepublicationdepense>
+        <montantdepense>21354.200000</montantdepense>
+        <description>Système de ventilation, déplacement tuyauterie chauffage, remplacement câblage intercom - imprévus.</description>
+        <nomcontractant>Lévis Construction</nomcontractant>
+        <neqcontractant>1140477598</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-20</datedepense>
+        <datepublicationdepense>2017-02-16</datepublicationdepense>
+        <montantdepense>15069.060000</montantdepense>
+        <description>Système intérieur, finition extérieur, consolidation terracota, base des revêtements - imprévus.</description>
+        <nomcontractant>Lévis Construction</nomcontractant>
+        <neqcontractant>1140477598</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-20</datedepense>
+        <datepublicationdepense>2017-02-16</datepublicationdepense>
+        <montantdepense>15534.650000</montantdepense>
+        <description>Divers modifications plomberie, puisard fosse ascenceur, ajout volet coupe-feu, modifications électriques - imprévus.</description>
+        <nomcontractant>Lévis Construction</nomcontractant>
+        <neqcontractant>1140477598</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-04</datedepense>
+        <datepublicationdepense>2017-02-16</datepublicationdepense>
+        <montantdepense>23388.820000</montantdepense>
+        <description>Enveloppe, préparation de plancher modifiée, modifications travaux local 116, encapsulage d'amiante - imprévus.</description>
+        <nomcontractant>Lévis Construction</nomcontractant>
+        <neqcontractant>1140477598</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-04</datedepense>
+        <datepublicationdepense>2017-02-16</datepublicationdepense>
+        <montantdepense>84767.440000</montantdepense>
+        <description>Conditions hivernales : brique - imprévu.</description>
+        <nomcontractant>Lévis Construction</nomcontractant>
+        <neqcontractant>1140477598</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-03</datedepense>
+        <datepublicationdepense>2017-02-21</datepublicationdepense>
+        <montantdepense>3912.590000</montantdepense>
+        <description>Divers travaux en électricité - imprévus.</description>
+        <nomcontractant>Lévis Construction</nomcontractant>
+        <neqcontractant>1140477598</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-13</datedepense>
+        <datepublicationdepense>2017-02-21</datepublicationdepense>
+        <montantdepense>12040.040000</montantdepense>
+        <description>Divers travaux de finition initérieure - imprévus.</description>
+        <nomcontractant>Lévis Construction</nomcontractant>
+        <neqcontractant>1140477598</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>967457</numeroseao>
+    <numero>2015-022</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-09-02</datedepense>
+        <datepublicationdepense>2016-12-06</datepublicationdepense>
+        <montantdepense>7536.290000</montantdepense>
+        <description>A-06 ODC</description>
+        <nomcontractant>Construction Doverco Inc..</nomcontractant>
+        <neqcontractant>1160536588</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-02</datedepense>
+        <datepublicationdepense>2016-12-06</datepublicationdepense>
+        <montantdepense>55860.310000</montantdepense>
+        <description>A-07 ODC</description>
+        <nomcontractant>Construction Doverco Inc..</nomcontractant>
+        <neqcontractant>1160536588</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-08</datedepense>
+        <datepublicationdepense>2016-12-06</datepublicationdepense>
+        <montantdepense>28829.690000</montantdepense>
+        <description>A-08 ODC</description>
+        <nomcontractant>Construction Doverco Inc..</nomcontractant>
+        <neqcontractant>1160536588</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-23</datedepense>
+        <datepublicationdepense>2017-02-27</datepublicationdepense>
+        <montantdepense>11613.560000</montantdepense>
+        <description>A-09 ODC</description>
+        <nomcontractant>Construction Doverco Inc..</nomcontractant>
+        <neqcontractant>1160536588</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-23</datedepense>
+        <datepublicationdepense>2017-02-27</datepublicationdepense>
+        <montantdepense>2102.260000</montantdepense>
+        <description>A-10 ODC</description>
+        <nomcontractant>Construction Doverco Inc..</nomcontractant>
+        <neqcontractant>1160536588</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>974877</numeroseao>
+    <numero>S01-15174</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-07-08</datedepense>
+        <datepublicationdepense>2016-08-09</datepublicationdepense>
+        <montantdepense>446.730000</montantdepense>
+        <description>Ajouter des ancrages au allèges de béton pour éviter qu'elles ne versent vers l'avant</description>
+        <nomcontractant>Construction Olivier &amp; Lyonnais Inc..</nomcontractant>
+        <neqcontractant>1142640003</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-26</datedepense>
+        <datepublicationdepense>2017-02-02</datepublicationdepense>
+        <montantdepense>26914.440000</montantdepense>
+        <description>Réfection des dalles de béton aux entrées. Allonger le muret-pièce 16. Ajout mat de télécommunication. Étancher les massifs de béton en façade. Réparation des lisses et démolition structure marquise d'entrée. Travaux sur plinthes de chauffage. Ajout de treillis. Mitre de cheminée. Peinture. </description>
+        <nomcontractant>Construction Olivier &amp; Lyonnais Inc..</nomcontractant>
+        <neqcontractant>1142640003</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-20</datedepense>
+        <datepublicationdepense>2016-09-15</datepublicationdepense>
+        <montantdepense>2135.160000</montantdepense>
+        <description>Démantèlement du câblage électrique et relocalisation d'un interrupteur. Installation de trois boitiers de sorties électriques. </description>
+        <nomcontractant>Construction Olivier &amp; Lyonnais Inc..</nomcontractant>
+        <neqcontractant>1142640003</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-08</datedepense>
+        <datepublicationdepense>2016-09-15</datepublicationdepense>
+        <montantdepense>734.760000</montantdepense>
+        <description>Local 19 - fournir et installer la tuile de céramique pour la différence de hauteur en rapport avec le plan. Démantèlement d'une conduite inutilisé.</description>
+        <nomcontractant>Construction Olivier &amp; Lyonnais Inc..</nomcontractant>
+        <neqcontractant>1142640003</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-10</datedepense>
+        <datepublicationdepense>2016-09-15</datepublicationdepense>
+        <montantdepense>4893.980000</montantdepense>
+        <description>Fournir et installation de luminaires ext. Remplacer une allège de granite. Repeindre le plafond du local 16. Ragréage non inclus. Fixer la porte extérieure droite en façade.</description>
+        <nomcontractant>Construction Olivier &amp; Lyonnais Inc..</nomcontractant>
+        <neqcontractant>1142640003</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-10</datedepense>
+        <datepublicationdepense>2016-09-15</datepublicationdepense>
+        <montantdepense>1986.250000</montantdepense>
+        <description>Ajout d'un contreplaqué derrière le mur des urinoirs. Soufflage muret sous fenêtre local 19.</description>
+        <nomcontractant>Construction Olivier &amp; Lyonnais Inc..</nomcontractant>
+        <neqcontractant>1142640003</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-22</datedepense>
+        <datepublicationdepense>2016-09-15</datepublicationdepense>
+        <montantdepense>341.980000</montantdepense>
+        <description>Peindre le bord du béton aux toitures des deux entrées.</description>
+        <nomcontractant>Construction Olivier &amp; Lyonnais Inc..</nomcontractant>
+        <neqcontractant>1142640003</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-22</datedepense>
+        <datepublicationdepense>2016-09-15</datepublicationdepense>
+        <montantdepense>418.690000</montantdepense>
+        <description>Raccourcir les mains-courantes de l'escalier existant arrière.</description>
+        <nomcontractant>Construction Olivier &amp; Lyonnais Inc..</nomcontractant>
+        <neqcontractant>1142640003</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-02</datedepense>
+        <datepublicationdepense>2016-10-18</datepublicationdepense>
+        <montantdepense>1627.380000</montantdepense>
+        <description>Isolant pour la dalle en béton sur sol</description>
+        <nomcontractant>Construction Olivier &amp; Lyonnais Inc..</nomcontractant>
+        <neqcontractant>1142640003</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-08</datedepense>
+        <datepublicationdepense>2016-10-18</datepublicationdepense>
+        <montantdepense>2936.130000</montantdepense>
+        <description>Installer d'ancrages qui termineront avant le nouveau rang de brique ext.pour le support de l'échelle du gymnase. Travaux de plomberie. Couper grilles de caniveau ext. qui n'entrent pas dans leur assemblage + peinture. Remplacer une section de toiture.Ajout de contreplaqué sur colombage existant.</description>
+        <nomcontractant>Construction Olivier &amp; Lyonnais Inc..</nomcontractant>
+        <neqcontractant>1142640003</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1003009</numeroseao>
+    <numero>44506242</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-12-08</datedepense>
+        <datepublicationdepense>2016-12-12</datepublicationdepense>
+        <montantdepense>705.990000</montantdepense>
+        <description>Imprévu de chantier</description>
+        <nomcontractant>A Plus Construction</nomcontractant>
+        <neqcontractant>1147105218</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-17</datedepense>
+        <datepublicationdepense>2016-12-12</datepublicationdepense>
+        <montantdepense>3020.750000</montantdepense>
+        <description>Changement de programme</description>
+        <nomcontractant>A Plus Construction</nomcontractant>
+        <neqcontractant>1147105218</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-17</datedepense>
+        <datepublicationdepense>2016-12-12</datepublicationdepense>
+        <montantdepense>3344.470000</montantdepense>
+        <description>Imprévu de chantier</description>
+        <nomcontractant>A Plus Construction</nomcontractant>
+        <neqcontractant>1147105218</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-18</datedepense>
+        <datepublicationdepense>2016-12-12</datepublicationdepense>
+        <montantdepense>2908.630000</montantdepense>
+        <description>Imprévu de design ODC #3-4</description>
+        <nomcontractant>A Plus Construction</nomcontractant>
+        <neqcontractant>1147105218</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-26</datedepense>
+        <datepublicationdepense>2016-12-12</datepublicationdepense>
+        <montantdepense>728.630000</montantdepense>
+        <description>Imprévu de design</description>
+        <nomcontractant>A Plus Construction</nomcontractant>
+        <neqcontractant>1147105218</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-01</datedepense>
+        <datepublicationdepense>2016-12-12</datepublicationdepense>
+        <montantdepense>907.560000</montantdepense>
+        <description>Imprévu de chantier</description>
+        <nomcontractant>A Plus Construction</nomcontractant>
+        <neqcontractant>1147105218</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-03</datedepense>
+        <datepublicationdepense>2016-12-12</datepublicationdepense>
+        <montantdepense>8324.210000</montantdepense>
+        <description>Changement de programme</description>
+        <nomcontractant>A Plus Construction</nomcontractant>
+        <neqcontractant>1147105218</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-07</datedepense>
+        <datepublicationdepense>2016-12-12</datepublicationdepense>
+        <montantdepense>660.830000</montantdepense>
+        <description>Imprévu de chantier</description>
+        <nomcontractant>A Plus Construction</nomcontractant>
+        <neqcontractant>1147105218</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-14</datedepense>
+        <datepublicationdepense>2016-12-12</datepublicationdepense>
+        <montantdepense>771.970000</montantdepense>
+        <description>Imprévu de chantier</description>
+        <nomcontractant>A Plus Construction</nomcontractant>
+        <neqcontractant>1147105218</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-15</datedepense>
+        <datepublicationdepense>2016-12-12</datepublicationdepense>
+        <montantdepense>4254.230000</montantdepense>
+        <description>Changement de programme</description>
+        <nomcontractant>A Plus Construction</nomcontractant>
+        <neqcontractant>1147105218</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-17</datedepense>
+        <datepublicationdepense>2016-12-12</datepublicationdepense>
+        <montantdepense>629.800000</montantdepense>
+        <description>Imprévu de chantier</description>
+        <nomcontractant>A Plus Construction</nomcontractant>
+        <neqcontractant>1147105218</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-17</datedepense>
+        <datepublicationdepense>2016-12-12</datepublicationdepense>
+        <montantdepense>1229.570000</montantdepense>
+        <description>Imprévu de chantier</description>
+        <nomcontractant>A Plus Construction</nomcontractant>
+        <neqcontractant>1147105218</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-28</datedepense>
+        <datepublicationdepense>2016-12-12</datepublicationdepense>
+        <montantdepense>354.250000</montantdepense>
+        <description>Changement de design</description>
+        <nomcontractant>A Plus Construction</nomcontractant>
+        <neqcontractant>1147105218</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-30</datedepense>
+        <datepublicationdepense>2016-12-12</datepublicationdepense>
+        <montantdepense>154.010000</montantdepense>
+        <description>Imprévu de design</description>
+        <nomcontractant>A Plus Construction</nomcontractant>
+        <neqcontractant>1147105218</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-31</datedepense>
+        <datepublicationdepense>2016-12-12</datepublicationdepense>
+        <montantdepense>866.920000</montantdepense>
+        <description>Imprévu de design</description>
+        <nomcontractant>A Plus Construction</nomcontractant>
+        <neqcontractant>1147105218</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-01-10</datedepense>
+        <datepublicationdepense>2017-01-12</datepublicationdepense>
+        <montantdepense>134.670000</montantdepense>
+        <description>Imprévu de design</description>
+        <nomcontractant>A Plus Construction</nomcontractant>
+        <neqcontractant>1147105218</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-01-17</datedepense>
+        <datepublicationdepense>2017-01-23</datepublicationdepense>
+        <montantdepense>550.170000</montantdepense>
+        <description>Imprévu de design</description>
+        <nomcontractant>A Plus Construction</nomcontractant>
+        <neqcontractant>1147105218</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-01-23</datedepense>
+        <datepublicationdepense>2017-01-23</datepublicationdepense>
+        <montantdepense>557.750000</montantdepense>
+        <description>Changement de programme</description>
+        <nomcontractant>A Plus Construction</nomcontractant>
+        <neqcontractant>1147105218</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-18</datedepense>
+        <datepublicationdepense>2017-01-23</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Imprévu de design ODC #20</description>
+        <nomcontractant>A Plus Construction</nomcontractant>
+        <neqcontractant>1147105218</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-01</datedepense>
+        <datepublicationdepense>2017-02-01</datepublicationdepense>
+        <montantdepense>423.550000</montantdepense>
+        <description>Changement de programme</description>
+        <nomcontractant>A Plus Construction</nomcontractant>
+        <neqcontractant>1147105218</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-20</datedepense>
+        <datepublicationdepense>2017-02-20</datepublicationdepense>
+        <montantdepense>1458.500000</montantdepense>
+        <description>Imprévu de chantier</description>
+        <nomcontractant>A Plus Construction</nomcontractant>
+        <neqcontractant>1147105218</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-19</datedepense>
+        <datepublicationdepense>2016-12-19</datepublicationdepense>
+        <montantdepense>158.890000</montantdepense>
+        <description>Imprévu de design</description>
+        <nomcontractant>A Plus Construction</nomcontractant>
+        <neqcontractant>1147105218</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-14</datedepense>
+        <datepublicationdepense>2017-02-15</datepublicationdepense>
+        <montantdepense>465.710000</montantdepense>
+        <description>Imprévu de chantier</description>
+        <nomcontractant>A Plus Construction</nomcontractant>
+        <neqcontractant>1147105218</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1047852</numeroseao>
+    <numero>SRM017873</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-01-12</datedepense>
+        <datepublicationdepense>2017-01-31</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>SRM018793</description>
+        <nomcontractant>Géninovation</nomcontractant>
+        <neqcontractant>1162801865</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-01-12</datedepense>
+        <datepublicationdepense>2017-02-08</datepublicationdepense>
+        <montantdepense>8265.330000</montantdepense>
+        <description>SRM018793</description>
+        <nomcontractant>Géninovation</nomcontractant>
+        <neqcontractant>1162801865</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+</export>

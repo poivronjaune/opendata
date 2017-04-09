@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2017-03-01" datefin="2017-03-31">
+  <contrat>
+    <numeroseao>493476</numeroseao>
+    <numero>238672</numero>
+    <datefinale>1900-01-01</datefinale>
+    <datepublicationfinale>2016-03-02</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>496950</numeroseao>
+    <numero>AO DAI-10011-B</numero>
+    <datefinale>2013-05-10</datefinale>
+    <datepublicationfinale>2014-08-19</datepublicationfinale>
+    <montantfinal>771136.150000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>497993</numeroseao>
+    <numero>TP-59-11-01</numero>
+    <datefinale>2012-10-26</datefinale>
+    <datepublicationfinale>2014-07-07</datepublicationfinale>
+    <montantfinal>936988.330000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>498966</numeroseao>
+    <numero>8603-11-HE07</numero>
+    <datefinale>2015-09-16</datefinale>
+    <datepublicationfinale>2015-04-14</datepublicationfinale>
+    <montantfinal>400920.060000</montantfinal>
+    <nomcontractant>Dessau inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>499119</numeroseao>
+    <numero>241107</numero>
+    <datefinale>2011-09-19</datefinale>
+    <datepublicationfinale>2011-12-07</datepublicationfinale>
+    <montantfinal>223130.350000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>499124</numeroseao>
+    <numero>241335</numero>
+    <datefinale>2011-09-20</datefinale>
+    <datepublicationfinale>2011-10-28</datepublicationfinale>
+    <montantfinal>151339.530000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>499214</numeroseao>
+    <numero>AO DAI-11009-A</numero>
+    <datefinale>2012-11-17</datefinale>
+    <datepublicationfinale>2014-08-19</datepublicationfinale>
+    <montantfinal>88092.070000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>502508</numeroseao>
+    <numero>ST-11-04</numero>
+    <datefinale>2012-07-03</datefinale>
+    <datepublicationfinale>2014-11-05</datepublicationfinale>
+    <montantfinal>207735.790000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>504836</numeroseao>
+    <numero>SP-34</numero>
+    <datefinale>2012-10-31</datefinale>
+    <datepublicationfinale>2014-10-07</datepublicationfinale>
+    <montantfinal>63775.930000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>506927</numeroseao>
+    <numero>AO DAI-11005-C</numero>
+    <datefinale>2012-10-24</datefinale>
+    <datepublicationfinale>2013-02-15</datepublicationfinale>
+    <montantfinal>167057.340000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>508032</numeroseao>
+    <numero>AO DAI-11005-D</numero>
+    <datefinale>2012-12-19</datefinale>
+    <datepublicationfinale>2013-02-15</datepublicationfinale>
+    <montantfinal>463944.610000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>508534</numeroseao>
+    <numero>TP-TECH-2011-06</numero>
+    <datefinale>2014-05-21</datefinale>
+    <datepublicationfinale>2015-03-06</datepublicationfinale>
+    <montantfinal>294345.740000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>509433</numeroseao>
+    <numero>TP-TECH-2011-07</numero>
+    <datefinale>2012-09-22</datefinale>
+    <datepublicationfinale>2014-07-07</datepublicationfinale>
+    <montantfinal>172052.270000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>511690</numeroseao>
+    <numero>245779</numero>
+    <datefinale>2013-12-19</datefinale>
+    <datepublicationfinale>2014-05-21</datepublicationfinale>
+    <montantfinal>139921.590000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>512917</numeroseao>
+    <numero>AO DAI-11001-C</numero>
+    <datefinale>2012-11-17</datefinale>
+    <datepublicationfinale>2014-08-19</datepublicationfinale>
+    <montantfinal>160309.570000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>515547</numeroseao>
+    <numero>AO DAI-11006-H</numero>
+    <datefinale>2013-11-04</datefinale>
+    <datepublicationfinale>2014-08-19</datepublicationfinale>
+    <montantfinal>516082.780000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>516504</numeroseao>
+    <numero>TP-TECH-2011-15</numero>
+    <datefinale>2012-10-31</datefinale>
+    <datepublicationfinale>2014-05-12</datepublicationfinale>
+    <montantfinal>167481.390000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>522226</numeroseao>
+    <numero>201-130</numero>
+    <datefinale>2011-11-18</datefinale>
+    <datepublicationfinale>2013-08-28</datepublicationfinale>
+    <montantfinal>165928.660000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>524244</numeroseao>
+    <numero>211172</numero>
+    <datefinale>2012-06-30</datefinale>
+    <datepublicationfinale>2013-06-26</datepublicationfinale>
+    <montantfinal>551165.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>528449</numeroseao>
+    <numero>S11-024</numero>
+    <datefinale>2012-01-10</datefinale>
+    <datepublicationfinale>2012-07-19</datepublicationfinale>
+    <montantfinal>131009.820000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>531497</numeroseao>
+    <numero>AO DAI-11013-B</numero>
+    <datefinale>2013-06-30</datefinale>
+    <datepublicationfinale>2014-08-19</datepublicationfinale>
+    <montantfinal>140974.750000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>532971</numeroseao>
+    <numero>AO DAI-11016-D</numero>
+    <datefinale>2013-10-03</datefinale>
+    <datepublicationfinale>2014-08-19</datepublicationfinale>
+    <montantfinal>84033.070000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>535148</numeroseao>
+    <numero>TP-TECH-2011-23</numero>
+    <datefinale>2012-08-02</datefinale>
+    <datepublicationfinale>2015-03-06</datepublicationfinale>
+    <montantfinal>88714.720000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>535153</numeroseao>
+    <numero>TP-TECH-2011-24</numero>
+    <datefinale>2012-08-02</datefinale>
+    <datepublicationfinale>2015-03-06</datepublicationfinale>
+    <montantfinal>88714.720000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>539122</numeroseao>
+    <numero>1113829001_01</numero>
+    <datefinale>2014-12-31</datefinale>
+    <datepublicationfinale>2015-07-28</datepublicationfinale>
+    <montantfinal>540000.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>539123</numeroseao>
+    <numero>1113829001_02</numero>
+    <datefinale>2014-12-31</datefinale>
+    <datepublicationfinale>2015-07-28</datepublicationfinale>
+    <montantfinal>435000.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>540284</numeroseao>
+    <numero>11CDL02A</numero>
+    <datefinale>2012-02-24</datefinale>
+    <datepublicationfinale>2012-12-06</datepublicationfinale>
+    <montantfinal>31852.670000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>543622</numeroseao>
+    <numero>201201-02</numero>
+    <datefinale>1900-01-01</datefinale>
+    <datepublicationfinale>2016-12-07</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>552081</numeroseao>
+    <numero>211208</numero>
+    <datefinale>2013-09-19</datefinale>
+    <datepublicationfinale>2015-02-11</datepublicationfinale>
+    <montantfinal>356122.580000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>555013</numeroseao>
+    <numero>CDN-NDG-12-AOP-DAI-002-A</numero>
+    <datefinale>2013-10-01</datefinale>
+    <datepublicationfinale>2014-11-11</datepublicationfinale>
+    <montantfinal>310966.450000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>558422</numeroseao>
+    <numero>CDN-NDG-12-AOP-BT-001</numero>
+    <datefinale>2013-12-09</datefinale>
+    <datepublicationfinale>2015-03-06</datepublicationfinale>
+    <montantfinal>1045930.930000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>562660</numeroseao>
+    <numero>CDN-NDG-12-AOP-BT-002</numero>
+    <datefinale>2012-12-31</datefinale>
+    <datepublicationfinale>2014-11-11</datepublicationfinale>
+    <montantfinal>59251.630000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>563328</numeroseao>
+    <numero>271500</numero>
+    <datefinale>2012-12-05</datefinale>
+    <datepublicationfinale>2014-08-21</datepublicationfinale>
+    <montantfinal>222731.180000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>563489</numeroseao>
+    <numero>8503-12-AB01/AB02/AB03</numero>
+    <datefinale>2016-02-03</datefinale>
+    <datepublicationfinale>2015-06-11</datepublicationfinale>
+    <montantfinal>532905.940000</montantfinal>
+    <nomcontractant>Dessau inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>563691</numeroseao>
+    <numero>AO DAI-11006-I</numero>
+    <datefinale>2013-11-30</datefinale>
+    <datepublicationfinale>2014-11-11</datepublicationfinale>
+    <montantfinal>244646.380000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>565419</numeroseao>
+    <numero>CDN-NDG-12-AOP-BT-008</numero>
+    <datefinale>2014-05-21</datefinale>
+    <datepublicationfinale>2015-03-06</datepublicationfinale>
+    <montantfinal>300036.310000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>568857</numeroseao>
+    <numero>GAT 2012 SP 217</numero>
+    <datefinale>1900-01-01</datefinale>
+    <datepublicationfinale>2015-11-02</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>568977</numeroseao>
+    <numero>CDN-NDG-12-AOP-DAI-011-A</numero>
+    <datefinale>2013-03-11</datefinale>
+    <datepublicationfinale>2014-11-11</datepublicationfinale>
+    <montantfinal>88364.010000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>570139</numeroseao>
+    <numero>CDN-NDG-AOP-BT-012</numero>
+    <datefinale>2013-12-18</datefinale>
+    <datepublicationfinale>2015-03-06</datepublicationfinale>
+    <montantfinal>1792248.240000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>570369</numeroseao>
+    <numero>211215</numero>
+    <datefinale>1900-01-01</datefinale>
+    <datepublicationfinale>2016-04-14</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>570464</numeroseao>
+    <numero>2012-795-01-01 A</numero>
+    <datefinale>2016-03-09</datefinale>
+    <datepublicationfinale>2016-08-19</datepublicationfinale>
+    <montantfinal>640287.370000</montantfinal>
+    <nomcontractant>ArjoHuntleigh Canada Inc.</nomcontractant>
+    <neqcontractant>1144094365</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>570464</numeroseao>
+    <numero>2012-795-01-01 A</numero>
+    <datefinale>2016-03-09</datefinale>
+    <datepublicationfinale>2016-08-19</datepublicationfinale>
+    <montantfinal>823800.000000</montantfinal>
+    <nomcontractant>ConfortMédic Technologies Inc.</nomcontractant>
+    <neqcontractant>1164967904</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>570464</numeroseao>
+    <numero>2012-795-01-01 A</numero>
+    <datefinale>2016-03-09</datefinale>
+    <datepublicationfinale>2016-08-19</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant>Cardinal Health Canada inc.</nomcontractant>
+    <neqcontractant>1147150800</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>570464</numeroseao>
+    <numero>2012-795-01-01 A</numero>
+    <datefinale>2016-03-09</datefinale>
+    <datepublicationfinale>2016-08-19</datepublicationfinale>
+    <montantfinal>123712.000000</montantfinal>
+    <nomcontractant>MTM Médical Tronik</nomcontractant>
+    <neqcontractant>1144725257</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>575587</numeroseao>
+    <numero>CDN-NDG-12-AOP-BT-014</numero>
+    <datefinale>2014-10-02</datefinale>
+    <datepublicationfinale>2015-03-06</datepublicationfinale>
+    <montantfinal>1221104.690000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>579822</numeroseao>
+    <numero>CDN-NDG-12-AOP-BT-015</numero>
+    <datefinale>2013-09-10</datefinale>
+    <datepublicationfinale>2015-03-06</datepublicationfinale>
+    <montantfinal>134610.170000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>585036</numeroseao>
+    <numero>10138</numero>
+    <datefinale>1900-01-01</datefinale>
+    <datepublicationfinale>1900-01-01</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>586720</numeroseao>
+    <numero>CDN-NDG-12-AOP-BT-017</numero>
+    <datefinale>2014-10-02</datefinale>
+    <datepublicationfinale>2015-03-06</datepublicationfinale>
+    <montantfinal>481737.370000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>589254</numeroseao>
+    <numero>CDN-NDG-12-AOP-DAI-013</numero>
+    <datefinale>2014-05-16</datefinale>
+    <datepublicationfinale>2014-11-11</datepublicationfinale>
+    <montantfinal>609296.680000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>591188</numeroseao>
+    <numero>284369</numero>
+    <datefinale>2013-03-28</datefinale>
+    <datepublicationfinale>2014-05-21</datepublicationfinale>
+    <montantfinal>123500.010000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>591194</numeroseao>
+    <numero>284588</numero>
+    <datefinale>2014-12-04</datefinale>
+    <datepublicationfinale>2014-12-18</datepublicationfinale>
+    <montantfinal>123150.680000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>591797</numeroseao>
+    <numero>284915</numero>
+    <datefinale>2014-12-04</datefinale>
+    <datepublicationfinale>2014-12-18</datepublicationfinale>
+    <montantfinal>283134.170000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>595844</numeroseao>
+    <numero>286435</numero>
+    <datefinale>2013-07-24</datefinale>
+    <datepublicationfinale>2014-05-22</datepublicationfinale>
+    <montantfinal>51225.960000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>601653</numeroseao>
+    <numero>GAT 2012 SP 354</numero>
+    <datefinale>1900-01-01</datefinale>
+    <datepublicationfinale>2015-12-22</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>601897</numeroseao>
+    <numero>51572-511_(TG)_DMS</numero>
+    <datefinale>2016-07-06</datefinale>
+    <datepublicationfinale>2015-06-08</datepublicationfinale>
+    <montantfinal>2795070.040000</montantfinal>
+    <nomcontractant>Ondel Inc.</nomcontractant>
+    <neqcontractant>1143586387</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>608730</numeroseao>
+    <numero>ST-13-06</numero>
+    <datefinale>2013-09-09</datefinale>
+    <datepublicationfinale>2014-09-29</datepublicationfinale>
+    <montantfinal>604138.090000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>613931</numeroseao>
+    <numero>295935</numero>
+    <datefinale>2013-12-09</datefinale>
+    <datepublicationfinale>2014-05-22</datepublicationfinale>
+    <montantfinal>191619.490000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>614464</numeroseao>
+    <numero>ST-13-05</numero>
+    <datefinale>2013-11-01</datefinale>
+    <datepublicationfinale>2014-09-30</datepublicationfinale>
+    <montantfinal>125322.750000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>616701</numeroseao>
+    <numero>2013-SPP-056</numero>
+    <datefinale>1900-01-01</datefinale>
+    <datepublicationfinale>2016-02-25</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>617098</numeroseao>
+    <numero>52258-532_CD</numero>
+    <datefinale>2014-11-03</datefinale>
+    <datepublicationfinale>2015-01-27</datepublicationfinale>
+    <montantfinal>333038.880000</montantfinal>
+    <nomcontractant>St-Denis Thompson Inc.</nomcontractant>
+    <neqcontractant>1144491694</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>621430</numeroseao>
+    <numero>ST-13-09</numero>
+    <datefinale>2013-09-15</datefinale>
+    <datepublicationfinale>2013-12-11</datepublicationfinale>
+    <montantfinal>1323164.100000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>622001</numeroseao>
+    <numero>ST-13-08</numero>
+    <datefinale>2013-12-03</datefinale>
+    <datepublicationfinale>2014-04-08</datepublicationfinale>
+    <montantfinal>6417941.020000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>626957</numeroseao>
+    <numero>ST-13-10</numero>
+    <datefinale>2013-11-22</datefinale>
+    <datepublicationfinale>2013-12-10</datepublicationfinale>
+    <montantfinal>1491412.360000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>627667</numeroseao>
+    <numero>CDN-NDG-13-AOP-DAI-015</numero>
+    <datefinale>1900-01-01</datefinale>
+    <datepublicationfinale>2015-12-09</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>628330</numeroseao>
+    <numero>ST-13-13</numero>
+    <datefinale>2014-10-21</datefinale>
+    <datepublicationfinale>2014-11-24</datepublicationfinale>
+    <montantfinal>517772.420000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>628374</numeroseao>
+    <numero>ST-13-18</numero>
+    <datefinale>2014-07-31</datefinale>
+    <datepublicationfinale>2014-10-08</datepublicationfinale>
+    <montantfinal>61210.330000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>634339</numeroseao>
+    <numero>ST-13-16</numero>
+    <datefinale>2013-10-18</datefinale>
+    <datepublicationfinale>2013-12-12</datepublicationfinale>
+    <montantfinal>166575.170000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>637457</numeroseao>
+    <numero>ST-13-19</numero>
+    <datefinale>2013-11-04</datefinale>
+    <datepublicationfinale>2013-12-12</datepublicationfinale>
+    <montantfinal>361197.690000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>644080</numeroseao>
+    <numero>ST-13-11</numero>
+    <datefinale>1900-01-01</datefinale>
+    <datepublicationfinale>2015-11-09</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>652734</numeroseao>
+    <numero>ST-13-17</numero>
+    <datefinale>2014-07-24</datefinale>
+    <datepublicationfinale>2014-11-24</datepublicationfinale>
+    <montantfinal>439123.930000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>663333</numeroseao>
+    <numero>CDN-NDG-13-AOP-DAI-040</numero>
+    <datefinale>1900-01-01</datefinale>
+    <datepublicationfinale>2015-12-09</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>670516</numeroseao>
+    <numero>7006-12-FE03</numero>
+    <datefinale>2016-06-22</datefinale>
+    <datepublicationfinale>2016-09-21</datepublicationfinale>
+    <montantfinal>129173.640000</montantfinal>
+    <nomcontractant>Stantec Experts-Conseils ltée</nomcontractant>
+    <neqcontractant>1170241336</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>678111</numeroseao>
+    <numero>DSRIA-MFR-0051-Zone 1</numero>
+    <datefinale>2016-09-02</datefinale>
+    <datepublicationfinale>2015-05-11</datepublicationfinale>
+    <montantfinal>145866.000000</montantfinal>
+    <nomcontractant>90893470 Québec inc Marcel Pagé électricien</nomcontractant>
+    <neqcontractant>1149243835</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>692830</numeroseao>
+    <numero>QC-RAMQ-20130494</numero>
+    <datefinale>2016-11-30</datefinale>
+    <datepublicationfinale>2017-02-27</datepublicationfinale>
+    <montantfinal>94955.980000</montantfinal>
+    <nomcontractant>Construction Citadelle Inc</nomcontractant>
+    <neqcontractant>1141875360</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>709084</numeroseao>
+    <numero>CT1037947</numero>
+    <datefinale>2016-12-31</datefinale>
+    <datepublicationfinale>2014-08-29</datepublicationfinale>
+    <montantfinal>48845.930000</montantfinal>
+    <nomcontractant>Martin Brossard M.D. S.E.N.C.R.L.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>730585</numeroseao>
+    <numero>ST-14-04</numero>
+    <datefinale>2014-10-21</datefinale>
+    <datepublicationfinale>2014-12-03</datepublicationfinale>
+    <montantfinal>1778988.620000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>735215</numeroseao>
+    <numero>600274569</numero>
+    <datefinale>2017-03-09</datefinale>
+    <datepublicationfinale>2015-08-21</datepublicationfinale>
+    <montantfinal>153782.480000</montantfinal>
+    <nomcontractant>Vidéotron s.e.n.c.</nomcontractant>
+    <neqcontractant>3366994047</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>742758</numeroseao>
+    <numero>ST-14-05</numero>
+    <datefinale>2014-10-22</datefinale>
+    <datepublicationfinale>2014-12-03</datepublicationfinale>
+    <montantfinal>75714.420000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>743127</numeroseao>
+    <numero>ST-14-06</numero>
+    <datefinale>2014-11-15</datefinale>
+    <datepublicationfinale>2014-12-04</datepublicationfinale>
+    <montantfinal>1946386.980000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>749925</numeroseao>
+    <numero>211404</numero>
+    <datefinale>1900-01-01</datefinale>
+    <datepublicationfinale>2016-01-14</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>771140</numeroseao>
+    <numero>ST-14-17</numero>
+    <datefinale>2014-10-25</datefinale>
+    <datepublicationfinale>2015-04-21</datepublicationfinale>
+    <montantfinal>55232.040000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>773811</numeroseao>
+    <numero>ST-14-11</numero>
+    <datefinale>1900-01-01</datefinale>
+    <datepublicationfinale>2015-11-18</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>778736</numeroseao>
+    <numero>CA14 240323-1</numero>
+    <datefinale>2015-04-01</datefinale>
+    <datepublicationfinale>2015-04-02</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>778740</numeroseao>
+    <numero>CA14 240323-2</numero>
+    <datefinale>1900-01-01</datefinale>
+    <datepublicationfinale>2016-06-13</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>778745</numeroseao>
+    <numero>CA14 240323-3</numero>
+    <datefinale>1900-01-01</datefinale>
+    <datepublicationfinale>2016-06-13</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>781890</numeroseao>
+    <numero>ST-14-12</numero>
+    <datefinale>2015-01-30</datefinale>
+    <datepublicationfinale>2015-04-14</datepublicationfinale>
+    <montantfinal>129253.140000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>781898</numeroseao>
+    <numero>ST-14-22</numero>
+    <datefinale>2015-01-23</datefinale>
+    <datepublicationfinale>2015-04-14</datepublicationfinale>
+    <montantfinal>174368.910000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>781905</numeroseao>
+    <numero>ST-14-09</numero>
+    <datefinale>1900-01-01</datefinale>
+    <datepublicationfinale>2015-11-06</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>781923</numeroseao>
+    <numero>ST-14-19</numero>
+    <datefinale>2014-11-19</datefinale>
+    <datepublicationfinale>2015-04-22</datepublicationfinale>
+    <montantfinal>221529.030000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>781932</numeroseao>
+    <numero>ST-14-20</numero>
+    <datefinale>2014-11-15</datefinale>
+    <datepublicationfinale>2015-04-15</datepublicationfinale>
+    <montantfinal>253945.890000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>781939</numeroseao>
+    <numero>ST-14-21</numero>
+    <datefinale>2014-10-09</datefinale>
+    <datepublicationfinale>2015-04-15</datepublicationfinale>
+    <montantfinal>330359.270000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>791687</numeroseao>
+    <numero>ST-14-02-04</numero>
+    <datefinale>2014-08-20</datefinale>
+    <datepublicationfinale>2014-12-03</datepublicationfinale>
+    <montantfinal>74821.220000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>791693</numeroseao>
+    <numero>ST-14-15</numero>
+    <datefinale>1900-01-01</datefinale>
+    <datepublicationfinale>2015-11-09</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>836942</numeroseao>
+    <numero>SA-925-AD-14</numero>
+    <datefinale>1900-01-01</datefinale>
+    <datepublicationfinale>2016-11-16</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>873520</numeroseao>
+    <numero>CA14 25 0523</numero>
+    <datefinale>2015-01-16</datefinale>
+    <datepublicationfinale>2015-08-24</datepublicationfinale>
+    <montantfinal>30000.000000</montantfinal>
+    <nomcontractant />
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>934052</numeroseao>
+    <numero>DPCP 2015-2016-22</numero>
+    <datefinale>2017-01-31</datefinale>
+    <datepublicationfinale>2016-01-26</datepublicationfinale>
+    <montantfinal>20189.690000</montantfinal>
+    <nomcontractant>M. Jean Lortie</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>934064</numeroseao>
+    <numero>DPCP 2015-2016-23</numero>
+    <datefinale>2016-03-31</datefinale>
+    <datepublicationfinale>2016-01-26</datepublicationfinale>
+    <montantfinal>20773.370000</montantfinal>
+    <nomcontractant>Mme Stella Gabbino</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>951587</numeroseao>
+    <numero>16-031- 5ELEG5.19</numero>
+    <datefinale>2016-05-26</datefinale>
+    <datepublicationfinale>2017-02-23</datepublicationfinale>
+    <montantfinal>22628.040000</montantfinal>
+    <nomcontractant>Ventilex Inc</nomcontractant>
+    <neqcontractant>1143687052</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>976691</numeroseao>
+    <numero>SP20160012</numero>
+    <datefinale>2016-09-01</datefinale>
+    <datepublicationfinale>2016-12-01</datepublicationfinale>
+    <montantfinal>19081.000000</montantfinal>
+    <nomcontractant>Raymond Chabot Grant Thornton &amp; Cie S.E.N.C.R.L.</nomcontractant>
+    <neqcontractant>3342037838</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>977898</numeroseao>
+    <numero>117840502-20160419-1</numero>
+    <datefinale>2017-03-29</datefinale>
+    <datepublicationfinale>2017-02-07</datepublicationfinale>
+    <montantfinal>77383.200000</montantfinal>
+    <nomcontractant>NEAS Inc.</nomcontractant>
+    <neqcontractant>1167715557</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>991651</numeroseao>
+    <numero>CGER 580363</numero>
+    <datefinale>2017-03-08</datefinale>
+    <datepublicationfinale>2016-08-03</datepublicationfinale>
+    <montantfinal>55150.000000</montantfinal>
+    <nomcontractant>Intertek Testing Services LA, Ltd</nomcontractant>
+    <neqcontractant> 114577841</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>996248</numeroseao>
+    <numero>CHUSJ-577.8</numero>
+    <datefinale>2016-11-25</datefinale>
+    <datepublicationfinale>2016-12-16</datepublicationfinale>
+    <montantfinal>201100.000000</montantfinal>
+    <nomcontractant>gbm Montérégie</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>996846</numeroseao>
+    <numero>S15-16</numero>
+    <datefinale>2017-03-08</datefinale>
+    <datepublicationfinale>2016-11-21</datepublicationfinale>
+    <montantfinal>90385.050000</montantfinal>
+    <nomcontractant>Dcibel Communication</nomcontractant>
+    <neqcontractant>1144291466</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1011573</numeroseao>
+    <numero>I17 80</numero>
+    <datefinale>2017-01-17</datefinale>
+    <datepublicationfinale>2016-11-04</datepublicationfinale>
+    <montantfinal>70172.000000</montantfinal>
+    <nomcontractant>Sono Vidéo Inc.</nomcontractant>
+    <neqcontractant>1142636316</neqcontractant>
+  </contrat>
+</export>
