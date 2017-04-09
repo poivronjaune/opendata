@@ -21,7 +21,7 @@ SEAO Data is stored in three type of information
 6) DepensesRevisions : Contains all revisions on extra spending for signed contracts (empty amount value means all spending were removed for this contract)
 
 
-see : "seao-specificationsxml-donneesouvertes-20141201.pd"f for detailed information (in french)
+see : "seao-specificationsxml-donneesouvertes-20141201.pdf" for detailed information (in french)
 
 Solution summary (work in progress)
 - Extract and transform the <XML> data to JSON and split AVIS (RFPs) from FOURNISSEURS (contracters)
