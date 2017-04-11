@@ -1,0 +1,11 @@
+BIG QUERY
+---------
+SELECT contrat.datefinale, contrat.numeroseao, integer(contrat.montantfinal) as montant, contrat.nomcontractant, avis.organisme, avis.titre
+FROM [seao-open-data:SeaoQuebec.Contrat_all] as contrat
+JOIN EACH [seao-open-data:SeaoQuebec.Avis_all] as avis
+ON contrat.numeroseao = avis.numeroseao
+WHERE lower(contrat.nomcontractant) CONTAINS 'fujit'
+ORDER BY contrat.datefinale 
+LIMIT 500
+
+CGI 562482  6679755.32    OR avis.numeroseao="562482"
