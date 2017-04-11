@@ -1,6 +1,18 @@
-Open Data Project for fun. 
-Started with contract information from quebec governement signed contracts from 2009 till today (2017-04-01)
+# SEAO Open Data Analaysis
 
+This project cleans and transforms the province of Quebec's public RFP data to be loaded in a Google BigQuery data set. Uses python to load XML data, clean unwanted characters and transforms the information to a new line delimited Json file (jsonl).
+
+Data quality analysis from 2009
+
+## Getting Started
+
+Download the project and all XML files to a working directory. Run python seao.py to convert all XML data to JSONL. Might take many hours to execute.
+
+### Prerequisites
+
+Must have python 3 installed. I used the ANACONDA version.
+
+### Original system and Open Data
 SEAO : Systeme Electronique d'Appel d'Offres (du gouvernement du quebec)
 https://www.seao.ca/
 
@@ -8,10 +20,7 @@ Published Open Data for SEAO
 https://www.donneesquebec.ca/recherche/fr/dataset/systeme-electronique-dappel-doffres-seao
 
 
-No install insctructions for now because I am learning....
-
-CONTEXT
--------
+## Context
 SEAO Data is stored in three type of information
 1) Avis              : Published RFPs contains all signed contracts with unique number (numeroseao)
 2) AvisRevision      : Revised RFPs (adjustments can go back to previous years - WOW) 
