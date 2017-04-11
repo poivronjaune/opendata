@@ -32,14 +32,15 @@ SEAO Data is stored in three type of information
 
 see : "seao-specificationsxml-donneesouvertes-20141201.pdf" for detailed information (in french)
 
-Solution summary (work in progress)
+## Solution (work in progress)
+
 - Extract and transform the <XML> data to JSON
 -- One table Avis_all contains all published avis from 2009
 -- One table Soumisionaires_all contains all companies who responded to the RFP (Avis) TODO
 -- One table Contrat_all contains all published contracts with fournisseur and amount
 - Export to JSON format for easy loading in a public big data warehouse (Google BigQuery) - AVIS and CONTRAT
 
-- TODO:
+## TODO : Other functions to develop
 - Finish loading the rest of Data : Soumissionnaires, AvisRevision, ContratsRevision, Depenses, DepensesRevision
 - Combine data from all other information files into one main database for numeroseao and all other changes
 - Add Google DATASTUDIO examples to analyse data
