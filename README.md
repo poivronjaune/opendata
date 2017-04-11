@@ -2,7 +2,7 @@
 
 This project cleans and transforms the province of Quebec's public RFP data to be loaded in a Google BigQuery data set. Uses python to load XML data, clean unwanted characters and transforms the information to a new line delimited Json file (jsonl).
 
-Data quality analysis from 2009
+Data quality analysis from 2009  to 2017
 
 ## Getting Started
 
