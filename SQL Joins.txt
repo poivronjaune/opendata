@@ -8,4 +8,4 @@ WHERE lower(contrat.nomcontractant) CONTAINS 'fujit'
 ORDER BY contrat.datefinale 
 LIMIT 500
 
-CGI 562482  6679755.32    OR avis.numeroseao="562482"
+CGI 562482  6679755.32    OR avis.numeroseao="562482" contract was transfered to another fournisseur but no adjustment data can be found in all revision files.
