@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Éditeur de Spyder
-
-Ceci est un script temporaire.
+  Data converter of XML to New Line Delimited Json file for import in Google BigQuery
 """
 
 import codecs
@@ -70,7 +68,7 @@ for i in range(0,len(fnames)):
     print("- Cleaned string data converted to python Dict...")
     
     all_contrat = xml_data.findall('contrat')
-    print("- Number of contract data elements : " + str(len(all_contrat)))
+    print("- Number of contract data elements in XML File : " + str(len(all_contrat)))
 
     xml_dict = xmltodict.parse(str_data_cleaned)
     print("- XML Data converted to dictionnary")
