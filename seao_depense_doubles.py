@@ -74,38 +74,19 @@ for i in range(15,16):
     all_avis = xml_data.findall('avis')
     print("- Number of avis data elements in XML File : " + str(len(all_avis)))
 
-    xml_dict = xmltodict.parse(str_data_cleaned)
-    print("- XML Data converted to dictionnary")
-    json_str = json.dumps(xml_dict, indent=None)
-    print("- XML from dictionnary tranformed as JSON string")
-    json_dict = json.loads(json_str)
-    print("- JSON dictionnary loaded, ready for manipulation")
-
-    new_str_json = ""
-    nbr_depenses = 0
-    nbr_avis = 0
-    for x in range(0,len(json_dict['export']['avis'])):
-        unavis = json_dict['export']['avis'][x]
-        if unavis:
-            nbr_avis = nbr_avis + 1
-        all_depenses = unavis.pop('depenses')
-        if type(all_depenses['depense']) == list:
-            for y in range(0,len(all_depenses['depense'])):
-                une_depense = all_depenses['depense'][y]
-                tmp_str_json = json.dumps(unavis) + json.dumps(une_depense) + chr(10)
-                tmp_str_json = tmp_str_json.replace("}{",",")           
-                new_str_json = new_str_json + tmp_str_json
-                nbr_depenses = nbr_depenses + 1
+    numseao = ['487181']
+    doublons = 0
+    for unavis in all_avis:
+        numeroseao = unavis.find('numeroseao').text.replace(" ","")
+        if numeroseao in numseao:
+            doublons = doublons + 1
         else:
-            une_depense = all_depenses['depense']
-            tmp_str_json = json.dumps(unavis) + json.dumps(une_depense) + chr(10)
-            tmp_str_json = tmp_str_json.replace("}{",",")           
-            new_str_json = new_str_json + tmp_str_json
-            nbr_depenses = nbr_depenses + 1
-#           
-    saveJsonFile(fnames[i],new_str_json)
-    print("- Transform stats -> XML avis : " + str(len(all_avis)) + " JSON avis : " + str(nbr_avis) + " depenses : " + str(nbr_depenses))
+            numseao.append(numeroseao)
+    
 
+    numseao.sort()
+    print(numseao)
+    print(doublons)
     
 print("End of execution")
 

@@ -9,3 +9,123 @@ ORDER BY contrat.datefinale
 LIMIT 500
 
 CGI 562482  6679755.32    OR avis.numeroseao="562482" contract was transfered to another fournisseur but no adjustment data can be found in all revision files.
+
+**** All contrats linked with avis ******
+SELECT
+  contrat.datefinale,
+  contrat.neqcontractant,
+  contrat.numeroseao,
+  contrat.montantfinal,
+  avis.organisme,
+  avis.titre
+FROM
+  [seao-open-data:SeaoQuebec.Contrat_all] as contrat
+JOIN EACH
+  [seao-open-data:SeaoQuebec.Avis_all] as avis
+ON
+  contrat.numeroseao = avis.numeroseao
+WHERE
+  LOWER(nomcontractant) CONTAINS 'fujit'
+ORDER BY
+  datefinaleAll contrat
+
+
+
+
+SELECT
+  avis.dateadjudication,
+  gagnant.numeroseao,
+  gagnant.montantcontrat,
+  gagnant.montantsoumis,
+  gagnant.ville,
+  avis.organisme,
+  avis.titre
+FROM
+  [seao-open-data:SeaoQuebec.Soumissionnaire_all] as gagnant
+JOIN EACH
+  [seao-open-data:SeaoQuebec.Avis_all] as avis
+ON
+  gagnant.numeroseao = avis.numeroseao
+WHERE
+  lower(nomorganisation) contains "fujit" and
+  adjudicataire = "1"
+ORDER BY
+  avis.dateadjudication
+
+
+
+
+SELECT nomorganisation
+FROM
+  [seao-open-data:SeaoQuebec.Soumissionnaire_all]
+GROUP BY
+  nomorganisation
+ORDER BY
+  nomorganisation
+
+
+#
+# Request to transform names that contain part of of company string
+#
+SELECT
+ Nom_Entreprise, round(sum(montantcontrat)) as MontantTotal
+
+FROM
+  (SELECT
+     CASE
+       WHEN lower(nomorganisation) contains "fujit"      THEN "Fujitsu"
+       WHEN lower(nomorganisation) contains "cgi i"      THEN "CGI"
+       WHEN lower(nomorganisation) contains "lgs" or lower(nomorganisation) contains "ibm"    THEN "LGS/IBM"
+       WHEN lower(nomorganisation) contains "systematix" THEN "Systematix"
+       WHEN lower(nomorganisation) contains "nurun"      THEN "NuRun"
+       WHEN lower(nomorganisation) contains "cofo" OR lower(nomorganisation) contains "l-ips" THEN "Cofomo/L-Ipse"
+       WHEN lower(nomorganisation) contains "r3d"        THEN "R3D"
+       WHEN lower(nomorganisation) contains "levi"       THEN "Levio"
+       WHEN lower(nomorganisation) contains "oracle"     THEN "Oracle"
+       WHEN lower(nomorganisation) contains "microsoft"  THEN "Microsoft"
+       WHEN lower(nomorganisation) contains "delta"      THEN "Groupe Delta"
+       WHEN lower(nomorganisation) contains "alit"       THEN "Alithia"
+       WHEN lower(nomorganisation) contains "transition" THEN "Transition"
+       WHEN lower(nomorganisation) contains "telus"      THEN "TELUS"
+       WHEN lower(nomorganisation) contains "bell"       THEN "Bell"
+       WHEN lower(nomorganisation) contains "cogni"      THEN "Cognicase"
+       WHEN lower(nomorganisation) contains "Multifo"    THEN "Multiforce"
+       WHEN lower(nomorganisation) contains "technoconseil" THEN "TechnoConseil"
+       WHEN lower(nomorganisation) contains "open text"  THEN "Open Text"
+       WHEN lower(nomorganisation) contains "allstream"  THEN "Allstream"
+       WHEN lower(nomorganisation) contains "harmonie"   THEN "Harmonie"
+       WHEN lower(nomorganisation) contains "facilit"    THEN "Facilité"
+       WHEN lower(nomorganisation) contains "hewlett"    THEN "HEWLETT"
+       WHEN lower(nomorganisation) contains "kpmg"       THEN "KPMG"
+       WHEN lower(nomorganisation) contains "everest"    THEN "Everest"
+       WHEN lower(nomorganisation) contains "hitachi"    THEN "Hitachi"
+       WHEN lower(nomorganisation) contains "lambda"     THEN "Lambda"
+       WHEN lower(nomorganisation) contains "deloitte"   THEN "Deloitte"
+       WHEN lower(nomorganisation) contains "cmi"        THEN "CMI"
+       WHEN lower(nomorganisation) contains "softchoice" THEN "Softchoice"
+       WHEN lower(nomorganisation) contains "wiz-tec" THEN "Wiz-Tec"
+
+       ELSE nomorganisation
+     END as Nom_Entreprise, montantcontrat
+   FROM
+     [seao-open-data:SeaoQuebec.Soumissionnaire_all]
+   WHERE
+     adjudicataire = "1"
+  )
+WHERE
+  Nom_Entreprise IN ('Fujitsu','CGI','LGS/IBM','Systematix','NuRun','Cofomo/L-Ipse','R3D','Levio','Oracle','Microsoft','Groupe Delta',
+                     'Alithia','Transition','TELUS','Bell','Cognicase','Multiforce','TechnoConseil','Open Text','Allstream','Harmonie','Facilité','HEWLETT',
+                     'KPMG','Everest','Hitachi','Lambda','Deloitte','CMI','Softchoice','Wiz-Tec')
+GROUP BY
+  Nom_Entreprise
+ORDER BY
+  MontantTotal desc
+
+
+ 
+
+
+
+
+
+
