@@ -28,7 +28,6 @@ SEAO Data is stored in three type of information
 5) Depenses          : Contains exta spending on signed contracts
 6) DepensesRevisions : Contains all revisions on extra spending for signed contracts (empty amount value means all spending were removed for this contract)
 
-[Dropwizard](http://www.dropwizard.io/1.0.2/docs/)
 See [SEAO XML Schema](https://www.donneesquebec.ca/recherche/fr/dataset/systeme-electronique-dappel-doffres-seao/resource/af41596c-b07f-4664-82c8-577e1ef9a6f3) PDF file for detailed information (in french)
 
 ## Solution (work in progress)
