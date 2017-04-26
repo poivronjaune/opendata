@@ -63,13 +63,24 @@ GROUP BY
 ORDER BY
   nomorganisation
 
+#
+# Merge two NEW tables 
+#
+SELECT
+  e1.*, 
+  n1.NOM_ASSUJ,n1.NOM_ASSUJ_LANG_ETRNG,n1.STAT_NOM,n1.TYP_NOM_ASSUJ,n1.DAT_INIT_NOM_ASSUJ,DAT_FIN_NOM_ASSUJ
+FROM
+  [seao-open-data:SeaoQuebec.NEQ_Entreprises] as e1
+JOIN EACH
+  [seao-open-data:SeaoQuebec.NEQ_Noms] as n1
+ON
+  e1.neq = n1.neq
 
 #
 # Request to transform names that contain part of of company string
 #
 SELECT
- Nom_Entreprise, round(sum(montantcontrat)) as MontantTotal
-
+  Gagnant.Nom_Entreprise, round(sum(Gagnant.montantcontrat)) as Montant_Total, count(1) as Nbr_Contrats
 FROM
   (SELECT
      CASE
@@ -80,12 +91,12 @@ FROM
        WHEN lower(nomorganisation) contains "nurun"      THEN "NuRun"
        WHEN lower(nomorganisation) contains "cofo" OR lower(nomorganisation) contains "l-ips" THEN "Cofomo/L-Ipse"
        WHEN lower(nomorganisation) contains "r3d"        THEN "R3D"
-       WHEN lower(nomorganisation) contains "levi"       THEN "Levio"
+       WHEN lower(nomorganisation) contains "levi" OR lower(nomorganisation) contains "noviq" OR lower(nomorganisation) contains "osi" THEN "Levio"
        WHEN lower(nomorganisation) contains "oracle"     THEN "Oracle"
        WHEN lower(nomorganisation) contains "microsoft"  THEN "Microsoft"
        WHEN lower(nomorganisation) contains "delta"      THEN "Groupe Delta"
-       WHEN lower(nomorganisation) contains "alit"       THEN "Alithia"
-       WHEN lower(nomorganisation) contains "transition" THEN "Transition"
+       WHEN lower(nomorganisation) contains "alith" OR lower(nomorganisation) contains "cia i" OR lower(nomorganisation) contains "synapse"  THEN "Alithia"
+       WHEN lower(nomorganisation) contains "transition" or lower(nomorganisation) contains "intelligid" or lower(nomorganisation) contains "strategid" or lower(nomorganisation) contains "innovgid" THEN "Transition"
        WHEN lower(nomorganisation) contains "telus"      THEN "TELUS"
        WHEN lower(nomorganisation) contains "bell"       THEN "Bell"
        WHEN lower(nomorganisation) contains "cogni"      THEN "Cognicase"
@@ -103,29 +114,104 @@ FROM
        WHEN lower(nomorganisation) contains "deloitte"   THEN "Deloitte"
        WHEN lower(nomorganisation) contains "cmi"        THEN "CMI"
        WHEN lower(nomorganisation) contains "softchoice" THEN "Softchoice"
-       WHEN lower(nomorganisation) contains "wiz-tec" THEN "Wiz-Tec"
-
+       WHEN lower(nomorganisation) contains "wiz-tec"    THEN "Wiz-Tec"
+       WHEN lower(nomorganisation) contains "medisolu"   THEN "MediSolution"
+       WHEN lower(nomorganisation) contains "bpmplus"    THEN "BPMPLUS"
+       WHEN lower(nomorganisation) contains "sirius"     THEN "SIRIUS"
+       WHEN lower(nomorganisation) contains "e3 service" THEN "E3 services"
+       WHEN lower(nomorganisation) contains "pro-contact" THEN "Pro-Contact"
+       WHEN lower(nomorganisation) contains "cpu"        THEN "CPU"
+       WHEN lower(nomorganisation) contains "abna"       THEN "ABNA"
+       WHEN lower(nomorganisation) contains "procom"     THEN "Procomm"
+       WHEN lower(nomorganisation) contains "bmg"        THEN "BMG"
+       WHEN lower(nomorganisation) contains "loran" OR lower(nomorganisation) contains "afi" THEN "Loran"
+       WHEN lower(nomorganisation) contains "ciao"        THEN "CIAO"
+       WHEN lower(nomorganisation) contains "syntel"      THEN "Syntell"
+       WHEN lower(nomorganisation) contains "young"       THEN "Ernst&Young"
+       WHEN lower(nomorganisation) contains "libeo"       THEN "Libeo"
+       WHEN lower(nomorganisation) contains "nexio" OR lower(nomorganisation) contains "fuse" THEN "Nexio"
+       WHEN lower(nomorganisation) contains "effent"      THEN "Effenti"
+       WHEN lower(nomorganisation) contains "procontact"  THEN "Procontact"
+       WHEN lower(nomorganisation) contains "multihexa"   THEN "Multihexa"
+       WHEN lower(nomorganisation) contains "victrix"     THEN "Victrix"
+       WHEN lower(nomorganisation) contains "code6"       THEN "Code6"
+       WHEN lower(nomorganisation) contains "linovati"    THEN "Linovati"
+       WHEN lower(nomorganisation) contains "vortex"      THEN "Vortex"
+       WHEN lower(nomorganisation) contains "infidem"     THEN "InFidem"
+       WHEN lower(nomorganisation) contains "okiok"       THEN "Okiok"
+       WHEN lower(nomorganisation) contains "pr2"         THEN "Pr2"
+       WHEN lower(nomorganisation) contains "agilia"      THEN "Agilia"
+       WHEN lower(nomorganisation) contains "pixis"       THEN "Pixis"
+       WHEN lower(nomorganisation) contains "tact"        THEN "Tact"
+       WHEN lower(nomorganisation) contains "larochel"    THEN "Larochelle"
+       WHEN lower(nomorganisation) contains "m3p"         THEN "M3P"
+       WHEN lower(nomorganisation) contains "createc"     THEN "Createc"
+       WHEN lower(nomorganisation) contains "mcda"        THEN "MCDA"
+       WHEN lower(nomorganisation) contains "adnia"       THEN "Adnia"
+       WHEN lower(nomorganisation) contains "v-neo" or lower(nomorganisation) contains "vneo"      THEN "V-Neo"
        ELSE nomorganisation
-     END as Nom_Entreprise, montantcontrat
+     END as Nom_Entreprise, montantcontrat, neq
    FROM
-     [seao-open-data:SeaoQuebec.Soumissionnaire_all]
+     [seao-open-data:SeaoQuebec.Soumissionnaire_all],
+     [seao-open-data:SeaoQuebec.Soumissionnaire_2017_01],
+     [seao-open-data:SeaoQuebec.Soumissionnaire_2017_02],
+     [seao-open-data:SeaoQuebec.Soumissionnaire_2017_03]
    WHERE
      adjudicataire = "1"
-  )
+  ) as Gagnant
 WHERE
   Nom_Entreprise IN ('Fujitsu','CGI','LGS/IBM','Systematix','NuRun','Cofomo/L-Ipse','R3D','Levio','Oracle','Microsoft','Groupe Delta',
-                     'Alithia','Transition','TELUS','Bell','Cognicase','Multiforce','TechnoConseil','Open Text','Allstream','Harmonie','Facilité','HEWLETT',
-                     'KPMG','Everest','Hitachi','Lambda','Deloitte','CMI','Softchoice','Wiz-Tec')
+                     'Alithia','Transition','TELUS','Bell','Multiforce','TechnoConseil','Open Text','Allstream','Harmonie','Facilité','HEWLETT',
+                     'KPMG','Everest','Hitachi','Lambda','Deloitte','CMI','Softchoice','Wiz-Tec','MediSolution','BPMPLUS','SIRIUS','E3 services','Pro-Contact',
+                     'CPU','ABNA','Procomm','BMG','CIAO','Syntell','Ernst&Young','Libeo','Effenti','Procontact','Multihexa','Victrix','Code6','Linovati','Vortex',
+                     'InFidem','Okiok','Pr2','Agilia','Pixis','Tact','Larochelle','M3P','Createc','MCDA','Adnia','V-Neo')
 GROUP BY
-  Nom_Entreprise
+  Gagnant.Nom_Entreprise
 ORDER BY
-  MontantTotal desc
-
-
- 
+  Montant_Total desc
 
 
 
+
+
+
+#
+# Test merge to get registered name of soumissionnaire
+#
+SELECT
+  gagant.neq,gagant.nomorganisation, nom.nom_assuj, gagant.montantcontrat, gagant.numeroseao, gagant.adresse1, gagant.adresse2, gagant.ville, gagant.province, gagant.pays, gagant.codepostal
+FROM
+  [seao-open-data:SeaoQuebec.Soumissionnaire_all] as gagant
+JOIN EACH
+  [seao-open-data:SeaoQuebec.NEQ_Noms] as nom
+ON
+  gagant.neq = nom.neq
+WHERE
+  LOWER(nomorganisation) contains "fujit"
+
+
+SELECT
+  *
+FROM
+  [seao-open-data:SeaoQuebec.NEQ_Noms]
+WHERE
+  neq = "1143156884" and
+  TYP_NOM_ASSUJ = "N" and
+  DAT_FIN_NOM_ASSUJ is null
+
+
+
+
+
+
+
+REGISTRAIRE DES ENTREPRISES
+---------------------------
+Code d'activités économiques
+7721 : Services informatique
+5444 : Commerce de gros d'ordinateurs, machines et matériel connexes et progiciels
+7771 : Bureaux de conseillers en gestion
+7215 : Sociétés de portefeuille (holdings)
 
 
 
