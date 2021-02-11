@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2019-03-01" datefin="2019-03-31">
+  <contrat>
+    <numeroseao>705468</numeroseao>
+    <numero>24357100</numero>
+    <datefinale>2018-12-31</datefinale>
+    <datepublicationfinale>2019-02-07</datepublicationfinale>
+    <montantfinal>148325.640000</montantfinal>
+    <nomcontractant>Les Produits Énergétiques GAL inc.</nomcontractant>
+    <neqcontractant>1146046280</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>709153</numeroseao>
+    <numero>25381700</numero>
+    <datefinale>2019-01-31</datefinale>
+    <datepublicationfinale>2019-02-15</datepublicationfinale>
+    <montantfinal>152569.490000</montantfinal>
+    <nomcontractant>2968-1913 Quebec inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>714083</numeroseao>
+    <numero>2012-09-393</numero>
+    <datefinale>2013-12-31</datefinale>
+    <datepublicationfinale>2014-12-19</datepublicationfinale>
+    <montantfinal>82349.070000</montantfinal>
+    <nomcontractant>Services animaliers de la Vallée-du-Richelieu inc. (Les)</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>811860</numeroseao>
+    <numero>EX515875</numero>
+    <datefinale>2017-10-26</datefinale>
+    <datepublicationfinale>2018-08-28</datepublicationfinale>
+    <montantfinal>112223.000000</montantfinal>
+    <nomcontractant>Entretien McGill Inc.</nomcontractant>
+    <neqcontractant>1142318899</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>823887</numeroseao>
+    <numero>APP-14-188 (ÉQ-13-15)</numero>
+    <datefinale>2015-07-14</datefinale>
+    <datepublicationfinale>2015-08-31</datepublicationfinale>
+    <montantfinal>49442.700000</montantfinal>
+    <nomcontractant>Park Avenue Nissan Brossard</nomcontractant>
+    <neqcontractant>3362692801</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>838411</numeroseao>
+    <numero>APP-14-258 (EQ-13-28)</numero>
+    <datefinale>2015-07-31</datefinale>
+    <datepublicationfinale>2015-11-06</datepublicationfinale>
+    <montantfinal>128036.830000</montantfinal>
+    <nomcontractant>Donnacona Chrysler.</nomcontractant>
+    <neqcontractant>1166943762</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>853144</numeroseao>
+    <numero>APP-14-195 (ÉQ-13-09)</numero>
+    <datefinale>2015-07-21</datefinale>
+    <datepublicationfinale>2015-08-31</datepublicationfinale>
+    <montantfinal>47295.670000</montantfinal>
+    <nomcontractant>Le Circuit Ford Lincoln Ltée</nomcontractant>
+    <neqcontractant>1163735666</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>861624</numeroseao>
+    <numero>APP-15-014 (2015-VL410)</numero>
+    <datefinale>2015-12-31</datefinale>
+    <datepublicationfinale>2016-02-18</datepublicationfinale>
+    <montantfinal>94691.540000</montantfinal>
+    <nomcontractant>Environnement Routier NRJ Inc .</nomcontractant>
+    <neqcontractant>1142611939</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>864405</numeroseao>
+    <numero>APP-14-224 (2014-BAT-814)</numero>
+    <datefinale>2016-04-20</datefinale>
+    <datepublicationfinale>2016-06-13</datepublicationfinale>
+    <montantfinal>61479.090000</montantfinal>
+    <nomcontractant>Groupe C. &amp; G. Beaulieu Inc</nomcontractant>
+    <neqcontractant>1164819808</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>867110</numeroseao>
+    <numero>APP-14-232 (EQ-12-01)</numero>
+    <datefinale>2015-07-14</datefinale>
+    <datepublicationfinale>2015-08-31</datepublicationfinale>
+    <montantfinal>59198.700000</montantfinal>
+    <nomcontractant>Montréal Chrysler Dodge Jeep (Lasalle)</nomcontractant>
+    <neqcontractant>1166284894</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>886089</numeroseao>
+    <numero>25258600</numero>
+    <datefinale>2019-02-04</datefinale>
+    <datepublicationfinale>2019-02-07</datepublicationfinale>
+    <montantfinal>55770.000000</montantfinal>
+    <nomcontractant>Les portes JPR inc.</nomcontractant>
+    <neqcontractant>1142667881</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>891538</numeroseao>
+    <numero>167214C</numero>
+    <datefinale>2019-01-28</datefinale>
+    <datepublicationfinale>2019-02-18</datepublicationfinale>
+    <montantfinal>4981485.030000</montantfinal>
+    <nomcontractant>Entrepreneur Generaux Lambda Inc./Lambda General Contractors Inc.</nomcontractant>
+    <neqcontractant>1143379130</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>896209</numeroseao>
+    <numero>APP-15-074 (EQ-13-33)</numero>
+    <datefinale>2015-09-30</datefinale>
+    <datepublicationfinale>2015-11-06</datepublicationfinale>
+    <montantfinal>51596.030000</montantfinal>
+    <nomcontractant>Équipement de manutention Deval inc.</nomcontractant>
+    <neqcontractant>1143648021</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>898110</numeroseao>
+    <numero>29354900</numero>
+    <datefinale>2018-07-10</datefinale>
+    <datepublicationfinale>2018-06-07</datepublicationfinale>
+    <montantfinal>93268.830000</montantfinal>
+    <nomcontractant>Service Alimentaire 2000</nomcontractant>
+    <neqcontractant>1161474722</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>900519</numeroseao>
+    <numero>APP-15-130</numero>
+    <datefinale>2015-12-31</datefinale>
+    <datepublicationfinale>2016-05-04</datepublicationfinale>
+    <montantfinal>316441.780000</montantfinal>
+    <nomcontractant>Prival.</nomcontractant>
+    <neqcontractant>1161443313</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>904526</numeroseao>
+    <numero>APP-15-076 (ÉQ-14-20)</numero>
+    <datefinale>2015-10-19</datefinale>
+    <datepublicationfinale>2016-02-18</datepublicationfinale>
+    <montantfinal>62632.710000</montantfinal>
+    <nomcontractant>Précisions Provençal inc.</nomcontractant>
+    <neqcontractant>1141957069</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>911956</numeroseao>
+    <numero>APP-15-041 (EQ-15-02)</numero>
+    <datefinale>2015-11-30</datefinale>
+    <datepublicationfinale>2016-02-18</datepublicationfinale>
+    <montantfinal>38430.390000</montantfinal>
+    <nomcontractant>Antirouille Champlainn (1986) inc.</nomcontractant>
+    <neqcontractant>1144062347</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>924698</numeroseao>
+    <numero>30204100</numero>
+    <datefinale>2019-02-04</datefinale>
+    <datepublicationfinale>2019-02-08</datepublicationfinale>
+    <montantfinal>53287.000000</montantfinal>
+    <nomcontractant>Les portes J.P.R. inc.</nomcontractant>
+    <neqcontractant>1142667881</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>930206</numeroseao>
+    <numero>SO-15-4015</numero>
+    <datefinale>2018-11-30</datefinale>
+    <datepublicationfinale>2019-02-28</datepublicationfinale>
+    <montantfinal>84000.000000</montantfinal>
+    <nomcontractant>Isabelle Charest, conseillère d'orientation inc.</nomcontractant>
+    <neqcontractant>1167179200</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>930463</numeroseao>
+    <numero>APP-15-212 (2015-BAT-828)</numero>
+    <datefinale>2016-12-31</datefinale>
+    <datepublicationfinale>2019-02-28</datepublicationfinale>
+    <montantfinal>43621.520000</montantfinal>
+    <nomcontractant>Polyval Construction Inc .</nomcontractant>
+    <neqcontractant>1142600312</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>930706</numeroseao>
+    <numero>SO-15-4016</numero>
+    <datefinale>2018-11-30</datefinale>
+    <datepublicationfinale>2019-02-28</datepublicationfinale>
+    <montantfinal>646229.760000</montantfinal>
+    <nomcontractant>Isabelle Charest, Conseillère d'orientation inc.</nomcontractant>
+    <neqcontractant>1167179200</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>942365</numeroseao>
+    <numero>APP-15-202 (2016-AGG522)</numero>
+    <datefinale>2016-10-31</datefinale>
+    <datepublicationfinale>2017-04-26</datepublicationfinale>
+    <montantfinal>26102.770000</montantfinal>
+    <nomcontractant>Service d'entretien Alphanet inc.</nomcontractant>
+    <neqcontractant>1143257690</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>997538</numeroseao>
+    <numero>C-2016-19</numero>
+    <datefinale>2018-12-31</datefinale>
+    <datepublicationfinale>2018-03-08</datepublicationfinale>
+    <montantfinal>109859.750000</montantfinal>
+    <nomcontractant>Beauregard Environnement</nomcontractant>
+    <neqcontractant>1141982521</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1004454</numeroseao>
+    <numero>ST-14-032</numero>
+    <datefinale>2018-06-30</datefinale>
+    <datepublicationfinale>2018-07-27</datepublicationfinale>
+    <montantfinal>286049.950000</montantfinal>
+    <nomcontractant>Securmax Systèmes Intégrés de Sécurité inc.</nomcontractant>
+    <neqcontractant>1145764511</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1057030</numeroseao>
+    <numero>201600727</numero>
+    <datefinale>2019-02-26</datefinale>
+    <datepublicationfinale>2019-01-15</datepublicationfinale>
+    <montantfinal>722930.490000</montantfinal>
+    <nomcontractant>Les Entreprises P.E.B. LTÉE</nomcontractant>
+    <neqcontractant>1142496760</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1083325</numeroseao>
+    <numero>44507830</numero>
+    <datefinale>2018-12-31</datefinale>
+    <datepublicationfinale>2019-02-26</datepublicationfinale>
+    <montantfinal>29200.000000</montantfinal>
+    <nomcontractant>DWB Consultant</nomcontractant>
+    <neqcontractant>1160969102</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1094618</numeroseao>
+    <numero>ENV-2017-013</numero>
+    <datefinale>2018-11-22</datefinale>
+    <datepublicationfinale>2018-11-28</datepublicationfinale>
+    <montantfinal>323696.310000</montantfinal>
+    <nomcontractant>Groupe environnemental Labrie inc</nomcontractant>
+    <neqcontractant>1143078369</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1103652</numeroseao>
+    <numero>44507862</numero>
+    <datefinale>2018-12-21</datefinale>
+    <datepublicationfinale>2019-02-01</datepublicationfinale>
+    <montantfinal>303645.510000</montantfinal>
+    <nomcontractant>PAX EXCAVATION INC</nomcontractant>
+    <neqcontractant>1143758283</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1112774</numeroseao>
+    <numero>2017SCA807</numero>
+    <datefinale>2019-03-01</datefinale>
+    <datepublicationfinale>2018-09-24</datepublicationfinale>
+    <montantfinal>68040.000000</montantfinal>
+    <nomcontractant>KIWI Technologies inc.</nomcontractant>
+    <neqcontractant>1149267974</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1166754</numeroseao>
+    <numero>44509643</numero>
+    <datefinale>2019-01-10</datefinale>
+    <datepublicationfinale>2018-10-25</datepublicationfinale>
+    <montantfinal>79500.000000</montantfinal>
+    <nomcontractant>Les Constructions BLH (1997) inc.</nomcontractant>
+    <neqcontractant>1146469326</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1167824</numeroseao>
+    <numero>45000116</numero>
+    <datefinale>2019-01-22</datefinale>
+    <datepublicationfinale>2019-01-22</datepublicationfinale>
+    <montantfinal>26257.770000</montantfinal>
+    <nomcontractant>Robinson Sheppard Shapiro</nomcontractant>
+    <neqcontractant>3342171371</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1168651</numeroseao>
+    <numero>700 284 879</numero>
+    <datefinale>2018-12-14</datefinale>
+    <datepublicationfinale>2019-01-14</datepublicationfinale>
+    <montantfinal>48125.000000</montantfinal>
+    <nomcontractant>Conseillers en Gestion et Informatique CGI inc.</nomcontractant>
+    <neqcontractant>1160358728</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1176840</numeroseao>
+    <numero>18-3066</numero>
+    <datefinale>2018-12-31</datefinale>
+    <datepublicationfinale>2019-01-07</datepublicationfinale>
+    <montantfinal>25990.300000</montantfinal>
+    <nomcontractant>4542410 Canada Inc. - Laura secord</nomcontractant>
+    <neqcontractant>1166416512</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1187100</numeroseao>
+    <numero>SA-2532-TP-18</numero>
+    <datefinale>2019-03-01</datefinale>
+    <datepublicationfinale>2018-12-18</datepublicationfinale>
+    <montantfinal>64440.870000</montantfinal>
+    <nomcontractant>Construction Techroc Inc.</nomcontractant>
+    <neqcontractant>1169303220</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1213482</numeroseao>
+    <numero>2018APP727</numero>
+    <datefinale>2019-01-14</datefinale>
+    <datepublicationfinale>2019-01-14</datepublicationfinale>
+    <montantfinal>43481.000000</montantfinal>
+    <nomcontractant>Regulvar Inc..</nomcontractant>
+    <neqcontractant>1146502761</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1223984</numeroseao>
+    <numero>700 295 193</numero>
+    <datefinale>2018-12-31</datefinale>
+    <datepublicationfinale>2019-02-08</datepublicationfinale>
+    <montantfinal>97793.020000</montantfinal>
+    <nomcontractant>DAVIES WARD PHILLIPS &amp; VINEBERG S.E.N.C.R.L.</nomcontractant>
+    <neqcontractant>3349821895</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1236403</numeroseao>
+    <numero>44505987</numero>
+    <datefinale>2018-12-12</datefinale>
+    <datepublicationfinale>2019-02-08</datepublicationfinale>
+    <montantfinal>35780.000000</montantfinal>
+    <nomcontractant>Calculatec Inc.</nomcontractant>
+    <neqcontractant>1143589464</neqcontractant>
+  </contrat>
+</export>

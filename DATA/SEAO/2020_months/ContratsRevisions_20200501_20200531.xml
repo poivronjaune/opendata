@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2020-05-01" datefin="2020-05-31">
+  <contrat>
+    <numeroseao>630045</numeroseao>
+    <numero>5404-12-APC2</numero>
+    <datefinale>2014-02-13</datefinale>
+    <datepublicationfinale>2017-03-16</datepublicationfinale>
+    <montantfinal>27872.610000</montantfinal>
+    <nomcontractant>Acyclica Inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>731212</numeroseao>
+    <numero>8801-14-HE09</numero>
+    <datefinale>2020-04-28</datefinale>
+    <datepublicationfinale>2020-02-27</datepublicationfinale>
+    <montantfinal>3125863.030000</montantfinal>
+    <nomcontractant>Consortium WSP / EXP</nomcontractant>
+    <neqcontractant>1148357057</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>735607</numeroseao>
+    <numero>5379-13-PF48</numero>
+    <datefinale>2015-03-05</datefinale>
+    <datepublicationfinale>2017-03-16</datepublicationfinale>
+    <montantfinal>99492.950000</montantfinal>
+    <nomcontractant>AgileAssets Inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>758579</numeroseao>
+    <numero>8603-14-HE11</numero>
+    <datefinale>2020-04-28</datefinale>
+    <datepublicationfinale>2019-06-20</datepublicationfinale>
+    <montantfinal>267870.040000</montantfinal>
+    <nomcontractant>SNC-Lavalin inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>801128</numeroseao>
+    <numero>5404-13-APF7</numero>
+    <datefinale>2014-10-08</datefinale>
+    <datepublicationfinale>2014-11-24</datepublicationfinale>
+    <montantfinal>203794.280000</montantfinal>
+    <nomcontractant>Dynatest Consulting, inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>812881</numeroseao>
+    <numero>999106761</numero>
+    <datefinale>2019-08-25</datefinale>
+    <datepublicationfinale>2019-11-14</datepublicationfinale>
+    <montantfinal>3000994.100000</montantfinal>
+    <nomcontractant>SIRIUS, Services Conseils</nomcontractant>
+    <neqcontractant>1148297154</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>823285</numeroseao>
+    <numero>5379-14-PF04</numero>
+    <datefinale>2015-11-20</datefinale>
+    <datepublicationfinale>2015-04-14</datepublicationfinale>
+    <montantfinal>1464807.690000</montantfinal>
+    <nomcontractant>Symantec World Headquaters</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>843887</numeroseao>
+    <numero>6301-14-HE09</numero>
+    <datefinale>2020-04-20</datefinale>
+    <datepublicationfinale>2018-05-02</datepublicationfinale>
+    <montantfinal>155959.810000</montantfinal>
+    <nomcontractant>BPR - Infrastructure inc.</nomcontractant>
+    <neqcontractant>1161581104</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>881806</numeroseao>
+    <numero>5379-14-PF79</numero>
+    <datefinale>2015-03-13</datefinale>
+    <datepublicationfinale>2015-04-14</datepublicationfinale>
+    <montantfinal>97386.170000</montantfinal>
+    <nomcontractant>AgileAssets Inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>905941</numeroseao>
+    <numero>5379-14-PF70</numero>
+    <datefinale>2017-03-02</datefinale>
+    <datepublicationfinale>2017-05-03</datepublicationfinale>
+    <montantfinal>96351.120000</montantfinal>
+    <nomcontractant>AgileAssets Inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>921853</numeroseao>
+    <numero>5404-14-APD1</numero>
+    <datefinale>2015-10-13</datefinale>
+    <datepublicationfinale>2017-03-16</datepublicationfinale>
+    <montantfinal>44851.730000</montantfinal>
+    <nomcontractant>International Cybernetics corporation</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>961013</numeroseao>
+    <numero>5303-15-PF40</numero>
+    <datefinale>2016-03-16</datefinale>
+    <datepublicationfinale>2016-05-12</datepublicationfinale>
+    <montantfinal>107333.150000</montantfinal>
+    <nomcontractant>AgileAssets Inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>961984</numeroseao>
+    <numero>CV-2014-04-44C</numero>
+    <datefinale>2016-06-01</datefinale>
+    <datepublicationfinale>2020-03-17</datepublicationfinale>
+    <montantfinal>489916.990000</montantfinal>
+    <nomcontractant>BFL CANADA</nomcontractant>
+    <neqcontractant>1142254748</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>972911</numeroseao>
+    <numero>44505611</numero>
+    <datefinale>2019-12-11</datefinale>
+    <datepublicationfinale>2020-01-14</datepublicationfinale>
+    <montantfinal>70784.290000</montantfinal>
+    <nomcontractant>Bouthillette Parizeau Inc.</nomcontractant>
+    <neqcontractant>1142591438</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>982970</numeroseao>
+    <numero>8401-16-0905</numero>
+    <datefinale>2018-10-23</datefinale>
+    <datepublicationfinale>2017-11-24</datepublicationfinale>
+    <montantfinal>1513946.590000</montantfinal>
+    <nomcontractant>Uniroc Construction inc</nomcontractant>
+    <neqcontractant>1168784057</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>995412</numeroseao>
+    <numero>6603-16-0102</numero>
+    <datefinale>2020-05-04</datefinale>
+    <datepublicationfinale>2019-05-24</datepublicationfinale>
+    <montantfinal>1900610.890000</montantfinal>
+    <nomcontractant>Les Entreprises Steeve Couture Inc.</nomcontractant>
+    <neqcontractant>1143536325</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>996549</numeroseao>
+    <numero>9001-16-AP17</numero>
+    <datefinale>2016-05-31</datefinale>
+    <datepublicationfinale>2016-08-09</datepublicationfinale>
+    <montantfinal>698339.990000</montantfinal>
+    <nomcontractant>Bombardier inc. Bombardier aéronautique</nomcontractant>
+    <neqcontractant>1143920115</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1013216</numeroseao>
+    <numero>9001-16-AP20</numero>
+    <datefinale>2018-02-15</datefinale>
+    <datepublicationfinale>2018-06-29</datepublicationfinale>
+    <montantfinal>57374.680000</montantfinal>
+    <nomcontractant>Gilmore Global Logistics Services Inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1021883</numeroseao>
+    <numero>5404-16-PF18</numero>
+    <datefinale>2016-11-03</datefinale>
+    <datepublicationfinale>2016-12-09</datepublicationfinale>
+    <montantfinal>97321.730000</montantfinal>
+    <nomcontractant>Trimble Navigation Limited</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1027542</numeroseao>
+    <numero>AOP-2016-C-075</numero>
+    <datefinale>2020-04-10</datefinale>
+    <datepublicationfinale>2020-01-20</datepublicationfinale>
+    <montantfinal>52254.100000</montantfinal>
+    <nomcontractant>Av-Tech INC..</nomcontractant>
+    <neqcontractant>1174192535</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1029797</numeroseao>
+    <numero>2016-60-47</numero>
+    <datefinale>2018-12-31</datefinale>
+    <datepublicationfinale>2017-05-03</datepublicationfinale>
+    <montantfinal>61461.390000</montantfinal>
+    <nomcontractant>Hydro Météo Inc.</nomcontractant>
+    <neqcontractant>1161190575</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1041801</numeroseao>
+    <numero>5404-16-PF45</numero>
+    <datefinale>2017-01-28</datefinale>
+    <datepublicationfinale>2017-04-06</datepublicationfinale>
+    <montantfinal>111071.470000</montantfinal>
+    <nomcontractant>AgileAssets inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1041850</numeroseao>
+    <numero>16-179-01</numero>
+    <datefinale>2020-02-24</datefinale>
+    <datepublicationfinale>2020-03-05</datepublicationfinale>
+    <montantfinal>6242045.310000</montantfinal>
+    <nomcontractant>KF Construction inc.</nomcontractant>
+    <neqcontractant>1160669041</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1041888</numeroseao>
+    <numero>7103-16-0304</numero>
+    <datefinale>2020-05-04</datefinale>
+    <datepublicationfinale>2017-12-11</datepublicationfinale>
+    <montantfinal>842127.520000</montantfinal>
+    <nomcontractant>Aurel Harvey &amp; Fils inc..</nomcontractant>
+    <neqcontractant>1144299279</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1044953</numeroseao>
+    <numero>44506851</numero>
+    <datefinale>2020-04-02</datefinale>
+    <datepublicationfinale>2020-04-15</datepublicationfinale>
+    <montantfinal>36373.660000</montantfinal>
+    <nomcontractant>Maintenance Eureka ltée</nomcontractant>
+    <neqcontractant>1142075036</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1046615</numeroseao>
+    <numero>5404-16-APD9</numero>
+    <datefinale>2017-03-03</datefinale>
+    <datepublicationfinale>2017-05-03</datepublicationfinale>
+    <montantfinal>58492.430000</montantfinal>
+    <nomcontractant>Dynatest Consulting, inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1055534</numeroseao>
+    <numero>32112900</numero>
+    <datefinale>2020-02-28</datefinale>
+    <datepublicationfinale>2020-04-15</datepublicationfinale>
+    <montantfinal>31483.550000</montantfinal>
+    <nomcontractant>Solumech inc</nomcontractant>
+    <neqcontractant>1164413925</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1063019</numeroseao>
+    <numero>8901-15-0903</numero>
+    <datefinale>2020-04-23</datefinale>
+    <datepublicationfinale>2020-01-15</datepublicationfinale>
+    <montantfinal>4096587.130000</montantfinal>
+    <nomcontractant>Construction Edelweiss Inc.</nomcontractant>
+    <neqcontractant>1170544291</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1066290</numeroseao>
+    <numero>2017SSU331</numero>
+    <datefinale>2019-10-31</datefinale>
+    <datepublicationfinale>2019-10-31</datepublicationfinale>
+    <montantfinal>51126.910000</montantfinal>
+    <nomcontractant>Groupe Ferti</nomcontractant>
+    <neqcontractant>1142280917</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1072894</numeroseao>
+    <numero>7103-16-HE07</numero>
+    <datefinale>2020-04-15</datefinale>
+    <datepublicationfinale>2019-11-22</datepublicationfinale>
+    <montantfinal>196398.760000</montantfinal>
+    <nomcontractant>Norda Stelo inc.</nomcontractant>
+    <neqcontractant>1165310831</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1072986</numeroseao>
+    <numero>9001-17-AP04</numero>
+    <datefinale>2017-04-12</datefinale>
+    <datepublicationfinale>2017-05-29</datepublicationfinale>
+    <montantfinal>44592.720000</montantfinal>
+    <nomcontractant>Viking Air Limited</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1074973</numeroseao>
+    <numero>6806-17-4524</numero>
+    <datefinale>2019-08-05</datefinale>
+    <datepublicationfinale>2019-08-27</datepublicationfinale>
+    <montantfinal>755982.080000</montantfinal>
+    <nomcontractant>Transport Fernand Gilbert ltée</nomcontractant>
+    <neqcontractant>1164001860</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1076002</numeroseao>
+    <numero>6806-17-4513</numero>
+    <datefinale>2019-08-05</datefinale>
+    <datepublicationfinale>2019-08-27</datepublicationfinale>
+    <montantfinal>751017.540000</montantfinal>
+    <nomcontractant>Transport F. Gilbert ltée.</nomcontractant>
+    <neqcontractant>1164001860</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1076399</numeroseao>
+    <numero>6406-17-0301</numero>
+    <datefinale>2020-03-02</datefinale>
+    <datepublicationfinale>2020-04-20</datepublicationfinale>
+    <montantfinal>51758.700000</montantfinal>
+    <nomcontractant>Lemteck</nomcontractant>
+    <neqcontractant>1147287974</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1083810</numeroseao>
+    <numero>9001-16-AP22</numero>
+    <datefinale>2016-12-22</datefinale>
+    <datepublicationfinale>2017-09-21</datepublicationfinale>
+    <montantfinal>144729.930000</montantfinal>
+    <nomcontractant>Bombardier inc. Bombardier aéronautique</nomcontractant>
+    <neqcontractant>1143920115</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1086196</numeroseao>
+    <numero>44507492</numero>
+    <datefinale>2019-02-08</datefinale>
+    <datepublicationfinale>2018-10-22</datepublicationfinale>
+    <montantfinal>46748.690000</montantfinal>
+    <nomcontractant>Serrurier Excel inc.</nomcontractant>
+    <neqcontractant>1144218030</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1090395</numeroseao>
+    <numero>9001-16-AP23</numero>
+    <datefinale>2017-06-29</datefinale>
+    <datepublicationfinale>2017-09-26</datepublicationfinale>
+    <montantfinal>43033.540000</montantfinal>
+    <nomcontractant>Bailey Bridges inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1095634</numeroseao>
+    <numero>6809-17-4412</numero>
+    <datefinale>2020-04-23</datefinale>
+    <datepublicationfinale>2019-06-27</datepublicationfinale>
+    <montantfinal>190313.210000</montantfinal>
+    <nomcontractant>Legault Métal inc.</nomcontractant>
+    <neqcontractant>1160530557</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1101390</numeroseao>
+    <numero>5404-17-PF46</numero>
+    <datefinale>2018-01-22</datefinale>
+    <datepublicationfinale>2018-05-02</datepublicationfinale>
+    <montantfinal>94552.780000</montantfinal>
+    <nomcontractant>Trimble Europe B.V.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1107379</numeroseao>
+    <numero>4103-17-AD01</numero>
+    <datefinale>2020-05-05</datefinale>
+    <datepublicationfinale>2019-09-25</datepublicationfinale>
+    <montantfinal>61960.660000</montantfinal>
+    <nomcontractant>Erik Langevin (Subarctique enr.)</nomcontractant>
+    <neqcontractant>2241825753</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1117106</numeroseao>
+    <numero>33559400</numero>
+    <datefinale>2019-10-23</datefinale>
+    <datepublicationfinale>2019-03-07</datepublicationfinale>
+    <montantfinal>45976.000000</montantfinal>
+    <nomcontractant>Puribec Inc.</nomcontractant>
+    <neqcontractant>1142430579</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1125156</numeroseao>
+    <numero>5306-17-PF23</numero>
+    <datefinale>2018-02-12</datefinale>
+    <datepublicationfinale>2018-05-02</datepublicationfinale>
+    <montantfinal>117714.120000</montantfinal>
+    <nomcontractant>AgileAssets Inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1146720</numeroseao>
+    <numero>Contrat 2018-04-TR</numero>
+    <datefinale>2018-09-11</datefinale>
+    <datepublicationfinale>2019-11-25</datepublicationfinale>
+    <montantfinal>302061.230000</montantfinal>
+    <nomcontractant>Construction Alben Inc</nomcontractant>
+    <neqcontractant>1173352528</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1151010</numeroseao>
+    <numero>2403-18-AP37</numero>
+    <datefinale>2020-05-14</datefinale>
+    <datepublicationfinale>2019-06-20</datepublicationfinale>
+    <montantfinal>28700.000000</montantfinal>
+    <nomcontractant>Métal Pole-Lite Inc.</nomcontractant>
+    <neqcontractant>1140611261</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1169593</numeroseao>
+    <numero>6803-18-0908</numero>
+    <datefinale>2020-05-08</datefinale>
+    <datepublicationfinale>2020-01-15</datepublicationfinale>
+    <montantfinal>2178972.440000</montantfinal>
+    <nomcontractant>Compagnie Asphalte (CAL)</nomcontractant>
+    <neqcontractant>1145755295</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1181133</numeroseao>
+    <numero>Contrat 2018-06-TR-B</numero>
+    <datefinale>2018-08-27</datefinale>
+    <datepublicationfinale>2018-08-29</datepublicationfinale>
+    <montantfinal>83088.420000</montantfinal>
+    <nomcontractant>Rénovacoeur</nomcontractant>
+    <neqcontractant>1165065229</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1181300</numeroseao>
+    <numero>Contrat 2018-06-TR-A</numero>
+    <datefinale>2018-10-31</datefinale>
+    <datepublicationfinale>2018-11-20</datepublicationfinale>
+    <montantfinal>43464.830000</montantfinal>
+    <nomcontractant>Neve Refrigeration Inc</nomcontractant>
+    <neqcontractant>1142956318</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1186529</numeroseao>
+    <numero>6703-18-0913</numero>
+    <datefinale>2020-05-13</datefinale>
+    <datepublicationfinale>2019-09-25</datepublicationfinale>
+    <montantfinal>705131.100000</montantfinal>
+    <nomcontractant>Roland Munger Inc .</nomcontractant>
+    <neqcontractant>1140151128</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1187455</numeroseao>
+    <numero>2018SCA324</numero>
+    <datefinale>2018-10-10</datefinale>
+    <datepublicationfinale>2019-01-29</datepublicationfinale>
+    <montantfinal>57000.000000</montantfinal>
+    <nomcontractant>KIWI Technologies inc.</nomcontractant>
+    <neqcontractant>1149267974</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1188999</numeroseao>
+    <numero>703301686</numero>
+    <datefinale>2019-01-31</datefinale>
+    <datepublicationfinale>2019-04-17</datepublicationfinale>
+    <montantfinal>31500.000000</montantfinal>
+    <nomcontractant>Valiquette ressources humaines inc.</nomcontractant>
+    <neqcontractant>1148953806</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1194008</numeroseao>
+    <numero>5306-18-PF17</numero>
+    <datefinale>2018-05-29</datefinale>
+    <datepublicationfinale>2019-05-24</datepublicationfinale>
+    <montantfinal>33665.910000</montantfinal>
+    <nomcontractant>Flexera Software Inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1203485</numeroseao>
+    <numero>703302029 DA706866</numero>
+    <datefinale>2019-12-31</datefinale>
+    <datepublicationfinale>2020-03-25</datepublicationfinale>
+    <montantfinal>47195.770000</montantfinal>
+    <nomcontractant>Ouellet, Nadon et associés</nomcontractant>
+    <neqcontractant>3340370116</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1209779</numeroseao>
+    <numero>8905-18-QH04</numero>
+    <datefinale>2020-04-22</datefinale>
+    <datepublicationfinale>2020-04-20</datepublicationfinale>
+    <montantfinal>27221.250000</montantfinal>
+    <nomcontractant>Services EXP inc., Les</nomcontractant>
+    <neqcontractant>1167268128</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1209780</numeroseao>
+    <numero>9001-18-HA04</numero>
+    <datefinale>2020-04-16</datefinale>
+    <datepublicationfinale>2020-02-27</datepublicationfinale>
+    <montantfinal>49898.970000</montantfinal>
+    <nomcontractant>Services EXP inc., Les</nomcontractant>
+    <neqcontractant>1167268128</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1222921</numeroseao>
+    <numero>1288338</numero>
+    <datefinale>2018-08-23</datefinale>
+    <datepublicationfinale>2019-02-13</datepublicationfinale>
+    <montantfinal>35401.790000</montantfinal>
+    <nomcontractant>Les Entreprises Ventec Inc</nomcontractant>
+    <neqcontractant>1145668878</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1224548</numeroseao>
+    <numero>9358-1</numero>
+    <datefinale>2019-06-05</datefinale>
+    <datepublicationfinale>2019-09-25</datepublicationfinale>
+    <montantfinal>122424.700000</montantfinal>
+    <nomcontractant>Bruker Ltd.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1224586</numeroseao>
+    <numero>703302519</numero>
+    <datefinale>2019-12-31</datefinale>
+    <datepublicationfinale>2020-03-25</datepublicationfinale>
+    <montantfinal>1001105.920000</montantfinal>
+    <nomcontractant>Novipro</nomcontractant>
+    <neqcontractant>1145282845</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1226946</numeroseao>
+    <numero>33242800</numero>
+    <datefinale>2019-05-31</datefinale>
+    <datepublicationfinale>2019-07-17</datepublicationfinale>
+    <montantfinal>43900.000000</montantfinal>
+    <nomcontractant>DKA architectes.</nomcontractant>
+    <neqcontractant>1165814287</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1232337</numeroseao>
+    <numero>5306-18-PF87</numero>
+    <datefinale>2019-02-25</datefinale>
+    <datepublicationfinale>2019-06-20</datepublicationfinale>
+    <montantfinal>126032.090000</montantfinal>
+    <nomcontractant>AgileAssets Inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1260058</numeroseao>
+    <numero>9001-19-PZ33</numero>
+    <datefinale>2019-04-17</datefinale>
+    <datepublicationfinale>2019-06-26</datepublicationfinale>
+    <montantfinal>313793.950000</montantfinal>
+    <nomcontractant>Bell Helicopter Textron</nomcontractant>
+    <neqcontractant>1149953797</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1261626</numeroseao>
+    <numero>6803-19-0916</numero>
+    <datefinale>2020-05-07</datefinale>
+    <datepublicationfinale>2020-04-20</datepublicationfinale>
+    <montantfinal>1445969.930000</montantfinal>
+    <nomcontractant>Compagnie Asphalte (CAL)</nomcontractant>
+    <neqcontractant>1145755295</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1263254</numeroseao>
+    <numero>5311-19-PF03</numero>
+    <datefinale>2020-04-15</datefinale>
+    <datepublicationfinale>2020-04-20</datepublicationfinale>
+    <montantfinal>94500.000000</montantfinal>
+    <nomcontractant>Softchoice LP</nomcontractant>
+    <neqcontractant>3369689461</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1265865</numeroseao>
+    <numero>4500758278</numero>
+    <datefinale>2019-09-19</datefinale>
+    <datepublicationfinale>2019-09-19</datepublicationfinale>
+    <montantfinal>91537.540000</montantfinal>
+    <nomcontractant>Amec Construction inc</nomcontractant>
+    <neqcontractant>1161430567</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1271438</numeroseao>
+    <numero>2403-19-AP32</numero>
+    <datefinale>2019-07-12</datefinale>
+    <datepublicationfinale>2019-08-27</datepublicationfinale>
+    <montantfinal>30766.020000</montantfinal>
+    <nomcontractant>Pile Dynamics Inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1273080</numeroseao>
+    <numero>9001-17-AP12</numero>
+    <datefinale>2018-01-03</datefinale>
+    <datepublicationfinale>2019-06-05</datepublicationfinale>
+    <montantfinal>45017.700000</montantfinal>
+    <nomcontractant>3 Points Aviation</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1277823</numeroseao>
+    <numero>9001-18-PZ40</numero>
+    <datefinale>2018-04-11</datefinale>
+    <datepublicationfinale>2019-06-11</datepublicationfinale>
+    <montantfinal>79685.830000</montantfinal>
+    <nomcontractant>Standard Aero Limited</nomcontractant>
+    <neqcontractant>1148289128</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1279184</numeroseao>
+    <numero>ING-2019-4300</numero>
+    <datefinale>2019-12-09</datefinale>
+    <datepublicationfinale>2019-12-10</datepublicationfinale>
+    <montantfinal>27532.370000</montantfinal>
+    <nomcontractant>BC2 Groupe Conseil inc.</nomcontractant>
+    <neqcontractant>1166369067</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1293693</numeroseao>
+    <numero>700 301 686</numero>
+    <datefinale>2020-03-31</datefinale>
+    <datepublicationfinale>2020-04-06</datepublicationfinale>
+    <montantfinal>28180.330000</montantfinal>
+    <nomcontractant>Linovati inc.</nomcontractant>
+    <neqcontractant>1168361534</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1294484</numeroseao>
+    <numero>2403-18-APH4</numero>
+    <datefinale>2019-07-31</datefinale>
+    <datepublicationfinale>2019-08-27</datepublicationfinale>
+    <montantfinal>36553.040000</montantfinal>
+    <nomcontractant>Grignard Company, LLC</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1294685</numeroseao>
+    <numero>6403-19-KA02</numero>
+    <datefinale>2020-03-04</datefinale>
+    <datepublicationfinale>2020-04-20</datepublicationfinale>
+    <montantfinal>13772.710000</montantfinal>
+    <nomcontractant>Groupe ABS inc.</nomcontractant>
+    <neqcontractant>1165977969</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1294758</numeroseao>
+    <numero>9001-19-PV25</numero>
+    <datefinale>2019-08-02</datefinale>
+    <datepublicationfinale>2019-08-27</datepublicationfinale>
+    <montantfinal>64925.050000</montantfinal>
+    <nomcontractant>Newcastle Aviation Partners LLC</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1300944</numeroseao>
+    <numero>9001-18-PZF3</numero>
+    <datefinale>2019-01-09</datefinale>
+    <datepublicationfinale>2019-08-30</datepublicationfinale>
+    <montantfinal>233568.630000</montantfinal>
+    <nomcontractant>Anderson Aeromotive, Inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1301287</numeroseao>
+    <numero>9001-18-PZ46</numero>
+    <datefinale>2018-11-07</datefinale>
+    <datepublicationfinale>2019-09-03</datepublicationfinale>
+    <montantfinal>63411.870000</montantfinal>
+    <nomcontractant>Standard Aero Limited</nomcontractant>
+    <neqcontractant>1148289128</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1306289</numeroseao>
+    <numero>CQEN-160313247</numero>
+    <datefinale>2020-01-31</datefinale>
+    <datepublicationfinale>2020-04-23</datepublicationfinale>
+    <montantfinal>47250.000000</montantfinal>
+    <nomcontractant>Bell Marché d'affaires</nomcontractant>
+    <neqcontractant>1172462849</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1307256</numeroseao>
+    <numero>5311-19-PF37</numero>
+    <datefinale>2019-09-16</datefinale>
+    <datepublicationfinale>2019-10-30</datepublicationfinale>
+    <montantfinal>104036.190000</montantfinal>
+    <nomcontractant>Trimble Europe B.V.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1308515</numeroseao>
+    <numero>9001-19-PV32</numero>
+    <datefinale>2019-10-10</datefinale>
+    <datepublicationfinale>2019-11-22</datepublicationfinale>
+    <montantfinal>45887.270000</montantfinal>
+    <nomcontractant>Parker Hannifin Corporation</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1308895</numeroseao>
+    <numero>7003-18-KA13</numero>
+    <datefinale>2020-04-29</datefinale>
+    <datepublicationfinale>2020-04-23</datepublicationfinale>
+    <montantfinal>74005.820000</montantfinal>
+    <nomcontractant>Labo S.M. inc.</nomcontractant>
+    <neqcontractant>1143022672</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1317412</numeroseao>
+    <numero>5311-18-AP02</numero>
+    <datefinale>2018-08-28</datefinale>
+    <datepublicationfinale>2019-11-01</datepublicationfinale>
+    <montantfinal>71546.480000</montantfinal>
+    <nomcontractant>VMware International Limited</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1319309</numeroseao>
+    <numero>2406-17-ZZ02</numero>
+    <datefinale>2020-02-06</datefinale>
+    <datepublicationfinale>2020-02-27</datepublicationfinale>
+    <montantfinal>1400.000000</montantfinal>
+    <nomcontractant>Deslauriers &amp; Cie, Avocats s.a.</nomcontractant>
+    <neqcontractant>1167852194</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1319859</numeroseao>
+    <numero>36236500</numero>
+    <datefinale>2020-04-09</datefinale>
+    <datepublicationfinale>2020-04-27</datepublicationfinale>
+    <montantfinal>45502.330000</montantfinal>
+    <nomcontractant>Les entreprises électriques A&amp;R Ltée</nomcontractant>
+    <neqcontractant>1149670912</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1321732</numeroseao>
+    <numero>3301-19-PZ12</numero>
+    <datefinale>2019-10-08</datefinale>
+    <datepublicationfinale>2019-11-22</datepublicationfinale>
+    <montantfinal>25601.260000</montantfinal>
+    <nomcontractant>Holland LP</nomcontractant>
+    <neqcontractant>3362261060</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1332050</numeroseao>
+    <numero>999109227</numero>
+    <datefinale>2020-02-09</datefinale>
+    <datepublicationfinale>2020-04-28</datepublicationfinale>
+    <montantfinal>149323.750000</montantfinal>
+    <nomcontractant>Waters Limited</nomcontractant>
+    <neqcontractant>1141170002</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1336497</numeroseao>
+    <numero>6508-17-SB01</numero>
+    <datefinale>2020-04-16</datefinale>
+    <datepublicationfinale>2020-01-23</datepublicationfinale>
+    <montantfinal>33744.960000</montantfinal>
+    <nomcontractant>9306-0655 Québec inc.</nomcontractant>
+    <neqcontractant>1170194873</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1338739</numeroseao>
+    <numero>36351001</numero>
+    <datefinale>2020-04-08</datefinale>
+    <datepublicationfinale>2020-03-27</datepublicationfinale>
+    <montantfinal>27271.260000</montantfinal>
+    <nomcontractant>Construction &amp; Ferblanterie JB Sept-îles Inc.</nomcontractant>
+    <neqcontractant>1141117201</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1340520</numeroseao>
+    <numero>553057315</numero>
+    <datefinale>2020-03-31</datefinale>
+    <datepublicationfinale>2020-04-08</datepublicationfinale>
+    <montantfinal>33135.090000</montantfinal>
+    <nomcontractant>Services linguistiques Versacom Inc.</nomcontractant>
+    <neqcontractant>1170594817</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1340599</numeroseao>
+    <numero>5311-19-PF61</numero>
+    <datefinale>2020-02-25</datefinale>
+    <datepublicationfinale>2020-04-20</datepublicationfinale>
+    <montantfinal>134913.580000</montantfinal>
+    <nomcontractant>AgileAssets Inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1347122</numeroseao>
+    <numero>9001-20-PV10</numero>
+    <datefinale>2020-01-21</datefinale>
+    <datepublicationfinale>2020-02-27</datepublicationfinale>
+    <montantfinal>38929.270000</montantfinal>
+    <nomcontractant>Newcastle Aviation Partners LLC</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1347187</numeroseao>
+    <numero>9001-19-PV59</numero>
+    <datefinale>2020-01-17</datefinale>
+    <datepublicationfinale>2020-02-27</datepublicationfinale>
+    <montantfinal>156320.340000</montantfinal>
+    <nomcontractant>Safran Landing Systems</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1347197</numeroseao>
+    <numero>9001-19-PV51</numero>
+    <datefinale>2020-01-21</datefinale>
+    <datepublicationfinale>2020-02-27</datepublicationfinale>
+    <montantfinal>58475.030000</montantfinal>
+    <nomcontractant>Newcastle Aviation Partners LLC</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1347202</numeroseao>
+    <numero>9001-19-AP14</numero>
+    <datefinale>2020-01-27</datefinale>
+    <datepublicationfinale>2020-02-27</datepublicationfinale>
+    <montantfinal>36424.370000</montantfinal>
+    <nomcontractant>De Havilland Aircraft of Canada Limited</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1368012</numeroseao>
+    <numero>45001037</numero>
+    <datefinale>2020-05-06</datefinale>
+    <datepublicationfinale>2020-04-30</datepublicationfinale>
+    <montantfinal>76636.940000</montantfinal>
+    <nomcontractant>Cofomo inc.</nomcontractant>
+    <neqcontractant>1142126664</neqcontractant>
+  </contrat>
+</export>

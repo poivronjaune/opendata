@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2019-02-01" datefin="2019-02-28">
+  <contrat>
+    <numeroseao>545412</numeroseao>
+    <numero>05-03-2012</numero>
+    <datefinale>2016-12-31</datefinale>
+    <datepublicationfinale>2012-11-26</datepublicationfinale>
+    <montantfinal>854786.280000</montantfinal>
+    <nomcontractant>Enviro Connexions</nomcontractant>
+    <neqcontractant>1160633906</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>606452</numeroseao>
+    <numero>SR20120221</numero>
+    <datefinale>2018-06-30</datefinale>
+    <datepublicationfinale>2018-07-11</datepublicationfinale>
+    <montantfinal>4359020.630000</montantfinal>
+    <nomcontractant>Bell Canada</nomcontractant>
+    <neqcontractant>1143863539</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>608766</numeroseao>
+    <numero>VCH-12-384</numero>
+    <datefinale>2012-11-26</datefinale>
+    <datepublicationfinale>2018-09-04</datepublicationfinale>
+    <montantfinal>18247.200000</montantfinal>
+    <nomcontractant>Poliquin decor</nomcontractant>
+    <neqcontractant>1142400622</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>609123</numeroseao>
+    <numero>DG 20-02-2013</numero>
+    <datefinale>2018-03-01</datefinale>
+    <datepublicationfinale>2019-01-23</datepublicationfinale>
+    <montantfinal>1251561.890000</montantfinal>
+    <nomcontractant>Évimbec ltée</nomcontractant>
+    <neqcontractant>1144242949</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>687398</numeroseao>
+    <numero>2013/07</numero>
+    <datefinale>2018-10-31</datefinale>
+    <datepublicationfinale>2015-07-27</datepublicationfinale>
+    <montantfinal>71315.770000</montantfinal>
+    <nomcontractant>Xittel telecom.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>700271</numeroseao>
+    <numero>22072500</numero>
+    <datefinale>2018-11-30</datefinale>
+    <datepublicationfinale>2019-01-17</datepublicationfinale>
+    <montantfinal>408689.940000</montantfinal>
+    <nomcontractant>Schindler Ascenseur Co.</nomcontractant>
+    <neqcontractant>1143282987</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>731838</numeroseao>
+    <numero>P00989</numero>
+    <datefinale>2018-11-09</datefinale>
+    <datepublicationfinale>2019-01-15</datepublicationfinale>
+    <montantfinal>473494.040000</montantfinal>
+    <nomcontractant>Dessau Soprin</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>877826</numeroseao>
+    <numero>6309-15-PA01</numero>
+    <datefinale>2018-04-18</datefinale>
+    <datepublicationfinale>2019-01-29</datepublicationfinale>
+    <montantfinal>221302.360000</montantfinal>
+    <nomcontractant>Les Entreprises Forestières P &amp; C Inc.</nomcontractant>
+    <neqcontractant>1161473336</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>889920</numeroseao>
+    <numero>P14047HH-05</numero>
+    <datefinale>2018-08-09</datefinale>
+    <datepublicationfinale>2018-12-13</datepublicationfinale>
+    <montantfinal>400130.780000</montantfinal>
+    <nomcontractant>Bergeron Bouthillier architectes</nomcontractant>
+    <neqcontractant>1166980830</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>891114</numeroseao>
+    <numero>29190700</numero>
+    <datefinale>2018-11-16</datefinale>
+    <datepublicationfinale>2018-12-04</datepublicationfinale>
+    <montantfinal>14811617.730000</montantfinal>
+    <nomcontractant>Verreault inc.</nomcontractant>
+    <neqcontractant>1165207714</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>911205</numeroseao>
+    <numero>7006-15-4904</numero>
+    <datefinale>2018-04-28</datefinale>
+    <datepublicationfinale>2019-01-29</datepublicationfinale>
+    <montantfinal>521793.260000</montantfinal>
+    <nomcontractant>Entrepreneur Gilles Cloutier inc.</nomcontractant>
+    <neqcontractant>1141991639</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>911226</numeroseao>
+    <numero>6506-15-4507</numero>
+    <datefinale>2018-04-25</datefinale>
+    <datepublicationfinale>2019-01-29</datepublicationfinale>
+    <montantfinal>1069043.790000</montantfinal>
+    <nomcontractant>Les Entreprises L. Michaud et Fils (1982) Inc.</nomcontractant>
+    <neqcontractant>1142342006</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>938080</numeroseao>
+    <numero>30489100</numero>
+    <datefinale>2018-12-31</datefinale>
+    <datepublicationfinale>2019-01-18</datepublicationfinale>
+    <montantfinal>89869.930000</montantfinal>
+    <nomcontractant>Av-Tech INC..</nomcontractant>
+    <neqcontractant>1143543099</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>977926</numeroseao>
+    <numero>8801-16-0904</numero>
+    <datefinale>2018-05-02</datefinale>
+    <datepublicationfinale>2019-01-29</datepublicationfinale>
+    <montantfinal>3430148.300000</montantfinal>
+    <nomcontractant>Pavages Multipro Inc.</nomcontractant>
+    <neqcontractant>1170190491</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>978008</numeroseao>
+    <numero>C2016-011</numero>
+    <datefinale>2018-09-15</datefinale>
+    <datepublicationfinale>2016-07-29</datepublicationfinale>
+    <montantfinal>61818.000000</montantfinal>
+    <nomcontractant>Jeunes entreprises de la région du Haut-Yamaska</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1004828</numeroseao>
+    <numero>31474900</numero>
+    <datefinale>2018-10-23</datefinale>
+    <datepublicationfinale>2018-10-24</datepublicationfinale>
+    <montantfinal>218687.890000</montantfinal>
+    <nomcontractant>E.C.E. Électrique Inc.</nomcontractant>
+    <neqcontractant>1143064724</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1011578</numeroseao>
+    <numero>206/004</numero>
+    <datefinale>2018-12-31</datefinale>
+    <datepublicationfinale>2017-02-06</datepublicationfinale>
+    <montantfinal>155425.950000</montantfinal>
+    <nomcontractant>Jean-Pierre Cadrin &amp; Ass. Inc.</nomcontractant>
+    <neqcontractant>1142793869</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1063609</numeroseao>
+    <numero>2017-002</numero>
+    <datefinale>2017-12-31</datefinale>
+    <datepublicationfinale>2018-10-18</datepublicationfinale>
+    <montantfinal>89895.450000</montantfinal>
+    <nomcontractant>Les Services Exp Inc</nomcontractant>
+    <neqcontractant>1167268128</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1068690</numeroseao>
+    <numero>32266900</numero>
+    <datefinale>2018-11-20</datefinale>
+    <datepublicationfinale>2019-01-17</datepublicationfinale>
+    <montantfinal>186152.410000</montantfinal>
+    <nomcontractant>2633-2312 Québec inc. (Pavatech)</nomcontractant>
+    <neqcontractant>1142636142</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1071463</numeroseao>
+    <numero>2017-05-01</numero>
+    <datefinale>2017-05-04</datefinale>
+    <datepublicationfinale>2018-07-16</datepublicationfinale>
+    <montantfinal>33651.620000</montantfinal>
+    <nomcontractant>BFL CANADA</nomcontractant>
+    <neqcontractant>1142254748</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1076151</numeroseao>
+    <numero>BON161702236</numero>
+    <datefinale>2019-01-28</datefinale>
+    <datepublicationfinale>2018-09-17</datepublicationfinale>
+    <montantfinal>92594.600000</montantfinal>
+    <nomcontractant>Laerdal médical canada</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1076873</numeroseao>
+    <numero>44507550</numero>
+    <datefinale>2018-10-25</datefinale>
+    <datepublicationfinale>2018-04-10</datepublicationfinale>
+    <montantfinal>35195.950000</montantfinal>
+    <nomcontractant>Guard-x inc</nomcontractant>
+    <neqcontractant>1143398247</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1077711</numeroseao>
+    <numero>8607</numero>
+    <datefinale>2018-05-09</datefinale>
+    <datepublicationfinale>2018-11-16</datepublicationfinale>
+    <montantfinal>2360249.090000</montantfinal>
+    <nomcontractant>Zone Université Laval</nomcontractant>
+    <neqcontractant>1146401055</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1091107</numeroseao>
+    <numero>540546-1</numero>
+    <datefinale>2018-06-30</datefinale>
+    <datepublicationfinale>2018-09-24</datepublicationfinale>
+    <montantfinal>504056.000000</montantfinal>
+    <nomcontractant>ACCÈS SANTÉ MENTALE CIBLE TRAVAIL</nomcontractant>
+    <neqcontractant>1143103373</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1091251</numeroseao>
+    <numero>545671-1</numero>
+    <datefinale>2018-06-30</datefinale>
+    <datepublicationfinale>2018-09-24</datepublicationfinale>
+    <montantfinal>508832.190000</montantfinal>
+    <nomcontractant>CARREFOUR RELANCE</nomcontractant>
+    <neqcontractant>1142428896</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1093387</numeroseao>
+    <numero>2017-0617-33-01-44400</numero>
+    <datefinale>2018-09-30</datefinale>
+    <datepublicationfinale>2018-12-18</datepublicationfinale>
+    <montantfinal>128074.380000</montantfinal>
+    <nomcontractant>Fisher Scientific</nomcontractant>
+    <neqcontractant>1147627393</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1093404</numeroseao>
+    <numero>2017-0617-55-01-44400</numero>
+    <datefinale>2018-09-30</datefinale>
+    <datepublicationfinale>2018-12-18</datepublicationfinale>
+    <montantfinal>36610.920000</montantfinal>
+    <nomcontractant>Fisher Scientific</nomcontractant>
+    <neqcontractant>1147627393</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1093456</numeroseao>
+    <numero>2017-0616-44-01-44400</numero>
+    <datefinale>2018-09-30</datefinale>
+    <datepublicationfinale>2019-01-16</datepublicationfinale>
+    <montantfinal>118764.980000</montantfinal>
+    <nomcontractant>Fisher Scientific</nomcontractant>
+    <neqcontractant>1147627393</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1103841</numeroseao>
+    <numero>44507758</numero>
+    <datefinale>2018-12-03</datefinale>
+    <datepublicationfinale>2019-01-07</datepublicationfinale>
+    <montantfinal>230082.440000</montantfinal>
+    <nomcontractant>Construction Pétro Hitech, division de E.R.C.D. Industries inc.</nomcontractant>
+    <neqcontractant>1143897750</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1104831</numeroseao>
+    <numero>APP-17-133-2 2017-GDE-607</numero>
+    <datefinale>2018-10-22</datefinale>
+    <datepublicationfinale>2018-12-10</datepublicationfinale>
+    <montantfinal>87302.070000</montantfinal>
+    <nomcontractant>M. Brien Électrique inc.</nomcontractant>
+    <neqcontractant>1140143000</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1112754</numeroseao>
+    <numero>553355-0</numero>
+    <datefinale>2018-09-21</datefinale>
+    <datepublicationfinale>2018-11-27</datepublicationfinale>
+    <montantfinal>51552.920000</montantfinal>
+    <nomcontractant>SERVICE DE DÉVELOPPEMENT D'EMPLOYABILITÉ DE LA MONTÉRÉGIE</nomcontractant>
+    <neqcontractant>1143934546</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1113476</numeroseao>
+    <numero>BON171800114</numero>
+    <datefinale>2018-10-10</datefinale>
+    <datepublicationfinale>2018-10-10</datepublicationfinale>
+    <montantfinal>27678.850000</montantfinal>
+    <nomcontractant>PLOMBERIE D.BÉLAND INC.</nomcontractant>
+    <neqcontractant>1162971338</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1143131</numeroseao>
+    <numero>CA17 240662</numero>
+    <datefinale>2018-03-13</datefinale>
+    <datepublicationfinale>2018-04-23</datepublicationfinale>
+    <montantfinal>44986.000000</montantfinal>
+    <nomcontractant>MU</nomcontractant>
+    <neqcontractant>1164003965</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1153606</numeroseao>
+    <numero>67</numero>
+    <datefinale>2018-09-26</datefinale>
+    <datepublicationfinale>2018-10-03</datepublicationfinale>
+    <montantfinal>43575.760000</montantfinal>
+    <nomcontractant>Carl Zeiss Canada Ltee</nomcontractant>
+    <neqcontractant>1145073822</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1168451</numeroseao>
+    <numero>578671-1</numero>
+    <datefinale>2018-11-16</datefinale>
+    <datepublicationfinale>2019-01-24</datepublicationfinale>
+    <montantfinal>74378.650000</montantfinal>
+    <nomcontractant>CARREFOUR JEUNESSE-EMPLOI THÉRÈSE-DE-BLAINVILLE</nomcontractant>
+    <neqcontractant>1146393351</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1175035</numeroseao>
+    <numero>2018CCA436</numero>
+    <datefinale>2019-01-15</datefinale>
+    <datepublicationfinale>2019-01-16</datepublicationfinale>
+    <montantfinal>160992.500000</montantfinal>
+    <nomcontractant>Les Entreprises JRMorin inc.</nomcontractant>
+    <neqcontractant>1164863558</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1182648</numeroseao>
+    <numero>142</numero>
+    <datefinale>2019-01-23</datefinale>
+    <datepublicationfinale>2019-01-04</datepublicationfinale>
+    <montantfinal>44908.650000</montantfinal>
+    <nomcontractant>Innovation Baxxar Inc.</nomcontractant>
+    <neqcontractant>1173705840</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1208888</numeroseao>
+    <numero>34995300</numero>
+    <datefinale>2018-11-27</datefinale>
+    <datepublicationfinale>2019-01-11</datepublicationfinale>
+    <montantfinal>31040.000000</montantfinal>
+    <nomcontractant>SIMCO Technologies inc.</nomcontractant>
+    <neqcontractant>1166195751</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1211454</numeroseao>
+    <numero>44511452</numero>
+    <datefinale>2019-01-22</datefinale>
+    <datepublicationfinale>2019-01-28</datepublicationfinale>
+    <montantfinal>89999.000000</montantfinal>
+    <nomcontractant>Chapiteau Abitibi (2011) </nomcontractant>
+    <neqcontractant>1167511493</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1225108</numeroseao>
+    <numero>4500663659</numero>
+    <datefinale>2018-03-31</datefinale>
+    <datepublicationfinale>2018-12-21</datepublicationfinale>
+    <montantfinal>24952.690000</montantfinal>
+    <nomcontractant>Cegep de Jonquiere</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1229327</numeroseao>
+    <numero>34015400</numero>
+    <datefinale>2018-10-19</datefinale>
+    <datepublicationfinale>2019-01-17</datepublicationfinale>
+    <montantfinal>25673.000000</montantfinal>
+    <nomcontractant>Mécanarc Inc.</nomcontractant>
+    <neqcontractant>1147851696</neqcontractant>
+  </contrat>
+</export>

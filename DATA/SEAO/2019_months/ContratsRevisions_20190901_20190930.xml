@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2019-09-01" datefin="2019-09-30">
+  <contrat>
+    <numeroseao>611900</numeroseao>
+    <numero>7210-2012-067 P</numero>
+    <datefinale>2017-11-22</datefinale>
+    <datepublicationfinale>2019-06-04</datepublicationfinale>
+    <montantfinal>139347.390000</montantfinal>
+    <nomcontractant>Les Services EXP Inc</nomcontractant>
+    <neqcontractant>1167268128</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>623231</numeroseao>
+    <numero>25-1974P</numero>
+    <datefinale>2014-02-24</datefinale>
+    <datepublicationfinale>2016-08-19</datepublicationfinale>
+    <montantfinal>388895.150000</montantfinal>
+    <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+    <neqcontractant>1143585801</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>630049</numeroseao>
+    <numero>6608-13-SJ01</numero>
+    <datefinale>2019-08-28</datefinale>
+    <datepublicationfinale>2016-07-21</datepublicationfinale>
+    <montantfinal>116212.640000</montantfinal>
+    <nomcontractant>9182-4573 Québec inc. (Josée Chenard)</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>634042</numeroseao>
+    <numero>8901-12-HE01</numero>
+    <datefinale>2019-09-05</datefinale>
+    <datepublicationfinale>2019-08-27</datepublicationfinale>
+    <montantfinal>1716328.090000</montantfinal>
+    <nomcontractant>CIMA+ Gatineau</nomcontractant>
+    <neqcontractant>3340563140</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>757380</numeroseao>
+    <numero>7006-07-HA02</numero>
+    <datefinale>2017-02-28</datefinale>
+    <datepublicationfinale>2014-04-29</datepublicationfinale>
+    <montantfinal>5574578.170000</montantfinal>
+    <nomcontractant>Consortium Roche/Pluritec</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>788586</numeroseao>
+    <numero>5404-14-AP72</numero>
+    <datefinale>2018-03-09</datefinale>
+    <datepublicationfinale>2016-12-09</datepublicationfinale>
+    <montantfinal>3400172.620000</montantfinal>
+    <nomcontractant>9030-5814 Qc inc ( Spectralite/Signoplus)</nomcontractant>
+    <neqcontractant>1145439460</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>833825</numeroseao>
+    <numero>6501-14-HE14</numero>
+    <datefinale>2019-09-03</datefinale>
+    <datepublicationfinale>2018-06-29</datepublicationfinale>
+    <montantfinal>110782.380000</montantfinal>
+    <nomcontractant>Norda Stelo inc.</nomcontractant>
+    <neqcontractant>1165310831</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>885646</numeroseao>
+    <numero>5404-15-AR01</numero>
+    <datefinale />
+    <datepublicationfinale>2019-08-27</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant>MTQ - Direction de l’approvisionnement et de la qualification des produits</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>908242</numeroseao>
+    <numero>5303-15-PF13</numero>
+    <datefinale>2019-09-12</datefinale>
+    <datepublicationfinale>2019-06-05</datepublicationfinale>
+    <montantfinal>1859320.750000</montantfinal>
+    <nomcontractant>Bell Canada (Compagnie de téléphone Bell du Canada)</nomcontractant>
+    <neqcontractant>1143863539</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>921755</numeroseao>
+    <numero>6301-15-1022</numero>
+    <datefinale>2019-09-06</datefinale>
+    <datepublicationfinale>2016-04-20</datepublicationfinale>
+    <montantfinal>793382.790000</montantfinal>
+    <nomcontractant>P. &amp; B. entreprises ltée</nomcontractant>
+    <neqcontractant>1145125325</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>991666</numeroseao>
+    <numero>6407-16-4914</numero>
+    <datefinale>2019-05-31</datefinale>
+    <datepublicationfinale>2019-06-27</datepublicationfinale>
+    <montantfinal>139716.910000</montantfinal>
+    <nomcontractant>transport breton lamontagne inc</nomcontractant>
+    <neqcontractant>1164615891</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>992194</numeroseao>
+    <numero>6407-16-4504</numero>
+    <datefinale>2019-05-31</datefinale>
+    <datepublicationfinale>2019-06-27</datepublicationfinale>
+    <montantfinal>718802.110000</montantfinal>
+    <nomcontractant>Transport J.P. Desrochers inc.</nomcontractant>
+    <neqcontractant>1163710719</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>992263</numeroseao>
+    <numero>7006-16-4509</numero>
+    <datefinale>2019-05-31</datefinale>
+    <datepublicationfinale>2019-06-27</datepublicationfinale>
+    <montantfinal>2115651.680000</montantfinal>
+    <nomcontractant>Les Gestions n.a. Carrier inc</nomcontractant>
+    <neqcontractant>1168217843</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1004060</numeroseao>
+    <numero>6306-16-4213</numero>
+    <datefinale>2019-05-31</datefinale>
+    <datepublicationfinale>2019-06-27</datepublicationfinale>
+    <montantfinal>554984.130000</montantfinal>
+    <nomcontractant>Jean-Pierre Thériault</nomcontractant>
+    <neqcontractant>2266706276</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1090526</numeroseao>
+    <numero>6603-17-HA16</numero>
+    <datefinale>2019-09-09</datefinale>
+    <datepublicationfinale>2019-08-27</datepublicationfinale>
+    <montantfinal>89958.040000</montantfinal>
+    <nomcontractant>Englobe Corp.</nomcontractant>
+    <neqcontractant>1167280206</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1095043</numeroseao>
+    <numero>R17-81112300-001</numero>
+    <datefinale>2019-04-29</datefinale>
+    <datepublicationfinale>2018-07-16</datepublicationfinale>
+    <montantfinal>142617.000000</montantfinal>
+    <nomcontractant>SAP Canada Inc.</nomcontractant>
+    <neqcontractant>1145004181</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1095528</numeroseao>
+    <numero>6408-17-HE03</numero>
+    <datefinale>2019-07-23</datefinale>
+    <datepublicationfinale>2019-08-27</datepublicationfinale>
+    <montantfinal>142980.340000</montantfinal>
+    <nomcontractant>Stantec Experts-Conseils ltée.</nomcontractant>
+    <neqcontractant>1170241336</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1099714</numeroseao>
+    <numero>INV170531-46</numero>
+    <datefinale>2019-06-30</datefinale>
+    <datepublicationfinale>2019-07-29</datepublicationfinale>
+    <montantfinal>218472.890000</montantfinal>
+    <nomcontractant>Groupe Qualinet inc.</nomcontractant>
+    <neqcontractant>1140468472</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1102319</numeroseao>
+    <numero>2016-012-24RM</numero>
+    <datefinale>2018-08-31</datefinale>
+    <datepublicationfinale>2018-06-13</datepublicationfinale>
+    <montantfinal>294946.050000</montantfinal>
+    <nomcontractant>Ventilation Jean Roy 1999 Inc.</nomcontractant>
+    <neqcontractant>1148376156</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1107976</numeroseao>
+    <numero>R17-85000000-007</numero>
+    <datefinale>2019-04-30</datefinale>
+    <datepublicationfinale>2018-05-23</datepublicationfinale>
+    <montantfinal>37387.500000</montantfinal>
+    <nomcontractant>Dominic Chalut</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1124389</numeroseao>
+    <numero>6803-17-0201</numero>
+    <datefinale>2019-02-22</datefinale>
+    <datepublicationfinale>2019-06-20</datepublicationfinale>
+    <montantfinal>1873009.670000</montantfinal>
+    <nomcontractant>Équipements JVC Inc. (Les)</nomcontractant>
+    <neqcontractant>1143285303</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1126175</numeroseao>
+    <numero>2018-CS702866</numero>
+    <datefinale>2018-03-31</datefinale>
+    <datepublicationfinale>2019-03-22</datepublicationfinale>
+    <montantfinal>79797.500000</montantfinal>
+    <nomcontractant>Dr. Lisa Reisinger</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1142869</numeroseao>
+    <numero>2017-073-09RM</numero>
+    <datefinale>2019-09-05</datefinale>
+    <datepublicationfinale>2019-05-21</datepublicationfinale>
+    <montantfinal>48186.990000</montantfinal>
+    <nomcontractant>Excavations Michel Chartier Inc.</nomcontractant>
+    <neqcontractant>1141743980</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1146684</numeroseao>
+    <numero>44508524</numero>
+    <datefinale>2019-05-01</datefinale>
+    <datepublicationfinale>2019-06-17</datepublicationfinale>
+    <montantfinal>172605.930000</montantfinal>
+    <nomcontractant>CONSTRUCTION ECLAIR INC</nomcontractant>
+    <neqcontractant>1141913989</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1148798</numeroseao>
+    <numero>55431-630_AW_SA</numero>
+    <datefinale>2019-09-04</datefinale>
+    <datepublicationfinale>2019-04-08</datepublicationfinale>
+    <montantfinal>28370.270000</montantfinal>
+    <nomcontractant>ACDF Architecture inc.</nomcontractant>
+    <neqcontractant>1163842074</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1150259</numeroseao>
+    <numero>51627-3347238</numero>
+    <datefinale>2018-03-09</datefinale>
+    <datepublicationfinale>2018-12-11</datepublicationfinale>
+    <montantfinal>65478.270000</montantfinal>
+    <nomcontractant>Zone Accès public Québec</nomcontractant>
+    <neqcontractant>1164048036</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1158034</numeroseao>
+    <numero>067-2018-01</numero>
+    <datefinale>2019-05-31</datefinale>
+    <datepublicationfinale>2019-06-03</datepublicationfinale>
+    <montantfinal>535769.050000</montantfinal>
+    <nomcontractant>Toitures Sherbrooke Inc.</nomcontractant>
+    <neqcontractant>1165849473</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1174484</numeroseao>
+    <numero>55430-516_AW_SA</numero>
+    <datefinale>2019-09-04</datefinale>
+    <datepublicationfinale>2019-06-25</datepublicationfinale>
+    <montantfinal>45745.000000</montantfinal>
+    <nomcontractant>ACDF Architecture inc.</nomcontractant>
+    <neqcontractant>1163842074</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1175035</numeroseao>
+    <numero>2018CCA436</numero>
+    <datefinale>2019-09-09</datefinale>
+    <datepublicationfinale>2019-01-16</datepublicationfinale>
+    <montantfinal>160992.500000</montantfinal>
+    <nomcontractant>Les Entreprises JRMorin inc.</nomcontractant>
+    <neqcontractant>1164863558</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1189002</numeroseao>
+    <numero>202118-01</numero>
+    <datefinale>2019-07-12</datefinale>
+    <datepublicationfinale>2019-08-05</datepublicationfinale>
+    <montantfinal>1203124.350000</montantfinal>
+    <nomcontractant>Solutions Mésonet inc.</nomcontractant>
+    <neqcontractant>1168817121</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1208189</numeroseao>
+    <numero>9321</numero>
+    <datefinale>2018-10-23</datefinale>
+    <datepublicationfinale>2019-08-12</datepublicationfinale>
+    <montantfinal>85163.100000</montantfinal>
+    <nomcontractant>Bureau Van Dijk Electronic Publishing</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1208205</numeroseao>
+    <numero>9285-1</numero>
+    <datefinale>2019-09-23</datefinale>
+    <datepublicationfinale>2019-05-06</datepublicationfinale>
+    <montantfinal>76681.687500</montantfinal>
+    <nomcontractant>Quintek Measurement Systems Inc</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1216142</numeroseao>
+    <numero>52827 - 3383160</numero>
+    <datefinale>2018-10-30</datefinale>
+    <datepublicationfinale>2019-03-27</datepublicationfinale>
+    <montantfinal>1535305.900000</montantfinal>
+    <nomcontractant>Informatique ProContact inc.</nomcontractant>
+    <neqcontractant>1173638405</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1217582</numeroseao>
+    <numero>2018-11-338</numero>
+    <datefinale>2019-02-28</datefinale>
+    <datepublicationfinale>2019-08-26</datepublicationfinale>
+    <montantfinal>34262.560000</montantfinal>
+    <nomcontractant>Les Constructions Yvon Labbé Ltée</nomcontractant>
+    <neqcontractant>1143443738</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1230644</numeroseao>
+    <numero>9001-18-PB01</numero>
+    <datefinale>2019-09-05</datefinale>
+    <datepublicationfinale>2019-06-20</datepublicationfinale>
+    <montantfinal>133718.000000</montantfinal>
+    <nomcontractant>Mc Innis et Fils</nomcontractant>
+    <neqcontractant>1173273831</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1232726</numeroseao>
+    <numero>6401-19-0201</numero>
+    <datefinale>2019-08-30</datefinale>
+    <datepublicationfinale>2019-08-27</datepublicationfinale>
+    <montantfinal>165468.100000</montantfinal>
+    <nomcontractant>Constructions Randard Inc.</nomcontractant>
+    <neqcontractant>1142000042</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1245788</numeroseao>
+    <numero>44512326</numero>
+    <datefinale>2019-06-11</datefinale>
+    <datepublicationfinale>2019-08-20</datepublicationfinale>
+    <montantfinal>80308.060000</montantfinal>
+    <nomcontractant>Société de contrôle Johnson Canada S.E.C.</nomcontractant>
+    <neqcontractant>3367672865</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1257135</numeroseao>
+    <numero>9507</numero>
+    <datefinale>2019-08-20</datefinale>
+    <datepublicationfinale>2019-08-30</datepublicationfinale>
+    <montantfinal>67250.580000</montantfinal>
+    <nomcontractant>0416088847</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1264899</numeroseao>
+    <numero>45059029</numero>
+    <datefinale>2019-04-29</datefinale>
+    <datepublicationfinale>2019-06-28</datepublicationfinale>
+    <montantfinal>34704.000000</montantfinal>
+    <nomcontractant>ORX RAIL</nomcontractant>
+    <neqcontractant />
+  </contrat>
+</export>

@@ -1,0 +1,1049 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2019-08-01" datefin="2019-08-31">
+  <avis>
+    <numeroseao>697921</numeroseao>
+    <numero>25946100</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-01-31</datedepense>
+        <datepublicationdepense>2019-02-14</datepublicationdepense>
+        <montantdepense>44451.600000</montantdepense>
+        <description>Prolongation du contrat de 6 mois</description>
+        <nomcontractant>Gestion P.R. Maintenance Inc.</nomcontractant>
+        <neqcontractant>1161663340</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-08-01</datedepense>
+        <datepublicationdepense>2019-08-16</datepublicationdepense>
+        <montantdepense>44451.600000</montantdepense>
+        <description>Prolongation de 6 mois, soit du 1er août 2019 au 31 janvier 2020</description>
+        <nomcontractant>Gestion P.R. Maintenance Inc.</nomcontractant>
+        <neqcontractant>1161663340</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>773275</numeroseao>
+    <numero>SRM011695</numero>
+    <depenses>
+      <depense>
+        <datedepense>2014-10-01</datedepense>
+        <datepublicationdepense>2019-08-29</datepublicationdepense>
+        <montantdepense>48455.480000</montantdepense>
+        <description>Bon de commande SRM012149  numéro de projet : 141 009 560</description>
+        <nomcontractant>Charland Dubé Robillard</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>930210</numeroseao>
+    <numero>25-2306P</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-10-31</datedepense>
+        <datepublicationdepense>2016-12-09</datepublicationdepense>
+        <montantdepense>75140.000000</montantdepense>
+        <description>SRM018404</description>
+        <nomcontractant>M.C. Rainville inc.</nomcontractant>
+        <neqcontractant>1162637467</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-19</datedepense>
+        <datepublicationdepense>2018-07-09</datepublicationdepense>
+        <montantdepense>115020.650000</montantdepense>
+        <description>SRM018363</description>
+        <nomcontractant>M.C. Rainville inc.</nomcontractant>
+        <neqcontractant>1162637467</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-13</datedepense>
+        <datepublicationdepense>2018-08-07</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>BC SRM022639 - 1877 (Cette dépense supplémentaire n'est pas reliée à cet appel d'offre) </description>
+        <nomcontractant>M.C. Rainville inc.</nomcontractant>
+        <neqcontractant>1162637467</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>972461</numeroseao>
+    <numero>25-2340P</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-09-14</datedepense>
+        <datepublicationdepense>2016-11-02</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>SRM017766 - BC saisi par erreur - appliqué sur le bon AO 25-2315P</description>
+        <nomcontractant>Le Groupe Axxys.</nomcontractant>
+        <neqcontractant>1147654900</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>981223</numeroseao>
+    <numero>999107478</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-06-28</datedepense>
+        <datepublicationdepense>2019-08-27</datepublicationdepense>
+        <montantdepense>43400000.000000</montantdepense>
+        <description>Un montant additionnel a été alloué au regroupement d'achats afin de continuer à répondre aux besoins urgents de la clientèle et éviter une rupture de service.</description>
+        <nomcontractant>HP Canada Cie</nomcontractant>
+        <neqcontractant>1170863949</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-28</datedepense>
+        <datepublicationdepense>2019-03-26</datepublicationdepense>
+        <montantdepense>26000000.000000</montantdepense>
+        <description>Un montant additionnel a été alloué au contrat du regroupement d'achats afin de continuer à répondre aux besoins de la clientèle et d’éviter une rupture de service.</description>
+        <nomcontractant>Dell Canada Inc.</nomcontractant>
+        <neqcontractant>1145525805</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>989913</numeroseao>
+    <numero>IM701215</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-09-21</datedepense>
+        <datepublicationdepense>2017-12-04</datepublicationdepense>
+        <montantdepense>964182.490000</montantdepense>
+        <description>Modifications des services pour les ascenseurs, Modification des blocs sanitaires des étages 155 à 260, Ajout de luminaires au niveau 155</description>
+        <nomcontractant>Rial Electrique Inc.</nomcontractant>
+        <neqcontractant>1162163670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-13</datedepense>
+        <datepublicationdepense>2018-01-09</datepublicationdepense>
+        <montantdepense>208760.700000</montantdepense>
+        <description>Raccords 120V pour besoin de l'alarme-incendie désenfumage, construction du local TCAI</description>
+        <nomcontractant>Rial Electrique Inc.</nomcontractant>
+        <neqcontractant>1162163670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-27</datedepense>
+        <datepublicationdepense>2018-01-26</datepublicationdepense>
+        <montantdepense>189303.550000</montantdepense>
+        <description>Relocalisation des aérothermes de la dorsale, ajustement des disjoncteurs, ajout d’éclairage et de prise pour les unités de ventilation et démantèlement de la sortie de secours.</description>
+        <nomcontractant>Rial Electrique Inc.</nomcontractant>
+        <neqcontractant>1162163670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-18</datedepense>
+        <datepublicationdepense>2018-03-16</datepublicationdepense>
+        <montantdepense>231283.840000</montantdepense>
+        <description>Relocalisation des aérothermes de la dorsale, ajustement des disjoncteurs, ajout d'éclairage</description>
+        <nomcontractant>Rial Electrique Inc.</nomcontractant>
+        <neqcontractant>1162163670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-28</datedepense>
+        <datepublicationdepense>2018-04-25</datepublicationdepense>
+        <montantdepense>432037.730000</montantdepense>
+        <description>Modification MALT télécommunication, ajout de chauffage au niveau 170 et ajout d'éclairage / chauffage</description>
+        <nomcontractant>Rial Electrique Inc.</nomcontractant>
+        <neqcontractant>1162163670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-03</datedepense>
+        <datepublicationdepense>2018-06-20</datepublicationdepense>
+        <montantdepense>52665.360000</montantdepense>
+        <description>Modification MALT télécommunication, ajout de chauffage au niveau 170 et ajout d'éclairage / chauffage</description>
+        <nomcontractant>Rial Electrique Inc.</nomcontractant>
+        <neqcontractant>1162163670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-28</datedepense>
+        <datepublicationdepense>2018-08-20</datepublicationdepense>
+        <montantdepense>109779.980000</montantdepense>
+        <description>Remplacement des conduits de 4 po par des manchons de 2 po., raccordement de l'air respirable</description>
+        <nomcontractant>Rial Electrique Inc.</nomcontractant>
+        <neqcontractant>1162163670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-09-01</datedepense>
+        <datepublicationdepense>2018-10-29</datepublicationdepense>
+        <montantdepense>62055.250000</montantdepense>
+        <description>Réaménagement des câbles existants au niveau 138, ajout d'enseignes de sortie et relocalisation des prises électriques des salles télécoms Desjardins.</description>
+        <nomcontractant>Rial Electrique Inc.</nomcontractant>
+        <neqcontractant>1162163670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-10-24</datedepense>
+        <datepublicationdepense>2018-12-18</datepublicationdepense>
+        <montantdepense>7628.590000</montantdepense>
+        <description>Ajout de luminaires au niveau 221, ajout de MALT pour l’escalier d’issue de la sous-station S-16 et relocalisation d’un luminaire et de conduits d’alarme-incendie au niveau 398 ouest.</description>
+        <nomcontractant>Rial Electrique Inc.</nomcontractant>
+        <neqcontractant>1162163670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-12-17</datedepense>
+        <datepublicationdepense>2019-01-10</datepublicationdepense>
+        <montantdepense>425000.000000</montantdepense>
+        <description>Résolution #7923</description>
+        <nomcontractant>Rial Electrique Inc.</nomcontractant>
+        <neqcontractant>1162163670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-12-05</datedepense>
+        <datepublicationdepense>2019-02-04</datepublicationdepense>
+        <montantdepense>4591.370000</montantdepense>
+        <description>Ajout de deux (2)  prises et un (1) conduit vide au niveau 322</description>
+        <nomcontractant>Rial Electrique Inc.</nomcontractant>
+        <neqcontractant>1162163670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-01</datedepense>
+        <datepublicationdepense>2019-04-23</datepublicationdepense>
+        <montantdepense>24827.100000</montantdepense>
+        <description>Modification sur les plaques lamicoides existantes et annulation de l'interrupteur de transfert ASSC-2 / Travaux dans la Tour de Montréal</description>
+        <nomcontractant>Rial Electrique Inc.</nomcontractant>
+        <neqcontractant>1162163670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-02</datedepense>
+        <datepublicationdepense>2019-07-08</datepublicationdepense>
+        <montantdepense>6588.730000</montantdepense>
+        <description>Identification des btes de tirage et de jonctions des cages d'escalier Est et ouest, remplacement d'équipements endommagés en alarme incendie</description>
+        <nomcontractant>Rial Electrique Inc.</nomcontractant>
+        <neqcontractant>1162163670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-02</datedepense>
+        <datepublicationdepense>2019-08-26</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Remplacement d'équipements endommagés en alarme incendie, identification des btes de tirage et de jonctions de cages d'escalier est et Ouest pour les étages 463 à 561.</description>
+        <nomcontractant>Rial Electrique Inc.</nomcontractant>
+        <neqcontractant>1162163670</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1017539</numeroseao>
+    <numero>SRM017813</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-11-22</datedepense>
+        <datepublicationdepense>2019-08-30</datepublicationdepense>
+        <montantdepense>7985.000000</montantdepense>
+        <description>SRM018513 (030 063 580)</description>
+        <nomcontractant>GSF Canada  inc</nomcontractant>
+        <neqcontractant>1147367677</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-01-25</datedepense>
+        <datepublicationdepense>2019-08-30</datepublicationdepense>
+        <montantdepense>2220.070000</montantdepense>
+        <description>SRM019071 (30063580)</description>
+        <nomcontractant>GSF Canada  inc</nomcontractant>
+        <neqcontractant>1147367677</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1066206</numeroseao>
+    <numero>17-089 P</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-11-07</datedepense>
+        <datepublicationdepense>2019-08-26</datepublicationdepense>
+        <montantdepense>4990.990000</montantdepense>
+        <description>#1 - Honoraires supplémentaires pour des services relatifs à une homolgation des cadres de portes d'Issues...</description>
+        <nomcontractant>DMA architectes s.e.n.c.r.l.</nomcontractant>
+        <neqcontractant>3364892656</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-14</datedepense>
+        <datepublicationdepense>2019-08-26</datepublicationdepense>
+        <montantdepense>376250.000000</montantdepense>
+        <description>#2 - Honoraires supplémentaires pour une deuxième appel d'offres de services durant la construction...</description>
+        <nomcontractant>DMA architectes s.e.n.c.r.l.</nomcontractant>
+        <neqcontractant>3364892656</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-26</datedepense>
+        <datepublicationdepense>2019-08-26</datepublicationdepense>
+        <montantdepense>569.010000</montantdepense>
+        <description>#3 - Ajout d'honoraires pour plans et devis définitifs suite à l'estimation finale (à pourcentage).</description>
+        <nomcontractant>DMA architectes s.e.n.c.r.l.</nomcontractant>
+        <neqcontractant>3364892656</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-26</datedepense>
+        <datepublicationdepense>2019-08-26</datepublicationdepense>
+        <montantdepense>2219.060000</montantdepense>
+        <description>#4 - Ajout d'honoraires pour les services durant la construction suite à l'ouverture de soumission (à pourcentage).</description>
+        <nomcontractant>DMA architectes s.e.n.c.r.l.</nomcontractant>
+        <neqcontractant>3364892656</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1089771</numeroseao>
+    <numero>SRM020203</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-06-28</datedepense>
+        <datepublicationdepense>2017-12-01</datepublicationdepense>
+        <montantdepense>26346.000000</montantdepense>
+        <description>SRM021470</description>
+        <nomcontractant>.SNC-Lavalin inc.</nomcontractant>
+        <neqcontractant>1142775999</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-29</datedepense>
+        <datepublicationdepense>2019-06-25</datepublicationdepense>
+        <montantdepense>6990.000000</montantdepense>
+        <description>SRM027187 - 308 014 570</description>
+        <nomcontractant>.SNC-Lavalin inc.</nomcontractant>
+        <neqcontractant>1142775999</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1104584</numeroseao>
+    <numero>17-019-AOP-SPA-91656</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-07-16</datedepense>
+        <datepublicationdepense>2019-08-28</datepublicationdepense>
+        <montantdepense>61978.770000</montantdepense>
+        <description>Majoration en lien avec révision 17065 datée du 4 juillet 2019</description>
+        <nomcontractant>NFOE Inc.</nomcontractant>
+        <neqcontractant>1167798561</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1122219</numeroseao>
+    <numero>BG100753</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-10-31</datedepense>
+        <datepublicationdepense>2019-08-06</datepublicationdepense>
+        <montantdepense>30015.480000</montantdepense>
+        <description>Dépassement dû à des travaux imprévus lié à la santé et la sécurité des piétons.</description>
+        <nomcontractant>Construction Gératek Ltée</nomcontractant>
+        <neqcontractant>1143223395</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1129359</numeroseao>
+    <numero>CHUSJ-630</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-08-20</datedepense>
+        <datepublicationdepense>2019-05-08</datepublicationdepense>
+        <montantdepense>13699.990000</montantdepense>
+        <description>Diverses demandes de changement (DC 03, DC 04).</description>
+        <nomcontractant>Sutera Inc.</nomcontractant>
+        <neqcontractant>1167160945</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-30</datedepense>
+        <datepublicationdepense>2019-08-14</datepublicationdepense>
+        <montantdepense>19596.470000</montantdepense>
+        <description>Demande de changement en régulation automatique (DC 02).</description>
+        <nomcontractant>Sutera Inc.</nomcontractant>
+        <neqcontractant>1167160945</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-09-11</datedepense>
+        <datepublicationdepense>2019-08-14</datepublicationdepense>
+        <montantdepense>16671.790000</montantdepense>
+        <description>Diverses demandes de changement (DC 03, DC 05, DC 07, DC 08, DC 13, DC 15, DC 17).</description>
+        <nomcontractant>Sutera Inc.</nomcontractant>
+        <neqcontractant>1167160945</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-09-11</datedepense>
+        <datepublicationdepense>2019-08-14</datepublicationdepense>
+        <montantdepense>132930.580000</montantdepense>
+        <description>Demande de modification en plomberie (DC 04).</description>
+        <nomcontractant>Sutera Inc.</nomcontractant>
+        <neqcontractant>1167160945</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-10-04</datedepense>
+        <datepublicationdepense>2019-08-14</datepublicationdepense>
+        <montantdepense>16578.060000</montantdepense>
+        <description>Modification de la portée des travaux et changements aux portes et cadres (DC 18).</description>
+        <nomcontractant>Sutera Inc.</nomcontractant>
+        <neqcontractant>1167160945</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-09-12</datedepense>
+        <datepublicationdepense>2019-08-14</datepublicationdepense>
+        <montantdepense>46985.530000</montantdepense>
+        <description>Demande de relocalisation et démantèlement en plomberie et chauffage (DC 10).</description>
+        <nomcontractant>Sutera Inc.</nomcontractant>
+        <neqcontractant>1167160945</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-10-26</datedepense>
+        <datepublicationdepense>2019-08-14</datepublicationdepense>
+        <montantdepense>16721.160000</montantdepense>
+        <description>Diverses demandes de changement (DC 23, DC 24, DC 25, DC 26).</description>
+        <nomcontractant>Sutera Inc.</nomcontractant>
+        <neqcontractant>1167160945</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-11-12</datedepense>
+        <datepublicationdepense>2019-08-14</datepublicationdepense>
+        <montantdepense>181545.130000</montantdepense>
+        <description>Demande de modification du système de ventilation 9107A (DC 20).</description>
+        <nomcontractant>Sutera Inc.</nomcontractant>
+        <neqcontractant>1167160945</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-11-12</datedepense>
+        <datepublicationdepense>2019-08-14</datepublicationdepense>
+        <montantdepense>48951.280000</montantdepense>
+        <description>Diverses demandes de changement (DC 21, DC 28, DC 33).</description>
+        <nomcontractant>Sutera Inc.</nomcontractant>
+        <neqcontractant>1167160945</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-12-03</datedepense>
+        <datepublicationdepense>2019-08-14</datepublicationdepense>
+        <montantdepense>3586.990000</montantdepense>
+        <description>Diverses demandes de changement (DC 31, DC 36, DC 37, DC 39, DC 42, DC 44).</description>
+        <nomcontractant>Sutera Inc.</nomcontractant>
+        <neqcontractant>1167160945</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-01-12</datedepense>
+        <datepublicationdepense>2019-08-14</datepublicationdepense>
+        <montantdepense>71057.430000</montantdepense>
+        <description>Diverses demandes de changement (DC 22, DC 40, DC 41).</description>
+        <nomcontractant>Sutera Inc.</nomcontractant>
+        <neqcontractant>1167160945</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-01-12</datedepense>
+        <datepublicationdepense>2019-08-14</datepublicationdepense>
+        <montantdepense>7716.800000</montantdepense>
+        <description>Diverses demandes de changement (DC 29, DC 38, DC 47, DC 50, DC 55).</description>
+        <nomcontractant>Sutera Inc.</nomcontractant>
+        <neqcontractant>1167160945</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-17</datedepense>
+        <datepublicationdepense>2019-08-14</datepublicationdepense>
+        <montantdepense>37446.760000</montantdepense>
+        <description>Diverses demandes de changement.</description>
+        <nomcontractant>Sutera Inc.</nomcontractant>
+        <neqcontractant>1167160945</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-20</datedepense>
+        <datepublicationdepense>2019-08-14</datepublicationdepense>
+        <montantdepense>80371.440000</montantdepense>
+        <description>Ajout de vanne motorisée et contrôle pour les salles de bain au périmètre.</description>
+        <nomcontractant>Sutera Inc.</nomcontractant>
+        <neqcontractant>1167160945</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-04</datedepense>
+        <datepublicationdepense>2019-08-14</datepublicationdepense>
+        <montantdepense>20190.880000</montantdepense>
+        <description>Diverses demandes de changement.</description>
+        <nomcontractant>Sutera Inc.</nomcontractant>
+        <neqcontractant>1167160945</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-08</datedepense>
+        <datepublicationdepense>2019-08-14</datepublicationdepense>
+        <montantdepense>56978.240000</montantdepense>
+        <description>Diverses demandes de changement.</description>
+        <nomcontractant>Sutera Inc.</nomcontractant>
+        <neqcontractant>1167160945</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-08</datedepense>
+        <datepublicationdepense>2019-08-14</datepublicationdepense>
+        <montantdepense>12180.680000</montantdepense>
+        <description>Diverses demandes de changement.</description>
+        <nomcontractant>Sutera Inc.</nomcontractant>
+        <neqcontractant>1167160945</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-10</datedepense>
+        <datepublicationdepense>2019-08-14</datepublicationdepense>
+        <montantdepense>1923.980000</montantdepense>
+        <description>Demande de changement DC 54r1</description>
+        <nomcontractant>Sutera Inc.</nomcontractant>
+        <neqcontractant>1167160945</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-02</datedepense>
+        <datepublicationdepense>2019-08-14</datepublicationdepense>
+        <montantdepense>13042.110000</montantdepense>
+        <description>Demande de changement DC 35r1</description>
+        <nomcontractant>Sutera Inc.</nomcontractant>
+        <neqcontractant>1167160945</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-12</datedepense>
+        <datepublicationdepense>2019-08-14</datepublicationdepense>
+        <montantdepense>20628.890000</montantdepense>
+        <description>Diverses demandes de changement.</description>
+        <nomcontractant>Sutera Inc.</nomcontractant>
+        <neqcontractant>1167160945</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-12</datedepense>
+        <datepublicationdepense>2019-08-14</datepublicationdepense>
+        <montantdepense>25992.510000</montantdepense>
+        <description>Alarme incendie 9è, 10è, 11è (DC-72 rév. 1 (E-19 rév. 1))</description>
+        <nomcontractant>Sutera Inc.</nomcontractant>
+        <neqcontractant>1167160945</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-23</datedepense>
+        <datepublicationdepense>2019-08-14</datepublicationdepense>
+        <montantdepense>65159.720000</montantdepense>
+        <description>Demande de changement DC-72 révision 1.</description>
+        <nomcontractant>Sutera Inc.</nomcontractant>
+        <neqcontractant>1167160945</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-29</datedepense>
+        <datepublicationdepense>2019-08-14</datepublicationdepense>
+        <montantdepense>127890.990000</montantdepense>
+        <description>Diverses demandes de changement.</description>
+        <nomcontractant>Sutera Inc.</nomcontractant>
+        <neqcontractant>1167160945</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-06</datedepense>
+        <datepublicationdepense>2019-08-14</datepublicationdepense>
+        <montantdepense>32000.000000</montantdepense>
+        <description>Réclamation - ragréage supplémentaire des cloisons.</description>
+        <nomcontractant>Sutera Inc.</nomcontractant>
+        <neqcontractant>1167160945</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-19</datedepense>
+        <datepublicationdepense>2019-08-14</datepublicationdepense>
+        <montantdepense>27412.070000</montantdepense>
+        <description>Diverses demandes de changement.</description>
+        <nomcontractant>Sutera Inc.</nomcontractant>
+        <neqcontractant>1167160945</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1130294</numeroseao>
+    <numero>22624</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-08-19</datedepense>
+        <datepublicationdepense>2019-08-20</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Surplus de consommation </description>
+        <nomcontractant>Medtronic</nomcontractant>
+        <neqcontractant>1149830540</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1133120</numeroseao>
+    <numero>44509204</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-07-12</datedepense>
+        <datepublicationdepense>2018-10-25</datepublicationdepense>
+        <montantdepense>200000.000000</montantdepense>
+        <description>Avenant 1</description>
+        <nomcontractant>Norton Rose Fulbright Canada s.e.n.c.r.l.</nomcontractant>
+        <neqcontractant>3341597238</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-07-30</datedepense>
+        <datepublicationdepense>2019-08-28</datepublicationdepense>
+        <montantdepense>200000.000000</montantdepense>
+        <description>Avenant 2</description>
+        <nomcontractant>Norton Rose Fulbright Canada s.e.n.c.r.l.</nomcontractant>
+        <neqcontractant>3341597238</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1153557</numeroseao>
+    <numero>17-18-78</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-06-11</datedepense>
+        <datepublicationdepense>2019-08-29</datepublicationdepense>
+        <montantdepense>5047.800000</montantdepense>
+        <description>Ajout d'un nouveau pigeonnier, d'un panneau avec crochets dans le local 142 et l'ajout d'un tableau blanc</description>
+        <nomcontractant>Bernard Malo Inc.</nomcontractant>
+        <neqcontractant>1143239102</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-09-27</datedepense>
+        <datepublicationdepense>2019-08-29</datepublicationdepense>
+        <montantdepense>1515.190000</montantdepense>
+        <description>Prévoir l'ajout de tablettes dans les locaux 013 et 014.</description>
+        <nomcontractant>Bernard Malo Inc.</nomcontractant>
+        <neqcontractant>1143239102</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-09-27</datedepense>
+        <datepublicationdepense>2019-08-29</datepublicationdepense>
+        <montantdepense>3197.990000</montantdepense>
+        <description>Travaux en mécanique électricité pour changement ME-01 et ME-02.</description>
+        <nomcontractant>Bernard Malo Inc.</nomcontractant>
+        <neqcontractant>1143239102</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1157246</numeroseao>
+    <numero>CGER 17 680189</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-02-26</datedepense>
+        <datepublicationdepense>2019-02-26</datepublicationdepense>
+        <montantdepense>563.250000</montantdepense>
+        <description>Ajout d'un limiteur de fin de course pour cylindre hydraulique télescopique sur la benne du camion et modification du branchement du convertisseur de courant</description>
+        <nomcontractant>SuzanneRoyFord</nomcontractant>
+        <neqcontractant>1140959389</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1157460</numeroseao>
+    <numero>55365-626_LOT 3_SG_PUB_C</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-06-13</datedepense>
+        <datepublicationdepense>2019-06-17</datepublicationdepense>
+        <montantdepense>721294.620000</montantdepense>
+        <description>ODC-01 À 55 : Directives de changement  (voir annexe no. ref. 107412)</description>
+        <nomcontractant>Kingston Byers Inc</nomcontractant>
+        <neqcontractant>1143009521</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-07-08</datedepense>
+        <datepublicationdepense>2019-07-09</datepublicationdepense>
+        <montantdepense>9337.840000</montantdepense>
+        <description>ODC-56 : Directives de changement suite à des conditions de chantier (voir annexe no. ref. 107412)</description>
+        <nomcontractant>Kingston Byers Inc</nomcontractant>
+        <neqcontractant>1143009521</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-07-09</datedepense>
+        <datepublicationdepense>2019-07-15</datepublicationdepense>
+        <montantdepense>167901.340000</montantdepense>
+        <description>ODC-57, 58 et 59 : Directives de changement suite à des conditions de chantier et travaux en condition d'amiante(voir annexe no. ref. 107412)</description>
+        <nomcontractant>Kingston Byers Inc</nomcontractant>
+        <neqcontractant>1143009521</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-08-06</datedepense>
+        <datepublicationdepense>2019-08-06</datepublicationdepense>
+        <montantdepense>101982.030000</montantdepense>
+        <description>ODC-60, 61, 62, 63 et 64 : Directives de changement suite à des conditions de chantier (voir annexe no. ref. 107412)</description>
+        <nomcontractant>Kingston Byers Inc</nomcontractant>
+        <neqcontractant>1143009521</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1163599</numeroseao>
+    <numero>CT4082</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-08-01</datedepense>
+        <datepublicationdepense>2019-08-13</datepublicationdepense>
+        <montantdepense>10000.000000</montantdepense>
+        <description>Besoin d'accompagnement pour les équipes internes de BAnQ afin de finaliser la mise en place des formulaires et le processus de documents administratifs (factures, demandes de personnel et autres).</description>
+        <nomcontractant>Le Groupe A &amp; A inc.</nomcontractant>
+        <neqcontractant>1148836084</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1166089</numeroseao>
+    <numero>2017/18-269</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-04-19</datedepense>
+        <datepublicationdepense>2019-06-10</datepublicationdepense>
+        <montantdepense>144632.350000</montantdepense>
+        <description>1er 10% de divers travaux de construction à réaliser pour un total de10%= 144181,52$=9,79%+ 0,21%= 450,83$ soit 11 695,97$ *0,21%AM#4 pour faire un total du 1er 10% =144 632,35$</description>
+        <nomcontractant>Ardec Construction inc.</nomcontractant>
+        <neqcontractant>1147794813</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-19</datedepense>
+        <datepublicationdepense>2019-06-10</datepublicationdepense>
+        <montantdepense>11245.140000</montantdepense>
+        <description>AM#4 Modif cage escalier, démolition base propreté, linteau agrandissement local 200-1, MO et équip prise de mesure et Modif niveaux détails acier 11 245,14$ (Am#4 séparer en deux montants11695,97-450,82$)</description>
+        <nomcontractant>Ardec Construction inc.</nomcontractant>
+        <neqcontractant>1147794813</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-29</datedepense>
+        <datepublicationdepense>2019-08-30</datepublicationdepense>
+        <montantdepense>25809.140000</montantdepense>
+        <description>AM#5Démolitionmobilier, nouveaux plafondssuspendus, souffagle gypse tableaux, démolition portes fenêtres marquise entrée principale, tableau supplém, Installation vitrage, imposte, vestibule, Réparation coin brique porte, Membrane-soufflage nouvelle cage escalier, Reconstruction base fenête escalier</description>
+        <nomcontractant>Ardec Construction inc.</nomcontractant>
+        <neqcontractant>1147794813</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-29</datedepense>
+        <datepublicationdepense>2019-08-30</datepublicationdepense>
+        <montantdepense>14404.750000</montantdepense>
+        <description>M#6 Enlèvement d'évier et plomberie, conduit local 214 et ajout d'un drain local118, Ajout plomberie-évier local 108, Débrancher élecgriité porte 217 et réinstaller deux détecteurs, Enlever prises au-dessus comptoir local 214 et Nouveau troittoir</description>
+        <nomcontractant>Ardec Construction inc.</nomcontractant>
+        <neqcontractant>1147794813</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-07-17</datedepense>
+        <datepublicationdepense>2019-08-30</datepublicationdepense>
+        <montantdepense>203.190000</montantdepense>
+        <description>AM#7 Démangement mobilier et divers travaux, Rmplacement portes d'acier dans chaufferie, Divers travaux niveau 2, Crédit ménage, Annulation travaux Installation cabinets de chauffage, Réparation chaudière, Amiante sur tuyau chauffage et Éclairage extérieur</description>
+        <nomcontractant>Ardec Construction inc.</nomcontractant>
+        <neqcontractant>1147794813</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-08-13</datedepense>
+        <datepublicationdepense>2019-08-30</datepublicationdepense>
+        <montantdepense>57320.640000</montantdepense>
+        <description>AM#8 Modification quincaillerie/verre, Cloison type C2 - Alignement avec gypse, Ajout isolant de pente et jonction mur existant, Crédit installation tableaux, Réparation allèges béton, Valves tamis/soupage de contrôle Compteur valve/DAR, Prises RDC, Prises niveau 2, Travaux électr entrée principale</description>
+        <nomcontractant>Ardec Construction inc.</nomcontractant>
+        <neqcontractant>1147794813</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1185373</numeroseao>
+    <numero>18-3105</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-08-05</datedepense>
+        <datepublicationdepense>2019-08-09</datepublicationdepense>
+        <montantdepense>136511.670000</montantdepense>
+        <description>Dépenses  supplémentaires en raison de la découverte de problèmes importants  en cours de chantiers, comme,  la modification des conduits de chauffage existant à cause de la découverte d'amiante (enlèvement complet de l'amiante), la modification du système d'électricité suite à la démolition des mur</description>
+        <nomcontractant>Groupe Constructech</nomcontractant>
+        <neqcontractant>1160003720</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1192540</numeroseao>
+    <numero>553050494</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-11-12</datedepense>
+        <datepublicationdepense>2018-12-12</datepublicationdepense>
+        <montantdepense>9484.200000</montantdepense>
+        <description>Ajout d'heures d'enseignement</description>
+        <nomcontractant>Mieux-être des immigrants, Le</nomcontractant>
+        <neqcontractant>1147516042</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-15</datedepense>
+        <datepublicationdepense>2019-04-12</datepublicationdepense>
+        <montantdepense>3161.400000</montantdepense>
+        <description>Ajout d'heures d'enseignement</description>
+        <nomcontractant>Mieux-être des immigrants, Le</nomcontractant>
+        <neqcontractant>1147516042</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1203490</numeroseao>
+    <numero>SRM023177</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-02-08</datedepense>
+        <datepublicationdepense>2019-03-18</datepublicationdepense>
+        <montantdepense>18785.500000</montantdepense>
+        <description>SRM026030 - (074 073 250)</description>
+        <nomcontractant>Les Produits Énergétiques GAL inc.</nomcontractant>
+        <neqcontractant>1146046280</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1208215</numeroseao>
+    <numero>SA-181019-RY</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-12-18</datedepense>
+        <datepublicationdepense>2019-03-20</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Contrat initial de 81 646.00$ signé le 2 octobre 2018 cependant le projet a été séparé en 2 car il datait 2014 et plusieurs choses se sont ajoutées.  Il y a donc eu l'avenant 1 signé le 11 juin 2019 qui venait diminuer le contrat de 42 698.00$ pour arriver à un contrat total de 38 948.00$.</description>
+        <nomcontractant>CGA Architectes inc</nomcontractant>
+        <neqcontractant>1168745256</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1209336</numeroseao>
+    <numero>2018CNT704</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-05-14</datedepense>
+        <datepublicationdepense>2019-06-04</datepublicationdepense>
+        <montantdepense>98276.080000</montantdepense>
+        <description>Ajout contreplaqué, démolition, nouvelle toiture, peinture, tirage de joints, étanchement, travaux sur la marquise</description>
+        <nomcontractant>Laberge et Allard Inc.</nomcontractant>
+        <neqcontractant>1143276740</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1221712</numeroseao>
+    <numero>18-3228</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-08-01</datedepense>
+        <datepublicationdepense>2019-08-06</datepublicationdepense>
+        <montantdepense>17155.000000</montantdepense>
+        <description>Ajout de dépense supplémentaire en vertu du déplacement des panneaux et du changement  du système de gestion de porte dû a des problemes rencontrés en cours de chantier.</description>
+        <nomcontractant>Stantec Experts-conseils ltée</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1237495</numeroseao>
+    <numero>C8653</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-08-19</datedepense>
+        <datepublicationdepense>2019-08-05</datepublicationdepense>
+        <montantdepense>125614.000000</montantdepense>
+        <description>Modifications à apporter à l'équipement scientifique qu'il puisse réaliser les études requises</description>
+        <nomcontractant>Papillon &amp; fils ltée</nomcontractant>
+        <neqcontractant>1143464148</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1266939</numeroseao>
+    <numero>44512817</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-07-11</datedepense>
+        <datepublicationdepense>2019-07-23</datepublicationdepense>
+        <montantdepense>35399.890000</montantdepense>
+        <description>Modification significative client</description>
+        <nomcontractant>Construction Turco inc.</nomcontractant>
+        <neqcontractant>1141862822</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1274971</numeroseao>
+    <numero>44513510</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-07-17</datedepense>
+        <datepublicationdepense>2019-07-18</datepublicationdepense>
+        <montantdepense>11274.430000</montantdepense>
+        <description>Conditions imprévisible de changier</description>
+        <nomcontractant>Humaco Construction inc.</nomcontractant>
+        <neqcontractant>1161872792</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-08-15</datedepense>
+        <datepublicationdepense>2019-07-18</datepublicationdepense>
+        <montantdepense>3322.000000</montantdepense>
+        <description>condition imprévisible de chantier</description>
+        <nomcontractant>Humaco Construction inc.</nomcontractant>
+        <neqcontractant>1161872792</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-08-19</datedepense>
+        <datepublicationdepense>2019-08-20</datepublicationdepense>
+        <montantdepense>516.000000</montantdepense>
+        <description>Autres: erreur ou omission</description>
+        <nomcontractant>Humaco Construction inc.</nomcontractant>
+        <neqcontractant>1161872792</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1294668</numeroseao>
+    <numero>44514298</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-07-31</datedepense>
+        <datepublicationdepense>2019-08-06</datepublicationdepense>
+        <montantdepense>20000.000000</montantdepense>
+        <description>Ajout d'honoraires</description>
+        <nomcontractant>Cain Lamarre S.E.N.C.R.L.</nomcontractant>
+        <neqcontractant>3348392302</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1296658</numeroseao>
+    <numero>186110357</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-06-20</datedepense>
+        <datepublicationdepense>2019-08-14</datepublicationdepense>
+        <montantdepense>599.100000</montantdepense>
+        <description>#1 - Amendement au bon de commande.</description>
+        <nomcontractant>CASONI M. ARCHITECTE</nomcontractant>
+        <neqcontractant>2241436049</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-20</datedepense>
+        <datepublicationdepense>2019-08-14</datepublicationdepense>
+        <montantdepense>5595.430000</montantdepense>
+        <description>#2 - Ajustement des honoraires professionnels suite à l'ouverture de soumissions pour la phase 1.</description>
+        <nomcontractant>CASONI M. ARCHITECTE</nomcontractant>
+        <neqcontractant>2241436049</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-20</datedepense>
+        <datepublicationdepense>2019-08-14</datepublicationdepense>
+        <montantdepense>7071.940000</montantdepense>
+        <description>#3 - Ajustement des honoraires professionnels suite à l'ouverture de soumissions pour la phase 2.</description>
+        <nomcontractant>CASONI M. ARCHITECTE</nomcontractant>
+        <neqcontractant>2241436049</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-20</datedepense>
+        <datepublicationdepense>2019-08-14</datepublicationdepense>
+        <montantdepense>500.000000</montantdepense>
+        <description>#4 - Ajustement des honoraires professionnels pour les phases 1 et 2.</description>
+        <nomcontractant>CASONI M. ARCHITECTE</nomcontractant>
+        <neqcontractant>2241436049</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-20</datedepense>
+        <datepublicationdepense>2019-08-14</datepublicationdepense>
+        <montantdepense>870.580000</montantdepense>
+        <description>#5 - Services supplémentaires et demandes de changement.</description>
+        <nomcontractant>CASONI M. ARCHITECTE</nomcontractant>
+        <neqcontractant>2241436049</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1300690</numeroseao>
+    <numero>176110380</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-01-01</datedepense>
+        <datepublicationdepense>2019-08-29</datepublicationdepense>
+        <montantdepense>56903.000000</montantdepense>
+        <description>Dépense supplémentaire couvrant les frais de services professionnels de la phase 2 du projet (appel d'offres # 19-006).</description>
+        <nomcontractant>WSP Canada Inc. (Pour AO sur invitation pour tout le Québec)</nomcontractant>
+        <neqcontractant>1148357057</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1301056</numeroseao>
+    <numero>16611404</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-11-05</datedepense>
+        <datepublicationdepense>2019-08-30</datepublicationdepense>
+        <montantdepense>1500.000000</montantdepense>
+        <description>Amendement - honoraires supplémentaires pour P&amp;D (Nouvel AO).</description>
+        <nomcontractant>Consultants MESAR Inc .</nomcontractant>
+        <neqcontractant>1172505043</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-25</datedepense>
+        <datepublicationdepense>2019-08-30</datepublicationdepense>
+        <montantdepense>1500.000000</montantdepense>
+        <description>Amendement - honoraires supplémentaires pour des visites supplémentaires.</description>
+        <nomcontractant>Consultants MESAR Inc .</nomcontractant>
+        <neqcontractant>1172505043</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-11-27</datedepense>
+        <datepublicationdepense>2019-08-30</datepublicationdepense>
+        <montantdepense>1000.000000</montantdepense>
+        <description>Amendement - honoraires supplémentaires pour assistance technique durant l'appel d'offres.</description>
+        <nomcontractant>Consultants MESAR Inc .</nomcontractant>
+        <neqcontractant>1172505043</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-26</datedepense>
+        <datepublicationdepense>2019-08-30</datepublicationdepense>
+        <montantdepense>250.000000</montantdepense>
+        <description>Amendement - honoraires supplémentaires pour relevés.</description>
+        <nomcontractant>Consultants MESAR Inc .</nomcontractant>
+        <neqcontractant>1172505043</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1301086</numeroseao>
+    <numero>186110321</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-06-19</datedepense>
+        <datepublicationdepense>2019-08-30</datepublicationdepense>
+        <montantdepense>2000.000000</montantdepense>
+        <description>Ajustement d'honoraires professionnels pour les études et discussions préparatoires pour la portion électrique (forfaitaire).</description>
+        <nomcontractant>Stantec Experts Conseils Inc.</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-19</datedepense>
+        <datepublicationdepense>2019-08-30</datepublicationdepense>
+        <montantdepense>1000.000000</montantdepense>
+        <description>Ajustement d'honoraires professionnels pour la portion des frais de deux appels d'offres spécialité électrique (forfaitaire).</description>
+        <nomcontractant>Stantec Experts Conseils Inc.</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-19</datedepense>
+        <datepublicationdepense>2019-08-30</datepublicationdepense>
+        <montantdepense>11809.250000</montantdepense>
+        <description>Ajustement des honoraires professionnels pour la portion des plans et devis électrique (devis sur plan) lot 1 - démolition lot 2 - réaménagement (méthode à pourcentage).</description>
+        <nomcontractant>Stantec Experts Conseils Inc.</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-19</datedepense>
+        <datepublicationdepense>2019-08-30</datepublicationdepense>
+        <montantdepense>4445.750000</montantdepense>
+        <description>Ajustement des honoraires professionnels pour la portion de la surveillance partielle des travaux (incluant 3 visites) électrique lot 1 - démolition lot 2 - réaménagement. (méthode à pourcentage).</description>
+        <nomcontractant>Stantec Experts Conseils Inc.</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-19</datedepense>
+        <datepublicationdepense>2019-08-30</datepublicationdepense>
+        <montantdepense>1000.000000</montantdepense>
+        <description>Ajout d'honoraires professionnels pour les relevés et mise en plan - spécialité mécanique.</description>
+        <nomcontractant>Stantec Experts Conseils Inc.</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-19</datedepense>
+        <datepublicationdepense>2019-08-30</datepublicationdepense>
+        <montantdepense>1000.000000</montantdepense>
+        <description>Ajustement d'honoraires professionnels pour la portion des frais de deux appels d'offres côté mécanique (forfaitaire).</description>
+        <nomcontractant>Stantec Experts Conseils Inc.</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-19</datedepense>
+        <datepublicationdepense>2019-08-30</datepublicationdepense>
+        <montantdepense>11200.000000</montantdepense>
+        <description>Ajustement des honoraires professionnnels pour la portion des plans et devis mécaniques (devis sur plan) lot 1 - démoliton lot 2 - réaménagement (méthodes à pourcentage)</description>
+        <nomcontractant>Stantec Experts Conseils Inc.</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+</export>

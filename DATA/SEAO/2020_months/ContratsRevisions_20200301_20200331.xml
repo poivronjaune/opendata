@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2020-03-01" datefin="2020-03-31">
+  <contrat>
+    <numeroseao>545637</numeroseao>
+    <numero>APP-12-004</numero>
+    <datefinale>2015-03-31</datefinale>
+    <datepublicationfinale>2015-04-30</datepublicationfinale>
+    <montantfinal>57990.720000</montantfinal>
+    <nomcontractant>Gray fournisseurs de matériaux électriques inc.</nomcontractant>
+    <neqcontractant>1142712588</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>575856</numeroseao>
+    <numero>APP-12-046</numero>
+    <datefinale>2015-06-29</datefinale>
+    <datepublicationfinale>2015-06-30</datepublicationfinale>
+    <montantfinal>55394.960000</montantfinal>
+    <nomcontractant>Uniforme Le Grand</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>592767</numeroseao>
+    <numero>APP-12-120 (2012-AGG512)</numero>
+    <datefinale>2014-06-25</datefinale>
+    <datepublicationfinale>2020-01-17</datepublicationfinale>
+    <montantfinal>33739.440000</montantfinal>
+    <nomcontractant>Marcel Racine  &amp; Fils Inc.</nomcontractant>
+    <neqcontractant>1143190198</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>596345</numeroseao>
+    <numero>7107-12-0217</numero>
+    <datefinale>2018-10-10</datefinale>
+    <datepublicationfinale>2015-04-14</datepublicationfinale>
+    <montantfinal>3633382.380000</montantfinal>
+    <nomcontractant>Alta Ltée</nomcontractant>
+    <neqcontractant>1143533082</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>651802</numeroseao>
+    <numero>APP-13-100</numero>
+    <datefinale>2016-12-30</datefinale>
+    <datepublicationfinale>2017-01-06</datepublicationfinale>
+    <montantfinal>26112.660000</montantfinal>
+    <nomcontractant>Lab d'analyses S.M. inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>669667</numeroseao>
+    <numero>8503-12-ZZ02</numero>
+    <datefinale>2020-03-11</datefinale>
+    <datepublicationfinale>2016-02-02</datepublicationfinale>
+    <montantfinal>93061.400000</montantfinal>
+    <nomcontractant>Cima+</nomcontractant>
+    <neqcontractant>3340563140</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>758142</numeroseao>
+    <numero>ANO-2014-164-01-01</numero>
+    <datefinale>2019-09-30</datefinale>
+    <datepublicationfinale>2020-01-27</datepublicationfinale>
+    <montantfinal>73131.250000</montantfinal>
+    <nomcontractant>Les Distributions Solu-Med Inc</nomcontractant>
+    <neqcontractant>1166278730</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>758142</numeroseao>
+    <numero>ANO-2014-164-01-01</numero>
+    <datefinale>2019-09-30</datefinale>
+    <datepublicationfinale>2020-01-27</datepublicationfinale>
+    <montantfinal>143027.420000</montantfinal>
+    <nomcontractant>Ergolab division de Tinn-Co Inc.</nomcontractant>
+    <neqcontractant>1145721198</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>758142</numeroseao>
+    <numero>ANO-2014-164-01-01</numero>
+    <datefinale>2017-09-30</datefinale>
+    <datepublicationfinale>2020-01-27</datepublicationfinale>
+    <montantfinal>45735.330000</montantfinal>
+    <nomcontractant>Révolution Santé Inc. / (9191-6445 Québec Inc)</nomcontractant>
+    <neqcontractant>1164925522</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>758142</numeroseao>
+    <numero>ANO-2014-164-01-01</numero>
+    <datefinale>2019-09-30</datefinale>
+    <datepublicationfinale>2020-01-27</datepublicationfinale>
+    <montantfinal>2109589.520000</montantfinal>
+    <nomcontractant>Rotec International</nomcontractant>
+    <neqcontractant>1142189704</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>758142</numeroseao>
+    <numero>ANO-2014-164-01-01</numero>
+    <datefinale>2019-09-30</datefinale>
+    <datepublicationfinale>2020-01-27</datepublicationfinale>
+    <montantfinal>37478.400000</montantfinal>
+    <nomcontractant>AMG Medical Inc.</nomcontractant>
+    <neqcontractant>1144209104</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>758142</numeroseao>
+    <numero>ANO-2014-164-01-01</numero>
+    <datefinale>2019-09-30</datefinale>
+    <datepublicationfinale>2020-01-27</datepublicationfinale>
+    <montantfinal>368058.010000</montantfinal>
+    <nomcontractant>MOUVEMENT SANTÉ</nomcontractant>
+    <neqcontractant>1147088778</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>758142</numeroseao>
+    <numero>ANO-2014-164-01-01</numero>
+    <datefinale>2019-09-30</datefinale>
+    <datepublicationfinale>2020-01-27</datepublicationfinale>
+    <montantfinal>39294.000000</montantfinal>
+    <nomcontractant>Excel-Médical Inc.</nomcontractant>
+    <neqcontractant>1147143326</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>758142</numeroseao>
+    <numero>ANO-2014-164-01-01</numero>
+    <datefinale>2019-09-30</datefinale>
+    <datepublicationfinale>2020-01-27</datepublicationfinale>
+    <montantfinal>24695.650000</montantfinal>
+    <nomcontractant>Loca-Médic Inc.</nomcontractant>
+    <neqcontractant>1144986842</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>758142</numeroseao>
+    <numero>ANO-2014-164-01-01</numero>
+    <datefinale>2017-09-30</datefinale>
+    <datepublicationfinale>2020-01-27</datepublicationfinale>
+    <montantfinal>8386.950000</montantfinal>
+    <nomcontractant>MTM Médical Tronik</nomcontractant>
+    <neqcontractant>1144725257</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>758142</numeroseao>
+    <numero>ANO-2014-164-01-01</numero>
+    <datefinale>2019-09-30</datefinale>
+    <datepublicationfinale>2020-01-27</datepublicationfinale>
+    <montantfinal>101351.240000</montantfinal>
+    <nomcontractant>Pro Aide Medic</nomcontractant>
+    <neqcontractant>1165499451</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>758142</numeroseao>
+    <numero>ANO-2014-164-01-01</numero>
+    <datefinale>2019-09-30</datefinale>
+    <datepublicationfinale>2020-01-27</datepublicationfinale>
+    <montantfinal>192587.900000</montantfinal>
+    <nomcontractant>Arjo Canada Inc.</nomcontractant>
+    <neqcontractant>1144094365</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>758142</numeroseao>
+    <numero>ANO-2014-164-01-01</numero>
+    <datefinale>2019-09-30</datefinale>
+    <datepublicationfinale>2020-01-27</datepublicationfinale>
+    <montantfinal>83601.440000</montantfinal>
+    <nomcontractant>Medtronic Canada ULC</nomcontractant>
+    <neqcontractant>1149830540</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>758142</numeroseao>
+    <numero>ANO-2014-164-01-01</numero>
+    <datefinale>2019-09-30</datefinale>
+    <datepublicationfinale>2020-01-27</datepublicationfinale>
+    <montantfinal>107370.760000</montantfinal>
+    <nomcontractant>Permobil, Ltd.</nomcontractant>
+    <neqcontractant>1170616362</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>791547</numeroseao>
+    <numero>DGA-999105838</numero>
+    <datefinale>2019-04-08</datefinale>
+    <datepublicationfinale>2019-07-31</datepublicationfinale>
+    <montantfinal>182750.940000</montantfinal>
+    <nomcontractant>Docucom Digital inc.,</nomcontractant>
+    <neqcontractant>1165913287</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>854180</numeroseao>
+    <numero>6806-12-SB01</numero>
+    <datefinale>2015-01-21</datefinale>
+    <datepublicationfinale>2015-01-09</datepublicationfinale>
+    <montantfinal>39039.000000</montantfinal>
+    <nomcontractant>A.E.R.Q.</nomcontractant>
+    <neqcontractant>1165978843</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>902373</numeroseao>
+    <numero>8903-14-FE03</numero>
+    <datefinale>2020-01-28</datefinale>
+    <datepublicationfinale>2020-02-27</datepublicationfinale>
+    <montantfinal>388422.880000</montantfinal>
+    <nomcontractant>Cima + S.E.N.C</nomcontractant>
+    <neqcontractant>3340563140</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>903251</numeroseao>
+    <numero>6610-15-4923</numero>
+    <datefinale>2018-07-05</datefinale>
+    <datepublicationfinale>2019-05-31</datepublicationfinale>
+    <montantfinal>204986.050000</montantfinal>
+    <nomcontractant>Les Entreprises G. Delisle inc.</nomcontractant>
+    <neqcontractant>1148277347</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>937350</numeroseao>
+    <numero>6608-12-PC02</numero>
+    <datefinale>2015-11-06</datefinale>
+    <datepublicationfinale>2015-11-30</datepublicationfinale>
+    <montantfinal>26350.000000</montantfinal>
+    <nomcontractant>Montmagny Air Service inc,</nomcontractant>
+    <neqcontractant>1142514695</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>951463</numeroseao>
+    <numero>6407-13-SB01</numero>
+    <datefinale>2015-12-31</datefinale>
+    <datepublicationfinale>2016-02-02</datepublicationfinale>
+    <montantfinal>49614.500000</montantfinal>
+    <nomcontractant>EMR inc. (9169-9843 Québec inc.)</nomcontractant>
+    <neqcontractant>1163753131</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>973681</numeroseao>
+    <numero>5104-13-ZZ02</numero>
+    <datefinale>2016-04-19</datefinale>
+    <datepublicationfinale>2016-04-20</datepublicationfinale>
+    <montantfinal>28778.800000</montantfinal>
+    <nomcontractant>Bois, Alain (médecin)</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1003310</numeroseao>
+    <numero>7187-16-4522</numero>
+    <datefinale>2020-02-26</datefinale>
+    <datepublicationfinale>2018-05-02</datepublicationfinale>
+    <montantfinal>344211.850000</montantfinal>
+    <nomcontractant>Aurel Harvey &amp; Fils inc..</nomcontractant>
+    <neqcontractant>1144299279</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1004480</numeroseao>
+    <numero>6501-16-HA03</numero>
+    <datefinale>2019-03-05</datefinale>
+    <datepublicationfinale>2019-06-20</datepublicationfinale>
+    <montantfinal>104222.640000</montantfinal>
+    <nomcontractant>Stantec Experts-Conseils ltée.</nomcontractant>
+    <neqcontractant>1170241336</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1007436</numeroseao>
+    <numero>6301-16-DC03</numero>
+    <datefinale>2020-03-10</datefinale>
+    <datepublicationfinale>2019-11-22</datepublicationfinale>
+    <montantfinal>148117.390000</montantfinal>
+    <nomcontractant>Leblanc services d'arpentage et géomatique inc.</nomcontractant>
+    <neqcontractant>1170538954</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1030083</numeroseao>
+    <numero>2016-65-45</numero>
+    <datefinale>2018-12-31</datefinale>
+    <datepublicationfinale>2020-02-20</datepublicationfinale>
+    <montantfinal>10110.320000</montantfinal>
+    <nomcontractant>Julie Bujold</nomcontractant>
+    <neqcontractant>2268177351</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1036603</numeroseao>
+    <numero>8801-16-FE11</numero>
+    <datefinale>2020-03-10</datefinale>
+    <datepublicationfinale>2019-01-29</datepublicationfinale>
+    <montantfinal>37843.460000</montantfinal>
+    <nomcontractant>Beaudoin Hurens inc.</nomcontractant>
+    <neqcontractant>1148115281</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1057028</numeroseao>
+    <numero>7108-14-SB01</numero>
+    <datefinale>2016-12-31</datefinale>
+    <datepublicationfinale>2017-03-16</datepublicationfinale>
+    <montantfinal>53308.640000</montantfinal>
+    <nomcontractant>Hamel, Olivier (travail de sol)</nomcontractant>
+    <neqcontractant>2261667580</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1087110</numeroseao>
+    <numero>7007-17-0205</numero>
+    <datefinale>2019-03-07</datefinale>
+    <datepublicationfinale>2019-06-19</datepublicationfinale>
+    <montantfinal>1059972.910000</montantfinal>
+    <nomcontractant>Constructions BSL Inc.</nomcontractant>
+    <neqcontractant>1141120692</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1097418</numeroseao>
+    <numero>32915300</numero>
+    <datefinale>2019-10-31</datefinale>
+    <datepublicationfinale>2019-11-13</datepublicationfinale>
+    <montantfinal>1145604.230000</montantfinal>
+    <nomcontractant>Coffrage Alliance Ltée, Entrepreneur Général</nomcontractant>
+    <neqcontractant>1161836276</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1107379</numeroseao>
+    <numero>4103-17-AD01</numero>
+    <datefinale>2019-08-26</datefinale>
+    <datepublicationfinale>2019-09-25</datepublicationfinale>
+    <montantfinal>61960.660000</montantfinal>
+    <nomcontractant>Erik Langevin (Subarctique enr.)</nomcontractant>
+    <neqcontractant>2241825753</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1120631</numeroseao>
+    <numero>33568100</numero>
+    <datefinale>2019-09-12</datefinale>
+    <datepublicationfinale>2019-11-13</datepublicationfinale>
+    <montantfinal>237721.100000</montantfinal>
+    <nomcontractant>Descimco</nomcontractant>
+    <neqcontractant>1143574920</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1129904</numeroseao>
+    <numero>CGER 17 680134</numero>
+    <datefinale>2019-11-25</datefinale>
+    <datepublicationfinale>2018-08-20</datepublicationfinale>
+    <montantfinal>327107.000000</montantfinal>
+    <nomcontractant>Ford Lévis</nomcontractant>
+    <neqcontractant>1140959389</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1157145</numeroseao>
+    <numero>CGER 18 690007</numero>
+    <datefinale>2019-12-23</datefinale>
+    <datepublicationfinale>2019-08-28</datepublicationfinale>
+    <montantfinal>333200.000000</montantfinal>
+    <nomcontractant>Carrefour du Camion RDL</nomcontractant>
+    <neqcontractant>1146185203</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1160996</numeroseao>
+    <numero>6407-18-0902</numero>
+    <datefinale>2020-02-28</datefinale>
+    <datepublicationfinale>2019-11-22</datepublicationfinale>
+    <montantfinal>3453380.380000</montantfinal>
+    <nomcontractant>Construction &amp; Pavage Portneuf Inc. </nomcontractant>
+    <neqcontractant>1142323634</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1162930</numeroseao>
+    <numero>2602-18-LM02</numero>
+    <datefinale>2020-03-03</datefinale>
+    <datepublicationfinale>2020-02-13</datepublicationfinale>
+    <montantfinal>978245.210000</montantfinal>
+    <nomcontractant>Cima+s.e.n.c.</nomcontractant>
+    <neqcontractant>3340563140</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1180204</numeroseao>
+    <numero>2503-17-0204</numero>
+    <datefinale>2019-12-18</datefinale>
+    <datepublicationfinale>2020-02-13</datepublicationfinale>
+    <montantfinal>2504368.040000</montantfinal>
+    <nomcontractant>BRV Construction inc.</nomcontractant>
+    <neqcontractant>1172138993</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1186464</numeroseao>
+    <numero>9001-18-NM03</numero>
+    <datefinale>2020-02-28</datefinale>
+    <datepublicationfinale>2020-02-13</datepublicationfinale>
+    <montantfinal>24060.000000</montantfinal>
+    <nomcontractant>9179-2424 Québec inc. (Lignes Électriques FJS)</nomcontractant>
+    <neqcontractant>1164255326</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1188382</numeroseao>
+    <numero>ITS-0635</numero>
+    <datefinale>2018-07-27</datefinale>
+    <datepublicationfinale>2019-07-08</datepublicationfinale>
+    <montantfinal>77553.280000</montantfinal>
+    <nomcontractant>AVI-SPL</nomcontractant>
+    <neqcontractant>1169087500</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1195165</numeroseao>
+    <numero>6603-18-HG02</numero>
+    <datefinale>2020-02-17</datefinale>
+    <datepublicationfinale>2019-07-18</datepublicationfinale>
+    <montantfinal>39733.340000</montantfinal>
+    <nomcontractant>Englobe Corp.</nomcontractant>
+    <neqcontractant>1167280206</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1208027</numeroseao>
+    <numero>7183-18-HE02</numero>
+    <datefinale>2020-02-13</datefinale>
+    <datepublicationfinale>2020-02-27</datepublicationfinale>
+    <montantfinal>85650.140000</montantfinal>
+    <nomcontractant>Cima+ S.E.N.C.</nomcontractant>
+    <neqcontractant>3340563140</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1212374</numeroseao>
+    <numero>2017-026-19-20RM</numero>
+    <datefinale>2019-11-05</datefinale>
+    <datepublicationfinale>2020-01-20</datepublicationfinale>
+    <montantfinal>526421.000000</montantfinal>
+    <nomcontractant>GROUPE CIRTECH INC.</nomcontractant>
+    <neqcontractant>1143095462</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1242771</numeroseao>
+    <numero>19-0015-GG</numero>
+    <datefinale>2020-02-21</datefinale>
+    <datepublicationfinale>2020-02-11</datepublicationfinale>
+    <montantfinal>41088.090000</montantfinal>
+    <nomcontractant>Sylvie Duguay</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1255140</numeroseao>
+    <numero>8601-18-1008</numero>
+    <datefinale>2020-02-24</datefinale>
+    <datepublicationfinale>2019-09-25</datepublicationfinale>
+    <montantfinal>2214674.260000</montantfinal>
+    <nomcontractant>Ali Excavation Inc.</nomcontractant>
+    <neqcontractant>1143616580</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1256370</numeroseao>
+    <numero>18-757</numero>
+    <datefinale>2019-11-19</datefinale>
+    <datepublicationfinale>2019-11-25</datepublicationfinale>
+    <montantfinal>455793.040000</montantfinal>
+    <nomcontractant>construction et démolition G.B.</nomcontractant>
+    <neqcontractant>1168663830</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1259719</numeroseao>
+    <numero>CGER 19 700000</numero>
+    <datefinale>2020-01-22</datefinale>
+    <datepublicationfinale>2019-11-19</datepublicationfinale>
+    <montantfinal>206700.000000</montantfinal>
+    <nomcontractant>FÉRICAR INC</nomcontractant>
+    <neqcontractant>1143333939</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1262532</numeroseao>
+    <numero>CGER 18 690156</numero>
+    <datefinale>2019-11-21</datefinale>
+    <datepublicationfinale>2020-02-07</datepublicationfinale>
+    <montantfinal>19218.230000</montantfinal>
+    <nomcontractant>Distribution Maranda</nomcontractant>
+    <neqcontractant>1170198106</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1265508</numeroseao>
+    <numero>CGER 19 700003</numero>
+    <datefinale>2019-12-05</datefinale>
+    <datepublicationfinale>2019-11-19</datepublicationfinale>
+    <montantfinal>602792.000000</montantfinal>
+    <nomcontractant>J. A. Larue INC.</nomcontractant>
+    <neqcontractant>1148795827</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1284564</numeroseao>
+    <numero>CGER 19 700027</numero>
+    <datefinale>2019-11-21</datefinale>
+    <datepublicationfinale>2020-02-07</datepublicationfinale>
+    <montantfinal>32537.720000</montantfinal>
+    <nomcontractant>Idéal Cargo inc.</nomcontractant>
+    <neqcontractant>1146392031</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1292823</numeroseao>
+    <numero>CGER 19 700036</numero>
+    <datefinale>2019-12-12</datefinale>
+    <datepublicationfinale>2020-02-07</datepublicationfinale>
+    <montantfinal>356500.000000</montantfinal>
+    <nomcontractant>Toromont Cat (Québec) .</nomcontractant>
+    <neqcontractant>1144694263</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1293785</numeroseao>
+    <numero>8901-19-DG02</numero>
+    <datefinale>2020-02-28</datefinale>
+    <datepublicationfinale>2019-10-30</datepublicationfinale>
+    <montantfinal>22950.000000</montantfinal>
+    <nomcontractant>WSP Canada inc.</nomcontractant>
+    <neqcontractant>1148357057</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1294326</numeroseao>
+    <numero>6501-19-QA03</numero>
+    <datefinale>2020-03-04</datefinale>
+    <datepublicationfinale>2020-02-27</datepublicationfinale>
+    <montantfinal>25158.190000</montantfinal>
+    <nomcontractant>Englobe Corp.</nomcontractant>
+    <neqcontractant>1167280206</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1295997</numeroseao>
+    <numero>8612-19-AR01</numero>
+    <datefinale>2019-10-30</datefinale>
+    <datepublicationfinale>2019-11-22</datepublicationfinale>
+    <montantfinal>54293.960000</montantfinal>
+    <nomcontractant>Pavage Roxboro inc.</nomcontractant>
+    <neqcontractant>1149637226</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1298150</numeroseao>
+    <numero>CGER 18 690181</numero>
+    <datefinale>2019-12-13</datefinale>
+    <datepublicationfinale>2020-02-07</datepublicationfinale>
+    <montantfinal>18750.000000</montantfinal>
+    <nomcontractant>Ver-Mac Inc.</nomcontractant>
+    <neqcontractant>1143042290</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1298188</numeroseao>
+    <numero>CGER 19 700043</numero>
+    <datefinale>2019-11-29</datefinale>
+    <datepublicationfinale>2020-02-07</datepublicationfinale>
+    <montantfinal>20611.600000</montantfinal>
+    <nomcontractant>Instamix</nomcontractant>
+    <neqcontractant>1144443133</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1300615</numeroseao>
+    <numero>CGER 19 700051</numero>
+    <datefinale>2019-12-17</datefinale>
+    <datepublicationfinale>2020-02-07</datepublicationfinale>
+    <montantfinal>17841.240000</montantfinal>
+    <nomcontractant>Remorque Québec inc.</nomcontractant>
+    <neqcontractant>1162791702</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1313933</numeroseao>
+    <numero>EQ3839</numero>
+    <datefinale>2019-11-30</datefinale>
+    <datepublicationfinale>2019-12-03</datepublicationfinale>
+    <montantfinal>27234.650000</montantfinal>
+    <nomcontractant>Life Technologies Inc.</nomcontractant>
+    <neqcontractant>1145021458</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1333252</numeroseao>
+    <numero>401-110-19-013</numero>
+    <datefinale>2019-12-31</datefinale>
+    <datepublicationfinale>2020-01-08</datepublicationfinale>
+    <montantfinal>55976.120000</montantfinal>
+    <nomcontractant>Marcel Baril Ltée</nomcontractant>
+    <neqcontractant>1140146599</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1337341</numeroseao>
+    <numero>GAG-2019-S-174</numero>
+    <datefinale>2020-02-28</datefinale>
+    <datepublicationfinale>2020-02-28</datepublicationfinale>
+    <montantfinal>28460.820000</montantfinal>
+    <nomcontractant>SPCA Lanaudières Basses-Laurentides</nomcontractant>
+    <neqcontractant>1166522616</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1347666</numeroseao>
+    <numero>2904-19-AR05</numero>
+    <datefinale>2020-03-09</datefinale>
+    <datepublicationfinale>2020-02-27</datepublicationfinale>
+    <montantfinal>47255.780000</montantfinal>
+    <nomcontractant>Pavage St-Eustache ltée</nomcontractant>
+    <neqcontractant>1169711703</neqcontractant>
+  </contrat>
+</export>

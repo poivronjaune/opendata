@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2018-01-01" datefin="2018-01-31">
+  <avis>
+    <numeroseao>528031</numeroseao>
+    <numero>QC-RAMQ-20110495</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-04-08</datedepense>
+        <datepublicationdepense>2018-01-05</datepublicationdepense>
+        <montantdepense>701900.000000</montantdepense>
+        <description>Addenda 1 le 8 avril 2013: 546000$ pour l'ajout d'un système supplémentaire. Addenda 2 le 27 septembre 2013: 38400$ pour une modification logicielle demandée. Addenda 3 le 13 novembre 2017: 117500$ pour l'ajout de fournitures requises et pour permettre le transfert de la production à la SAAQ</description>
+        <nomcontractant>NBS Technologies</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>616491</numeroseao>
+    <numero>7526-2013-01</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-03-03</datedepense>
+        <datepublicationdepense>2016-03-10</datepublicationdepense>
+        <montantdepense>29800.000000</montantdepense>
+        <description>Prolongement du contrat pour une 4e année. Autorisation du Sous-ministre selon l'article 46.1</description>
+        <nomcontractant>Service Sanitaire Frontenac Ltée</nomcontractant>
+        <neqcontractant>1142883132</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-05-08</datedepense>
+        <datepublicationdepense>2017-12-04</datepublicationdepense>
+        <montantdepense>12417.000000</montantdepense>
+        <description>Dépense supplémentaire</description>
+        <nomcontractant>Service Sanitaire Frontenac Ltée</nomcontractant>
+        <neqcontractant>1142883132</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-03</datedepense>
+        <datepublicationdepense>2018-01-25</datepublicationdepense>
+        <montantdepense>2480.580000</montantdepense>
+        <description>Remboursement d'arrérage</description>
+        <nomcontractant>Service Sanitaire Frontenac Ltée</nomcontractant>
+        <neqcontractant>1142883132</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>665069</numeroseao>
+    <numero>8801-13-0215</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-03-09</datedepense>
+        <datepublicationdepense>2015-04-09</datepublicationdepense>
+        <montantdepense>4575.370000</montantdepense>
+        <description>Dépassement relié à des variations de quantité et/ou des modifications au contrat de construction ou de services de nature technique</description>
+        <nomcontractant>Gelco Construction inc.</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2015-06-18</datedepense>
+        <datepublicationdepense>2015-07-29</datepublicationdepense>
+        <montantdepense>42451.250000</montantdepense>
+        <description>Modifications au concept initial</description>
+        <nomcontractant>Gelco Construction inc.</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>702094</numeroseao>
+    <numero>119406-8</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-07-06</datedepense>
+        <datepublicationdepense>2016-07-27</datepublicationdepense>
+        <montantdepense>286289.000000</montantdepense>
+        <description>Supplément requis afin de répondre à des demandes supplémentaires de services dans le cadre des mesures d'aide à l'emploi.</description>
+        <nomcontractant>SERVICE DE DÉVELOPPEMENT D'EMPLOYABILITÉ DE LA MONTÉRÉGIE</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>702534</numeroseao>
+    <numero>21311800</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-11-07</datedepense>
+        <datepublicationdepense>2014-01-11</datepublicationdepense>
+        <montantdepense>62740.000000</montantdepense>
+        <description>Changement de design</description>
+        <nomcontractant>André Larocque entrepreneur peintre Inc.</nomcontractant>
+        <neqcontractant>1140391781</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2014-01-16</datedepense>
+        <datepublicationdepense>2014-05-22</datepublicationdepense>
+        <montantdepense>17039.000000</montantdepense>
+        <description>Changement de design</description>
+        <nomcontractant>André Larocque entrepreneur peintre Inc.</nomcontractant>
+        <neqcontractant>1140391781</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>749289</numeroseao>
+    <numero>25657900</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-06-06</datedepense>
+        <datepublicationdepense>2017-06-07</datepublicationdepense>
+        <montantdepense>9289451.850000</montantdepense>
+        <description>modification mineur</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-06-27</datedepense>
+        <datepublicationdepense>2017-06-29</datepublicationdepense>
+        <montantdepense>40535.780000</montantdepense>
+        <description>modification mineur</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-29</datedepense>
+        <datepublicationdepense>2017-07-13</datepublicationdepense>
+        <montantdepense>58847.030000</montantdepense>
+        <description>modification mineur</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-21</datedepense>
+        <datepublicationdepense>2017-11-21</datepublicationdepense>
+        <montantdepense>1803829.520000</montantdepense>
+        <description>modification mineur</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-09</datedepense>
+        <datepublicationdepense>2018-01-19</datepublicationdepense>
+        <montantdepense>444195.440000</montantdepense>
+        <description>modification mineur</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>825610</numeroseao>
+    <numero>435652-1</numero>
+    <depenses />
+  </avis>
+  <avis>
+    <numeroseao>866254</numeroseao>
+    <numero>P622-059D</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-11-28</datedepense>
+        <datepublicationdepense>2017-01-29</datepublicationdepense>
+        <montantdepense>430201.920000</montantdepense>
+        <description>Ajout 4 unités soins intermédiaires à cause nouvelles pratiques médicales et Ajout de modules CO2 requis</description>
+        <nomcontractant>GE Santé Canada</nomcontractant>
+        <neqcontractant>3362005533</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-28</datedepense>
+        <datepublicationdepense>2018-01-25</datepublicationdepense>
+        <montantdepense>13500.000000</montantdepense>
+        <description>Ajout de lecteurs de modules CO2</description>
+        <nomcontractant>GE Santé Canada</nomcontractant>
+        <neqcontractant>3362005533</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>902881</numeroseao>
+    <numero>29446100</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-02-18</datedepense>
+        <datepublicationdepense>2016-04-26</datepublicationdepense>
+        <montantdepense>82247.000000</montantdepense>
+        <description>Imprévu de chantier</description>
+        <nomcontractant>Plomberie Richard Jubinville</nomcontractant>
+        <neqcontractant>1169178945</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-05-30</datedepense>
+        <datepublicationdepense>2016-06-23</datepublicationdepense>
+        <montantdepense>13790.000000</montantdepense>
+        <description>Travaux supplémentaires - imprévu de chantier</description>
+        <nomcontractant>Plomberie Richard Jubinville</nomcontractant>
+        <neqcontractant>1169178945</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-08-23</datedepense>
+        <datepublicationdepense>2016-09-15</datepublicationdepense>
+        <montantdepense>82384.000000</montantdepense>
+        <description>Travaux supplémentaires - imprévu de chantier</description>
+        <nomcontractant>Plomberie Richard Jubinville</nomcontractant>
+        <neqcontractant>1169178945</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-05</datedepense>
+        <datepublicationdepense>2016-10-11</datepublicationdepense>
+        <montantdepense>4019.230000</montantdepense>
+        <description>Travaux supplémentaires - imprévu de chantier</description>
+        <nomcontractant>Plomberie Richard Jubinville</nomcontractant>
+        <neqcontractant>1169178945</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-20</datedepense>
+        <datepublicationdepense>2016-12-20</datepublicationdepense>
+        <montantdepense>50916.630000</montantdepense>
+        <description>Conditions imprévisibles de chantier</description>
+        <nomcontractant>Plomberie Richard Jubinville</nomcontractant>
+        <neqcontractant>1169178945</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-01-13</datedepense>
+        <datepublicationdepense>2017-01-27</datepublicationdepense>
+        <montantdepense>39751.240000</montantdepense>
+        <description>Conditions imprévisibles de chantier</description>
+        <nomcontractant>Plomberie Richard Jubinville</nomcontractant>
+        <neqcontractant>1169178945</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-03-07</datedepense>
+        <datepublicationdepense>2017-06-07</datepublicationdepense>
+        <montantdepense>32676.620000</montantdepense>
+        <description>Travaux supplémentaires - imprévu de chantier</description>
+        <nomcontractant>Plomberie Richard Jubinville</nomcontractant>
+        <neqcontractant>1169178945</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>908841</numeroseao>
+    <numero>468562-0</numero>
+    <depenses />
+  </avis>
+  <avis>
+    <numeroseao>909188</numeroseao>
+    <numero>472736-1</numero>
+    <depenses />
+  </avis>
+  <avis>
+    <numeroseao>935631</numeroseao>
+    <numero>P626-017F (CHUM-1150)</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-04-15</datedepense>
+        <datepublicationdepense>2018-01-22</datepublicationdepense>
+        <montantdepense>5466.040000</montantdepense>
+        <description>Ajout de chaises et fauteuil-lit.</description>
+        <nomcontractant>Le Groupe Global Inc.</nomcontractant>
+        <neqcontractant>1145016383</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>936548</numeroseao>
+    <numero>30736700</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-05-10</datedepense>
+        <datepublicationdepense>2016-05-13</datepublicationdepense>
+        <montantdepense>248276.900000</montantdepense>
+        <description>Changement de programme</description>
+        <nomcontractant>CONSTRUCTION RO INC..</nomcontractant>
+        <neqcontractant>1167886135</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-21</datedepense>
+        <datepublicationdepense>2016-08-01</datepublicationdepense>
+        <montantdepense>7808.420000</montantdepense>
+        <description>Imprévu de chantier - modification mineure</description>
+        <nomcontractant>CONSTRUCTION RO INC..</nomcontractant>
+        <neqcontractant>1167886135</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-12</datedepense>
+        <datepublicationdepense>2016-09-13</datepublicationdepense>
+        <montantdepense>6426.370000</montantdepense>
+        <description>Imprévu chantier et erreur (ODC #7 et #8)</description>
+        <nomcontractant>CONSTRUCTION RO INC..</nomcontractant>
+        <neqcontractant>1167886135</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-29</datedepense>
+        <datepublicationdepense>2016-09-29</datepublicationdepense>
+        <montantdepense>23262.940000</montantdepense>
+        <description>Changement de programme</description>
+        <nomcontractant>CONSTRUCTION RO INC..</nomcontractant>
+        <neqcontractant>1167886135</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-12</datedepense>
+        <datepublicationdepense>2017-10-12</datepublicationdepense>
+        <montantdepense>4849.040000</montantdepense>
+        <description>Imprévu de design </description>
+        <nomcontractant>CONSTRUCTION RO INC..</nomcontractant>
+        <neqcontractant>1167886135</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-29</datedepense>
+        <datepublicationdepense>2018-01-04</datepublicationdepense>
+        <montantdepense>21337.280000</montantdepense>
+        <description>Condition imprévisible de chantier (ODC #11)</description>
+        <nomcontractant>CONSTRUCTION RO INC..</nomcontractant>
+        <neqcontractant>1167886135</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>955921</numeroseao>
+    <numero>GGR-0459-15</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-05-01</datedepense>
+        <datepublicationdepense>2017-06-06</datepublicationdepense>
+        <montantdepense>4103.860000</montantdepense>
+        <description>Dépense supplémentaire</description>
+        <nomcontractant>Cengage Learning</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2017-11-23</datedepense>
+        <datepublicationdepense>2018-01-15</datepublicationdepense>
+        <montantdepense>5226.490000</montantdepense>
+        <description>Dépense supplémentaire totale</description>
+        <nomcontractant>Cengage Learning</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>969064</numeroseao>
+    <numero>P626-013C (CHUM-1148)</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-10-27</datedepense>
+        <datepublicationdepense>2018-01-19</datepublicationdepense>
+        <montantdepense>2809.000000</montantdepense>
+        <description>Ajout d'un bureau ergonomique PACS.</description>
+        <nomcontractant>Dicsa.</nomcontractant>
+        <neqcontractant>1147899901</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-23</datedepense>
+        <datepublicationdepense>2018-01-19</datepublicationdepense>
+        <montantdepense>1852.250000</montantdepense>
+        <description>Frais reliés à la modification du prototype.</description>
+        <nomcontractant>Dicsa.</nomcontractant>
+        <neqcontractant>1147899901</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>975861</numeroseao>
+    <numero>CNMTL 16-012-04</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-02-16</datedepense>
+        <datepublicationdepense>2017-09-18</datepublicationdepense>
+        <montantdepense>89881.760000</montantdepense>
+        <description>4 ODC en lien avec des travaux supplémentaires causés par des conditions d'amiante, de plomb et de moisissures.</description>
+        <nomcontractant>Vinet &amp; Fils Mécanique du Bâtiment Inc.</nomcontractant>
+        <neqcontractant>1166926148</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-06-26</datedepense>
+        <datepublicationdepense>2017-09-18</datepublicationdepense>
+        <montantdepense>41489.810000</montantdepense>
+        <description>15 juin 2017: ODC 5 remplacement isolant contaminé. 26 juin 2017 : ODC 6 installation supports pour câbles Pyrotenax. ODC 7 crédit pour raccord équipement. ODC 8 nouvelle porte, cadre acier local triturateur. ODC 9 remplac. murs bloc par cloison gypse. ODC 10 fixation panneaux FPR. ODC 11 placoplatr</description>
+        <nomcontractant>Vinet &amp; Fils Mécanique du Bâtiment Inc.</nomcontractant>
+        <neqcontractant>1166926148</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-11</datedepense>
+        <datepublicationdepense>2018-01-22</datepublicationdepense>
+        <montantdepense>4700.400000</montantdepense>
+        <description>ODC 13-R2 Réparation des pentes de plancher. ODC 14 : Travaux sur les retombées de gypser</description>
+        <nomcontractant>Vinet &amp; Fils Mécanique du Bâtiment Inc.</nomcontractant>
+        <neqcontractant>1166926148</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-18</datedepense>
+        <datepublicationdepense>2018-01-25</datepublicationdepense>
+        <montantdepense>34587.390000</montantdepense>
+        <description>Condition de chantier. ODC 16 : Travaux pr préparation plinthes relevées et jonction avec fini céramique existant. ODC 17 : Travaux démolition dalle pr trappe graisse. ODC 18 : Remplacement drains plancher/regard nettoyage. ODC 19 Travaux préparation plancher. ODC 20 Travaux réparation dalle béton.</description>
+        <nomcontractant>Vinet &amp; Fils Mécanique du Bâtiment Inc.</nomcontractant>
+        <neqcontractant>1166926148</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>991493</numeroseao>
+    <numero>P626-039C (CHUM-1077)</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-07-10</datedepense>
+        <datepublicationdepense>2018-01-19</datepublicationdepense>
+        <montantdepense>3920.000000</montantdepense>
+        <description>Ajout de cinq (5) armoires à narcotiques.</description>
+        <nomcontractant>Custom Diamond International</nomcontractant>
+        <neqcontractant>1147303953</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-03</datedepense>
+        <datepublicationdepense>2018-01-19</datepublicationdepense>
+        <montantdepense>784.000000</montantdepense>
+        <description>Ajout d'une (1) armoire à narcotique.</description>
+        <nomcontractant>Custom Diamond International</nomcontractant>
+        <neqcontractant>1147303953</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1000975</numeroseao>
+    <numero>503479-1</numero>
+    <depenses />
+  </avis>
+  <avis>
+    <numeroseao>1001238</numeroseao>
+    <numero>509761-0</numero>
+    <depenses />
+  </avis>
+  <avis>
+    <numeroseao>1001335</numeroseao>
+    <numero>503263-1</numero>
+    <depenses />
+  </avis>
+  <avis>
+    <numeroseao>1001336</numeroseao>
+    <numero>509178-1</numero>
+    <depenses />
+  </avis>
+  <avis>
+    <numeroseao>1016154</numeroseao>
+    <numero>T-3946</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-10-25</datedepense>
+        <datepublicationdepense>2017-11-28</datepublicationdepense>
+        <montantdepense>592900.000000</montantdepense>
+        <description>conditions de chantier</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-29</datedepense>
+        <datepublicationdepense>2017-11-28</datepublicationdepense>
+        <montantdepense>11500.000000</montantdepense>
+        <description>conditions de chantier</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1027444</numeroseao>
+    <numero>44506130</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-10-11</datedepense>
+        <datepublicationdepense>2017-11-28</datepublicationdepense>
+        <montantdepense>294395.320000</montantdepense>
+        <description>Conditions imprévisibles de chantier</description>
+        <nomcontractant>Lambert Somec Inc..</nomcontractant>
+        <neqcontractant>1145371366</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-29</datedepense>
+        <datepublicationdepense>2017-12-18</datepublicationdepense>
+        <montantdepense>2034.890000</montantdepense>
+        <description>Modification du raccordement pour la pompe POEF #3</description>
+        <nomcontractant>Lambert Somec Inc..</nomcontractant>
+        <neqcontractant>1145371366</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-20</datedepense>
+        <datepublicationdepense>2017-12-20</datepublicationdepense>
+        <montantdepense>8061.750000</montantdepense>
+        <description>Travaux supplémentaires dans la salle mécanique</description>
+        <nomcontractant>Lambert Somec Inc..</nomcontractant>
+        <neqcontractant>1145371366</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-20</datedepense>
+        <datepublicationdepense>2017-12-20</datepublicationdepense>
+        <montantdepense>19577.160000</montantdepense>
+        <description>Fournir et installer un disjoncteur.</description>
+        <nomcontractant>Lambert Somec Inc..</nomcontractant>
+        <neqcontractant>1145371366</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-25</datedepense>
+        <datepublicationdepense>2018-01-29</datepublicationdepense>
+        <montantdepense>1387.850000</montantdepense>
+        <description>Réajustement du montant en date du 20 décembre 2017</description>
+        <nomcontractant>Lambert Somec Inc..</nomcontractant>
+        <neqcontractant>1145371366</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1053800</numeroseao>
+    <numero>16-17-53</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-07-19</datedepense>
+        <datepublicationdepense>2018-01-30</datepublicationdepense>
+        <montantdepense>4250.370000</montantdepense>
+        <description>OC1 - Revêtement de plancher existant</description>
+        <nomcontractant>Constructions Larco</nomcontractant>
+        <neqcontractant>1141979170</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-19</datedepense>
+        <datepublicationdepense>2018-01-30</datepublicationdepense>
+        <montantdepense>10398.220000</montantdepense>
+        <description>OC2 - Ajout de mobilier avec évier</description>
+        <nomcontractant>Constructions Larco</nomcontractant>
+        <neqcontractant>1141979170</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-20</datedepense>
+        <datepublicationdepense>2018-01-30</datepublicationdepense>
+        <montantdepense>1488.020000</montantdepense>
+        <description>OC3 - Fonctionnement de l'évier - salle 217</description>
+        <nomcontractant>Constructions Larco</nomcontractant>
+        <neqcontractant>1141979170</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-08-08</datedepense>
+        <datepublicationdepense>2018-01-30</datepublicationdepense>
+        <montantdepense>266.110000</montantdepense>
+        <description>OC4 - Remplacement du robinet de fermeture</description>
+        <nomcontractant>Constructions Larco</nomcontractant>
+        <neqcontractant>1141979170</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-09-07</datedepense>
+        <datepublicationdepense>2018-01-30</datepublicationdepense>
+        <montantdepense>777.200000</montantdepense>
+        <description>OC5 - Remplacer des lavabos</description>
+        <nomcontractant>Constructions Larco</nomcontractant>
+        <neqcontractant>1141979170</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-08-15</datedepense>
+        <datepublicationdepense>2018-01-30</datepublicationdepense>
+        <montantdepense>1042.070000</montantdepense>
+        <description>OC6 - Plomberie - Radiateur de chauffage - local 214</description>
+        <nomcontractant>Constructions Larco</nomcontractant>
+        <neqcontractant>1141979170</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-08-15</datedepense>
+        <datepublicationdepense>2018-01-30</datepublicationdepense>
+        <montantdepense>1247.450000</montantdepense>
+        <description>OC7 - Démantèlement de chauffage</description>
+        <nomcontractant>Constructions Larco</nomcontractant>
+        <neqcontractant>1141979170</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-08-24</datedepense>
+        <datepublicationdepense>2018-01-30</datepublicationdepense>
+        <montantdepense>1728.250000</montantdepense>
+        <description>OC9 - Démolir une partie du mur de gypse accessible par le local 215 - Refaire cette partie, plâtrage et peinture et réinstaller les tablettes.</description>
+        <nomcontractant>Constructions Larco</nomcontractant>
+        <neqcontractant>1141979170</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-08-24</datedepense>
+        <datepublicationdepense>2018-01-30</datepublicationdepense>
+        <montantdepense>297.900000</montantdepense>
+        <description>OC10 - Faire une retombée de plafond en montants métalliques calibre 20 avec gypse - local 218</description>
+        <nomcontractant>Constructions Larco</nomcontractant>
+        <neqcontractant>1141979170</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-23</datedepense>
+        <datepublicationdepense>2018-01-30</datepublicationdepense>
+        <montantdepense>711.080000</montantdepense>
+        <description>OC11 - Ajout de contreplaqué</description>
+        <nomcontractant>Constructions Larco</nomcontractant>
+        <neqcontractant>1141979170</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-30</datedepense>
+        <datepublicationdepense>2018-01-30</datepublicationdepense>
+        <montantdepense>8585.130000</montantdepense>
+        <description>OC12 - Ajout de trappe d'accès - ajustement du muret et nivellement de plancher</description>
+        <nomcontractant>Constructions Larco</nomcontractant>
+        <neqcontractant>1141979170</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-06</datedepense>
+        <datepublicationdepense>2018-01-30</datepublicationdepense>
+        <montantdepense>527.140000</montantdepense>
+        <description>OC13 - Déplacement de (2) conduits de contrôle</description>
+        <nomcontractant>Constructions Larco</nomcontractant>
+        <neqcontractant>1141979170</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-06</datedepense>
+        <datepublicationdepense>2018-01-30</datepublicationdepense>
+        <montantdepense>125.270000</montantdepense>
+        <description>OC14 -  Ajout d'un regard sur colonne sanitaire</description>
+        <nomcontractant>Constructions Larco</nomcontractant>
+        <neqcontractant>1141979170</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-14</datedepense>
+        <datepublicationdepense>2018-01-30</datepublicationdepense>
+        <montantdepense>313.130000</montantdepense>
+        <description>OC15 - Ajout de supports anti-gouttes</description>
+        <nomcontractant>Constructions Larco</nomcontractant>
+        <neqcontractant>1141979170</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-20</datedepense>
+        <datepublicationdepense>2018-01-30</datepublicationdepense>
+        <montantdepense>2452.300000</montantdepense>
+        <description>OC16 - Ajout de gypse de finition sur 2 murs</description>
+        <nomcontractant>Constructions Larco</nomcontractant>
+        <neqcontractant>1141979170</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1053825</numeroseao>
+    <numero>BE017-014</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-01-08</datedepense>
+        <datepublicationdepense>2018-01-08</datepublicationdepense>
+        <montantdepense>11752.800000</montantdepense>
+        <description>Modifications de certains types de toiles (H4/H1, H3/H4, H3/H1, H1/Translucide), ajustement de coût</description>
+        <nomcontractant>Poliquin decor</nomcontractant>
+        <neqcontractant>1142400622</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1053926</numeroseao>
+    <numero>2016/17-177</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-05-09</datedepense>
+        <datepublicationdepense>2018-01-18</datepublicationdepense>
+        <montantdepense>2456.300000</montantdepense>
+        <description>AM#1 DM-A3 : Condition de chantier : Démolir le bloc de béton instable et ajuster l'épaisseur de l'isolant giclé.DM-A5 : Ajouter une cloison de bloc de béton existant et de béton qui a été démoli										</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-09-12</datedepense>
+        <datepublicationdepense>2018-01-18</datepublicationdepense>
+        <montantdepense>4077.440000</montantdepense>
+        <description>AM#2 DM-A4 : Remplacement des soufflages en blocs des salles de toilettes par des soufflages en cloisons à ossature métalliques. DM-A6 : Rejointement complémentaire de brique et bloc sous les fenêtres des maternelles. DM-E1 : Modification aux panneaux PE-1 et PE-2															</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-09-12</datedepense>
+        <datepublicationdepense>2018-01-18</datepublicationdepense>
+        <montantdepense>7468.870000</montantdepense>
+        <description>AM #4 DM-A9 : Crédit pour la provision des frais de laboratoire de CLEB					</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-17</datedepense>
+        <datepublicationdepense>2018-01-18</datepublicationdepense>
+        <montantdepense>97478.490000</montantdepense>
+        <description>AM #3et #5 Crédit provision frais labo de CLEB15000$. Évacuation remblai intérieur/extérieur contaminé. Modifier tuyauterie drainage vide sanitaire/ajout gaine PVC sur conduit existant.Raccors conduit existant remplacer grilles retour d'air.Modifier mur sortie mécanique...																									</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1061999</numeroseao>
+    <numero>16-17-73</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-08-31</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>2285.260000</montantdepense>
+        <description>OC1 - Ajout d'ancrages pour bloc céramisé et encastré câble de téléphone.</description>
+        <nomcontractant>Deroc Construction Inc..</nomcontractant>
+        <neqcontractant>1144620094</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-08-31</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>14144.640000</montantdepense>
+        <description>OC2 - Enlevé et installé (8) fenêtres et refait sous-cadre de bois et membrane - Finition intérieure et peinture.</description>
+        <nomcontractant>Deroc Construction Inc..</nomcontractant>
+        <neqcontractant>1144620094</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-08-11</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>3231.800000</montantdepense>
+        <description>OC3 - Viriation de la hauteur de la structure.</description>
+        <nomcontractant>Deroc Construction Inc..</nomcontractant>
+        <neqcontractant>1144620094</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-08-31</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>2396.210000</montantdepense>
+        <description>OC4 - Ajout de plaques aux colonnes pour relier à la maconnerie.</description>
+        <nomcontractant>Deroc Construction Inc..</nomcontractant>
+        <neqcontractant>1144620094</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-08-31</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>6220.200000</montantdepense>
+        <description>OC5 - Ajout d'ancrages pour les paniers de basketball - Ajustement cornière et plaque sur le mur de fondation</description>
+        <nomcontractant>Deroc Construction Inc..</nomcontractant>
+        <neqcontractant>1144620094</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-08-31</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>3919.000000</montantdepense>
+        <description>OC6 - Abaissé linteau et prolongé éléments de structure</description>
+        <nomcontractant>Deroc Construction Inc..</nomcontractant>
+        <neqcontractant>1144620094</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-08-31</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>2492.330000</montantdepense>
+        <description>OC7 - Réparation de structure de béton (armature apparente) </description>
+        <nomcontractant>Deroc Construction Inc..</nomcontractant>
+        <neqcontractant>1144620094</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1067526</numeroseao>
+    <numero>CP003195</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-12-11</datedepense>
+        <datepublicationdepense>2018-01-15</datepublicationdepense>
+        <montantdepense>20206.210000</montantdepense>
+        <description>Honoraires addtionnels pour ajustement au cout de contstruction</description>
+        <nomcontractant>D.F.S. Inc.</nomcontractant>
+        <neqcontractant>1142860858</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1070466</numeroseao>
+    <numero>32655100</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-01-17</datedepense>
+        <datepublicationdepense>2018-01-29</datepublicationdepense>
+        <montantdepense>13824.000000</montantdepense>
+        <description>Modifications au programme et conditions imprévisibles de chantier</description>
+        <nomcontractant>Agence de sécurité Mirado Inc</nomcontractant>
+        <neqcontractant>1167880682</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1070732</numeroseao>
+    <numero>IM701550</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-11-13</datedepense>
+        <datepublicationdepense>2018-01-21</datepublicationdepense>
+        <montantdepense>59606.000000</montantdepense>
+        <description>Modification de la portée des travaux au vestiaire niv. 086, réparations et étanchéisation de la dalle de béton du niveau 086.</description>
+        <nomcontractant>Groupe Lefebvre M.R.P. INC..</nomcontractant>
+        <neqcontractant>1142933366</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1078811</numeroseao>
+    <numero>2141-05-0103</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-09-29</datedepense>
+        <datepublicationdepense>2018-01-04</datepublicationdepense>
+        <montantdepense>34243.400000</montantdepense>
+        <description>Modifications aux massifs de béton suite à des conduites imprévues lors de l'excavation. Changements de design requis par le MTQ suite à l'octroi du contrat.</description>
+        <nomcontractant>SBP Entrepreneur Spécialisé</nomcontractant>
+        <neqcontractant>1165587933</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1079362</numeroseao>
+    <numero>34761TT</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-01-24</datedepense>
+        <datepublicationdepense>2018-01-24</datepublicationdepense>
+        <montantdepense>13815.420000</montantdepense>
+        <description>Imprévus de chantier : conditions existantes différentes que celles prévues au devis.</description>
+        <nomcontractant>Plomberie St-Pie X Inc.</nomcontractant>
+        <neqcontractant>1143765742</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1083981</numeroseao>
+    <numero>2017CSU457</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-11-15</datepublicationdepense>
+        <montantdepense>1513.180000</montantdepense>
+        <description>ODC #3 - Coût supplémentaires pour les travaux de béton (inclus le crédit de ODC #1)</description>
+        <nomcontractant>Experts Constructions MG Inc</nomcontractant>
+        <neqcontractant>1165628190</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-14</datedepense>
+        <datepublicationdepense>2017-11-15</datepublicationdepense>
+        <montantdepense>381.230000</montantdepense>
+        <description>ODC #4 - Installation de la boîte de jonction local 2136</description>
+        <nomcontractant>Experts Constructions MG Inc</nomcontractant>
+        <neqcontractant>1165628190</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-16</datedepense>
+        <datepublicationdepense>2018-01-24</datepublicationdepense>
+        <montantdepense>8323.160000</montantdepense>
+        <description>ODC #2 - Revêtement du sous-sil</description>
+        <nomcontractant>Experts Constructions MG Inc</nomcontractant>
+        <neqcontractant>1165628190</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-20</datedepense>
+        <datepublicationdepense>2018-01-24</datepublicationdepense>
+        <montantdepense>2522.700000</montantdepense>
+        <description>ODC #5 - installation d'une poutre d'acier </description>
+        <nomcontractant>Experts Constructions MG Inc</nomcontractant>
+        <neqcontractant>1165628190</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-04</datedepense>
+        <datepublicationdepense>2018-01-24</datepublicationdepense>
+        <montantdepense>951.140000</montantdepense>
+        <description>ODC #6 - Installation de serrure de porte </description>
+        <nomcontractant>Experts Constructions MG Inc</nomcontractant>
+        <neqcontractant>1165628190</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-04</datedepense>
+        <datepublicationdepense>2018-01-24</datepublicationdepense>
+        <montantdepense>1158.580000</montantdepense>
+        <description>ODC #7 - nivellement du plancher</description>
+        <nomcontractant>Experts Constructions MG Inc</nomcontractant>
+        <neqcontractant>1165628190</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-21</datedepense>
+        <datepublicationdepense>2018-01-24</datepublicationdepense>
+        <montantdepense>322.280000</montantdepense>
+        <description>ODC # 8 installation d'un pen dormant et des butoirs</description>
+        <nomcontractant>Experts Constructions MG Inc</nomcontractant>
+        <neqcontractant>1165628190</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1090149</numeroseao>
+    <numero>30202700</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-07-10</datedepense>
+        <datepublicationdepense>2017-07-12</datepublicationdepense>
+        <montantdepense>13750.000000</montantdepense>
+        <description>Avenant 1 à 3 fait passer le montant initial du contrat au dessus de 25 000$</description>
+        <nomcontractant>Davidson &amp; Associés inc.</nomcontractant>
+        <neqcontractant>1146351607</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1107141</numeroseao>
+    <numero>44508130</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-11-20</datedepense>
+        <datepublicationdepense>2018-01-19</datepublicationdepense>
+        <montantdepense>38504.560000</montantdepense>
+        <description>Condition imprévisible de chantier (travaux supplémentaires)</description>
+        <nomcontractant>9282-1362 Québec inc. (Bema Construction)</nomcontractant>
+        <neqcontractant>1169143170</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1107676</numeroseao>
+    <numero>SRM020762</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-11-03</datedepense>
+        <datepublicationdepense>2018-01-09</datepublicationdepense>
+        <montantdepense>10340.000000</montantdepense>
+        <description>SRM021417</description>
+        <nomcontractant>Pompe Francois Néron Inc</nomcontractant>
+        <neqcontractant>1162197843</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1124156</numeroseao>
+    <numero>6307-17-PB01</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-11-22</datedepense>
+        <datepublicationdepense>2017-12-20</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Dépassement relié à des variations de quantité et/ou des modifications au contrat de nature technique</description>
+        <nomcontractant>Gaspé câblage (9090-8203 Québec inc.)</nomcontractant>
+        <neqcontractant>1149330343</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-09</datedepense>
+        <datepublicationdepense>2018-01-22</datepublicationdepense>
+        <montantdepense>3171.000000</montantdepense>
+        <description>Dépassement relié à des variations de quantité et/ou des modifications au contrat de nature technique</description>
+        <nomcontractant>Gaspé câblage (9090-8203 Québec inc.)</nomcontractant>
+        <neqcontractant>1149330343</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+</export>

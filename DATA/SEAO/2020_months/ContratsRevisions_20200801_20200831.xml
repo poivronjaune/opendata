@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2020-08-01" datefin="2020-08-31">
+  <contrat>
+    <numeroseao>513909</numeroseao>
+    <numero>GAT 2011 SP 217</numero>
+    <datefinale>2016-10-31</datefinale>
+    <datepublicationfinale>2018-03-27</datepublicationfinale>
+    <montantfinal>276890.910000</montantfinal>
+    <nomcontractant>Dessau</nomcontractant>
+    <neqcontractant>1142720136</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>524049</numeroseao>
+    <numero>2011-1209</numero>
+    <datefinale>2017-12-31</datefinale>
+    <datepublicationfinale>2018-07-11</datepublicationfinale>
+    <montantfinal>1981758.770000</montantfinal>
+    <nomcontractant>Les estimateurs professionnels Leroux, Beaudry, Picard et associés inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>534687</numeroseao>
+    <numero>GAT 2011 SP 331</numero>
+    <datefinale>2016-12-31</datefinale>
+    <datepublicationfinale>2018-03-27</datepublicationfinale>
+    <montantfinal>118883.640000</montantfinal>
+    <nomcontractant>QDI</nomcontractant>
+    <neqcontractant>1164357023</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>887440</numeroseao>
+    <numero>28268000</numero>
+    <datefinale>2020-06-30</datefinale>
+    <datepublicationfinale>2020-07-28</datepublicationfinale>
+    <montantfinal>27043.480000</montantfinal>
+    <nomcontractant>Koné inc.</nomcontractant>
+    <neqcontractant>1144414308</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>958724</numeroseao>
+    <numero>8801-15-KA13</numero>
+    <datefinale>2016-02-11</datefinale>
+    <datepublicationfinale>2016-02-25</datepublicationfinale>
+    <montantfinal>31380.100000</montantfinal>
+    <nomcontractant>Groupe ABS inc.</nomcontractant>
+    <neqcontractant>1165977969</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1030121</numeroseao>
+    <numero>6808-16-SH01</numero>
+    <datefinale>2016-11-10</datefinale>
+    <datepublicationfinale>2016-11-16</datepublicationfinale>
+    <montantfinal>29977.500000</montantfinal>
+    <nomcontractant>Environnement Sanivac inc.</nomcontractant>
+    <neqcontractant>1166316977</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1033737</numeroseao>
+    <numero>49001-3294635</numero>
+    <datefinale>2017-01-13</datefinale>
+    <datepublicationfinale>2020-07-30</datepublicationfinale>
+    <montantfinal>49148.360000</montantfinal>
+    <nomcontractant>Micro Logic</nomcontractant>
+    <neqcontractant>1168715408</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1051703</numeroseao>
+    <numero>9103-10-HE06</numero>
+    <datefinale>2014-03-14</datefinale>
+    <datepublicationfinale>2017-02-14</datepublicationfinale>
+    <montantfinal>144962.000000</montantfinal>
+    <nomcontractant>WSP Canada inc.</nomcontractant>
+    <neqcontractant>1148357057</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1053862</numeroseao>
+    <numero>VMP-17-007</numero>
+    <datefinale>2020-05-08</datefinale>
+    <datepublicationfinale>2018-01-08</datepublicationfinale>
+    <montantfinal>2386011.270000</montantfinal>
+    <nomcontractant>Talvi</nomcontractant>
+    <neqcontractant>1166651753</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1065022</numeroseao>
+    <numero>2016-077-18RM-SP2</numero>
+    <datefinale>2018-05-31</datefinale>
+    <datepublicationfinale>2018-06-12</datepublicationfinale>
+    <montantfinal>23045.290000</montantfinal>
+    <nomcontractant>Beaudoin Hurens.</nomcontractant>
+    <neqcontractant>1148115281</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1070019</numeroseao>
+    <numero>VM-AO 2017-07</numero>
+    <datefinale>2018-03-31</datefinale>
+    <datepublicationfinale>2018-05-09</datepublicationfinale>
+    <montantfinal>155982.270000</montantfinal>
+    <nomcontractant>Paquet &amp; fils ltée</nomcontractant>
+    <neqcontractant>1160215530</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1088481</numeroseao>
+    <numero>Projet SA-17-11</numero>
+    <datefinale>2020-03-01</datefinale>
+    <datepublicationfinale>2020-07-29</datepublicationfinale>
+    <montantfinal>196712.100000</montantfinal>
+    <nomcontractant>Excavation ESM Inc.</nomcontractant>
+    <neqcontractant>1163352314</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1090212</numeroseao>
+    <numero>44507956</numero>
+    <datefinale>2020-05-28</datefinale>
+    <datepublicationfinale>2020-05-28</datepublicationfinale>
+    <montantfinal>35592.500000</montantfinal>
+    <nomcontractant>PrinceWaterhouseCoopers LLP/S.R.L./S.E.N.C.R.L.</nomcontractant>
+    <neqcontractant>3342023176</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1094316</numeroseao>
+    <numero>17-15927</numero>
+    <datefinale>2019-03-31</datefinale>
+    <datepublicationfinale>2019-06-17</datepublicationfinale>
+    <montantfinal>126882.750000</montantfinal>
+    <nomcontractant>Projet Paysage inc.</nomcontractant>
+    <neqcontractant>1148825186</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1095087</numeroseao>
+    <numero>32872000</numero>
+    <datefinale>2020-05-20</datefinale>
+    <datepublicationfinale>2020-06-08</datepublicationfinale>
+    <montantfinal>64499.940000</montantfinal>
+    <nomcontractant>L.R. BRIEN ET FILS LTÉE</nomcontractant>
+    <neqcontractant>1143544840</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1105984</numeroseao>
+    <numero>999108106</numero>
+    <datefinale>2019-12-31</datefinale>
+    <datepublicationfinale>2020-04-21</datepublicationfinale>
+    <montantfinal>1505384.000000</montantfinal>
+    <nomcontractant>Location Discam Inc_</nomcontractant>
+    <neqcontractant>1147965611</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1105984</numeroseao>
+    <numero>999108106</numero>
+    <datefinale>2019-12-31</datefinale>
+    <datepublicationfinale>2020-04-21</datepublicationfinale>
+    <montantfinal>808783.000000</montantfinal>
+    <nomcontractant>Location Sauvageau inc.</nomcontractant>
+    <neqcontractant>1149887755</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1105984</numeroseao>
+    <numero>999108106</numero>
+    <datefinale>2019-12-31</datefinale>
+    <datepublicationfinale>2020-04-21</datepublicationfinale>
+    <montantfinal>483421.000000</montantfinal>
+    <nomcontractant>2313-7292 Québec inc.</nomcontractant>
+    <neqcontractant>1143375468</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1105984</numeroseao>
+    <numero>999108106</numero>
+    <datefinale>2019-12-31</datefinale>
+    <datepublicationfinale>2020-04-21</datepublicationfinale>
+    <montantfinal>1082493.400000</montantfinal>
+    <nomcontractant>Budget Auto Inc.</nomcontractant>
+    <neqcontractant>1145580685</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1116192</numeroseao>
+    <numero>33019300</numero>
+    <datefinale>2020-06-05</datefinale>
+    <datepublicationfinale>2020-06-09</datepublicationfinale>
+    <montantfinal>28875.060000</montantfinal>
+    <nomcontractant>Déneigement D.C.M. Lafortune s.e.n.c.</nomcontractant>
+    <neqcontractant>3347719448</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1118371</numeroseao>
+    <numero>33431200</numero>
+    <datefinale>2020-05-21</datefinale>
+    <datepublicationfinale>2020-07-07</datepublicationfinale>
+    <montantfinal>94499.940000</montantfinal>
+    <nomcontractant>Patrick Gagné &amp; Fils Inc.</nomcontractant>
+    <neqcontractant>1143367291</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1130775</numeroseao>
+    <numero>332/2017</numero>
+    <datefinale>2020-01-30</datefinale>
+    <datepublicationfinale>2020-02-05</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant>Installations Électriques claude Gougeon inc.</nomcontractant>
+    <neqcontractant>1141876046</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1135851</numeroseao>
+    <numero>Projet SA 18 16</numero>
+    <datefinale>2020-07-02</datefinale>
+    <datepublicationfinale>2020-07-29</datepublicationfinale>
+    <montantfinal>380783.500000</montantfinal>
+    <nomcontractant>lignes rive-sud</nomcontractant>
+    <neqcontractant>1146655098</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1137547</numeroseao>
+    <numero>Projet R 1202, lot 1</numero>
+    <datefinale>2019-11-29</datefinale>
+    <datepublicationfinale>2020-07-29</datepublicationfinale>
+    <montantfinal>1689495.140000</montantfinal>
+    <nomcontractant>Eurovia Québec Construction inc. (Carignan)</nomcontractant>
+    <neqcontractant>1169491884</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1199503</numeroseao>
+    <numero>34404000</numero>
+    <datefinale>2020-06-10</datefinale>
+    <datepublicationfinale>2020-07-24</datepublicationfinale>
+    <montantfinal>8978234.830000</montantfinal>
+    <nomcontractant>Hardy Construction</nomcontractant>
+    <neqcontractant>1144628402</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1208219</numeroseao>
+    <numero>18-525</numero>
+    <datefinale>2019-12-17</datefinale>
+    <datepublicationfinale>2020-07-30</datepublicationfinale>
+    <montantfinal>70651.460000</montantfinal>
+    <nomcontractant>Impart-Litho</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1239197</numeroseao>
+    <numero>SA-19-02</numero>
+    <datefinale>2019-11-15</datefinale>
+    <datepublicationfinale>2020-07-30</datepublicationfinale>
+    <montantfinal>93351.730000</montantfinal>
+    <nomcontractant>Construction DJL Inc.  (Carignan)</nomcontractant>
+    <neqcontractant>1147218763</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1249828</numeroseao>
+    <numero>Projet SI-19-171, lot 3</numero>
+    <datefinale>2020-06-26</datefinale>
+    <datepublicationfinale>2020-07-30</datepublicationfinale>
+    <montantfinal>177281.460000</montantfinal>
+    <nomcontractant>Les Entreprises Michaudville Inc.</nomcontractant>
+    <neqcontractant>1142707943</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1319917</numeroseao>
+    <numero>44515096</numero>
+    <datefinale>2020-07-31</datefinale>
+    <datepublicationfinale>2020-05-19</datepublicationfinale>
+    <montantfinal>28930.000000</montantfinal>
+    <nomcontractant>Les Excavations Labelle Inc.</nomcontractant>
+    <neqcontractant>1164685159</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1321319</numeroseao>
+    <numero>44515972</numero>
+    <datefinale>2020-07-31</datefinale>
+    <datepublicationfinale>2020-07-17</datepublicationfinale>
+    <montantfinal>9050.000000</montantfinal>
+    <nomcontractant>Ponton Guillot Inc.</nomcontractant>
+    <neqcontractant>1170404579</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1352700</numeroseao>
+    <numero>19-04-24-133</numero>
+    <datefinale>2020-06-26</datefinale>
+    <datepublicationfinale>2020-07-22</datepublicationfinale>
+    <montantfinal>18560.000000</montantfinal>
+    <nomcontractant>Morin Desrochers Beaulieu, CPA, S.E.N.C.</nomcontractant>
+    <neqcontractant>3364014533</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1353108</numeroseao>
+    <numero>8701-08-0910</numero>
+    <datefinale>2020-04-08</datefinale>
+    <datepublicationfinale>2020-03-05</datepublicationfinale>
+    <montantfinal>1784959702.610000</montantfinal>
+    <nomcontractant>Nouvelle Autoroute 30 , S.E.N.C.</nomcontractant>
+    <neqcontractant>3365145849</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1364915</numeroseao>
+    <numero>35740000</numero>
+    <datefinale>2020-01-22</datefinale>
+    <datepublicationfinale>2020-04-21</datepublicationfinale>
+    <montantfinal>32000.000000</montantfinal>
+    <nomcontractant>Englobe</nomcontractant>
+    <neqcontractant>1167280206</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1390386</numeroseao>
+    <numero>44518309</numero>
+    <datefinale>2020-04-23</datefinale>
+    <datepublicationfinale>2020-07-10</datepublicationfinale>
+    <montantfinal>25397.350000</montantfinal>
+    <nomcontractant>Bruneau Électrique Inc.</nomcontractant>
+    <neqcontractant>1142851337</neqcontractant>
+  </contrat>
+</export>

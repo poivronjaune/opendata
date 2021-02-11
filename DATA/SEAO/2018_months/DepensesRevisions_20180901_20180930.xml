@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2018-09-01" datefin="2018-09-30">
+  <avis>
+    <numeroseao>700271</numeroseao>
+    <numero>22072500</numero>
+    <depenses>
+      <depense>
+        <datedepense>2012-05-08</datedepense>
+        <datepublicationdepense>2016-11-14</datepublicationdepense>
+        <montantdepense>9245.000000</montantdepense>
+        <description>remplacement de la poulie et du câbles de tension de l’ascenseur #3</description>
+        <nomcontractant>Schindler Ascenseur Co.</nomcontractant>
+        <neqcontractant>1143282987</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-31</datedepense>
+        <datepublicationdepense>2016-11-14</datepublicationdepense>
+        <montantdepense>4700.030000</montantdepense>
+        <description>Prolongation d'un mois</description>
+        <nomcontractant>Schindler Ascenseur Co.</nomcontractant>
+        <neqcontractant>1143282987</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-08-11</datedepense>
+        <datepublicationdepense>2017-04-13</datepublicationdepense>
+        <montantdepense>24190.790000</montantdepense>
+        <description>Prolongation du 1 fév 2017 au 30 juin 2017</description>
+        <nomcontractant>Schindler Ascenseur Co.</nomcontractant>
+        <neqcontractant>1143282987</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-08-11</datedepense>
+        <datepublicationdepense>2017-08-22</datepublicationdepense>
+        <montantdepense>33867.120000</montantdepense>
+        <description>Prolongation du contrat du 1er juillet 2017 au 31 janvier 2018</description>
+        <nomcontractant>Schindler Ascenseur Co.</nomcontractant>
+        <neqcontractant>1143282987</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-16</datedepense>
+        <datepublicationdepense>2018-03-20</datepublicationdepense>
+        <montantdepense>20552.000000</montantdepense>
+        <description>Prolongation du contrat</description>
+        <nomcontractant>Schindler Ascenseur Co.</nomcontractant>
+        <neqcontractant>1143282987</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-09-20</datedepense>
+        <datepublicationdepense>2018-08-02</datepublicationdepense>
+        <montantdepense>30828.000000</montantdepense>
+        <description>Prolongation du contrat</description>
+        <nomcontractant>Schindler Ascenseur Co.</nomcontractant>
+        <neqcontractant>1143282987</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>738442</numeroseao>
+    <numero>25172700</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-11-07</datedepense>
+        <datepublicationdepense>2017-01-12</datepublicationdepense>
+        <montantdepense>363366.000000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>RGF Électrique inc.</nomcontractant>
+        <neqcontractant>1142580670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-22</datedepense>
+        <datepublicationdepense>2017-01-12</datepublicationdepense>
+        <montantdepense>129251.000000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>RGF Électrique inc.</nomcontractant>
+        <neqcontractant>1142580670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-03-07</datedepense>
+        <datepublicationdepense>2017-05-10</datepublicationdepense>
+        <montantdepense>1417010.000000</montantdepense>
+        <description>Condition imprévisible de chantier - Changement de programme SQI</description>
+        <nomcontractant>RGF Électrique inc.</nomcontractant>
+        <neqcontractant>1142580670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-06-29</datedepense>
+        <datepublicationdepense>2017-07-06</datepublicationdepense>
+        <montantdepense>52652.300000</montantdepense>
+        <description>Condition imprévisible de chantier - Erreur ou omission</description>
+        <nomcontractant>RGF Électrique inc.</nomcontractant>
+        <neqcontractant>1142580670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-17</datedepense>
+        <datepublicationdepense>2017-07-26</datepublicationdepense>
+        <montantdepense>7602.640000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>RGF Électrique inc.</nomcontractant>
+        <neqcontractant>1142580670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-13</datedepense>
+        <datepublicationdepense>2017-11-16</datepublicationdepense>
+        <montantdepense>20788.000000</montantdepense>
+        <description>Condition imprévisible de chantier - Erreur et omission</description>
+        <nomcontractant>RGF Électrique inc.</nomcontractant>
+        <neqcontractant>1142580670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-18</datedepense>
+        <datepublicationdepense>2018-02-02</datepublicationdepense>
+        <montantdepense>10839.920000</montantdepense>
+        <description>Erreur ou omission</description>
+        <nomcontractant>RGF Électrique inc.</nomcontractant>
+        <neqcontractant>1142580670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-21</datedepense>
+        <datepublicationdepense>2018-04-06</datepublicationdepense>
+        <montantdepense>7084.710000</montantdepense>
+        <description>Conditions imprévisibles de chantier</description>
+        <nomcontractant>RGF Électrique inc.</nomcontractant>
+        <neqcontractant>1142580670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-24</datedepense>
+        <datepublicationdepense>2018-09-19</datepublicationdepense>
+        <montantdepense>2842.000000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>RGF Électrique inc.</nomcontractant>
+        <neqcontractant>1142580670</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>899322</numeroseao>
+    <numero>1301-15-0203</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-08-25</datedepense>
+        <datepublicationdepense>2016-10-14</datepublicationdepense>
+        <montantdepense>1631294.570000</montantdepense>
+        <description>Dommages ne pouvant être décelés qu'au moment des travaux</description>
+        <nomcontractant>L.A. Hebert ltée</nomcontractant>
+        <neqcontractant>1143421148</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-15</datedepense>
+        <datepublicationdepense>2018-08-09</datepublicationdepense>
+        <montantdepense>529457.310000</montantdepense>
+        <description>Dépassement relié à des variations de quantité et/ou des modifications au contrat de nature technique</description>
+        <nomcontractant>L.A. Hebert ltée</nomcontractant>
+        <neqcontractant>1143421148</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-06-20</datedepense>
+        <datepublicationdepense>2018-09-06</datepublicationdepense>
+        <montantdepense>850381.190000</montantdepense>
+        <description>Dépassement reliés à des variations de quantité au contrat de nature technique</description>
+        <nomcontractant>L.A. Hebert ltée</nomcontractant>
+        <neqcontractant>1143421148</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>900478</numeroseao>
+    <numero>29295800</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-11-28</datedepense>
+        <datepublicationdepense>2016-11-28</datepublicationdepense>
+        <montantdepense>25511.460000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>JBA le restaurateur (9280-3949 Qc inc)</nomcontractant>
+        <neqcontractant>1169054674</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>995070</numeroseao>
+    <numero>51677_RH_PUB_C</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-08-29</datedepense>
+        <datepublicationdepense>2017-06-20</datepublicationdepense>
+        <montantdepense>879200.890000</montantdepense>
+        <description>ODC-01 À ODC-15 : Variations des quantités de sols à déterminer</description>
+        <nomcontractant>Excavation Loiselle inc.</nomcontractant>
+        <neqcontractant>1142482703</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1030772</numeroseao>
+    <numero>MB227-161I</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-07-12</datedepense>
+        <datepublicationdepense>2018-09-26</datepublicationdepense>
+        <montantdepense>94.210000</montantdepense>
+        <description>Frais de déplacement, non inclus au contrat</description>
+        <nomcontractant>WSP Canada Inc. *Important*: ce compte dessert tous les bureaux de WSP au Québec. Si vous désirez transmettre une invitation à soumissionner à un de nos bureaux en particulier ou obtenir la liste de nos bureaux, svp contacter martine.gagnon@wspgroup.com</nomcontractant>
+        <neqcontractant>1148357057</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1050326</numeroseao>
+    <numero>160700021</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-08-23</datedepense>
+        <datepublicationdepense>2018-03-21</datepublicationdepense>
+        <montantdepense>3271.280000</montantdepense>
+        <description>Réaliser les travaux de nettoyagede la structure du plafond dans le gymnase </description>
+        <nomcontractant>Groupe Promécanic  Ltée</nomcontractant>
+        <neqcontractant>1164611155</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1099550</numeroseao>
+    <numero>2017/18-060</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-05-09</datedepense>
+        <datepublicationdepense>2018-07-16</datepublicationdepense>
+        <montantdepense>421322.860000</montantdepense>
+        <description>Am#1 à 6 Diverses dépenses en lien avec la construction de la nouvelle école ( 3.89% de dépenses enregistrées)</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-29</datedepense>
+        <datepublicationdepense>2018-07-16</datepublicationdepense>
+        <montantdepense>830113.590000</montantdepense>
+        <description>AM#7 LCOP a.17 Excaver remblai supplém. égout pluvial 158501,36$-Disposer sols "AB" future rue Plage-De-Venise 404003,45$-Surexcaver stationnements 258166,90$-Ancrages bases de nivellement 5663,37$-Corriger pontage près escalier 3778,51$</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-29</datedepense>
+        <datepublicationdepense>2018-08-20</datepublicationdepense>
+        <montantdepense>7517.650000</montantdepense>
+        <description>AM#8 Crédit pour l’isolant rigide (793,00) $Travaux relatifs aux supports structuraux 8 310,65 $</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-03</datedepense>
+        <datepublicationdepense>2018-08-20</datepublicationdepense>
+        <montantdepense>10701.540000</montantdepense>
+        <description>AM#9 Bouchonner les puits pour permettre le forage de tous les puits et minimiser les échanges entre les puits 10 701,54 $</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-08</datedepense>
+        <datepublicationdepense>2018-08-28</datepublicationdepense>
+        <montantdepense>37134.030000</montantdepense>
+        <description>AM#10 DM-A-02 Modif. portes quincaillerie-DM-A-03 Modif refroidisseur/parapet/appentis-DM-A-04 Modif/Ajout soufflage DM-A-07 Modif couleus solins/mural/appentis DM-E-03 Modif Entrée câble/Data DM-M-04 Déplac thermostat DM-C-15 Modif qté clôture à installer</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-22</datedepense>
+        <datepublicationdepense>2018-09-14</datepublicationdepense>
+        <montantdepense>107687.160000</montantdepense>
+        <description>AM#11 Modifier alimentations électriques 782,06$ - Installer nouveau drain toiture 2 168,73$ - Disposer sols AB restant de surexcavation sols instables 102 895,66 $ - Percements de plots de cisaillement pour injection utéhane 1 840,71$</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1103643</numeroseao>
+    <numero>2017SCA675</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-11-03</datedepense>
+        <datepublicationdepense>2018-04-12</datepublicationdepense>
+        <montantdepense>875.000000</montantdepense>
+        <description>AJOUT - MARGE DE MANOEUVRE</description>
+        <nomcontractant>Malicis</nomcontractant>
+        <neqcontractant>1163446983</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-06</datedepense>
+        <datepublicationdepense>2018-04-12</datepublicationdepense>
+        <montantdepense>4915.180000</montantdepense>
+        <description>AJOUT - MARGE DE MANOEUVRE - 2</description>
+        <nomcontractant>Malicis</nomcontractant>
+        <neqcontractant>1163446983</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-18</datedepense>
+        <datepublicationdepense>2018-09-19</datepublicationdepense>
+        <montantdepense>4950.000000</montantdepense>
+        <description>AJOUT - MARGE DE MANOEUVRE - 3</description>
+        <nomcontractant>Malicis</nomcontractant>
+        <neqcontractant>1163446983</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-18</datedepense>
+        <datepublicationdepense>2018-09-19</datepublicationdepense>
+        <montantdepense>225.000000</montantdepense>
+        <description>AJOUT - MARGE DE MANOEUVRE - 4 </description>
+        <nomcontractant>Malicis</nomcontractant>
+        <neqcontractant>1163446983</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1121191</numeroseao>
+    <numero>33371300</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-08-28</datedepense>
+        <datepublicationdepense>2018-09-13</datepublicationdepense>
+        <montantdepense>74572.210000</montantdepense>
+        <description>Changement de programme,conditions imprévisibles et autres</description>
+        <nomcontractant>Therrien Entrepreneur Général</nomcontractant>
+        <neqcontractant>1166269978</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-29</datedepense>
+        <datepublicationdepense>2018-09-13</datepublicationdepense>
+        <montantdepense>8504.050000</montantdepense>
+        <description>ODC 13 - condition imprévisible de chantier</description>
+        <nomcontractant>Therrien Entrepreneur Général</nomcontractant>
+        <neqcontractant>1166269978</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-29</datedepense>
+        <datepublicationdepense>2018-09-13</datepublicationdepense>
+        <montantdepense>7397.030000</montantdepense>
+        <description>ODC 14 - Réclamation</description>
+        <nomcontractant>Therrien Entrepreneur Général</nomcontractant>
+        <neqcontractant>1166269978</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1123789</numeroseao>
+    <numero>Qc-RAMQ-20175033</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-07-20</datedepense>
+        <datepublicationdepense>2018-09-11</datepublicationdepense>
+        <montantdepense>287327.880000</montantdepense>
+        <description>pour des travaux non prévus</description>
+        <nomcontractant>Construction Trivica 2015 inc.</nomcontractant>
+        <neqcontractant>1171476402</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1126997</numeroseao>
+    <numero>SRM021771</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-07-04</datedepense>
+        <datepublicationdepense>2018-09-24</datepublicationdepense>
+        <montantdepense>8075.100000</montantdepense>
+        <description>SRM023085</description>
+        <nomcontractant>Vincent Leclerc architecte inc.</nomcontractant>
+        <neqcontractant>3361525549</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1128914</numeroseao>
+    <numero>17-2829</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-09-21</datedepense>
+        <datepublicationdepense>2018-09-21</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Ceci est un test</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1138870</numeroseao>
+    <numero>18-056 - 016108365...</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-08-21</datedepense>
+        <datepublicationdepense>2018-08-28</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 1 - (CRÉDIT - 883,00$) - Condition de chantier -ARCHITECTURE : retirer la peinture de l'escalier ESC-C (section rez-de-chaussée /lobby) et du local 146. </description>
+        <nomcontractant>Afcor Construction Inc</nomcontractant>
+        <neqcontractant>1148887467</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-30</datedepense>
+        <datepublicationdepense>2018-09-07</datepublicationdepense>
+        <montantdepense>2090.220000</montantdepense>
+        <description># 2 - Architecture: Plusieurs changements en quincaillerie adapté à des consditions de chantier.</description>
+        <nomcontractant>Afcor Construction Inc</nomcontractant>
+        <neqcontractant>1148887467</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-30</datedepense>
+        <datepublicationdepense>2018-09-07</datepublicationdepense>
+        <montantdepense>1756.010000</montantdepense>
+        <description># 3 - Mécanique: Remplacement de trois (3) éviers désuets, robinetterie et tuyauterie.</description>
+        <nomcontractant>Afcor Construction Inc</nomcontractant>
+        <neqcontractant>1148887467</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-30</datedepense>
+        <datepublicationdepense>2018-09-07</datepublicationdepense>
+        <montantdepense>25539.520000</montantdepense>
+        <description># 4 - Architecture: Au gymnase, conserver le plafond existant et tuiles acoustiques existantes et installer un nouveau plafond sur fourrures métalliques par-dessus l'existant. Préparer loa surface à recevoir les nouveaux panneaux acoustiques.</description>
+        <nomcontractant>Afcor Construction Inc</nomcontractant>
+        <neqcontractant>1148887467</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-30</datedepense>
+        <datepublicationdepense>2018-09-07</datepublicationdepense>
+        <montantdepense>5222.750000</montantdepense>
+        <description># 5 - Électricité: Plusieurs changements en électricité doivent être apportés. Déplacement de plusieurs appareils non indiqués aux plans. Détachement de plusieurs câblages et équipements afin de permettre la démolition.</description>
+        <nomcontractant>Afcor Construction Inc</nomcontractant>
+        <neqcontractant>1148887467</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-30</datedepense>
+        <datepublicationdepense>2018-09-07</datepublicationdepense>
+        <montantdepense>1492.440000</montantdepense>
+        <description># 6 - Architecture: ÀAfin d'éviter le problème de maitrise d'oeuvre et de permettre de bloquer le passage commun au deux (2) entrepreneurs, nous avons retirer les travaux dans le hall d'entrée 05B.</description>
+        <nomcontractant>Afcor Construction Inc</nomcontractant>
+        <neqcontractant>1148887467</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-30</datedepense>
+        <datepublicationdepense>2018-09-07</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 7 - Crédiit (15 100,00$) Architecture: Équivalence de produit et échiancier de projet. L'entrepreneur a soumis une équivalence avec crédit pour les panneaux acoustiques prévus pour le gymnase. Le produit soumis est équivalent à celui demandé, la livraison plus rapide et est un produit local...</description>
+        <nomcontractant>Afcor Construction Inc</nomcontractant>
+        <neqcontractant>1148887467</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-30</datedepense>
+        <datepublicationdepense>2018-09-07</datepublicationdepense>
+        <montantdepense>1807.710000</montantdepense>
+        <description># 8 - Architecture: Suite à la démolition de certains murs, une 'toile' épaisse était anciennement installée sur 48" de hauteur sur plusieurs murs. Il est donc demandé d'installer un gypse par-dessus afin de peindre puisque le ragréage était déjà prévu (local 255).</description>
+        <nomcontractant>Afcor Construction Inc</nomcontractant>
+        <neqcontractant>1148887467</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1139637</numeroseao>
+    <numero>18-002 - 4NPLA.ARG</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-08-14</datedepense>
+        <datepublicationdepense>2018-08-22</datepublicationdepense>
+        <montantdepense>10585.500000</montantdepense>
+        <description># 1 - STRUCTURE- Condition de chantier ; une quantité de sols contaminées, supplémentaire de 61,75m cube devra être évacués par l'entrepreneur selon le prix fourni au bordereau de prix unitaire. _ Omission de mauvaise coordination entre professionnels: clarification des limites du tablier d'acier ..</description>
+        <nomcontractant>Candev Construction Inc.</nomcontractant>
+        <neqcontractant>1144754414</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-30</datedepense>
+        <datepublicationdepense>2018-09-07</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 2 -Crédit (18 346,50 $) Mécanique: Erreur de coordination entre Mécaique / Électrique et fournisseur. Suite à l'approbation des dessin d'atelier pour les unités de ventilation UC-2, 3 et 4, il y a moins de raccordement à effectuer, tel que spécifié dans les plans et devis. L'entrepreneur devrait..</description>
+        <nomcontractant>Candev Construction Inc.</nomcontractant>
+        <neqcontractant>1144754414</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1140249</numeroseao>
+    <numero>US-17-D2-529-00</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-08-15</datedepense>
+        <datepublicationdepense>2018-09-05</datepublicationdepense>
+        <montantdepense>43780.000000</montantdepense>
+        <description>Dépense supplémentaire</description>
+        <nomcontractant>Constructions Guy Sebas Inc.</nomcontractant>
+        <neqcontractant>1144279677</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1145393</numeroseao>
+    <numero>1725-EG</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-08-30</datedepense>
+        <datepublicationdepense>2018-09-26</datepublicationdepense>
+        <montantdepense>3675.000000</montantdepense>
+        <description>Réparation / remplacement d'éléments de la structure de bois (présence de pourriture) découverts suite à la démolition des parements extérieurs.</description>
+        <nomcontractant>Construction Léger Et fils Inc</nomcontractant>
+        <neqcontractant>1165222382</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-30</datedepense>
+        <datepublicationdepense>2018-09-26</datepublicationdepense>
+        <montantdepense>3790.000000</montantdepense>
+        <description>Modification à la construction du nouvel escalier de bois suite à la découverte d'un massif de béton et de roches sous l'escalier démoli: Démolition partielle du massif, coulée de béton, ancrage au massif existant, etc.</description>
+        <nomcontractant>Construction Léger Et fils Inc</nomcontractant>
+        <neqcontractant>1165222382</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-30</datedepense>
+        <datepublicationdepense>2018-09-26</datepublicationdepense>
+        <montantdepense>1350.000000</montantdepense>
+        <description>Ajout de membranes autocollantes sur les côtés latéraux de l'ensemble des fenêtres et de la toiture pour assurer meilleure étanchéité.</description>
+        <nomcontractant>Construction Léger Et fils Inc</nomcontractant>
+        <neqcontractant>1165222382</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-30</datedepense>
+        <datepublicationdepense>2018-09-26</datepublicationdepense>
+        <montantdepense>770.000000</montantdepense>
+        <description>Nettoyage de l'ensemble des gouttières existantes du bâtiment lesquelles sont totalement obstruées.</description>
+        <nomcontractant>Construction Léger Et fils Inc</nomcontractant>
+        <neqcontractant>1165222382</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1164038</numeroseao>
+    <numero>2017/18-216</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-08-14</datedepense>
+        <datepublicationdepense>2018-08-28</datepublicationdepense>
+        <montantdepense>19468.610000</montantdepense>
+        <description>Am # 1 à 5 - Ajout de toiles, Ajout Enseigne Chantier, Enlever amiante planfond et conduits, Retirer retombées à l'entrée et planfonds</description>
+        <nomcontractant>Construction Stafford inc</nomcontractant>
+        <neqcontractant>1164229180</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-14</datedepense>
+        <datepublicationdepense>2018-08-28</datepublicationdepense>
+        <montantdepense>1773.590000</montantdepense>
+        <description>Am#6 dépasse +10% 10,18% DM-A-06 Préparation planchers aux endroits où l'on installe de la nouvelle tuile, Casser béton qui remonte le long de sfissures avant de faire la préparation des planchers</description>
+        <nomcontractant>Construction Stafford inc</nomcontractant>
+        <neqcontractant>1164229180</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-22</datedepense>
+        <datepublicationdepense>2018-09-13</datepublicationdepense>
+        <montantdepense>3405.360000</montantdepense>
+        <description>Am#7 Enlever grille murale et conduit de transfert d'air - Prolonger conduit alimentation d'air et installer nouvelle grille au nouveau plafond suspendu - Isoler de nouveau tuyauterie - Recouvrir l'isolant d'un chemisage en canevas</description>
+        <nomcontractant>Construction Stafford inc</nomcontractant>
+        <neqcontractant>1164229180</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-27</datedepense>
+        <datepublicationdepense>2018-09-13</datepublicationdepense>
+        <montantdepense>782.230000</montantdepense>
+        <description>AM#8 DM-A-07 - À notre demande, l'Entrepreneur a retiré les attaches non requises, ragréer les ouvertures et peinturer le mur du côté des fenêtres au local 026</description>
+        <nomcontractant>Construction Stafford inc</nomcontractant>
+        <neqcontractant>1164229180</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1180389</numeroseao>
+    <numero>CS20180645</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-09-10</datedepense>
+        <datepublicationdepense>2018-09-13</datepublicationdepense>
+        <montantdepense>24861.000000</montantdepense>
+        <description>Ajout entretien d'équipement de distribution de gaz médicaux</description>
+        <nomcontractant>MGM Consultants</nomcontractant>
+        <neqcontractant>1148394738</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1187699</numeroseao>
+    <numero>2018-07-27-001</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-09-24</datedepense>
+        <datepublicationdepense>2018-09-14</datepublicationdepense>
+        <montantdepense>8000.000000</montantdepense>
+        <description>Travaux supplémentaires requis</description>
+        <nomcontractant>DL Héritage Inc.</nomcontractant>
+        <neqcontractant>1171424774</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+</export>

@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2020-04-01" datefin="2020-04-30">
+  <contrat>
+    <numeroseao>190568</numeroseao>
+    <numero>7006-08-0905</numero>
+    <datefinale>2020-04-06</datefinale>
+    <datepublicationfinale>2015-07-22</datepublicationfinale>
+    <montantfinal>22657649.350000</montantfinal>
+    <nomcontractant>Construction et Pavage Boisvert inc</nomcontractant>
+    <neqcontractant>1147044672</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>277229</numeroseao>
+    <numero>7006-09-0901</numero>
+    <datefinale>2020-04-06</datefinale>
+    <datepublicationfinale>2014-03-06</datepublicationfinale>
+    <montantfinal>5386463.620000</montantfinal>
+    <nomcontractant>Construction et Pavage Boisvert inc</nomcontractant>
+    <neqcontractant>1147044672</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>381946</numeroseao>
+    <numero>7107-10-0206</numero>
+    <datefinale>2020-03-03</datefinale>
+    <datepublicationfinale>2015-04-14</datepublicationfinale>
+    <montantfinal>22871047.420000</montantfinal>
+    <nomcontractant>Pomerleau Inc.</nomcontractant>
+    <neqcontractant>1142005934</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>509115</numeroseao>
+    <numero>C-11-07-A</numero>
+    <datefinale>2012-11-02</datefinale>
+    <datepublicationfinale>2016-04-19</datepublicationfinale>
+    <montantfinal>144974.510000</montantfinal>
+    <nomcontractant>Bau-Québec Ltée..</nomcontractant>
+    <neqcontractant>1171182919</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>519134</numeroseao>
+    <numero>7107-11-0211</numero>
+    <datefinale>2020-03-24</datefinale>
+    <datepublicationfinale>2013-11-27</datepublicationfinale>
+    <montantfinal>4249297.340000</montantfinal>
+    <nomcontractant>Construction Génix Inc.</nomcontractant>
+    <neqcontractant>1161491577</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>629168</numeroseao>
+    <numero>8701-12-0202</numero>
+    <datefinale>2017-07-27</datefinale>
+    <datepublicationfinale>2017-11-01</datepublicationfinale>
+    <montantfinal>2538762.530000</montantfinal>
+    <nomcontractant>Construction Injection EDM Inc.</nomcontractant>
+    <neqcontractant>1144167138</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>737793</numeroseao>
+    <numero>8603-13-HE21</numero>
+    <datefinale>2020-02-24</datefinale>
+    <datepublicationfinale>2017-05-03</datepublicationfinale>
+    <montantfinal>605939.300000</montantfinal>
+    <nomcontractant>Les Services EXP Inc</nomcontractant>
+    <neqcontractant>1167268128</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>863735</numeroseao>
+    <numero>26313100</numero>
+    <datefinale>2020-01-24</datefinale>
+    <datepublicationfinale>2017-02-20</datepublicationfinale>
+    <montantfinal>569225.310000</montantfinal>
+    <nomcontractant>Regulvar Inc..</nomcontractant>
+    <neqcontractant>1146502761</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>887112</numeroseao>
+    <numero>8801-14-0203</numero>
+    <datefinale>2020-02-19</datefinale>
+    <datepublicationfinale>2020-01-15</datepublicationfinale>
+    <montantfinal>1958958.860000</montantfinal>
+    <nomcontractant>9090-5092 Québec inc.(Coffrages Saulnier)</nomcontractant>
+    <neqcontractant>1149312721</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>887486</numeroseao>
+    <numero>7106-14-1102</numero>
+    <datefinale>2020-02-28</datefinale>
+    <datepublicationfinale>2019-06-26</datepublicationfinale>
+    <montantfinal>3622813.790000</montantfinal>
+    <nomcontractant>Paul Pedneault Inc</nomcontractant>
+    <neqcontractant>1170180351</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>892735</numeroseao>
+    <numero>6309-12-PC01</numero>
+    <datefinale>2020-03-13</datefinale>
+    <datepublicationfinale>2015-05-11</datepublicationfinale>
+    <montantfinal>59454.000000</montantfinal>
+    <nomcontractant>Ferlatte, Lise</nomcontractant>
+    <neqcontractant>2270936554</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>911287</numeroseao>
+    <numero>7187-15-4510</numero>
+    <datefinale>2018-04-26</datefinale>
+    <datepublicationfinale>2017-09-21</datepublicationfinale>
+    <montantfinal>2058145.500000</montantfinal>
+    <nomcontractant>Transport Lavoie ltée / 9011-9850 QC inc.</nomcontractant>
+    <neqcontractant>3367868372</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>914173</numeroseao>
+    <numero>SE261525</numero>
+    <datefinale>2019-01-10</datefinale>
+    <datepublicationfinale>2017-05-19</datepublicationfinale>
+    <montantfinal>26185.330000</montantfinal>
+    <nomcontractant>Vertika</nomcontractant>
+    <neqcontractant>1164615859</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>975707</numeroseao>
+    <numero>8603-15-0008</numero>
+    <datefinale>2020-03-05</datefinale>
+    <datepublicationfinale>2019-06-26</datepublicationfinale>
+    <montantfinal>3039598.600000</montantfinal>
+    <nomcontractant>Les entreprises Claude Chagnon Inc.</nomcontractant>
+    <neqcontractant>1142284380</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1000557</numeroseao>
+    <numero>6301-16-HE09</numero>
+    <datefinale>2019-10-09</datefinale>
+    <datepublicationfinale>2019-06-19</datepublicationfinale>
+    <montantfinal>152507.030000</montantfinal>
+    <nomcontractant>BPR - Infrastructure inc.</nomcontractant>
+    <neqcontractant>1161581104</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1003633</numeroseao>
+    <numero>31102600</numero>
+    <datefinale>2019-11-25</datefinale>
+    <datepublicationfinale>2019-12-04</datepublicationfinale>
+    <montantfinal>108437.480000</montantfinal>
+    <nomcontractant>Consortium Delta Inc.</nomcontractant>
+    <neqcontractant>1142217513</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1007716</numeroseao>
+    <numero>31490000</numero>
+    <datefinale>2019-10-31</datefinale>
+    <datepublicationfinale>2019-12-18</datepublicationfinale>
+    <montantfinal>80454.160000</montantfinal>
+    <nomcontractant>Av-Tech INC..</nomcontractant>
+    <neqcontractant>1143543099</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1078114</numeroseao>
+    <numero>2017SCA383</numero>
+    <datefinale>2020-03-31</datefinale>
+    <datepublicationfinale>2018-04-12</datepublicationfinale>
+    <montantfinal>394086.660000</montantfinal>
+    <nomcontractant>Logibec inc.</nomcontractant>
+    <neqcontractant>1170568035</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1090393</numeroseao>
+    <numero>7003-17-KA11</numero>
+    <datefinale>2020-03-03</datefinale>
+    <datepublicationfinale>2019-06-20</datepublicationfinale>
+    <montantfinal>24047.730000</montantfinal>
+    <nomcontractant>GHD Consultants Ltée</nomcontractant>
+    <neqcontractant>1171077796</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1101452</numeroseao>
+    <numero>7003-17-KA15</numero>
+    <datefinale>2020-03-03</datefinale>
+    <datepublicationfinale>2019-06-20</datepublicationfinale>
+    <montantfinal>27896.500000</montantfinal>
+    <nomcontractant>Labo S.M. inc.</nomcontractant>
+    <neqcontractant>1143022672</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1117106</numeroseao>
+    <numero>33559400</numero>
+    <datefinale>2018-11-23</datefinale>
+    <datepublicationfinale>2019-03-07</datepublicationfinale>
+    <montantfinal>45976.000000</montantfinal>
+    <nomcontractant>Puribec Inc.</nomcontractant>
+    <neqcontractant>1142430579</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1133293</numeroseao>
+    <numero>44508347</numero>
+    <datefinale>2020-01-30</datefinale>
+    <datepublicationfinale>2020-03-09</datepublicationfinale>
+    <montantfinal>110894.000000</montantfinal>
+    <nomcontractant>Courtier RCGT inc.</nomcontractant>
+    <neqcontractant>1143347301</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1171284</numeroseao>
+    <numero>CGER 690016</numero>
+    <datefinale>2019-02-19</datefinale>
+    <datepublicationfinale>2019-08-28</datepublicationfinale>
+    <montantfinal>213652.000000</montantfinal>
+    <nomcontractant>Lévis Ford</nomcontractant>
+    <neqcontractant>1172401912</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1180251</numeroseao>
+    <numero>CGER 18 690022</numero>
+    <datefinale>2020-02-14</datefinale>
+    <datepublicationfinale>2020-03-06</datepublicationfinale>
+    <montantfinal>1348299.600000</montantfinal>
+    <nomcontractant>Camions Freightliner Drummondville</nomcontractant>
+    <neqcontractant>1146216115</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1189711</numeroseao>
+    <numero>6301-18-HG01</numero>
+    <datefinale>2020-01-13</datefinale>
+    <datepublicationfinale>2020-02-13</datepublicationfinale>
+    <montantfinal>96501.200000</montantfinal>
+    <nomcontractant>Englobe Corp.</nomcontractant>
+    <neqcontractant>1167280206</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1194058</numeroseao>
+    <numero>7103-18-KA01</numero>
+    <datefinale>2020-01-15</datefinale>
+    <datepublicationfinale>2020-02-27</datepublicationfinale>
+    <montantfinal>102552.120000</montantfinal>
+    <nomcontractant>Labo S.M. inc.</nomcontractant>
+    <neqcontractant>1143022672</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1197708</numeroseao>
+    <numero>7103-18-KZ07</numero>
+    <datefinale>2020-02-28</datefinale>
+    <datepublicationfinale>2019-10-30</datepublicationfinale>
+    <montantfinal>40249.170000</montantfinal>
+    <nomcontractant>GHD Consultants Ltée</nomcontractant>
+    <neqcontractant>1171077796</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1201088</numeroseao>
+    <numero>7003-18-KB02</numero>
+    <datefinale>2020-03-03</datefinale>
+    <datepublicationfinale>2019-06-26</datepublicationfinale>
+    <montantfinal>49649.970000</montantfinal>
+    <nomcontractant>GHD Consultants Ltée</nomcontractant>
+    <neqcontractant>1171077796</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1213562</numeroseao>
+    <numero>45000325</numero>
+    <datefinale>2019-01-17</datefinale>
+    <datepublicationfinale>2019-09-24</datepublicationfinale>
+    <montantfinal>48806.270000</montantfinal>
+    <nomcontractant>Societe Canadienne des Postes</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1220427</numeroseao>
+    <numero>143073</numero>
+    <datefinale>2020-04-29</datefinale>
+    <datepublicationfinale>2020-01-14</datepublicationfinale>
+    <montantfinal>111642.740000</montantfinal>
+    <nomcontractant>Fibrenoire Inc. / Vidéotron S.E.N.C.</nomcontractant>
+    <neqcontractant>1169044113</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1224685</numeroseao>
+    <numero>44509235</numero>
+    <datefinale>2020-02-14</datefinale>
+    <datepublicationfinale>2020-03-02</datepublicationfinale>
+    <montantfinal>58562.550000</montantfinal>
+    <nomcontractant>Planidesign</nomcontractant>
+    <neqcontractant>1143281773</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1224731</numeroseao>
+    <numero>6509-18-ST01</numero>
+    <datefinale>2020-03-31</datefinale>
+    <datepublicationfinale>2019-11-22</datepublicationfinale>
+    <montantfinal>55662.750000</montantfinal>
+    <nomcontractant>Entreprises Rémi Charest inc., Les</nomcontractant>
+    <neqcontractant>1142219279</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1228595</numeroseao>
+    <numero>APL181900201</numero>
+    <datefinale>2019-10-28</datefinale>
+    <datepublicationfinale>2019-10-28</datepublicationfinale>
+    <montantfinal>475000.000000</montantfinal>
+    <nomcontractant>Toiture Benoit Tremblay (1979) Inc</nomcontractant>
+    <neqcontractant>1162317664</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1247940</numeroseao>
+    <numero>2403-19-AP27</numero>
+    <datefinale>2019-10-31</datefinale>
+    <datepublicationfinale>2019-12-02</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant>Location d'auto et camions Discount</nomcontractant>
+    <neqcontractant>1143375468</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1274069</numeroseao>
+    <numero>35791801</numero>
+    <datefinale>2019-09-30</datefinale>
+    <datepublicationfinale>2019-12-09</datepublicationfinale>
+    <montantfinal>76792.950000</montantfinal>
+    <nomcontractant>COMENCO Services aux immeubles inc.</nomcontractant>
+    <neqcontractant>1167673103</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1275673</numeroseao>
+    <numero>45000662</numero>
+    <datefinale>2019-11-25</datefinale>
+    <datepublicationfinale>2020-01-16</datepublicationfinale>
+    <montantfinal>159843.470000</montantfinal>
+    <nomcontractant>Cofomo inc.</nomcontractant>
+    <neqcontractant>1142126664</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1277445</numeroseao>
+    <numero>45000668</numero>
+    <datefinale>2020-01-16</datefinale>
+    <datepublicationfinale>2019-12-02</datepublicationfinale>
+    <montantfinal>99188.160000</montantfinal>
+    <nomcontractant>2 DSI inc.</nomcontractant>
+    <neqcontractant>1149163231</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1284564</numeroseao>
+    <numero>CGER 19 700027</numero>
+    <datefinale>2020-02-04</datefinale>
+    <datepublicationfinale>2020-02-07</datepublicationfinale>
+    <montantfinal>32537.720000</montantfinal>
+    <nomcontractant>Idéal Cargo inc.</nomcontractant>
+    <neqcontractant>1146392031</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1285514</numeroseao>
+    <numero>401-110-19-014</numero>
+    <datefinale>2019-11-14</datefinale>
+    <datepublicationfinale>2019-10-11</datepublicationfinale>
+    <montantfinal>59871.810000</montantfinal>
+    <nomcontractant>Lignes-fit inc</nomcontractant>
+    <neqcontractant>1171357180</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1288585</numeroseao>
+    <numero>44513004</numero>
+    <datefinale>2020-02-03</datefinale>
+    <datepublicationfinale>2020-03-05</datepublicationfinale>
+    <montantfinal>75327.550000</montantfinal>
+    <nomcontractant>Pageau Morel et associés inc.</nomcontractant>
+    <neqcontractant>1144576254</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1289539</numeroseao>
+    <numero>44513005</numero>
+    <datefinale>2020-02-17</datefinale>
+    <datepublicationfinale>2020-03-05</datepublicationfinale>
+    <montantfinal>19843.550000</montantfinal>
+    <nomcontractant>WSP Canada Inc.</nomcontractant>
+    <neqcontractant>1148357057</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1291411</numeroseao>
+    <numero>4730000049</numero>
+    <datefinale>2020-01-31</datefinale>
+    <datepublicationfinale>2019-12-30</datepublicationfinale>
+    <montantfinal>113474.200000</montantfinal>
+    <nomcontractant>Riocan Holdings (Québec) inc.</nomcontractant>
+    <neqcontractant>1147579578</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1294807</numeroseao>
+    <numero>44512962</numero>
+    <datefinale>2020-02-19</datefinale>
+    <datepublicationfinale>2020-03-05</datepublicationfinale>
+    <montantfinal>61776.530000</montantfinal>
+    <nomcontractant>Provencher_Roy_BBBL</nomcontractant>
+    <neqcontractant>1172835382</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1317412</numeroseao>
+    <numero>5311-18-AP02</numero>
+    <datefinale>2018-08-28</datefinale>
+    <datepublicationfinale>2019-11-01</datepublicationfinale>
+    <montantfinal>53853.100000</montantfinal>
+    <nomcontractant>VMware International Limited</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1319382</numeroseao>
+    <numero>44515822</numero>
+    <datefinale>2020-03-26</datefinale>
+    <datepublicationfinale>2020-03-26</datepublicationfinale>
+    <montantfinal>33891.720000</montantfinal>
+    <nomcontractant>A Plus Construction</nomcontractant>
+    <neqcontractant>1147105218</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1327285</numeroseao>
+    <numero>45063156</numero>
+    <datefinale>2019-12-31</datefinale>
+    <datepublicationfinale>2020-03-24</datepublicationfinale>
+    <montantfinal>103477.500000</montantfinal>
+    <nomcontractant>AUTOBUS E. MENARD ET FILS</nomcontractant>
+    <neqcontractant>1140280844</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1329762</numeroseao>
+    <numero>36374701</numero>
+    <datefinale>2019-12-19</datefinale>
+    <datepublicationfinale>2020-03-30</datepublicationfinale>
+    <montantfinal>44251.900000</montantfinal>
+    <nomcontractant>ECP Construction Inc.</nomcontractant>
+    <neqcontractant>1173096323</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1338466</numeroseao>
+    <numero>6606-17-SB01</numero>
+    <datefinale>2020-04-01</datefinale>
+    <datepublicationfinale>2020-01-24</datepublicationfinale>
+    <montantfinal>58331.330000</montantfinal>
+    <nomcontractant>Groupe Ferti (Fertibeauce Inc)</nomcontractant>
+    <neqcontractant>1142280917</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1338739</numeroseao>
+    <numero>36351001</numero>
+    <datefinale>2019-12-31</datefinale>
+    <datepublicationfinale>2020-03-27</datepublicationfinale>
+    <montantfinal>27271.260000</montantfinal>
+    <nomcontractant>Construction &amp; Ferblanterie JB Sept-îles Inc.</nomcontractant>
+    <neqcontractant>1141117201</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1349432</numeroseao>
+    <numero>44509212</numero>
+    <datefinale>2019-12-03</datefinale>
+    <datepublicationfinale>2020-03-30</datepublicationfinale>
+    <montantfinal>26148.200000</montantfinal>
+    <nomcontractant>LG4 Architecte Inc.</nomcontractant>
+    <neqcontractant>1172658974</neqcontractant>
+  </contrat>
+</export>

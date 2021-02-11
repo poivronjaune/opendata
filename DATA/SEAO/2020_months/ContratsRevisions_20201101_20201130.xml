@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2020-11-01" datefin="2020-11-30">
+  <contrat>
+    <numeroseao>305579</numeroseao>
+    <numero>7103-09-GE02</numero>
+    <datefinale>2020-09-15</datefinale>
+    <datepublicationfinale>2020-07-06</datepublicationfinale>
+    <montantfinal>4604672.000000</montantfinal>
+    <nomcontractant>DESSAU / BPR</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>910547</numeroseao>
+    <numero>29254900</numero>
+    <datefinale>2020-07-31</datefinale>
+    <datepublicationfinale>2020-09-10</datepublicationfinale>
+    <montantfinal>1053358.910000</montantfinal>
+    <nomcontractant>Centrap inc..</nomcontractant>
+    <neqcontractant>1141873738</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>981067</numeroseao>
+    <numero>FP-177</numero>
+    <datefinale>2018-11-02</datefinale>
+    <datepublicationfinale>2018-07-16</datepublicationfinale>
+    <montantfinal>903652.000000</montantfinal>
+    <nomcontractant>Constructions Anor (1992) INC</nomcontractant>
+    <neqcontractant>1142123372</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1004454</numeroseao>
+    <numero>ST-14-032</numero>
+    <datefinale>2020-07-17</datefinale>
+    <datepublicationfinale>2018-07-27</datepublicationfinale>
+    <montantfinal>364791.530000</montantfinal>
+    <nomcontractant>Securmax Systèmes Intégrés de Sécurité inc.</nomcontractant>
+    <neqcontractant>1145764511</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1005477</numeroseao>
+    <numero>APP-16-219</numero>
+    <datefinale>2020-10-21</datefinale>
+    <datepublicationfinale>2020-02-11</datepublicationfinale>
+    <montantfinal>473051.050000</montantfinal>
+    <nomcontractant>Distribution Elite Canada Inc.</nomcontractant>
+    <neqcontractant>1170553698</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1022768</numeroseao>
+    <numero>2016-T-I-44</numero>
+    <datefinale>2019-07-09</datefinale>
+    <datepublicationfinale>2018-07-19</datepublicationfinale>
+    <montantfinal>43836.730000</montantfinal>
+    <nomcontractant>BAU-VAL INC.</nomcontractant>
+    <neqcontractant>1161846663</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1126426</numeroseao>
+    <numero>2018-T-P-08</numero>
+    <datefinale>2018-03-26</datefinale>
+    <datepublicationfinale>2018-06-07</datepublicationfinale>
+    <montantfinal>91816.080000</montantfinal>
+    <nomcontractant>Lumen</nomcontractant>
+    <neqcontractant>1161248001</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1153988</numeroseao>
+    <numero>44509286</numero>
+    <datefinale />
+    <datepublicationfinale>2019-11-22</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant>9140-0663 Québec Inc. (GS Construction)</nomcontractant>
+    <neqcontractant>1162104666</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1160534</numeroseao>
+    <numero>P1455-01-  /915S</numero>
+    <datefinale>2019-03-31</datefinale>
+    <datepublicationfinale>2019-05-29</datepublicationfinale>
+    <montantfinal>41249.840000</montantfinal>
+    <nomcontractant>Laurentide Re/Sources Inc.</nomcontractant>
+    <neqcontractant>1161510236</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1164546</numeroseao>
+    <numero>1001768</numero>
+    <datefinale>2020-11-03</datefinale>
+    <datepublicationfinale>2019-09-18</datepublicationfinale>
+    <montantfinal>2248898.350000</montantfinal>
+    <nomcontractant>SPECIALISTE D'OUVRAGES D'ART CSTP INC</nomcontractant>
+    <neqcontractant>1160105707</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1167566</numeroseao>
+    <numero>17-083-AOP-91708</numero>
+    <datefinale>2019-12-09</datefinale>
+    <datepublicationfinale>2020-01-08</datepublicationfinale>
+    <montantfinal>294920.840000</montantfinal>
+    <nomcontractant>Polyval Construction Inc .</nomcontractant>
+    <neqcontractant>1142600312</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1179962</numeroseao>
+    <numero>5004118</numero>
+    <datefinale>2020-06-30</datefinale>
+    <datepublicationfinale>2020-07-22</datepublicationfinale>
+    <montantfinal>86285.510000</montantfinal>
+    <nomcontractant>Bio Basic Canada Inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1199581</numeroseao>
+    <numero>C-05-18C4</numero>
+    <datefinale>2020-01-01</datefinale>
+    <datepublicationfinale>2020-04-22</datepublicationfinale>
+    <montantfinal>83173.560000</montantfinal>
+    <nomcontractant>Les installations sportives Agora Inc.</nomcontractant>
+    <neqcontractant>1162308515</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1212121</numeroseao>
+    <numero>1001788</numero>
+    <datefinale>2019-06-07</datefinale>
+    <datepublicationfinale>2019-06-26</datepublicationfinale>
+    <montantfinal>215627.560000</montantfinal>
+    <nomcontractant>Construction Maju ltée</nomcontractant>
+    <neqcontractant>1142943647</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1213572</numeroseao>
+    <numero>201811-67</numero>
+    <datefinale>2019-01-14</datefinale>
+    <datepublicationfinale>2020-03-03</datepublicationfinale>
+    <montantfinal>271488.220000</montantfinal>
+    <nomcontractant>Poralu Marine Inc</nomcontractant>
+    <neqcontractant>1143661545</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1242517</numeroseao>
+    <numero>CGER 18 690130</numero>
+    <datefinale>2020-06-30</datefinale>
+    <datepublicationfinale>2020-03-06</datepublicationfinale>
+    <montantfinal>910685.000000</montantfinal>
+    <nomcontractant>Service D'Équipement G.D. Inc.</nomcontractant>
+    <neqcontractant>1160775103</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1269953</numeroseao>
+    <numero>1001983</numero>
+    <datefinale>2019-12-31</datefinale>
+    <datepublicationfinale>2020-04-02</datepublicationfinale>
+    <montantfinal>986699.350000</montantfinal>
+    <nomcontractant>BOISVERT MITSUBISHI</nomcontractant>
+    <neqcontractant>1161551537</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1279682</numeroseao>
+    <numero>339</numero>
+    <datefinale>2020-06-13</datefinale>
+    <datepublicationfinale>2020-01-30</datepublicationfinale>
+    <montantfinal>52500.000000</montantfinal>
+    <nomcontractant>Dexero</nomcontractant>
+    <neqcontractant>1164963903</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1287876</numeroseao>
+    <numero>BON192000078</numero>
+    <datefinale>2020-05-20</datefinale>
+    <datepublicationfinale>2019-12-10</datepublicationfinale>
+    <montantfinal>31551.600000</montantfinal>
+    <nomcontractant>SOLOTECH  INC.</nomcontractant>
+    <neqcontractant>1162827803</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1291791</numeroseao>
+    <numero>1002015</numero>
+    <datefinale>2019-12-31</datefinale>
+    <datepublicationfinale>2020-04-02</datepublicationfinale>
+    <montantfinal>180543.860000</montantfinal>
+    <nomcontractant>Norda Stelo Inc. (siège social)</nomcontractant>
+    <neqcontractant>1165310831</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1293804</numeroseao>
+    <numero>1002016</numero>
+    <datefinale>2019-12-31</datefinale>
+    <datepublicationfinale>2020-04-02</datepublicationfinale>
+    <montantfinal>39205.330000</montantfinal>
+    <nomcontractant>Norda Stelo Inc. (siège social)</nomcontractant>
+    <neqcontractant>1165310831</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1313367</numeroseao>
+    <numero>LO-2019-01</numero>
+    <datefinale />
+    <datepublicationfinale>2020-05-12</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant>labelle et freres inc</nomcontractant>
+    <neqcontractant>1160518735</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1315489</numeroseao>
+    <numero>45061765</numero>
+    <datefinale>2019-09-09</datefinale>
+    <datepublicationfinale>2020-10-06</datepublicationfinale>
+    <montantfinal>45436.970000</montantfinal>
+    <nomcontractant>Stella-Jones inc.</nomcontractant>
+    <neqcontractant>1143316298</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1323577</numeroseao>
+    <numero>45062220</numero>
+    <datefinale>2020-01-01</datefinale>
+    <datepublicationfinale>2020-04-02</datepublicationfinale>
+    <montantfinal>110592.150000</montantfinal>
+    <nomcontractant>SYSTRA Canada Inc. (anciennement CANARAIL)</nomcontractant>
+    <neqcontractant>1148383178</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1324533</numeroseao>
+    <numero>BR7523</numero>
+    <datefinale>2020-10-30</datefinale>
+    <datepublicationfinale>2020-08-26</datepublicationfinale>
+    <montantfinal>58746.000000</montantfinal>
+    <nomcontractant>Dion Revêtements spécialisés inc.</nomcontractant>
+    <neqcontractant>1161819652</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1325268</numeroseao>
+    <numero>CGER 19 700095</numero>
+    <datefinale>2020-07-10</datefinale>
+    <datepublicationfinale>2020-07-15</datepublicationfinale>
+    <montantfinal>20600.000000</montantfinal>
+    <nomcontractant>Entreprise Ramec inc.</nomcontractant>
+    <neqcontractant>1160575545</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1325277</numeroseao>
+    <numero>CGER 19 700096</numero>
+    <datefinale>2020-07-14</datefinale>
+    <datepublicationfinale>2020-04-08</datepublicationfinale>
+    <montantfinal>109667.020000</montantfinal>
+    <nomcontractant>Idéal Cargo inc.</nomcontractant>
+    <neqcontractant>1146392031</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1327352</numeroseao>
+    <numero>45063608</numero>
+    <datefinale>2020-04-02</datefinale>
+    <datepublicationfinale>2020-04-02</datepublicationfinale>
+    <montantfinal>91405.130000</montantfinal>
+    <nomcontractant>Bousquet Technologies.</nomcontractant>
+    <neqcontractant>1142014423</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1329263</numeroseao>
+    <numero>SSC20-03</numero>
+    <datefinale>2020-06-30</datefinale>
+    <datepublicationfinale>2020-07-14</datepublicationfinale>
+    <montantfinal>69700.000000</montantfinal>
+    <nomcontractant>Suzy Lussier</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1331792</numeroseao>
+    <numero>CGER 19 700102</numero>
+    <datefinale>2020-09-30</datefinale>
+    <datepublicationfinale>2020-10-23</datepublicationfinale>
+    <montantfinal>55155.500000</montantfinal>
+    <nomcontractant>Hiab Québec</nomcontractant>
+    <neqcontractant>1160001435</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1342803</numeroseao>
+    <numero>45064660</numero>
+    <datefinale>2020-04-30</datefinale>
+    <datepublicationfinale>2020-10-06</datepublicationfinale>
+    <montantfinal>66706.780000</montantfinal>
+    <nomcontractant>PNR Railworks Québec inc.</nomcontractant>
+    <neqcontractant>1142801225</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1346726</numeroseao>
+    <numero>45065212</numero>
+    <datefinale>2020-04-02</datefinale>
+    <datepublicationfinale>2020-04-02</datepublicationfinale>
+    <montantfinal>41338.980000</montantfinal>
+    <nomcontractant>Le Groupe LML Ltée</nomcontractant>
+    <neqcontractant>1169018786</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1348166</numeroseao>
+    <numero>CGER 19 700131</numero>
+    <datefinale>2020-06-04</datefinale>
+    <datepublicationfinale>2020-10-23</datepublicationfinale>
+    <montantfinal>38661.800000</montantfinal>
+    <nomcontractant>J.-René Lafond inc.</nomcontractant>
+    <neqcontractant>1171818264</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1364564</numeroseao>
+    <numero>CGER 19 700153</numero>
+    <datefinale>2020-09-30</datefinale>
+    <datepublicationfinale>2020-10-23</datepublicationfinale>
+    <montantfinal>27480.000000</montantfinal>
+    <nomcontractant>Entreprise Ramec inc.</nomcontractant>
+    <neqcontractant>1160575545</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1383081</numeroseao>
+    <numero>DS-225100</numero>
+    <datefinale>2020-11-26</datefinale>
+    <datepublicationfinale>2020-06-17</datepublicationfinale>
+    <montantfinal>94741.000000</montantfinal>
+    <nomcontractant>Centre du Travailleur F.H. inc.</nomcontractant>
+    <neqcontractant>1168767581</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1391711</numeroseao>
+    <numero>BC26788</numero>
+    <datefinale>2020-08-17</datefinale>
+    <datepublicationfinale>2020-09-16</datepublicationfinale>
+    <montantfinal>70868.730000</montantfinal>
+    <nomcontractant>Les Constructions Scandinaves</nomcontractant>
+    <neqcontractant>1162226550</neqcontractant>
+  </contrat>
+</export>

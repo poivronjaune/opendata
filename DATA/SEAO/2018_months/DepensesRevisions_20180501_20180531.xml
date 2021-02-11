@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2018-05-01" datefin="2018-05-31">
+  <avis>
+    <numeroseao>360025</numeroseao>
+    <numero>3301-09-ZZ01</numero>
+    <depenses>
+      <depense>
+        <datedepense>2014-04-01</datedepense>
+        <datepublicationdepense>2014-05-16</datepublicationdepense>
+        <montantdepense>50000.000000</montantdepense>
+        <description>Surveillance additionnelle liée à des imprévus ou une prolongation de l'échéancier ou à une situation particulière</description>
+        <nomcontractant>RAYMOND CHABOT GRANT THORNTON </nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2014-02-27</datedepense>
+        <datepublicationdepense>2016-05-09</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Correction, dépassement inscrit par erreur</description>
+        <nomcontractant>RAYMOND CHABOT GRANT THORNTON </nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>458977</numeroseao>
+    <numero>8503-10-HE02</numero>
+    <depenses>
+      <depense>
+        <datedepense>2014-04-24</datedepense>
+        <datepublicationdepense>2014-06-17</datepublicationdepense>
+        <montantdepense>387967.300000</montantdepense>
+        <description>Dépassement relié à des modifications au contrat de services professionnels</description>
+        <nomcontractant>Consortium SNC-Lavalin/Cima+/ Genivar</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2015-04-29</datedepense>
+        <datepublicationdepense>2015-06-01</datepublicationdepense>
+        <montantdepense>21116.540000</montantdepense>
+        <description>Dépassement relié à des modifications au contrat de services professionnels</description>
+        <nomcontractant>Consortium SNC-Lavalin/Cima+/ Genivar</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2015-06-08</datedepense>
+        <datepublicationdepense>2015-07-15</datepublicationdepense>
+        <montantdepense>85874.040000</montantdepense>
+        <description>Dépassement relié à des modifications au contrat de services professionnels</description>
+        <nomcontractant>Consortium SNC-Lavalin/Cima+/ Genivar</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2015-08-25</datedepense>
+        <datepublicationdepense>2015-09-29</datepublicationdepense>
+        <montantdepense>188755.100000</montantdepense>
+        <description>Dépassement relié à des modifications au contrat de services professionnels</description>
+        <nomcontractant>Consortium SNC-Lavalin/Cima+/ Genivar</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2015-12-15</datedepense>
+        <datepublicationdepense>2016-01-25</datepublicationdepense>
+        <montantdepense>27040.780000</montantdepense>
+        <description>Dépassement relié à des modifications au contrat de services professionnels</description>
+        <nomcontractant>Consortium SNC-Lavalin/Cima+/ Genivar</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2016-06-22</datedepense>
+        <datepublicationdepense>2018-05-18</datepublicationdepense>
+        <montantdepense>305000.000000</montantdepense>
+        <description>Poursuites judiciaires ou réclamations</description>
+        <nomcontractant>Consortium SNC-Lavalin/Cima+/ Genivar</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>634113</numeroseao>
+    <numero>P20610</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-11-24</datedepense>
+        <datepublicationdepense>2018-05-07</datepublicationdepense>
+        <montantdepense>90000.000000</montantdepense>
+        <description>Pour permettre de couvrir la période de transition entre les deux prestataires de services. </description>
+        <nomcontractant>Banque Nationale du Canada - Secteur public</nomcontractant>
+        <neqcontractant>1141418286</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-30</datedepense>
+        <datepublicationdepense>2018-05-07</datepublicationdepense>
+        <montantdepense>225000.000000</montantdepense>
+        <description>Pour permettre de couvrir la période de transition entre les deux prestataires de services</description>
+        <nomcontractant>Banque Nationale du Canada - Secteur public</nomcontractant>
+        <neqcontractant>1141418286</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>670551</numeroseao>
+    <numero>7007-12-HC02</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-09-23</datedepense>
+        <datepublicationdepense>2015-11-20</datepublicationdepense>
+        <montantdepense>38994.360000</montantdepense>
+        <description>Surveillance additionnelle liée à des imprévus ou une prolongation de l'échéancier ou à une situation particulière</description>
+        <nomcontractant>Stantec Experts-Conseils ltée.</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>679589</numeroseao>
+    <numero>2301-13-1101</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-06-23</datedepense>
+        <datepublicationdepense>2015-09-02</datepublicationdepense>
+        <montantdepense>17742398.660000</montantdepense>
+        <description>Dommages ne pouvant être décelés qu'au moment des travaux</description>
+        <nomcontractant>DB-AECON Pont St-Jacques S.E.P</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2018-02-20</datedepense>
+        <datepublicationdepense>2018-05-18</datepublicationdepense>
+        <montantdepense>11959710.270000</montantdepense>
+        <description>Modifications au concept initial</description>
+        <nomcontractant>DB-AECON Pont St-Jacques S.E.P</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>863314</numeroseao>
+    <numero>8506-14-HE04</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-04-09</datedepense>
+        <datepublicationdepense>2018-05-18</datepublicationdepense>
+        <montantdepense>150000.000000</montantdepense>
+        <description>Surveillance additionnelle liée à des imprévus ou à une prolongation de l'échéancier ou à une situation particulière</description>
+        <nomcontractant>Consortium CIMA+/SNC-Lavalin</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>881719</numeroseao>
+    <numero>AOP-2014-S-171</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-05-14</datedepense>
+        <datepublicationdepense>2018-05-04</datepublicationdepense>
+        <montantdepense>540540.000000</montantdepense>
+        <description>Nécessité pour le Ministère de réévaluer ses besoins et ses obligations règlementaires en matière de contrôle de qualité du lait</description>
+        <nomcontractant>VALACTA SOCIÉTÉ EN COMMANDITE</nomcontractant>
+        <neqcontractant>3341606849</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>891933</numeroseao>
+    <numero>7007-15-0211</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-03-06</datedepense>
+        <datepublicationdepense>2018-05-18</datepublicationdepense>
+        <montantdepense>79671.490000</montantdepense>
+        <description>Dépassement relié à des variations de quantité et/ou des modifications au contrat de construction ou de services de nature technique</description>
+        <nomcontractant>Eurovia Québec Construction inc.</nomcontractant>
+        <neqcontractant>1169491884</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>896884</numeroseao>
+    <numero>700 224 185</numero>
+    <depenses />
+  </avis>
+  <avis>
+    <numeroseao>948113</numeroseao>
+    <numero>GGR-0456-15</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-04-06</datedepense>
+        <datepublicationdepense>2017-06-06</datepublicationdepense>
+        <montantdepense>7041.380000</montantdepense>
+        <description>Dépense supplémentaire</description>
+        <nomcontractant>Éditions T.I.</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2018-01-09</datedepense>
+        <datepublicationdepense>2018-05-18</datepublicationdepense>
+        <montantdepense>904.540000</montantdepense>
+        <description>Dépense supplémentaire</description>
+        <nomcontractant>Éditions T.I.</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>955799</numeroseao>
+    <numero>GGR-0474-15</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-01-31</datedepense>
+        <datepublicationdepense>2018-05-01</datepublicationdepense>
+        <montantdepense>3815.640000</montantdepense>
+        <description>Taux d'augmentation plus élevée que prévue</description>
+        <nomcontractant>Business Monitor International Ltd.</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1005748</numeroseao>
+    <numero>31610500</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-02-03</datedepense>
+        <datepublicationdepense>2017-04-21</datepublicationdepense>
+        <montantdepense>7333.000000</montantdepense>
+        <description>Protection contre la pénétration de l'humidité et les sels.</description>
+        <nomcontractant>9110-9983 Québec inc. (Avalex)</nomcontractant>
+        <neqcontractant>1160481876</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-06-28</datedepense>
+        <datepublicationdepense>2017-06-29</datepublicationdepense>
+        <montantdepense>10345.100000</montantdepense>
+        <description>Changement de programme</description>
+        <nomcontractant>9110-9983 Québec inc. (Avalex)</nomcontractant>
+        <neqcontractant>1160481876</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1017913</numeroseao>
+    <numero>70000-EC-PUB-SI</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-05-10</datedepense>
+        <datepublicationdepense>2018-05-29</datepublicationdepense>
+        <montantdepense>100021.020000</montantdepense>
+        <description> Un mandat de contrôle de matériaux a été octroyé à la firme Englobe Corp le 19 décembre 2016, suite à un A/O public. Le mode de sélection était qualité uniquement, puisque la rémunération de ces services était prescrite par le Guide de l'ACLE (association consultants et laboratoires experts) et les</description>
+        <nomcontractant>Englobe</nomcontractant>
+        <neqcontractant>1167280206</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1027444</numeroseao>
+    <numero>44506130</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-10-11</datedepense>
+        <datepublicationdepense>2017-11-28</datepublicationdepense>
+        <montantdepense>294395.320000</montantdepense>
+        <description>Conditions imprévisibles de chantier</description>
+        <nomcontractant>Lambert Somec Inc..</nomcontractant>
+        <neqcontractant>1145371366</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-29</datedepense>
+        <datepublicationdepense>2017-12-18</datepublicationdepense>
+        <montantdepense>2034.890000</montantdepense>
+        <description>Modification du raccordement pour la pompe POEF #3</description>
+        <nomcontractant>Lambert Somec Inc..</nomcontractant>
+        <neqcontractant>1145371366</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-20</datedepense>
+        <datepublicationdepense>2017-12-20</datepublicationdepense>
+        <montantdepense>8061.750000</montantdepense>
+        <description>Travaux supplémentaires dans la salle mécanique</description>
+        <nomcontractant>Lambert Somec Inc..</nomcontractant>
+        <neqcontractant>1145371366</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-20</datedepense>
+        <datepublicationdepense>2017-12-20</datepublicationdepense>
+        <montantdepense>19577.160000</montantdepense>
+        <description>Fournir et installer un disjoncteur.</description>
+        <nomcontractant>Lambert Somec Inc..</nomcontractant>
+        <neqcontractant>1145371366</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-25</datedepense>
+        <datepublicationdepense>2018-01-29</datepublicationdepense>
+        <montantdepense>1387.850000</montantdepense>
+        <description>Réajustement du montant en date du 20 décembre 2017</description>
+        <nomcontractant>Lambert Somec Inc..</nomcontractant>
+        <neqcontractant>1145371366</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-05</datedepense>
+        <datepublicationdepense>2018-02-05</datepublicationdepense>
+        <montantdepense>5203.770000</montantdepense>
+        <description>Ajouter la surveillance de 4 alarmes dans contrôleur de pompe incendie.</description>
+        <nomcontractant>Lambert Somec Inc..</nomcontractant>
+        <neqcontractant>1145371366</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-12</datedepense>
+        <datepublicationdepense>2018-03-20</datepublicationdepense>
+        <montantdepense>22540.130000</montantdepense>
+        <description>Remplacement de l'artère du panneau PPAppentis-BU (aile B)</description>
+        <nomcontractant>Lambert Somec Inc..</nomcontractant>
+        <neqcontractant>1145371366</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-20</datedepense>
+        <datepublicationdepense>2018-03-20</datepublicationdepense>
+        <montantdepense>9081.680000</montantdepense>
+        <description>Modif. du CCM Garage et services. dans la portion de plafond à démanteler au rez-de-chaussée</description>
+        <nomcontractant>Lambert Somec Inc..</nomcontractant>
+        <neqcontractant>1145371366</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-27</datedepense>
+        <datepublicationdepense>2018-03-27</datepublicationdepense>
+        <montantdepense>2518.770000</montantdepense>
+        <description>Construire soufflage de gypse, ragréer tuile de plafond salle repos dans salle de tir</description>
+        <nomcontractant>Lambert Somec Inc..</nomcontractant>
+        <neqcontractant>1145371366</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-27</datedepense>
+        <datepublicationdepense>2018-03-27</datepublicationdepense>
+        <montantdepense>3478.230000</montantdepense>
+        <description>Remplacement du démarreur pour le ventilateur 44-E par un démarreur 2 vitesses</description>
+        <nomcontractant>Lambert Somec Inc..</nomcontractant>
+        <neqcontractant>1145371366</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-27</datedepense>
+        <datepublicationdepense>2018-03-27</datepublicationdepense>
+        <montantdepense>9250.000000</montantdepense>
+        <description>Précision sur l'installation des prises de terre du réseau de paratonnerre</description>
+        <nomcontractant>Lambert Somec Inc..</nomcontractant>
+        <neqcontractant>1145371366</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-10</datedepense>
+        <datepublicationdepense>2018-04-10</datepublicationdepense>
+        <montantdepense>41036.040000</montantdepense>
+        <description>Prolonger l'artère d'alimentation de la chaudière électrique</description>
+        <nomcontractant>Lambert Somec Inc..</nomcontractant>
+        <neqcontractant>1145371366</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1061296</numeroseao>
+    <numero>AO20170228</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-08-31</datedepense>
+        <datepublicationdepense>2017-09-12</datepublicationdepense>
+        <montantdepense>17575.000000</montantdepense>
+        <description>Prolongation du contrat</description>
+        <nomcontractant>Solutions B2M</nomcontractant>
+        <neqcontractant>1166496670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-27</datedepense>
+        <datepublicationdepense>2017-12-18</datepublicationdepense>
+        <montantdepense>4655.000000</montantdepense>
+        <description>Projet d'un niveau de complexité plus élevé que prévu. Le projet qui devait se terminer en novembre doit être prolongé jusqu'en juin 2018.</description>
+        <nomcontractant>Solutions B2M</nomcontractant>
+        <neqcontractant>1166496670</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1067116</numeroseao>
+    <numero>A201757001</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-11-27</datedepense>
+        <datepublicationdepense>2018-05-09</datepublicationdepense>
+        <montantdepense>4599.550000</montantdepense>
+        <description>Fournir et installer isolateurs de fin de lignes et et ajouter (4) nouveaux détecteurs</description>
+        <nomcontractant>Champoux Électrique</nomcontractant>
+        <neqcontractant>1166449919</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1072982</numeroseao>
+    <numero>16-119</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-09-20</datedepense>
+        <datepublicationdepense>2018-05-03</datepublicationdepense>
+        <montantdepense>5279.650000</montantdepense>
+        <description>Ordre de changement 1</description>
+        <nomcontractant>Construction Bruno Blanchette</nomcontractant>
+        <neqcontractant>1146681011</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1074221</numeroseao>
+    <numero>00117MBT1</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-04-23</datedepense>
+        <datepublicationdepense>2018-05-15</datepublicationdepense>
+        <montantdepense>11365.820000</montantdepense>
+        <description>Changement de pente du stationnement</description>
+        <nomcontractant>Les Constructions Israël Concept</nomcontractant>
+        <neqcontractant>1162911417</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-11</datedepense>
+        <datepublicationdepense>2018-05-15</datepublicationdepense>
+        <montantdepense>28538.630000</montantdepense>
+        <description>Ajout drain, surplus de sols contaminés, nouvelle galerie</description>
+        <nomcontractant>Les Constructions Israël Concept</nomcontractant>
+        <neqcontractant>1162911417</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1075334</numeroseao>
+    <numero>16-17-112</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-09-18</datedepense>
+        <datepublicationdepense>2017-11-30</datepublicationdepense>
+        <montantdepense>8217.890000</montantdepense>
+        <description>OC1 - Installation portes et cadres - Modification du miroir - enlever une section supplémentaire de conduit - Allonger le conduit d'alimentation - Transfert de circuit d'urgence - Relocaliser luminaire de la cage d'escalier - Réinstaller luminaires du local F-214.</description>
+        <nomcontractant>Les entreprises Constructo</nomcontractant>
+        <neqcontractant>1168193010</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-17</datedepense>
+        <datepublicationdepense>2017-11-30</datepublicationdepense>
+        <montantdepense>5023.280000</montantdepense>
+        <description>OC2 - Tranchée interception conduit électrique relocaliser klaxon - Nivèlement dalle ancien corridor.</description>
+        <nomcontractant>Les entreprises Constructo</nomcontractant>
+        <neqcontractant>1168193010</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-11</datedepense>
+        <datepublicationdepense>2018-01-31</datepublicationdepense>
+        <montantdepense>500.250000</montantdepense>
+        <description>OC3 - PMA - 06 &amp; PMA-07 en architecture  06 astrale - portes pf206,1 et pf214,07 - verrou en surface porte passive pf206,1.</description>
+        <nomcontractant>Les entreprises Constructo</nomcontractant>
+        <neqcontractant>1168193010</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1076104</numeroseao>
+    <numero>44507445</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-09-15</datedepense>
+        <datepublicationdepense>2017-09-27</datepublicationdepense>
+        <montantdepense>5474.000000</montantdepense>
+        <description>Enlèvement de la tuile en condition d'amiante </description>
+        <nomcontractant>Construction Encore Ltée </nomcontractant>
+        <neqcontractant>1141864257</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-08-24</datedepense>
+        <datepublicationdepense>2018-05-03</datepublicationdepense>
+        <montantdepense>6917.250000</montantdepense>
+        <description>Modification du 24 août 2017 comprend la valeur des ajouts antérieurs à l'atteinte du 25% du montant délégué.</description>
+        <nomcontractant>Construction Encore Ltée </nomcontractant>
+        <neqcontractant>1141864257</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1079169</numeroseao>
+    <numero>6805-16-0208</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-09-19</datedepense>
+        <datepublicationdepense>2018-05-09</datepublicationdepense>
+        <montantdepense>1291.380000</montantdepense>
+        <description>Dépassement relié à des modifications au contrat de services techniques</description>
+        <nomcontractant>Construction Bon-Air inc.</nomcontractant>
+        <neqcontractant>1143449636</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-09-22</datedepense>
+        <datepublicationdepense>2018-05-09</datepublicationdepense>
+        <montantdepense>3956.230000</montantdepense>
+        <description>Dépassement relié à des modifications au contrat de services techniques</description>
+        <nomcontractant>Construction Bon-Air inc.</nomcontractant>
+        <neqcontractant>1143449636</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-21</datedepense>
+        <datepublicationdepense>2018-05-09</datepublicationdepense>
+        <montantdepense>2411.490000</montantdepense>
+        <description>Dépassement relié à des modifications au contrat de services techniques</description>
+        <nomcontractant>Construction Bon-Air inc.</nomcontractant>
+        <neqcontractant>1143449636</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1080509</numeroseao>
+    <numero>17-02-07-29</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-11-28</datedepense>
+        <datepublicationdepense>2018-04-27</datepublicationdepense>
+        <montantdepense>5000.000000</montantdepense>
+        <description>Heures supplémentaires requis pour la finalisation d'un mandat</description>
+        <nomcontractant>Groupe CMI inc.</nomcontractant>
+        <neqcontractant>1161422770</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-29</datedepense>
+        <datepublicationdepense>2018-05-30</datepublicationdepense>
+        <montantdepense>30000.000000</montantdepense>
+        <description>Assurer un soutien minimal pour l'entretien et la programmation des application du VGQ</description>
+        <nomcontractant>Groupe CMI inc.</nomcontractant>
+        <neqcontractant>1161422770</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1086502</numeroseao>
+    <numero>44507143</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-08-23</datedepense>
+        <datepublicationdepense>2017-09-27</datepublicationdepense>
+        <montantdepense>32492.540000</montantdepense>
+        <description> effectuer le remplacement de panneaux électriques supplémentaires qui n'étaient pas prévus au départ dans la portée des travaux</description>
+        <nomcontractant>Constructions J.Boulais Inc.</nomcontractant>
+        <neqcontractant>1166261942</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-14</datedepense>
+        <datepublicationdepense>2017-12-18</datepublicationdepense>
+        <montantdepense>4699.000000</montantdepense>
+        <description>Remplacer la toile</description>
+        <nomcontractant>Constructions J.Boulais Inc.</nomcontractant>
+        <neqcontractant>1166261942</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-14</datedepense>
+        <datepublicationdepense>2017-12-18</datepublicationdepense>
+        <montantdepense>1476.000000</montantdepense>
+        <description>Disjoncteurs supplémentaires</description>
+        <nomcontractant>Constructions J.Boulais Inc.</nomcontractant>
+        <neqcontractant>1166261942</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-09</datedepense>
+        <datepublicationdepense>2018-04-09</datepublicationdepense>
+        <montantdepense>443.540000</montantdepense>
+        <description>Divers réparations</description>
+        <nomcontractant>Constructions J.Boulais Inc.</nomcontractant>
+        <neqcontractant>1166261942</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1094111</numeroseao>
+    <numero>1718MCQ96</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-07-19</datedepense>
+        <datepublicationdepense>2018-05-29</datepublicationdepense>
+        <montantdepense>1642.800000</montantdepense>
+        <description>SA85948 - Équipement visé par l'objet du contrat, mais omis lors de la conclusion et ajouté en cours de contrat</description>
+        <nomcontractant>Solution Informatique Trois-Rivières inc</nomcontractant>
+        <neqcontractant>1142720367</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1097908</numeroseao>
+    <numero>PRMI-054-0490</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-02-12</datedepense>
+        <datepublicationdepense>2018-03-26</datepublicationdepense>
+        <montantdepense>52921.710000</montantdepense>
+        <description>Divers travaux en mécanique et électrique</description>
+        <nomcontractant>Ardec Construction inc.</nomcontractant>
+        <neqcontractant>1147794813</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-04</datedepense>
+        <datepublicationdepense>2018-05-22</datepublicationdepense>
+        <montantdepense>48032.090000</montantdepense>
+        <description>Divers travaux en architecture, mécanique, électricité et structure</description>
+        <nomcontractant>Ardec Construction inc.</nomcontractant>
+        <neqcontractant>1147794813</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1110843</numeroseao>
+    <numero>BON171800747</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-04-13</datedepense>
+        <datepublicationdepense>2017-10-25</datepublicationdepense>
+        <montantdepense>77.000000</montantdepense>
+        <description>Services supplémentaires: Relevé, à taux horaire</description>
+        <nomcontractant>Lemay CO inc.</nomcontractant>
+        <neqcontractant>1149007115</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-06-20</datedepense>
+        <datepublicationdepense>2017-10-25</datepublicationdepense>
+        <montantdepense>19.500000</montantdepense>
+        <description>Dépenses supplémentaires: Reproductions</description>
+        <nomcontractant>Lemay CO inc.</nomcontractant>
+        <neqcontractant>1149007115</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-08-28</datedepense>
+        <datepublicationdepense>2017-10-25</datepublicationdepense>
+        <montantdepense>43.160000</montantdepense>
+        <description>Dépenses supplémentaires: Reproductions</description>
+        <nomcontractant>Lemay CO inc.</nomcontractant>
+        <neqcontractant>1149007115</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-24</datedepense>
+        <datepublicationdepense>2018-01-25</datepublicationdepense>
+        <montantdepense>3600.000000</montantdepense>
+        <description>Honoraires additionnels pour la production des plans pour la récupération du mobilier du N-400 (relocalisation du département de Santé animale).</description>
+        <nomcontractant>Lemay CO inc.</nomcontractant>
+        <neqcontractant>1149007115</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-24</datedepense>
+        <datepublicationdepense>2018-01-25</datepublicationdepense>
+        <montantdepense>6500.000000</montantdepense>
+        <description>Honoraires additionnels pour la production des plans pour le déménagement du département de Santé animale.</description>
+        <nomcontractant>Lemay CO inc.</nomcontractant>
+        <neqcontractant>1149007115</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1119269</numeroseao>
+    <numero>44508020</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-05-14</datedepense>
+        <datepublicationdepense>2018-05-16</datepublicationdepense>
+        <montantdepense>56841.340000</montantdepense>
+        <description>Conditions imprévisible de chantier  - Modification significative du client - Erreur ou omission - Modification mineure</description>
+        <nomcontractant>Construction R. Cloutier Inc..</nomcontractant>
+        <neqcontractant>1141083171</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-25</datedepense>
+        <datepublicationdepense>2018-05-16</datepublicationdepense>
+        <montantdepense>2062.140000</montantdepense>
+        <description>Condition imprévisible de chantier (OCD # 030)</description>
+        <nomcontractant>Construction R. Cloutier Inc..</nomcontractant>
+        <neqcontractant>1141083171</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1130139</numeroseao>
+    <numero>44509220</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-04-30</datedepense>
+        <datepublicationdepense>2018-05-16</datepublicationdepense>
+        <montantdepense>46240.000000</montantdepense>
+        <description>Modification mineure (odc # 1, #2, #3, #4, #5, #6, #7, #8)</description>
+        <nomcontractant>Groupe C.R. Gagnon inc.</nomcontractant>
+        <neqcontractant>1162040787</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-19</datedepense>
+        <datepublicationdepense>2018-05-16</datepublicationdepense>
+        <montantdepense>375.000000</montantdepense>
+        <description>Modification significative client ( ODC #009)</description>
+        <nomcontractant>Groupe C.R. Gagnon inc.</nomcontractant>
+        <neqcontractant>1162040787</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-19</datedepense>
+        <datepublicationdepense>2018-05-16</datepublicationdepense>
+        <montantdepense>75.000000</montantdepense>
+        <description>Modification significative client (ODC # 010)</description>
+        <nomcontractant>Groupe C.R. Gagnon inc.</nomcontractant>
+        <neqcontractant>1162040787</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-19</datedepense>
+        <datepublicationdepense>2018-05-16</datepublicationdepense>
+        <montantdepense>1320.000000</montantdepense>
+        <description>Modification significative client (ODC # 011)</description>
+        <nomcontractant>Groupe C.R. Gagnon inc.</nomcontractant>
+        <neqcontractant>1162040787</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-24</datedepense>
+        <datepublicationdepense>2018-05-16</datepublicationdepense>
+        <montantdepense>2384.790000</montantdepense>
+        <description>Réclamation (odc # 012)</description>
+        <nomcontractant>Groupe C.R. Gagnon inc.</nomcontractant>
+        <neqcontractant>1162040787</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1133584</numeroseao>
+    <numero>BC25484FAG</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-05-24</datedepense>
+        <datepublicationdepense>2018-05-28</datepublicationdepense>
+        <montantdepense>11008.000000</montantdepense>
+        <description>Ce montant correspond finalement aux frais de déplacements et d’hébergement qui avaient été initialement estimés à 5000$</description>
+        <nomcontractant>GE Energy Power Conversion USA inc.</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1155327</numeroseao>
+    <numero>2017-00-2212-14</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-09-30</datedepense>
+        <datepublicationdepense>2018-05-30</datepublicationdepense>
+        <montantdepense>35000.000000</montantdepense>
+        <description>Avenant</description>
+        <nomcontractant>Confection 2001  inc.</nomcontractant>
+        <neqcontractant>1142826479</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1161384</numeroseao>
+    <numero>7190781</numero>
+    <depenses />
+  </avis>
+</export>

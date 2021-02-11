@@ -1,0 +1,1371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2020-09-01" datefin="2020-09-30">
+  <avis>
+    <numeroseao>723834</numeroseao>
+    <numero>70000-690_CC_PUB_SA</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-08-07</datedepense>
+        <datepublicationdepense>2017-03-31</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Erreur de saisie - aucun changement ne dépassant le seuil du 10% à déclarer</description>
+        <nomcontractant>Consortium MSDL / Lemay / NFOE</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2017-10-30</datedepense>
+        <datepublicationdepense>2017-11-03</datepublicationdepense>
+        <montantdepense>1156955.000000</montantdepense>
+        <description>Changements 001 à 23 - Complexe Outremont </description>
+        <nomcontractant>Consortium MSDL / Lemay / NFOE</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2018-06-12</datedepense>
+        <datepublicationdepense>2018-06-18</datepublicationdepense>
+        <montantdepense>45000.000000</montantdepense>
+        <description>Le changement 26 répond à des besoins spécifiques qui sont survenus en cours de projet qui ne pouvaient être adéquatement définis lors de l'octroi init ne change pas la nature du mandat de base du professionnel. Le mandat consiste à fournir des services de cons</description>
+        <nomcontractant>Consortium MSDL / Lemay / NFOE</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2018-08-10</datedepense>
+        <datepublicationdepense>2018-08-14</datepublicationdepense>
+        <montantdepense>63500.000000</montantdepense>
+        <description>Changements 27 à 29 - Complexe Outremont</description>
+        <nomcontractant>Consortium MSDL / Lemay / NFOE</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2018-11-26</datedepense>
+        <datepublicationdepense>2018-11-26</datepublicationdepense>
+        <montantdepense>1665000.000000</montantdepense>
+        <description>Changements 24A - Complexe Outremont : Prestations pour un suivi admin/technique, plan mise en service, exigences communication et processus BIM (construction).</description>
+        <nomcontractant>Consortium MSDL / Lemay / NFOE</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2020-08-28</datedepense>
+        <datepublicationdepense>2020-09-08</datepublicationdepense>
+        <montantdepense>60000.000000</montantdepense>
+        <description>Changement 25 a) : Efforts additionnels requis pour l'obtention de la certification LEED-OR tandis que seule la certification LEED de base était prévue</description>
+        <nomcontractant>Consortium MSDL / Lemay / NFOE</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2020-08-28</datedepense>
+        <datepublicationdepense>2020-09-08</datepublicationdepense>
+        <montantdepense>49900.000000</montantdepense>
+        <description>Changement 25 b) : Processus d'appel d'offres et d'octroi de contrat pour consultant en vibration prolongée occasionnant plusieurs ajustements suite à l’émission du rapport du consultant en vibration. </description>
+        <nomcontractant>Consortium MSDL / Lemay / NFOE</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2020-08-28</datedepense>
+        <datepublicationdepense>2020-09-08</datepublicationdepense>
+        <montantdepense>32650.000000</montantdepense>
+        <description>Changement 25 c) : Modif. requises au plans et devis : Conditions du site : Ajout de membranes; Demandes de l'usager : - Ajout d’une boîte à gants - Modification aux locaux fours - Modification local microscope électronique; Demande du client : Intégration DAS</description>
+        <nomcontractant>Consortium MSDL / Lemay / NFOE</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2020-08-28</datedepense>
+        <datepublicationdepense>2020-09-08</datepublicationdepense>
+        <montantdepense>10300.000000</montantdepense>
+        <description>Changement 31 : Demande du client pour interventions additionnelles pour la signalisation extérieure (avenant 26) - Rencontres et coordinations imprévues; revue complète du concept signalétique et intégration urbaine.</description>
+        <nomcontractant>Consortium MSDL / Lemay / NFOE</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2020-08-28</datedepense>
+        <datepublicationdepense>2020-09-08</datepublicationdepense>
+        <montantdepense>2500.000000</montantdepense>
+        <description>Changement 32 : Demande du client au professionnel d'effectuer des modifications requises pour le raccordement des nouveaux pavillons du Campus MIL vers le 1050 Beaumont.</description>
+        <nomcontractant>Consortium MSDL / Lemay / NFOE</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2020-08-28</datedepense>
+        <datepublicationdepense>2020-09-08</datepublicationdepense>
+        <montantdepense>11216.790000</montantdepense>
+        <description>Changement 33 : Demande du client au professionnel de produire des documents pour le lot de mobilier de laboratoire et pour le lot de mobilier repos. Ces interventions supplémentaires incluent la production des AO, révision de fiches techniques et suivi et vérification des dessins d'atelier</description>
+        <nomcontractant>Consortium MSDL / Lemay / NFOE</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2020-08-28</datedepense>
+        <datepublicationdepense>2020-09-08</datepublicationdepense>
+        <montantdepense>7650.000000</montantdepense>
+        <description>Changement 30 : Demande du client au professionnel d'effectuer une étude de faisabilité et de produire une directive pour l'ajout d'un nouvel équipement spécialisé ayant un laser.</description>
+        <nomcontractant>Consortium MSDL / Lemay / NFOE</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2020-08-28</datedepense>
+        <datepublicationdepense>2020-09-08</datepublicationdepense>
+        <montantdepense>6046.750000</montantdepense>
+        <description>Changement 35 : Demande du client au professionnel d'assister la coordination de l'installation du mobilier.</description>
+        <nomcontractant>Consortium MSDL / Lemay / NFOE</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2020-08-28</datedepense>
+        <datepublicationdepense>2020-09-08</datepublicationdepense>
+        <montantdepense>6000.000000</montantdepense>
+        <description>Changement 36 : Demande du client au professionnel pour:- Mettre à jour la maquette et plans AutoCAD en intégrant les modifications demandées par les usagers;- Fournir le modèle 3D format REVIT des feuilles demandées;- Préparer un plan incluant le numéro de locaux et de portes en format AutoCAD</description>
+        <nomcontractant>Consortium MSDL / Lemay / NFOE</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2020-08-28</datedepense>
+        <datepublicationdepense>2020-09-08</datepublicationdepense>
+        <montantdepense>5000.000000</montantdepense>
+        <description>Changement 39 : Demande des honoraires du professionnel dû à la demande du client de fournir des fichiers en format .dwg des dessins mis à jour consolidés.</description>
+        <nomcontractant>Consortium MSDL / Lemay / NFOE</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>906000</numeroseao>
+    <numero>7103-15-AI03</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-10-15</datedepense>
+        <datepublicationdepense>2019-11-19</datepublicationdepense>
+        <montantdepense>13438.930000</montantdepense>
+        <description>Dépassement relié à des modifications au contrat de services professionnels</description>
+        <nomcontractant>WSP Canada inc.</nomcontractant>
+        <neqcontractant>1148357057</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1000623</numeroseao>
+    <numero>8801-16-FA01</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-08-01</datedepense>
+        <datepublicationdepense>2017-10-24</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Erreur de saisie</description>
+        <nomcontractant>Stantec Experts-Conseils ltée.</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-02</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>30842.180000</montantdepense>
+        <description>Dépassement reliés à des modifications aux contrats de services professionnels</description>
+        <nomcontractant>Stantec Experts-Conseils ltée.</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-04-02</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>57897.110000</montantdepense>
+        <description>Dépassement reliés à des modifications aux contrats de services professionnels</description>
+        <nomcontractant>Stantec Experts-Conseils ltée.</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-14</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>14670.630000</montantdepense>
+        <description>Dépassement reliés à des modifications aux contrats de services professionnels</description>
+        <nomcontractant>Stantec Experts-Conseils ltée.</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-07-24</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>28058.500000</montantdepense>
+        <description>Dépassement reliés à des modifications aux contrats de services professionnels</description>
+        <nomcontractant>Stantec Experts-Conseils ltée.</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1108521</numeroseao>
+    <numero>6510-17-NL01</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-05-03</datedepense>
+        <datepublicationdepense>2019-06-18</datepublicationdepense>
+        <montantdepense>503706.480000</montantdepense>
+        <description>Dommages ou contraintes imprévisibles ne pouvant être connus avant les travaux</description>
+        <nomcontractant>164019 Canada inc. - Déneigement N.C.</nomcontractant>
+        <neqcontractant>1144214187</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-04-27</datedepense>
+        <datepublicationdepense>2020-05-27</datepublicationdepense>
+        <montantdepense>5094.490000</montantdepense>
+        <description>Dépassement relié à des variations de quantité et/ou des modifications au contrat de construction ou de services de nature technique</description>
+        <nomcontractant>164019 Canada inc. - Déneigement N.C.</nomcontractant>
+        <neqcontractant>1144214187</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-08-03</datedepense>
+        <datepublicationdepense>2020-08-13</datepublicationdepense>
+        <montantdepense>43556.130000</montantdepense>
+        <description>Dommages ou contraintes imprévisibles ne pouvant être connus avant les travaux</description>
+        <nomcontractant>164019 Canada inc. - Déneigement N.C.</nomcontractant>
+        <neqcontractant>1144214187</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1120353</numeroseao>
+    <numero>31889800</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-12-11</datedepense>
+        <datepublicationdepense>2019-12-16</datepublicationdepense>
+        <montantdepense>295139.600000</montantdepense>
+        <description>Modification mineure</description>
+        <nomcontractant>Groupe de sécurité garda senc</nomcontractant>
+        <neqcontractant>3368599133</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-09-10</datedepense>
+        <datepublicationdepense>2020-08-28</datepublicationdepense>
+        <montantdepense>77342.400000</montantdepense>
+        <description>Honoraires additionnels</description>
+        <nomcontractant>Groupe de sécurité garda senc</nomcontractant>
+        <neqcontractant>3368599133</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1144918</numeroseao>
+    <numero>2018-1119 (DST-2018-07)</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-08-20</datedepense>
+        <datepublicationdepense>2019-08-20</datepublicationdepense>
+        <montantdepense>753330.930000</montantdepense>
+        <description>ODC 1 a 25 travaux supplémentaires</description>
+        <nomcontractant>Aranda Construction Inc</nomcontractant>
+        <neqcontractant>1143816370</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-09-19</datedepense>
+        <datepublicationdepense>2019-09-23</datepublicationdepense>
+        <montantdepense>34888.520000</montantdepense>
+        <description>ODC #26 @ ODC #28</description>
+        <nomcontractant>Aranda Construction Inc</nomcontractant>
+        <neqcontractant>1143816370</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-07-01</datedepense>
+        <datepublicationdepense>2020-07-02</datepublicationdepense>
+        <montantdepense>133751.360000</montantdepense>
+        <description>ODC #29 &amp; ODC #33</description>
+        <nomcontractant>Aranda Construction Inc</nomcontractant>
+        <neqcontractant>1143816370</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-07-09</datedepense>
+        <datepublicationdepense>2020-07-13</datepublicationdepense>
+        <montantdepense>55514.590000</montantdepense>
+        <description>ODC #30 @ ODC #32</description>
+        <nomcontractant>Aranda Construction Inc</nomcontractant>
+        <neqcontractant>1143816370</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-09-22</datedepense>
+        <datepublicationdepense>2020-09-25</datepublicationdepense>
+        <montantdepense>3408.090000</montantdepense>
+        <description>Rehaussement pour travaux en électricité ODC#35</description>
+        <nomcontractant>Aranda Construction Inc</nomcontractant>
+        <neqcontractant>1143816370</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1148456</numeroseao>
+    <numero>24-502P1</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-07-08</datedepense>
+        <datepublicationdepense>2020-07-14</datepublicationdepense>
+        <montantdepense>78205.000000</montantdepense>
+        <description>SRM031024 - 242 000 190</description>
+        <nomcontractant>Yelle Maillé et associés architectes</nomcontractant>
+        <neqcontractant>1168845304</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-08-24</datedepense>
+        <datepublicationdepense>2020-09-09</datepublicationdepense>
+        <montantdepense>381997.000000</montantdepense>
+        <description>SRM032539 - 297 000 600</description>
+        <nomcontractant>Yelle Maillé et associés architectes</nomcontractant>
+        <neqcontractant>1168845304</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-09-17</datedepense>
+        <datepublicationdepense>2020-09-29</datepublicationdepense>
+        <montantdepense>817200.040000</montantdepense>
+        <description>SRM031918 - 041 000 280 - Ajout au BC initial (APP31894A)</description>
+        <nomcontractant>Yelle Maillé et associés architectes</nomcontractant>
+        <neqcontractant>1168845304</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1163240</numeroseao>
+    <numero>CHUSJ-628</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-01-25</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>29664.590000</montantdepense>
+        <description>Diverses demandes de changement (DC-3, DC-4)</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-13</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>8802.610000</montantdepense>
+        <description>Modification parcours artère électrique niveau D (DC-7)</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-26</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>81400.330000</montantdepense>
+        <description>Demande de changement DC-6 (A-05, M-6 et S-002)</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-31</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>4461.230000</montantdepense>
+        <description>Demande de changement DC-02 (A-01, M-2), DC-10 (M-9, M-10), DC-12 (E-6, M-15), DC-19 (D-S005)</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-07</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>10729.690000</montantdepense>
+        <description>Modification variateurs de fréquence (DC-08 - M-8)</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-08-12</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>9509.440000</montantdepense>
+        <description>Demande de changement DC-17 (M-13 R1) et GP01. Justificatif : autre (coordination inter projets)</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-10-21</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>24557.660000</montantdepense>
+        <description>Demande de changement DC-24 R1 (M-18R1). Justificatif : autre (coordination)</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-10-31</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>52555.270000</montantdepense>
+        <description>Demande de changement DC-29 R1</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-11-01</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>174214.300000</montantdepense>
+        <description>Demande de changement DC-29 R1.</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-11-04</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>69242.500000</montantdepense>
+        <description>Demande de changement DC-30</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-11-14</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>15315.990000</montantdepense>
+        <description>Ajout de contrepentex au toit du 9e étage</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-12-09</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>97215.980000</montantdepense>
+        <description>Ajustements aux quantités de réparation de béton (DC-15 (S-004))</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-03-06</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>80178.220000</montantdepense>
+        <description>Demande de changement DC-29 R2</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-03-06</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>28103.090000</montantdepense>
+        <description>Diverses demandes de changement (DC-22, DC-27, DC-39, DC-47, DC-48, 44-PIN, 45-PIN, 47-PIN)</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-04-29</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>55464.020000</montantdepense>
+        <description>Diverses demandes de changement (DC-43, DC-49, 78-PIN-S006)</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-07-20</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>16200.100000</montantdepense>
+        <description>Demande de changement 81-PIN</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-06-17</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>61761.610000</montantdepense>
+        <description>Réclamations étaiements et autres réparations de bétons (100-PIN- AC-S rev2, 103-PIN-AC-S)</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-05-11</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>13743.570000</montantdepense>
+        <description>Montant ODC 17 : 112 489,74 $ MOINS les ODCs néatifs 3, 4, 6, 10 et 15 : 98 746.17 = 13 743.57 $ Diverses demandes de changement (DC-32, DC-38, DC-41, DC-42, DC-46, DC-48, DC-50, DC-52, DC-55, 33-PIN, 41 PIN, 54-PIN, 79-PIN et 80-PIN)</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1170221</numeroseao>
+    <numero>616351-180524</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-09-02</datedepense>
+        <datepublicationdepense>2020-09-23</datepublicationdepense>
+        <montantdepense>96200.000000</montantdepense>
+        <description>Contrat d'approvisionnement octroyé dans le cadre d'un appel d'offres public, au départ les consommations étaient sous évalués, au courant de la période contractuelle le parc de concentrateur a été remplacés avec des commande importantes réalisées par le service d'inhalothérapie à domicile.</description>
+        <nomcontractant>Previmed Inc.</nomcontractant>
+        <neqcontractant>1171437776</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1194775</numeroseao>
+    <numero>CA-180820-PB</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-12-17</datedepense>
+        <datepublicationdepense>2019-09-03</datepublicationdepense>
+        <montantdepense>3698.840000</montantdepense>
+        <description>ODC 1</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-01</datedepense>
+        <datepublicationdepense>2019-09-03</datepublicationdepense>
+        <montantdepense>26819.220000</montantdepense>
+        <description>ODC 2 BASES DE BETON, DRAIN ET CONDUITS ELECTRIQUES</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-08-21</datedepense>
+        <datepublicationdepense>2019-09-03</datepublicationdepense>
+        <montantdepense>22970.870000</montantdepense>
+        <description>ODC 3 Divers changements</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-11-12</datedepense>
+        <datepublicationdepense>2019-11-13</datepublicationdepense>
+        <montantdepense>43732.070000</montantdepense>
+        <description>ODC 4 et 5</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-12-19</datedepense>
+        <datepublicationdepense>2020-02-21</datepublicationdepense>
+        <montantdepense>13606.270000</montantdepense>
+        <description>ODC 6 Divers changements</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-04-30</datedepense>
+        <datepublicationdepense>2020-05-05</datepublicationdepense>
+        <montantdepense>24422.010000</montantdepense>
+        <description>ODC 7</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-05-19</datedepense>
+        <datepublicationdepense>2020-05-29</datepublicationdepense>
+        <montantdepense>12164.200000</montantdepense>
+        <description>ODC 8 Divers changements</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-09-15</datedepense>
+        <datepublicationdepense>2020-09-18</datepublicationdepense>
+        <montantdepense>8002.020000</montantdepense>
+        <description>ODC 9 Divers changements</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-09-15</datedepense>
+        <datepublicationdepense>2020-09-18</datepublicationdepense>
+        <montantdepense>3730.090000</montantdepense>
+        <description>ODC 10 - Divers changements</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1216110</numeroseao>
+    <numero>609012 - 181120</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-10-09</datedepense>
+        <datepublicationdepense>2020-06-12</datepublicationdepense>
+        <montantdepense>2059.400000</montantdepense>
+        <description>ODC1</description>
+        <nomcontractant>construction béton  4 saisons inc.</nomcontractant>
+        <neqcontractant>1161282927</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1219344</numeroseao>
+    <numero>44511594</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-08-31</datedepense>
+        <datepublicationdepense>2020-09-23</datepublicationdepense>
+        <montantdepense>53095.000000</montantdepense>
+        <description>Révision de mandat</description>
+        <nomcontractant>Atelier Zoom inc.</nomcontractant>
+        <neqcontractant>1171085203</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1233330</numeroseao>
+    <numero>8601-18-0002</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-09-18</datedepense>
+        <datepublicationdepense>2019-10-25</datepublicationdepense>
+        <montantdepense>79563.120000</montantdepense>
+        <description>Dépassement relié à des variations de quantité et/ou des modifications au contrat de construction ou de services de nature technique</description>
+        <nomcontractant>IPR 360 Inc.</nomcontractant>
+        <neqcontractant>1166303256</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1238937</numeroseao>
+    <numero>SRM025632</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-12-04</datedepense>
+        <datepublicationdepense>2019-12-19</datepublicationdepense>
+        <montantdepense>19803.600000</montantdepense>
+        <description>SRM028937 - 118 028 220 </description>
+        <nomcontractant>Jutras Architecture inc.</nomcontractant>
+        <neqcontractant>1168480540</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-09-08</datedepense>
+        <datepublicationdepense>2020-09-17</datepublicationdepense>
+        <montantdepense>34988.690000</montantdepense>
+        <description>SRM030906 ( 118 028 220) A-33-1505 Décis. 22 COORECTIF DE DATE EFFECTUÉ</description>
+        <nomcontractant>Jutras Architecture inc.</nomcontractant>
+        <neqcontractant>1168480540</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1253774</numeroseao>
+    <numero>25-2655P</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-08-24</datedepense>
+        <datepublicationdepense>2020-09-09</datepublicationdepense>
+        <montantdepense>569054.520000</montantdepense>
+        <description>SRM031897 - 376-028-230</description>
+        <nomcontractant>Construction Dinasa Inc.</nomcontractant>
+        <neqcontractant>1143648120</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1254620</numeroseao>
+    <numero>148590</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-11-13</datedepense>
+        <datepublicationdepense>2019-11-14</datepublicationdepense>
+        <montantdepense>270.000000</montantdepense>
+        <description>Frais entreposage mensuel</description>
+        <nomcontractant>Sièges Ducharme Intl Inc .</nomcontractant>
+        <neqcontractant>1143763010</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-03-31</datedepense>
+        <datepublicationdepense>2020-04-08</datepublicationdepense>
+        <montantdepense>270.000000</montantdepense>
+        <description>REHAUSSEMENT</description>
+        <nomcontractant>Sièges Ducharme Intl Inc .</nomcontractant>
+        <neqcontractant>1143763010</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-04-27</datedepense>
+        <datepublicationdepense>2020-04-27</datepublicationdepense>
+        <montantdepense>1541.790000</montantdepense>
+        <description>REHAUSSEMENT</description>
+        <nomcontractant>Sièges Ducharme Intl Inc .</nomcontractant>
+        <neqcontractant>1143763010</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-05-11</datedepense>
+        <datepublicationdepense>2020-05-27</datepublicationdepense>
+        <montantdepense>810.000000</montantdepense>
+        <description>rehaussement</description>
+        <nomcontractant>Sièges Ducharme Intl Inc .</nomcontractant>
+        <neqcontractant>1143763010</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-06-17</datedepense>
+        <datepublicationdepense>2020-07-02</datepublicationdepense>
+        <montantdepense>1620.000000</montantdepense>
+        <description>Prolongation de location d'entrepôt pour 6 mois</description>
+        <nomcontractant>Sièges Ducharme Intl Inc .</nomcontractant>
+        <neqcontractant>1143763010</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-09-18</datedepense>
+        <datepublicationdepense>2020-09-25</datepublicationdepense>
+        <montantdepense>1620.000000</montantdepense>
+        <description>Location d'entrepôt pour six mois supplémentaires</description>
+        <nomcontractant>Sièges Ducharme Intl Inc .</nomcontractant>
+        <neqcontractant>1143763010</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1263489</numeroseao>
+    <numero>7103-19-0909</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-06-05</datedepense>
+        <datepublicationdepense>2020-06-23</datepublicationdepense>
+        <montantdepense>339083.140000</montantdepense>
+        <description>Dépassement relié à des variations de quantité et/ou des modifications au contrat de construction ou de services de nature technique</description>
+        <nomcontractant>Eurovia Québec Construction inc..</nomcontractant>
+        <neqcontractant>1169491884</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1267824</numeroseao>
+    <numero>2019-11-ESC</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-02-07</datedepense>
+        <datepublicationdepense>2020-09-03</datepublicationdepense>
+        <montantdepense>40500.000000</montantdepense>
+        <description>Changement de technologie pour la protection contre les incendies des fenêtres adjacentes à l'escalier de secours.</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-02-17</datedepense>
+        <datepublicationdepense>2020-09-03</datepublicationdepense>
+        <montantdepense>5241.330000</montantdepense>
+        <description>Travaux supplémentaires pour permettre l'installation des volets coupe-feu.</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1283391</numeroseao>
+    <numero>2019-1252 (DST--2019-09)</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-01-10</datedepense>
+        <datepublicationdepense>2020-01-13</datepublicationdepense>
+        <montantdepense>3718.580000</montantdepense>
+        <description>Démolition supplémentaire au projet</description>
+        <nomcontractant>Les Constructions Serbec Inc</nomcontractant>
+        <neqcontractant>1167832824</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-02-06</datedepense>
+        <datepublicationdepense>2020-03-13</datepublicationdepense>
+        <montantdepense>15072.940000</montantdepense>
+        <description>ODC N°2-TRAVAUX DE CONSTRUCTION-AMÉNAGEMENT CLINIQUES EXTERNES À L'IUGM</description>
+        <nomcontractant>Les Constructions Serbec Inc</nomcontractant>
+        <neqcontractant>1167832824</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-03-27</datedepense>
+        <datepublicationdepense>2020-03-27</datepublicationdepense>
+        <montantdepense>102414.670000</montantdepense>
+        <description>ODC# 3 travaux supplémentaires dalles de béton</description>
+        <nomcontractant>Les Constructions Serbec Inc</nomcontractant>
+        <neqcontractant>1167832824</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-05-14</datedepense>
+        <datepublicationdepense>2020-05-15</datepublicationdepense>
+        <montantdepense>100559.850000</montantdepense>
+        <description>REHAUSSEMENT ETENDUE DES TRAVAUX</description>
+        <nomcontractant>Les Constructions Serbec Inc</nomcontractant>
+        <neqcontractant>1167832824</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-06-11</datedepense>
+        <datepublicationdepense>2020-08-12</datepublicationdepense>
+        <montantdepense>245520.280000</montantdepense>
+        <description>ODC#5 et 6</description>
+        <nomcontractant>Les Constructions Serbec Inc</nomcontractant>
+        <neqcontractant>1167832824</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-07-20</datedepense>
+        <datepublicationdepense>2020-08-12</datepublicationdepense>
+        <montantdepense>61404.690000</montantdepense>
+        <description>Rehaussement pour réparation de béton au plafond du RDC et autres travaux</description>
+        <nomcontractant>Les Constructions Serbec Inc</nomcontractant>
+        <neqcontractant>1167832824</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-09-15</datedepense>
+        <datepublicationdepense>2020-09-25</datepublicationdepense>
+        <montantdepense>17560.210000</montantdepense>
+        <description>Rehaussement pour obturation du plafond et autres travaux</description>
+        <nomcontractant>Les Constructions Serbec Inc</nomcontractant>
+        <neqcontractant>1167832824</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1285962</numeroseao>
+    <numero>FM02-gg</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-02-21</datedepense>
+        <datepublicationdepense>2020-02-21</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Mauvaise évaluation des inscriptions</description>
+        <nomcontractant>Diplomatiqc</nomcontractant>
+        <neqcontractant>1171529416</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1311277</numeroseao>
+    <numero>186110474</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-12-12</datedepense>
+        <datepublicationdepense>2020-02-06</datepublicationdepense>
+        <montantdepense>4000.000000</montantdepense>
+        <description>Amendemement # 1 - Honoraires pour engagement d'experts consultants selon la méthode à forfait.</description>
+        <nomcontractant>Savard Architecte</nomcontractant>
+        <neqcontractant>2267401299</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-08-17</datedepense>
+        <datepublicationdepense>2020-08-28</datepublicationdepense>
+        <montantdepense>2942.350000</montantdepense>
+        <description>Amendemement # 3 - Ajustement des honoraires pour P&amp;D définitifs selon la méthode à pourcentage.</description>
+        <nomcontractant>Savard Architecte</nomcontractant>
+        <neqcontractant>2267401299</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-12-12</datedepense>
+        <datepublicationdepense>2020-09-18</datepublicationdepense>
+        <montantdepense>400.000000</montantdepense>
+        <description>Amendement #2 - Frais d'administration.</description>
+        <nomcontractant>Savard Architecte</nomcontractant>
+        <neqcontractant>2267401299</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-08-31</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>958.000000</montantdepense>
+        <description>Amendement #4 - Honoraires pour révision des plans en lien avec l’enlèvement de chauffage pour le technologue junior selon la méthode à taux horaire. (Sur présentation de pièces justificatives)</description>
+        <nomcontractant>Savard Architecte</nomcontractant>
+        <neqcontractant>2267401299</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-08-31</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>239.400000</montantdepense>
+        <description>Amendement #5 - Honoraires pour révision des plans en lien avec l’enlèvement de chauffage pour l’architecte selon la méthode à taux horaire. (Sur présentation de pièces justificatives) </description>
+        <nomcontractant>Savard Architecte</nomcontractant>
+        <neqcontractant>2267401299</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1312881</numeroseao>
+    <numero>55075-614_AG_PUB_C</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-06-09</datedepense>
+        <datepublicationdepense>2020-09-23</datepublicationdepense>
+        <montantdepense>12470.960000</montantdepense>
+        <description>ODC-01 : Fourniture et installation d'un nouvel escalier extérieur en acier</description>
+        <nomcontractant>CIMOTA inc..</nomcontractant>
+        <neqcontractant>1169588333</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-09-23</datedepense>
+        <datepublicationdepense>2020-09-23</datepublicationdepense>
+        <montantdepense>45648.400000</montantdepense>
+        <description>ODC-02 : Remplacement d'une portion de clôture à mailles prévue dans le contrat pour une clôture composée de Jersey et une clôture au-dessus de celui-ci.  </description>
+        <nomcontractant>CIMOTA inc..</nomcontractant>
+        <neqcontractant>1169588333</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1314063</numeroseao>
+    <numero>2019-071-PB</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-11-01</datedepense>
+        <datepublicationdepense>2019-11-08</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>(erreur de saisie</description>
+        <nomcontractant>G.E.N Construction Inc.</nomcontractant>
+        <neqcontractant>1164587314</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1315857</numeroseao>
+    <numero>RM-2020-005_P</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-09-08</datedepense>
+        <datepublicationdepense>2020-09-30</datepublicationdepense>
+        <montantdepense>29890.000000</montantdepense>
+        <description>Avenant au contrat suite au report du projet à l'année 2021 et à l'augmentation des travaux à effectuer. </description>
+        <nomcontractant>Architecture Daniel Dumont</nomcontractant>
+        <neqcontractant>2272219280</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1320606</numeroseao>
+    <numero>15-304P</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-09-10</datedepense>
+        <datepublicationdepense>2020-09-16</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>SRM032139 (projet no 323 001 640)</description>
+        <nomcontractant>Les Constructions Serbec Inc</nomcontractant>
+        <neqcontractant>1167832824</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1324401</numeroseao>
+    <numero>1920-ISC-05</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-06-25</datedepense>
+        <datepublicationdepense>2020-09-17</datepublicationdepense>
+        <montantdepense>17808.530000</montantdepense>
+        <description>Correction infiltration d'eau</description>
+        <nomcontractant>Briquetal Ltée</nomcontractant>
+        <neqcontractant>1142478974</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-07-15</datedepense>
+        <datepublicationdepense>2020-09-17</datepublicationdepense>
+        <montantdepense>7730.990000</montantdepense>
+        <description>Pilastre du gardes-corps</description>
+        <nomcontractant>Briquetal Ltée</nomcontractant>
+        <neqcontractant>1142478974</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-08-27</datedepense>
+        <datepublicationdepense>2020-09-17</datepublicationdepense>
+        <montantdepense>3785.430000</montantdepense>
+        <description>Réparation colonnes F1</description>
+        <nomcontractant>Briquetal Ltée</nomcontractant>
+        <neqcontractant>1142478974</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-08-27</datedepense>
+        <datepublicationdepense>2020-09-17</datepublicationdepense>
+        <montantdepense>27935.160000</montantdepense>
+        <description>Correction infiltration d'eau</description>
+        <nomcontractant>Briquetal Ltée</nomcontractant>
+        <neqcontractant>1142478974</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-08-27</datedepense>
+        <datepublicationdepense>2020-09-17</datepublicationdepense>
+        <montantdepense>4910.050000</montantdepense>
+        <description>Ajout 1 colonne pour renforcer colonne existante endommagée</description>
+        <nomcontractant>Briquetal Ltée</nomcontractant>
+        <neqcontractant>1142478974</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1326898</numeroseao>
+    <numero>SRM029002</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-08-25</datedepense>
+        <datepublicationdepense>2020-09-08</datepublicationdepense>
+        <montantdepense>26303.070000</montantdepense>
+        <description>SRM032171 (005 017 700) </description>
+        <nomcontractant>Les Architectes Bertrand Paquette</nomcontractant>
+        <neqcontractant>3340275703</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1328147</numeroseao>
+    <numero>SRM029086</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-09-09</datedepense>
+        <datepublicationdepense>2020-09-17</datepublicationdepense>
+        <montantdepense>44261.630000</montantdepense>
+        <description>SRM030759 (066 006 820)</description>
+        <nomcontractant>Consultants MESAR Inc .</nomcontractant>
+        <neqcontractant>1172505043</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1330438</numeroseao>
+    <numero>SRM029424</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-04-16</datedepense>
+        <datepublicationdepense>2020-04-26</datepublicationdepense>
+        <montantdepense>24067.000000</montantdepense>
+        <description>SRM030491 (404 012 450)</description>
+        <nomcontractant>FSA Architecture Inc.</nomcontractant>
+        <neqcontractant>1168743103</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-07-08</datedepense>
+        <datepublicationdepense>2020-09-02</datepublicationdepense>
+        <montantdepense>55177.000000</montantdepense>
+        <description>404 012 450 - SRM031996</description>
+        <nomcontractant>FSA Architecture Inc.</nomcontractant>
+        <neqcontractant>1168743103</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1333686</numeroseao>
+    <numero>SRM029600</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-04-16</datedepense>
+        <datepublicationdepense>2020-04-26</datepublicationdepense>
+        <montantdepense>9050.860000</montantdepense>
+        <description>SRM030490 (404 012 450)</description>
+        <nomcontractant>GBI EXPERT-CONSEILS INC.</nomcontractant>
+        <neqcontractant>1148115281</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-05-07</datedepense>
+        <datepublicationdepense>2020-09-08</datepublicationdepense>
+        <montantdepense>39282.490000</montantdepense>
+        <description>SRM031949 (404 012 450)  - Deuxième ajout</description>
+        <nomcontractant>GBI EXPERT-CONSEILS INC.</nomcontractant>
+        <neqcontractant>1148115281</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1336400</numeroseao>
+    <numero>2020-078-1842</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-09-28</datedepense>
+        <datepublicationdepense>2020-09-29</datepublicationdepense>
+        <montantdepense>30208.290000</montantdepense>
+        <description>La modification majeure au projet touche la structure de la marquise du perron de l’entrée de l’administration qui présentait des signes de pourriture et qui n’avait pas la capacité structurale requise pour les charges de neige. Des travaux de correction sont alors requis.</description>
+        <nomcontractant>Paul A. Bisson Inc.</nomcontractant>
+        <neqcontractant>1142841130</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1344537</numeroseao>
+    <numero>19-074</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-09-28</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Modifications (1 à 5) directement reliées aux conditions de chantier et approuvées par les firmes professionnelles au dossier.</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-09-28</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>65476.720000</montantdepense>
+        <description>Modification (1 à 5) directement reliées aux conditions de chantier et approuvées par les firmes professionnelles au dossier.</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1359448</numeroseao>
+    <numero>112232</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-09-02</datedepense>
+        <datepublicationdepense>2020-09-02</datepublicationdepense>
+        <montantdepense>82000.000000</montantdepense>
+        <description>ajout de services</description>
+        <nomcontractant>Soins med Inc</nomcontractant>
+        <neqcontractant>1174500133</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-09-10</datedepense>
+        <datepublicationdepense>2020-09-11</datepublicationdepense>
+        <montantdepense>7000.000000</montantdepense>
+        <description>dépenses supplémentaires</description>
+        <nomcontractant>Soins med Inc</nomcontractant>
+        <neqcontractant>1174500133</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1360794</numeroseao>
+    <numero>112442</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-09-02</datedepense>
+        <datepublicationdepense>2020-09-02</datepublicationdepense>
+        <montantdepense>50000.000000</montantdepense>
+        <description>Ajout de services</description>
+        <nomcontractant>SECOURS SANTE S.E.N.C</nomcontractant>
+        <neqcontractant>3374507880</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-09-10</datedepense>
+        <datepublicationdepense>2020-09-11</datepublicationdepense>
+        <montantdepense>40000.000000</montantdepense>
+        <description>Ajout de services</description>
+        <nomcontractant>SECOURS SANTE S.E.N.C</nomcontractant>
+        <neqcontractant>3374507880</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1363735</numeroseao>
+    <numero>BC# 125079</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-09-15</datedepense>
+        <datepublicationdepense>2020-09-25</datepublicationdepense>
+        <montantdepense>4500.000000</montantdepense>
+        <description>Ajustement en fonction des coûts réels des travaux</description>
+        <nomcontractant>Gécyco Inc.</nomcontractant>
+        <neqcontractant>1143114636</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-09-23</datedepense>
+        <datepublicationdepense>2020-09-25</datepublicationdepense>
+        <montantdepense>1200.000000</montantdepense>
+        <description>Pour des relevés supplémentaires pour remplacement du système</description>
+        <nomcontractant>Gécyco Inc.</nomcontractant>
+        <neqcontractant>1143114636</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-03-09</datedepense>
+        <datepublicationdepense>2020-09-25</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Rehaussement</description>
+        <nomcontractant>Gécyco Inc.</nomcontractant>
+        <neqcontractant>1143114636</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1365084</numeroseao>
+    <numero>19129-P-380</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-09-08</datedepense>
+        <datepublicationdepense>2020-09-10</datepublicationdepense>
+        <montantdepense>20512.400000</montantdepense>
+        <description>Ajout de deux forages supplémentaires afin d'obtenir plus d'informations sur le contact béton / roc Avenant 1 signé le 2020-09-08 </description>
+        <nomcontractant>SNC-Lavalin GEM Québec inc.</nomcontractant>
+        <neqcontractant>1166291337</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1371867</numeroseao>
+    <numero>BC40508SAA</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-06-29</datedepense>
+        <datepublicationdepense>2020-09-10</datepublicationdepense>
+        <montantdepense>80419.990000</montantdepense>
+        <description>Inspection des générateurs du NM Saaremaa 1.</description>
+        <nomcontractant>Wartsila  Canada Inc.</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2020-06-06</datedepense>
+        <datepublicationdepense>2020-09-10</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Inspection des générateurs du NM Saaremaa 1.</description>
+        <nomcontractant>Wartsila  Canada Inc.</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1376272</numeroseao>
+    <numero>BC# 281309</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-05-12</datedepense>
+        <datepublicationdepense>2020-05-27</datepublicationdepense>
+        <montantdepense>3469.200000</montantdepense>
+        <description>REHAUSSEMENT</description>
+        <nomcontractant>Les Produits Énergétiques GAL inc.</nomcontractant>
+        <neqcontractant>1146046280</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-08-27</datedepense>
+        <datepublicationdepense>2020-08-24</datepublicationdepense>
+        <montantdepense>239907.600000</montantdepense>
+        <description>Ajout de fourniture de matériel électrique et autres</description>
+        <nomcontractant>Les Produits Énergétiques GAL inc.</nomcontractant>
+        <neqcontractant>1146046280</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1384621</numeroseao>
+    <numero>GRM-1911</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-07-07</datedepense>
+        <datepublicationdepense>2020-07-07</datepublicationdepense>
+        <montantdepense>130000.000000</montantdepense>
+        <description>Poursuite du service jusqu'en septembre 2020 dans le cadre de la pandémie Covid-19. Montant estimé. </description>
+        <nomcontractant>Relocalisation Quali-T-Plus inc.</nomcontractant>
+        <neqcontractant>1160860756</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-09-08</datedepense>
+        <datepublicationdepense>2020-09-08</datepublicationdepense>
+        <montantdepense>103000.000000</montantdepense>
+        <description>prolongation du service de transport pour le lavage des blouse EPI </description>
+        <nomcontractant>Relocalisation Quali-T-Plus inc.</nomcontractant>
+        <neqcontractant>1160860756</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1390275</numeroseao>
+    <numero>G20-0601WD</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-09-17</datedepense>
+        <datepublicationdepense>2020-09-17</datepublicationdepense>
+        <montantdepense>30000.000000</montantdepense>
+        <description>Prolongation de l'étude pour 2 semaine pour la deuxième vague de la COVID-19.</description>
+        <nomcontractant>Advanis Joloicoeur</nomcontractant>
+        <neqcontractant>1175369025</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1396898</numeroseao>
+    <numero>CG-200805-PB</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-07-16</datedepense>
+        <datepublicationdepense>2020-08-05</datepublicationdepense>
+        <montantdepense>5587.580000</montantdepense>
+        <description>Location du 6 juillet au 3 août 2020</description>
+        <nomcontractant>Loue-Froid Inc.</nomcontractant>
+        <neqcontractant>1149222409</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-08-03</datedepense>
+        <datepublicationdepense>2020-08-05</datepublicationdepense>
+        <montantdepense>5587.580000</montantdepense>
+        <description>Location du 3 août au 31 août 2020</description>
+        <nomcontractant>Loue-Froid Inc.</nomcontractant>
+        <neqcontractant>1149222409</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-07-22</datedepense>
+        <datepublicationdepense>2020-08-05</datepublicationdepense>
+        <montantdepense>6096.090000</montantdepense>
+        <description>Location du 21 juillet au 18 août 2020</description>
+        <nomcontractant>Loue-Froid Inc.</nomcontractant>
+        <neqcontractant>1149222409</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-07-14</datedepense>
+        <datepublicationdepense>2020-08-11</datepublicationdepense>
+        <montantdepense>316.580000</montantdepense>
+        <description>Déplacement et main-d'oeuvre d'un technicien</description>
+        <nomcontractant>Loue-Froid Inc.</nomcontractant>
+        <neqcontractant>1149222409</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-09-15</datedepense>
+        <datepublicationdepense>2020-09-02</datepublicationdepense>
+        <montantdepense>6096.090000</montantdepense>
+        <description>A/C portative 60000 BTU</description>
+        <nomcontractant>Loue-Froid Inc.</nomcontractant>
+        <neqcontractant>1149222409</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-09-23</datedepense>
+        <datepublicationdepense>2020-09-29</datepublicationdepense>
+        <montantdepense>5587.580000</montantdepense>
+        <description>Location A/C portative 60 000 BTU du 31 août au 28 septembre 2020</description>
+        <nomcontractant>Loue-Froid Inc.</nomcontractant>
+        <neqcontractant>1149222409</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1397846</numeroseao>
+    <numero>312042,312052,312061</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-08-18</datedepense>
+        <datepublicationdepense>2020-08-19</datepublicationdepense>
+        <montantdepense>2804.000000</montantdepense>
+        <description>Rehaussement pour changement de plateforme élévatrice modèle intérieur</description>
+        <nomcontractant>Elévabec Inc</nomcontractant>
+        <neqcontractant>1160454428</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-08-28</datedepense>
+        <datepublicationdepense>2020-09-08</datepublicationdepense>
+        <montantdepense>8224.000000</montantdepense>
+        <description>Rehaussement Bc 312061- Changement de plateforme élévatrice modèle intérieur</description>
+        <nomcontractant>Elévabec Inc</nomcontractant>
+        <neqcontractant>1160454428</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1407648</numeroseao>
+    <numero>CGER 710012</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-09-24</datedepense>
+        <datepublicationdepense>2020-09-17</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>La taxe carbone de 110 $ a été créditée à la demande de la coordonnatrice de la DGOC basée au CGER. Celle-ci n'a pas à être facturé par les fournisseurs au Québec.</description>
+        <nomcontractant>Brandt Tractor Ltd</nomcontractant>
+        <neqcontractant>1174486051</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1410538</numeroseao>
+    <numero>196110264</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-03-25</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>500.000000</montantdepense>
+        <description>#1 - Honoraires pour Présentation CCU selon la méthode à forfait.</description>
+        <nomcontractant>TLÄ Architectes inc.</nomcontractant>
+        <neqcontractant>1168619295</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-04-28</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>290.200000</montantdepense>
+        <description>#2 - Ajustement des honoraires pour P&amp;D définitifs selon la méthode à pourcentage.</description>
+        <nomcontractant>TLÄ Architectes inc.</nomcontractant>
+        <neqcontractant>1168619295</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-09-14</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>706.000000</montantdepense>
+        <description>#3 - Ajustement des honoraires de P&amp;D préliminaires pour gestion des changements selon la méthode à pourcentage.</description>
+        <nomcontractant>TLÄ Architectes inc.</nomcontractant>
+        <neqcontractant>1168619295</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-09-14</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>1059.000000</montantdepense>
+        <description>#4 - Ajustement des honoraires de P&amp;D définitifs pour gestion des changements selon la méthode à pourcentage.</description>
+        <nomcontractant>TLÄ Architectes inc.</nomcontractant>
+        <neqcontractant>1168619295</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-09-14</datedepense>
+        <datepublicationdepense>2020-09-28</datepublicationdepense>
+        <montantdepense>919.270000</montantdepense>
+        <description>#5 - Ajustement des honoraires de surveillance pour gestion des changements selon la méthode à pourcentage.</description>
+        <nomcontractant>TLÄ Architectes inc.</nomcontractant>
+        <neqcontractant>1168619295</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+</export>

@@ -1,0 +1,1251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2018-02-01" datefin="2018-02-28">
+  <avis>
+    <numeroseao>587922</numeroseao>
+    <numero>1201</numero>
+    <depenses>
+      <depense>
+        <datedepense>2014-05-09</datedepense>
+        <datepublicationdepense>2015-07-15</datepublicationdepense>
+        <montantdepense>171150.180000</montantdepense>
+        <description>Offres de services pour honoraires professionnels suplémentaires </description>
+        <nomcontractant>Les Services exp Inc</nomcontractant>
+        <neqcontractant>1167268128</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-05-08</datedepense>
+        <datepublicationdepense>2015-07-15</datepublicationdepense>
+        <montantdepense>173241.550000</montantdepense>
+        <description>Honoraires professionnels supplémentaires révision 1     mai 2015</description>
+        <nomcontractant>Les Services exp Inc</nomcontractant>
+        <neqcontractant>1167268128</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-26</datedepense>
+        <datepublicationdepense>2018-02-08</datepublicationdepense>
+        <montantdepense>173253.000000</montantdepense>
+        <description>Honoraires professionnels supplémentaires révision 2    août 2016</description>
+        <nomcontractant>Les Services exp Inc</nomcontractant>
+        <neqcontractant>1167268128</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>622210</numeroseao>
+    <numero>1201P</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-06-15</datedepense>
+        <datepublicationdepense>2017-04-07</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Services professionnel supplémentaires en mécanique et en électricité Annulé</description>
+        <nomcontractant>Ameresco</nomcontractant>
+        <neqcontractant>1160191517</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-15</datedepense>
+        <datepublicationdepense>2017-04-07</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Services professionnel supplémentaires en mécanique et en électricité Annulé</description>
+        <nomcontractant>Ameresco</nomcontractant>
+        <neqcontractant>1160191517</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-03-31</datedepense>
+        <datepublicationdepense>2018-02-08</datepublicationdepense>
+        <montantdepense>284046.820000</montantdepense>
+        <description>Travaux supplémentaires acceptés après litige </description>
+        <nomcontractant>Ameresco</nomcontractant>
+        <neqcontractant>1160191517</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>632040</numeroseao>
+    <numero>S1309</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-07-01</datedepense>
+        <datepublicationdepense>2018-02-05</datepublicationdepense>
+        <montantdepense>42908.980000</montantdepense>
+        <description>Renouvellement d'un autre année  - Année 4 2016-17</description>
+        <nomcontractant>Protection Incendie MCI Inc.</nomcontractant>
+        <neqcontractant>1165157729</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>693272</numeroseao>
+    <numero>P621-112 (CHUM-661)</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-04-16</datedepense>
+        <datepublicationdepense>2018-02-05</datepublicationdepense>
+        <montantdepense>48132.000000</montantdepense>
+        <description>Ajustement des services, équipements et accessoires conformément aux besoins exprimés lors des ateliers entre les usagers et le Partenaire.</description>
+        <nomcontractant>Médicana Inc.</nomcontractant>
+        <neqcontractant>1143616911</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-05-13</datedepense>
+        <datepublicationdepense>2018-02-05</datepublicationdepense>
+        <montantdepense>59224.000000</montantdepense>
+        <description>Structures sur mesures et ajout de frais de dessins d'ingénierie</description>
+        <nomcontractant>Médicana Inc.</nomcontractant>
+        <neqcontractant>1143616911</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-01-20</datedepense>
+        <datepublicationdepense>2018-02-05</datepublicationdepense>
+        <montantdepense>2205.000000</montantdepense>
+        <description>Ajout de frais de dessins d’ingénierie et ajout de boîtes de jonction pour circuits électriques requises au chantier.</description>
+        <nomcontractant>Médicana Inc.</nomcontractant>
+        <neqcontractant>1143616911</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-20</datedepense>
+        <datepublicationdepense>2018-02-05</datepublicationdepense>
+        <montantdepense>37121.400000</montantdepense>
+        <description>Ajout de supports pour bonbonne d'argon, de bacs ouverts et de supports à clavier.</description>
+        <nomcontractant>Médicana Inc.</nomcontractant>
+        <neqcontractant>1143616911</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>701931</numeroseao>
+    <numero>18564400</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-04-12</datedepense>
+        <datepublicationdepense>2016-09-30</datepublicationdepense>
+        <montantdepense>1137935.080000</montantdepense>
+        <description>Ajustement d'honoraire ou indexation</description>
+        <nomcontractant>Consortium BPR_Unigec</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2017-10-31</datedepense>
+        <datepublicationdepense>2017-11-01</datepublicationdepense>
+        <montantdepense>361431.040000</montantdepense>
+        <description>Ajustement des honoraires </description>
+        <nomcontractant>Consortium BPR_Unigec</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>815986</numeroseao>
+    <numero>S1307</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-07-01</datedepense>
+        <datepublicationdepense>2018-02-05</datepublicationdepense>
+        <montantdepense>31485.710000</montantdepense>
+        <description>Renouvellement d'un autre année  - Année 4 2016-17</description>
+        <nomcontractant>Equipement d'Incendie Globe Inc.</nomcontractant>
+        <neqcontractant>1143857556</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-01</datedepense>
+        <datepublicationdepense>2018-02-06</datepublicationdepense>
+        <montantdepense>25938.910000</montantdepense>
+        <description>Renouvellement d'un autre année  - Année 5  2017-18</description>
+        <nomcontractant>Equipement d'Incendie Globe Inc.</nomcontractant>
+        <neqcontractant>1143857556</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>862193</numeroseao>
+    <numero>80642392</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-06-30</datedepense>
+        <datepublicationdepense>2018-01-31</datepublicationdepense>
+        <montantdepense>11214.000000</montantdepense>
+        <description>Avenant 01 - qui prolonge le contrat au 2017-06-30</description>
+        <nomcontractant>Surveillances périodiques DM inc.</nomcontractant>
+        <neqcontractant>1170156427</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-31</datedepense>
+        <datepublicationdepense>2018-01-31</datepublicationdepense>
+        <montantdepense>7500.000000</montantdepense>
+        <description>Avenant 02 - qui prolonge le contrat au 2018-01-31.</description>
+        <nomcontractant>Surveillances périodiques DM inc.</nomcontractant>
+        <neqcontractant>1170156427</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-15</datedepense>
+        <datepublicationdepense>2018-02-26</datepublicationdepense>
+        <montantdepense>1238.000000</montantdepense>
+        <description>Avenant 03 - Augmentation de la quantité d’heure afin de terminer le mois de janvier.</description>
+        <nomcontractant>Surveillances périodiques DM inc.</nomcontractant>
+        <neqcontractant>1170156427</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>883973</numeroseao>
+    <numero>7807-2012-005</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-02-28</datedepense>
+        <datepublicationdepense>2018-02-28</datepublicationdepense>
+        <montantdepense>6323.880000</montantdepense>
+        <description>Avenant</description>
+        <nomcontractant>Pépin Poirier Consultants S.E.N.C.</nomcontractant>
+        <neqcontractant>3369541035</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-12</datedepense>
+        <datepublicationdepense>2017-02-07</datepublicationdepense>
+        <montantdepense>81968.960000</montantdepense>
+        <description>Avenant No 1 et 2 - Modification de l’ampleur du projet survenue en cours de conception</description>
+        <nomcontractant>WSP Canada Inc. (Est-du-Québec et Centre-du-Québec)</nomcontractant>
+        <neqcontractant>1148357057</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-12</datedepense>
+        <datepublicationdepense>2017-02-07</datepublicationdepense>
+        <montantdepense>105738.680000</montantdepense>
+        <description>Avenant No 1  et 2 - Modification de l’ampleur du projet survenue en cours de conception</description>
+        <nomcontractant>Les Consultants Odette Roy et Isabelle Jacques Inc.</nomcontractant>
+        <neqcontractant>1164160716</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>908431</numeroseao>
+    <numero>SRM014746</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-01-20</datedepense>
+        <datepublicationdepense>2016-05-18</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>correction</description>
+        <nomcontractant>WSP Canada inc.</nomcontractant>
+        <neqcontractant>1148357057</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-01-27</datedepense>
+        <datepublicationdepense>2016-05-18</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>correction</description>
+        <nomcontractant>WSP Canada inc.</nomcontractant>
+        <neqcontractant>1148357057</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>917733</numeroseao>
+    <numero>153600005</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-03-11</datedepense>
+        <datepublicationdepense>2018-02-01</datepublicationdepense>
+        <montantdepense>35143.600000</montantdepense>
+        <description>OC1 - Ajout de l'installation de la géothermie dans l'ensemble de l'école et exigences spécifiques de la ville de Repentigny.</description>
+        <nomcontractant>Bergeron Thouin Associés Architectes Inc.</nomcontractant>
+        <neqcontractant>1145414901</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-05-18</datedepense>
+        <datepublicationdepense>2018-02-01</datepublicationdepense>
+        <montantdepense>12827.370000</montantdepense>
+        <description>OC2 - Ajustement des honoraires professionnels pour le suivi des ordres de changement et politique d'intégration des arts.</description>
+        <nomcontractant>Bergeron Thouin Associés Architectes Inc.</nomcontractant>
+        <neqcontractant>1145414901</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-16</datedepense>
+        <datepublicationdepense>2018-02-01</datepublicationdepense>
+        <montantdepense>2387.990000</montantdepense>
+        <description>OC3 - Ajustement des honoraires pour suivi des ordres de changement (facture 6954).</description>
+        <nomcontractant>Bergeron Thouin Associés Architectes Inc.</nomcontractant>
+        <neqcontractant>1145414901</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>925593</numeroseao>
+    <numero>P624-015D (CHUM-1096)</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-01-20</datedepense>
+        <datepublicationdepense>2016-01-27</datepublicationdepense>
+        <montantdepense>135674.000000</montantdepense>
+        <description>Réhaussement des bronchoscopes flexibles et autres</description>
+        <nomcontractant>Olympus Canada Inc</nomcontractant>
+        <neqcontractant>1163495170</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-02-02</datedepense>
+        <datepublicationdepense>2016-02-09</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Aucun ajout supplémentaire</description>
+        <nomcontractant>Olympus Canada Inc</nomcontractant>
+        <neqcontractant>1163495170</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>941643</numeroseao>
+    <numero>QC-RAMQ-20150708</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-07-29</datedepense>
+        <datepublicationdepense>2017-02-22</datepublicationdepense>
+        <montantdepense>13678.000000</montantdepense>
+        <description>Permettre la finalisation du rapport d'audit sur l'application de la Loi constitutive</description>
+        <nomcontractant>BDO CANADA LLP</nomcontractant>
+        <neqcontractant>3342011858</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>965542</numeroseao>
+    <numero>04216CON1</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-09-13</datedepense>
+        <datepublicationdepense>2018-02-09</datepublicationdepense>
+        <montantdepense>305870.990000</montantdepense>
+        <description>Ensemble des ODC en cours de réalisation des travaux (nb. 70)</description>
+        <nomcontractant>Les Constructions Technipro (1998) inc.</nomcontractant>
+        <neqcontractant>1146507059</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>983428</numeroseao>
+    <numero>31208100</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-09-29</datedepense>
+        <datepublicationdepense>2017-02-03</datepublicationdepense>
+        <montantdepense>74176.000000</montantdepense>
+        <description>Conditions imprévisibles de chantier</description>
+        <nomcontractant>Ernest Boutin inc.</nomcontractant>
+        <neqcontractant>1161180691</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-17</datedepense>
+        <datepublicationdepense>2017-04-06</datepublicationdepense>
+        <montantdepense>53688.000000</montantdepense>
+        <description>Conditions imprévisibles de chantier</description>
+        <nomcontractant>Ernest Boutin inc.</nomcontractant>
+        <neqcontractant>1161180691</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-04-10</datedepense>
+        <datepublicationdepense>2017-04-21</datepublicationdepense>
+        <montantdepense>3780.000000</montantdepense>
+        <description>Imprévu de design</description>
+        <nomcontractant>Ernest Boutin inc.</nomcontractant>
+        <neqcontractant>1161180691</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-06-27</datedepense>
+        <datepublicationdepense>2017-05-11</datepublicationdepense>
+        <montantdepense>16912.000000</montantdepense>
+        <description>Modification mineure</description>
+        <nomcontractant>Ernest Boutin inc.</nomcontractant>
+        <neqcontractant>1161180691</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-06-02</datedepense>
+        <datepublicationdepense>2017-06-05</datepublicationdepense>
+        <montantdepense>62944.000000</montantdepense>
+        <description>Modification au programme</description>
+        <nomcontractant>Ernest Boutin inc.</nomcontractant>
+        <neqcontractant>1161180691</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-09</datedepense>
+        <datepublicationdepense>2017-12-07</datepublicationdepense>
+        <montantdepense>2217.000000</montantdepense>
+        <description>Conditions imprévisibles de chantier</description>
+        <nomcontractant>Ernest Boutin inc.</nomcontractant>
+        <neqcontractant>1161180691</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-12</datedepense>
+        <datepublicationdepense>2018-01-15</datepublicationdepense>
+        <montantdepense>7293.380000</montantdepense>
+        <description>Recommandation des professionnels</description>
+        <nomcontractant>Ernest Boutin inc.</nomcontractant>
+        <neqcontractant>1161180691</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-20</datedepense>
+        <datepublicationdepense>2018-02-21</datepublicationdepense>
+        <montantdepense>3430.530000</montantdepense>
+        <description>Recommandation des professionnels</description>
+        <nomcontractant>Ernest Boutin inc.</nomcontractant>
+        <neqcontractant>1161180691</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1037908</numeroseao>
+    <numero>55330-523_AT_SI_INV</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-02-14</datedepense>
+        <datepublicationdepense>2018-02-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Erreur de saisie</description>
+        <nomcontractant>Les Services exp inc (Montréal - Maisonneuve)</nomcontractant>
+        <neqcontractant>1167268128</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1046276</numeroseao>
+    <numero>2016CSU012</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>928.630000</montantdepense>
+        <description>ODC 1 - Cloisons de gypse à démolir</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>655.960000</montantdepense>
+        <description>ODC 2 - Modifications électriques</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>198.000000</montantdepense>
+        <description>ODC 3 - Panneaux électriques</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>1292.500000</montantdepense>
+        <description>ODC 4 - Ajout mobilier intégré dans le local 2225</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>265.990000</montantdepense>
+        <description>ODC 5 - Ajout pellicule givrée dans le local 4159</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>2102.010000</montantdepense>
+        <description>ODC 6 - Mécanique divers (plomberie, gaz, gicleurs)</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>5946.650000</montantdepense>
+        <description>ODC 7 - Retombées local ouvert sur corridor C405</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>597.600000</montantdepense>
+        <description>ODC 8 - Démolition niveau 4</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>1369.500000</montantdepense>
+        <description>ODC 9 - Ajout paroi vitrée dans le local 4160</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>3804.540000</montantdepense>
+        <description>ODC 10 - Modification consoles de gaz médicaux locaux 4179 et 4010</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>285.780000</montantdepense>
+        <description>ODC 11 - Relocalisation de l'éclairage</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>231.950000</montantdepense>
+        <description>ODC 12 - Enlever des supports et câbles TV</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>451.950000</montantdepense>
+        <description>ODC 13 - Ajout rails à rideau</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>1136.210000</montantdepense>
+        <description>ODC 14 à 16 - Ragréage murs salles de toilettes 4e étage</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>747.940000</montantdepense>
+        <description>ODC 17 - Ouvertures existantes scellement</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>7960.270000</montantdepense>
+        <description>ODC 18 - Modifications électricité, gicleurs, plafonds</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>682.220000</montantdepense>
+        <description>ODC 19 - Modification gicleurs</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>1239.750000</montantdepense>
+        <description>ODC 20 - Complément protection murale corridor C405</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>5473.230000</montantdepense>
+        <description>ODC 21 - Modifications gicleurs, plomberie, ventilation</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>492.800000</montantdepense>
+        <description>ODC 22 - Ajout de protection de mur - comptoir inoxydable</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>854.940000</montantdepense>
+        <description>ODC 28 - Peinture salon 4180</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>150.650000</montantdepense>
+        <description>ODC 29 - Ajout d'un évent automatique</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>4923.940000</montantdepense>
+        <description>ODC 30 - Modification en électricité, ventilation, protection incendie et plomberie</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>1175.350000</montantdepense>
+        <description>ODC 31 - Modification en électricité</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>2343.000000</montantdepense>
+        <description>ODC 32 - Fond de fixation</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>1100.000000</montantdepense>
+        <description>ODC 33 - Protection de bas de porte (ped)</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>720.910000</montantdepense>
+        <description>ODC 34 - Modification en électricité, gaz médicaux et plomberie</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>998.580000</montantdepense>
+        <description>ODC 35 - Modification en plomberie</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>10649.690000</montantdepense>
+        <description>ODC 36 à 38 Travaux supplémentaires plancher 4157, 4158 et 4159</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>780.700000</montantdepense>
+        <description>ODC 39 - Modifications en électricité</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>1024.330000</montantdepense>
+        <description>ODC 40 à 44 - Local 3030, rêvêtement de plancher 2e niveau, démolition 4e, mobilier 4159</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>1955.210000</montantdepense>
+        <description>ODC 46 - Modifications électricité et gaz médicaux</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>11140.580000</montantdepense>
+        <description>ODC 47 à 50 - Complément architecture ME-18, modification plomberie et ventilation, </description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-22</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>2502.500000</montantdepense>
+        <description>ODC 51 - Comptoir en stainless</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-30</datedepense>
+        <datepublicationdepense>2017-12-27</datepublicationdepense>
+        <montantdepense>12203.910000</montantdepense>
+        <description>ODC 52 : Complément de design, imprévus de chantier</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-20</datedepense>
+        <datepublicationdepense>2017-12-27</datepublicationdepense>
+        <montantdepense>1854.180000</montantdepense>
+        <description>ODC 23 à 27 - Fermeture des espaces libres, emboîtements-chauffage, salon employé, support TV, panneau électrique C401</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-30</datedepense>
+        <datepublicationdepense>2018-02-07</datepublicationdepense>
+        <montantdepense>598.580000</montantdepense>
+        <description>ODC #61 </description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-30</datedepense>
+        <datepublicationdepense>2018-02-07</datepublicationdepense>
+        <montantdepense>440.920000</montantdepense>
+        <description>ODC # 59 et 53</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-30</datedepense>
+        <datepublicationdepense>2018-02-07</datepublicationdepense>
+        <montantdepense>10000.000000</montantdepense>
+        <description>ODC # 57</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-30</datedepense>
+        <datepublicationdepense>2018-02-07</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>ODC # 58 </description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-30</datedepense>
+        <datepublicationdepense>2018-02-07</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>ODC # 56</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-30</datedepense>
+        <datepublicationdepense>2018-02-07</datepublicationdepense>
+        <montantdepense>4139.160000</montantdepense>
+        <description>ODC # 55</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-30</datedepense>
+        <datepublicationdepense>2018-02-07</datepublicationdepense>
+        <montantdepense>8500.000000</montantdepense>
+        <description>ODC # 54</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-30</datedepense>
+        <datepublicationdepense>2018-02-07</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>ODC # 53</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-30</datedepense>
+        <datepublicationdepense>2018-02-07</datepublicationdepense>
+        <montantdepense>2792.620000</montantdepense>
+        <description>ODC # 60 et 58</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-30</datedepense>
+        <datepublicationdepense>2018-02-07</datepublicationdepense>
+        <montantdepense>114.140000</montantdepense>
+        <description>ODC # 45 et 56</description>
+        <nomcontractant>Qualité Construction (CDN) Ltée</nomcontractant>
+        <neqcontractant>1141465030</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1049955</numeroseao>
+    <numero>201600696</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-08-15</datedepense>
+        <datepublicationdepense>2017-09-01</datepublicationdepense>
+        <montantdepense>29400.000000</montantdepense>
+        <description>Ajout au contrat suite à des conditions de chantier non prévues dans les plans et devis </description>
+        <nomcontractant>Canevas Construction Inc.</nomcontractant>
+        <neqcontractant>1170712484</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-29</datedepense>
+        <datepublicationdepense>2018-02-27</datepublicationdepense>
+        <montantdepense>12214.650000</montantdepense>
+        <description> Ajout au contrat suite à des conditions de chantier non prévues dans les plans et devis </description>
+        <nomcontractant>Canevas Construction Inc.</nomcontractant>
+        <neqcontractant>1170712484</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1053222</numeroseao>
+    <numero>US-14-C3-310-00-C3</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-02-07</datedepense>
+        <datepublicationdepense>2018-02-08</datepublicationdepense>
+        <montantdepense>883593.140000</montantdepense>
+        <description>Dépense supplémentaire</description>
+        <nomcontractant>Constructions Guy Sebas Inc.</nomcontractant>
+        <neqcontractant>1144279677</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1063021</numeroseao>
+    <numero>16-17-84</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-07-07</datedepense>
+        <datepublicationdepense>2018-02-15</datepublicationdepense>
+        <montantdepense>2325.840000</montantdepense>
+        <description>OC1 - Démolition d'une colonne de bloc de béton additionnelle en condition d'amiante et enlèvement supplémentaire des tuiles de vinyle - Remplacement de la retenue magnétique en surface par une retenue encastrée.</description>
+        <nomcontractant>Deroc Construction Inc..</nomcontractant>
+        <neqcontractant>1144620094</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-19</datedepense>
+        <datepublicationdepense>2018-02-15</datepublicationdepense>
+        <montantdepense>701.730000</montantdepense>
+        <description>OC2 - Modification de la retombée de gyps dans le corridor.</description>
+        <nomcontractant>Deroc Construction Inc..</nomcontractant>
+        <neqcontractant>1144620094</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-08-07</datedepense>
+        <datepublicationdepense>2018-02-15</datepublicationdepense>
+        <montantdepense>3915.450000</montantdepense>
+        <description>OC3 - Démolition de la dalle de béton de 305mm au lieu de 150mm.</description>
+        <nomcontractant>Deroc Construction Inc..</nomcontractant>
+        <neqcontractant>1144620094</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-08-14</datedepense>
+        <datepublicationdepense>2018-02-15</datepublicationdepense>
+        <montantdepense>164.320000</montantdepense>
+        <description>OC4 - Modification des dimensions du volet motorisé pour système d'évacuation.</description>
+        <nomcontractant>Deroc Construction Inc..</nomcontractant>
+        <neqcontractant>1144620094</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-08-16</datedepense>
+        <datepublicationdepense>2018-02-15</datepublicationdepense>
+        <montantdepense>2227.110000</montantdepense>
+        <description>OC5 - Modification plomberie et soufflage avec trappe d'accès.</description>
+        <nomcontractant>Deroc Construction Inc..</nomcontractant>
+        <neqcontractant>1144620094</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-08-28</datedepense>
+        <datepublicationdepense>2018-02-15</datepublicationdepense>
+        <montantdepense>1829.530000</montantdepense>
+        <description>OC6 -  Remplacement du plafond suspendu et de deux luminaires - section de corridor.</description>
+        <nomcontractant>Deroc Construction Inc..</nomcontractant>
+        <neqcontractant>1144620094</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-09-12</datedepense>
+        <datepublicationdepense>2018-02-15</datepublicationdepense>
+        <montantdepense>606.230000</montantdepense>
+        <description>OC7 - Ajout de deux coins métalliques, peinture et sablage des 2 mains-courantes.</description>
+        <nomcontractant>Deroc Construction Inc..</nomcontractant>
+        <neqcontractant>1144620094</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-09-25</datedepense>
+        <datepublicationdepense>2018-02-15</datepublicationdepense>
+        <montantdepense>1203.340000</montantdepense>
+        <description>OC9 - Réparation d'un conduit électrique coupé lors de la coupe de la dalle de béton.</description>
+        <nomcontractant>Deroc Construction Inc..</nomcontractant>
+        <neqcontractant>1144620094</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1069651</numeroseao>
+    <numero>P-1558</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-08-23</datedepense>
+        <datepublicationdepense>2017-11-15</datepublicationdepense>
+        <montantdepense>11180.080000</montantdepense>
+        <description>Ajout conduit électrique pour éclairage - installation barrière sécurité en métal et ajustement niveau MG20 manquant</description>
+        <nomcontractant>Les Entreprises JRMorin inc.</nomcontractant>
+        <neqcontractant>1164863558</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1070034</numeroseao>
+    <numero>17-117 - 6MARGM.01   ...</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-10-06</datedepense>
+        <datepublicationdepense>2017-10-16</datepublicationdepense>
+        <montantdepense>1263.410000</montantdepense>
+        <description>#1 - Mécanique: Raccorder les services existants au nouveau réseau de drainage sous dalle. Installation de 4 robinets d'isolation sur les branchements existants pour le raccordement des calorifères.</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-06</datedepense>
+        <datepublicationdepense>2017-10-16</datepublicationdepense>
+        <montantdepense>3048.940000</montantdepense>
+        <description># 2 - Électricité: Retrait temporaire des appareils d'éclairage sur le bord de la toiture pour permettre les travaux de réfection des parapets.</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-06</datedepense>
+        <datepublicationdepense>2017-10-16</datepublicationdepense>
+        <montantdepense>5905.380000</montantdepense>
+        <description># 3 - Architecture: Réparation du plafond au rez-de-chaussée, suite à une fuite d'eau provenant d'un calorifère de 2e étage.</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-06</datedepense>
+        <datepublicationdepense>2017-10-16</datepublicationdepense>
+        <montantdepense>1448.660000</montantdepense>
+        <description># 4 - Architecture: Ajustement des retombées de plafond suite à une modification de la plomberie. Ragréage suite à la démolition (amiante) du faut des fenêtres.</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-27</datedepense>
+        <datepublicationdepense>2017-11-07</datepublicationdepense>
+        <montantdepense>2444.600000</montantdepense>
+        <description># 5 - Architecture: Rehausser les évents de toit (5). Ragréer la plinthe du corridor tel que l'existant. Installer de nouveaux seuils de marbre. Ajuster le meuble recouvrant l'entrée d'eau de la bibliothèque selon les nouvelles installations.</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-27</datedepense>
+        <datepublicationdepense>2017-11-07</datepublicationdepense>
+        <montantdepense>644.470000</montantdepense>
+        <description># 6 - Électricité: Relocalisation d'une boîte de jonctions, installation d'une nouvelle porte d'accès et installation de couvercles sur 2 boîtes de jonctions existantes.</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-27</datedepense>
+        <datepublicationdepense>2017-11-07</datepublicationdepense>
+        <montantdepense>1852.980000</montantdepense>
+        <description># 7 - Électricité: Alimentation électrique temporaire 120\140 Volts-40 ampères pour la roulotte externe contenant des blocs sanitaires.</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-22</datedepense>
+        <datepublicationdepense>2017-12-05</datepublicationdepense>
+        <montantdepense>1020.800000</montantdepense>
+        <description># 8 - Architecture: Céramique manquante sur les plans d'architecture. Céramique murale supplémentaire requise dans le local 119B.</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-22</datedepense>
+        <datepublicationdepense>2017-12-05</datepublicationdepense>
+        <montantdepense>501.470000</montantdepense>
+        <description># 9 - Mécanique: Remplacer tous les sièges de toilette avec couvercle pour des sièges sans couvercle afin d'éviter des conflits avec la détection de présence des robinets de chasse.</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-31</datedepense>
+        <datepublicationdepense>2018-02-06</datepublicationdepense>
+        <montantdepense>2050.980000</montantdepense>
+        <description># 10: Électricité - Remplacement de 6 ballast d'éclairage dans la salle des enseignants (dommage suite à la coupure de courant de l'école). Débranchement de l'alimentation électrique de la roulotte sanitaire (installation temporaire).</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-19</datedepense>
+        <datepublicationdepense>2018-02-28</datepublicationdepense>
+        <montantdepense>1427.820000</montantdepense>
+        <description># 11:  Architecture: Démolir les bâtis existants des ventilateurs de toit et ragréer. Reconstruire des nouveaux bâtis selon la dimension des nouveaux ventilateurs. Ajout d'un écran d'intimité dans le bloc sanitaire des garçons (local 119B).</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1073054</numeroseao>
+    <numero>E16-17-25</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-08-15</datedepense>
+        <datepublicationdepense>2018-02-12</datepublicationdepense>
+        <montantdepense>13121.000000</montantdepense>
+        <description>ajout de meubles et c'est le seul soumissionnaire</description>
+        <nomcontractant>Librairie Cote</nomcontractant>
+        <neqcontractant>1143170372</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-09-01</datedepense>
+        <datepublicationdepense>2018-02-12</datepublicationdepense>
+        <montantdepense>16408.000000</montantdepense>
+        <description>ajout ameublement finances</description>
+        <nomcontractant>Librairie Cote</nomcontractant>
+        <neqcontractant>1143170372</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1073107</numeroseao>
+    <numero>M15M00302</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-02-28</datedepense>
+        <datepublicationdepense>2017-11-16</datepublicationdepense>
+        <montantdepense>30417.240000</montantdepense>
+        <description>Travaux nécessaires pour la réalisation du projet</description>
+        <nomcontractant>Isofor.</nomcontractant>
+        <neqcontractant>1164995020</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1078521</numeroseao>
+    <numero>RM-2017-108-01</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-10-12</datedepense>
+        <datepublicationdepense>2017-10-30</datepublicationdepense>
+        <montantdepense>7095.870000</montantdepense>
+        <description>Enlever l'enduit acrylique décollé de la paroi de béton sur le muret. Ajouter des gouttières. Réparation additionnelle de béton. Modification du regard RP-1 afin de l'adapter à la conduite. Arrêt et obligation de sécuriser le chantier suite à des imprévus.</description>
+        <nomcontractant>Entreprises Richard Brisson Inc.</nomcontractant>
+        <neqcontractant>1147222591</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1083981</numeroseao>
+    <numero>2017CSU457</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-11-15</datedepense>
+        <datepublicationdepense>2017-11-15</datepublicationdepense>
+        <montantdepense>2017.440000</montantdepense>
+        <description>ODC #3 - Coût supplémentaires pour les travaux de béton (inclus le crédit de ODC #1)</description>
+        <nomcontractant>Experts Constructions MG Inc</nomcontractant>
+        <neqcontractant>1165628190</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-14</datedepense>
+        <datepublicationdepense>2017-11-15</datepublicationdepense>
+        <montantdepense>331.580000</montantdepense>
+        <description>ODC #4 - Installation de la boîte de jonction local 2136</description>
+        <nomcontractant>Experts Constructions MG Inc</nomcontractant>
+        <neqcontractant>1165628190</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-16</datedepense>
+        <datepublicationdepense>2018-01-24</datepublicationdepense>
+        <montantdepense>7239.100000</montantdepense>
+        <description>ODC #2 - Revêtement du sous-sil</description>
+        <nomcontractant>Experts Constructions MG Inc</nomcontractant>
+        <neqcontractant>1165628190</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-20</datedepense>
+        <datepublicationdepense>2018-01-24</datepublicationdepense>
+        <montantdepense>2194.130000</montantdepense>
+        <description>ODC #5 - installation d'une poutre d'acier </description>
+        <nomcontractant>Experts Constructions MG Inc</nomcontractant>
+        <neqcontractant>1165628190</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-04</datedepense>
+        <datepublicationdepense>2018-01-24</datepublicationdepense>
+        <montantdepense>827.260000</montantdepense>
+        <description>ODC #6 - Installation de serrure de porte </description>
+        <nomcontractant>Experts Constructions MG Inc</nomcontractant>
+        <neqcontractant>1165628190</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-04</datedepense>
+        <datepublicationdepense>2018-01-24</datepublicationdepense>
+        <montantdepense>1007.680000</montantdepense>
+        <description>ODC #7 - nivellement du plancher</description>
+        <nomcontractant>Experts Constructions MG Inc</nomcontractant>
+        <neqcontractant>1165628190</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-21</datedepense>
+        <datepublicationdepense>2018-01-24</datepublicationdepense>
+        <montantdepense>280.300000</montantdepense>
+        <description>ODC # 8 installation d'un pen dormant et des butoirs</description>
+        <nomcontractant>Experts Constructions MG Inc</nomcontractant>
+        <neqcontractant>1165628190</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1084029</numeroseao>
+    <numero>BON161702226</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-07-10</datedepense>
+        <datepublicationdepense>2017-07-10</datepublicationdepense>
+        <montantdepense>12132.000000</montantdepense>
+        <description> AJOUT AU CONTRAT: REFAIRE LE BARDEAU DE LA PORTION CENTRALE DU PAVILLON 5</description>
+        <nomcontractant>Toitures Des Cantons</nomcontractant>
+        <neqcontractant>1169793362</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-08-18</datedepense>
+        <datepublicationdepense>2017-08-18</datepublicationdepense>
+        <montantdepense>712.700000</montantdepense>
+        <description>Travaux de réparations mineures de la membrane du toit plat au dessus du niveau 5 - déficience observée en chantier.</description>
+        <nomcontractant>Toitures Des Cantons</nomcontractant>
+        <neqcontractant>1169793362</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-09-01</datedepense>
+        <datepublicationdepense>2018-02-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>DÉJÀ PUBLIÉ</description>
+        <nomcontractant>Toitures Des Cantons</nomcontractant>
+        <neqcontractant>1169793362</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1100535</numeroseao>
+    <numero>173600049</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-02-06</datedepense>
+        <datepublicationdepense>2017-10-24</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>ct</description>
+        <nomcontractant>Deroc Construction Inc..</nomcontractant>
+        <neqcontractant>1144620094</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1102038</numeroseao>
+    <numero>44507923</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-02-08</datedepense>
+        <datepublicationdepense>2018-02-19</datepublicationdepense>
+        <montantdepense>24649.980000</montantdepense>
+        <description>Modification significative client</description>
+        <nomcontractant>Société immobilière Landmark inc.</nomcontractant>
+        <neqcontractant>1142023390</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1107115</numeroseao>
+    <numero>44508013</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-01-31</datedepense>
+        <datepublicationdepense>2018-02-06</datepublicationdepense>
+        <montantdepense>30369.700000</montantdepense>
+        <description>Comprend la valeur des ajouts antérieurs du 10 % du montant initial du contrat</description>
+        <nomcontractant>Construction Durand Inc.</nomcontractant>
+        <neqcontractant>1144384501</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-31</datedepense>
+        <datepublicationdepense>2018-02-06</datepublicationdepense>
+        <montantdepense>759.000000</montantdepense>
+        <description>Se référer à la feuille « Détail typique tranchées » en annexe pour le ragréage des tranchées de béton de la phase 2.</description>
+        <nomcontractant>Construction Durand Inc.</nomcontractant>
+        <neqcontractant>1144384501</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1107817</numeroseao>
+    <numero>P0608816</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-08-29</datedepense>
+        <datepublicationdepense>2018-02-19</datepublicationdepense>
+        <montantdepense>39134.580000</montantdepense>
+        <description>Directive à l'entrepreneur pour travaux supplémentaires imprévus</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2016-08-30</datedepense>
+        <datepublicationdepense>2018-02-19</datepublicationdepense>
+        <montantdepense>5866.600000</montantdepense>
+        <description>Directive de chantier pour travaux supplémentaires imprévus</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1124471</numeroseao>
+    <numero>44509018</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-12-14</datedepense>
+        <datepublicationdepense>2017-12-19</datepublicationdepense>
+        <montantdepense>7453.000000</montantdepense>
+        <description>Ajout d'une toile opaque</description>
+        <nomcontractant>Clôture SPEC II inc.</nomcontractant>
+        <neqcontractant>1143374974</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-17</datedepense>
+        <datepublicationdepense>2018-02-28</datepublicationdepense>
+        <montantdepense>925.000000</montantdepense>
+        <description>Ajout d'une porte piétonnière</description>
+        <nomcontractant>Clôture SPEC II inc.</nomcontractant>
+        <neqcontractant>1143374974</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-17</datedepense>
+        <datepublicationdepense>2018-02-28</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Ajout d'une porte piétonnière</description>
+        <nomcontractant>Clôture SPEC II inc.</nomcontractant>
+        <neqcontractant>1143374974</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1137111</numeroseao>
+    <numero>700 256 466</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-01-31</datedepense>
+        <datepublicationdepense>2018-02-12</datepublicationdepense>
+        <montantdepense>185000.000000</montantdepense>
+        <description>Augmentation du nombre de demande d'aide de dernier recours</description>
+        <nomcontractant>Société Générale de Surveillance et d'Investigation</nomcontractant>
+        <neqcontractant>1171239594</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+</export>

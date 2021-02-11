@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2020-07-01" datefin="2020-07-31">
+  <avis>
+    <numeroseao>865614</numeroseao>
+    <numero>28896000</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-03-12</datedepense>
+        <datepublicationdepense>2020-03-30</datepublicationdepense>
+        <montantdepense>112844.400000</montantdepense>
+        <description>Prolongation pour 6 mois du 12 mars 2020 au 11 septembre 2020 </description>
+        <nomcontractant>Service Sanitaire Frontenac Ltée</nomcontractant>
+        <neqcontractant>1142883132</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>926038</numeroseao>
+    <numero>UC-1504029(HMC)</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-07-05</datedepense>
+        <datepublicationdepense>2018-01-12</datepublicationdepense>
+        <montantdepense>8405.350000</montantdepense>
+        <description>transport et entreposage to composantes</description>
+        <nomcontractant>Infravert</nomcontractant>
+        <neqcontractant>1160899036</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-12</datedepense>
+        <datepublicationdepense>2020-07-08</datepublicationdepense>
+        <montantdepense>9855.500000</montantdepense>
+        <description>Entreposage</description>
+        <nomcontractant>Infravert</nomcontractant>
+        <neqcontractant>1160899036</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1024263</numeroseao>
+    <numero>BE016-003</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-11-05</datedepense>
+        <datepublicationdepense>2020-07-13</datepublicationdepense>
+        <montantdepense>114023.460000</montantdepense>
+        <description>Acquisition de 10 chariots supplémentaires et accessoires</description>
+        <nomcontractant>Burlodge</nomcontractant>
+        <neqcontractant>1147634902</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1064288</numeroseao>
+    <numero>CA20170328-PB</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-12-05</datedepense>
+        <datepublicationdepense>2018-12-11</datepublicationdepense>
+        <montantdepense>65149.000000</montantdepense>
+        <description>MISE AUX NORMES DES PORTES COUPE-FEU ET RÉDUCTION DU BRUIT, PHASE 1 </description>
+        <nomcontractant>Construction Bralteck Inc</nomcontractant>
+        <neqcontractant>1165114431</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-07-20</datedepense>
+        <datepublicationdepense>2020-07-21</datepublicationdepense>
+        <montantdepense>11347.250000</montantdepense>
+        <description>MISE AUX NORMES DES PORTES COUPE-FEU ET RÉDUCTION DU BRUIT, PHASE 1</description>
+        <nomcontractant>Construction Bralteck Inc</nomcontractant>
+        <neqcontractant>1165114431</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1076505</numeroseao>
+    <numero>P24645</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-06-15</datedepense>
+        <datepublicationdepense>2020-07-06</datepublicationdepense>
+        <montantdepense>60000.000000</montantdepense>
+        <description>Augmentatio et prolongation dû à la COVID-19</description>
+        <nomcontractant>Ross &amp; Sheehan inc.</nomcontractant>
+        <neqcontractant>1164291404</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-06-11</datedepense>
+        <datepublicationdepense>2020-06-15</datepublicationdepense>
+        <montantdepense>60000.000000</montantdepense>
+        <description>Augmentation et prolongation dû à la Covid-19</description>
+        <nomcontractant>Linda Arui</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1144918</numeroseao>
+    <numero>2018-1119 (DST-2018-07)</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-08-20</datedepense>
+        <datepublicationdepense>2019-08-20</datepublicationdepense>
+        <montantdepense>753330.930000</montantdepense>
+        <description>ODC 1 a 25 travaux supplémentaires</description>
+        <nomcontractant>Aranda Construction Inc</nomcontractant>
+        <neqcontractant>1143816370</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-09-19</datedepense>
+        <datepublicationdepense>2019-09-23</datepublicationdepense>
+        <montantdepense>34888.520000</montantdepense>
+        <description>ODC #26 @ ODC #28</description>
+        <nomcontractant>Aranda Construction Inc</nomcontractant>
+        <neqcontractant>1143816370</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-07-01</datedepense>
+        <datepublicationdepense>2020-07-02</datepublicationdepense>
+        <montantdepense>133751.360000</montantdepense>
+        <description>ODC #29 &amp; ODC #33</description>
+        <nomcontractant>Aranda Construction Inc</nomcontractant>
+        <neqcontractant>1143816370</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-07-09</datedepense>
+        <datepublicationdepense>2020-07-13</datepublicationdepense>
+        <montantdepense>55514.590000</montantdepense>
+        <description>ODC #30 @ ODC #32</description>
+        <nomcontractant>Aranda Construction Inc</nomcontractant>
+        <neqcontractant>1143816370</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1151589</numeroseao>
+    <numero>33826000</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-06-14</datedepense>
+        <datepublicationdepense>2020-07-18</datepublicationdepense>
+        <montantdepense>46000.000000</montantdepense>
+        <description>Services professionnels supplémentaires</description>
+        <nomcontractant>JT Conseils inc.</nomcontractant>
+        <neqcontractant>1168314590</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1157547</numeroseao>
+    <numero>CA-180313-RY</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-11-20</datedepense>
+        <datepublicationdepense>2019-11-21</datepublicationdepense>
+        <montantdepense>47802.490000</montantdepense>
+        <description>ODC 1 à 26 et 28 à 31</description>
+        <nomcontractant>Construction GCP Inc.</nomcontractant>
+        <neqcontractant>1143366657</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-12-16</datedepense>
+        <datepublicationdepense>2019-12-18</datepublicationdepense>
+        <montantdepense>9995.710000</montantdepense>
+        <description>ODC 32 à 39 et 41-42</description>
+        <nomcontractant>Construction GCP Inc.</nomcontractant>
+        <neqcontractant>1143366657</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1170421</numeroseao>
+    <numero>411018-17</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-06-02</datedepense>
+        <datepublicationdepense>2020-07-10</datepublicationdepense>
+        <montantdepense>34974.000000</montantdepense>
+        <description>Avenant no 02 au contrat 411018-17</description>
+        <nomcontractant>CGI Inc.</nomcontractant>
+        <neqcontractant>1160358728</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1207574</numeroseao>
+    <numero>34274500</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-11-26</datedepense>
+        <datepublicationdepense>2020-01-10</datepublicationdepense>
+        <montantdepense>1173300.000000</montantdepense>
+        <description>Modification mineure</description>
+        <nomcontractant>Ernest  Boutin Inc.</nomcontractant>
+        <neqcontractant>1161180691</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-01-07</datedepense>
+        <datepublicationdepense>2020-04-20</datepublicationdepense>
+        <montantdepense>185297.000000</montantdepense>
+        <description>Modification mineure</description>
+        <nomcontractant>Ernest  Boutin Inc.</nomcontractant>
+        <neqcontractant>1161180691</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-07-08</datedepense>
+        <datepublicationdepense>2020-07-21</datepublicationdepense>
+        <montantdepense>390117.000000</montantdepense>
+        <description>Modification significative client</description>
+        <nomcontractant>Ernest  Boutin Inc.</nomcontractant>
+        <neqcontractant>1161180691</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1207596</numeroseao>
+    <numero>CA-181002-RY</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-10-29</datedepense>
+        <datepublicationdepense>2019-11-08</datepublicationdepense>
+        <montantdepense>79435.770000</montantdepense>
+        <description>ODC 1 À 7</description>
+        <nomcontractant>Groupe MTKR Inc.</nomcontractant>
+        <neqcontractant>1171373617</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1216069</numeroseao>
+    <numero>42A1801-01</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-07-09</datedepense>
+        <datepublicationdepense>2020-07-15</datepublicationdepense>
+        <montantdepense>42452.000000</montantdepense>
+        <description>Pour rencontrer la norme de la RBQ qui exige la mise en place de régulateurs de pression susceptible de dépasser les 75 psi non demandés au devis. Ajout de robinetteries à fermeture automatique sur les entrées d'eau requis par le MEES pour la sous-mesure 50644 pas indiqué au devis.</description>
+        <nomcontractant>Plomberie du Portage Inc.</nomcontractant>
+        <neqcontractant>1141948605</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1218980</numeroseao>
+    <numero>UDEM1550</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-01-09</datedepense>
+        <datepublicationdepense>2020-06-18</datepublicationdepense>
+        <montantdepense>180008.000000</montantdepense>
+        <description>.</description>
+        <nomcontractant>Applied Electronique Ltée</nomcontractant>
+        <neqcontractant>1160095791</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-07-09</datedepense>
+        <datepublicationdepense>2020-07-14</datepublicationdepense>
+        <montantdepense>55217.000000</montantdepense>
+        <description>.</description>
+        <nomcontractant>Applied Electronique Ltée</nomcontractant>
+        <neqcontractant>1160095791</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1230494</numeroseao>
+    <numero>2017-2504c</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-11-19</datedepense>
+        <datepublicationdepense>2019-12-16</datepublicationdepense>
+        <montantdepense>718257.410000</montantdepense>
+        <description>Modification qui occasionne une dépense supplémentaire (travaux de mécaniques et électriques imprévus en chantier)</description>
+        <nomcontractant>Beauvais et Verret Inc</nomcontractant>
+        <neqcontractant>1166261025</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-12-17</datedepense>
+        <datepublicationdepense>2020-01-16</datepublicationdepense>
+        <montantdepense>61322.680000</montantdepense>
+        <description>Modification du système de peinture de l'animalerie, ajout de mobilier de stainless et imprévus en chantier concernant les travaux d'architecture</description>
+        <nomcontractant>Beauvais et Verret Inc</nomcontractant>
+        <neqcontractant>1166261025</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-02-21</datedepense>
+        <datepublicationdepense>2020-03-03</datepublicationdepense>
+        <montantdepense>27161.700000</montantdepense>
+        <description>Travaux de mécanique / architecture imprévus en cours de chantier</description>
+        <nomcontractant>Beauvais et Verret Inc</nomcontractant>
+        <neqcontractant>1166261025</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-03-18</datedepense>
+        <datepublicationdepense>2020-03-20</datepublicationdepense>
+        <montantdepense>7693.640000</montantdepense>
+        <description>Travaux de mécaniques et électricité imprévus en cours de chantier</description>
+        <nomcontractant>Beauvais et Verret Inc</nomcontractant>
+        <neqcontractant>1166261025</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-05-01</datedepense>
+        <datepublicationdepense>2020-05-06</datepublicationdepense>
+        <montantdepense>6982.120000</montantdepense>
+        <description>Travaux d'architecture imprévus en cours de chantier</description>
+        <nomcontractant>Beauvais et Verret Inc</nomcontractant>
+        <neqcontractant>1166261025</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-05-20</datedepense>
+        <datepublicationdepense>2020-05-22</datepublicationdepense>
+        <montantdepense>4868.750000</montantdepense>
+        <description>Travaux d'électricité imprévus en cours de chantier</description>
+        <nomcontractant>Beauvais et Verret Inc</nomcontractant>
+        <neqcontractant>1166261025</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-06-18</datedepense>
+        <datepublicationdepense>2020-07-09</datepublicationdepense>
+        <montantdepense>55504.550000</montantdepense>
+        <description>Travaux de mécaniques et d'électricité imprévus en cours de chantier, travaux d'architecture imprévus en chantier, Impacts arrêt des travaux Covid-19</description>
+        <nomcontractant>Beauvais et Verret Inc</nomcontractant>
+        <neqcontractant>1166261025</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-07-02</datedepense>
+        <datepublicationdepense>2020-07-14</datepublicationdepense>
+        <montantdepense>16429.250000</montantdepense>
+        <description>Travaux de mécanique et d'électricité imprévus en cours de chantier</description>
+        <nomcontractant>Beauvais et Verret Inc</nomcontractant>
+        <neqcontractant>1166261025</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1235563</numeroseao>
+    <numero>370101101</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-01-15</datedepense>
+        <datepublicationdepense>2020-01-29</datepublicationdepense>
+        <montantdepense>152625.390000</montantdepense>
+        <description>Ajout, modification et suppression d'items au contrat</description>
+        <nomcontractant>9125-5661 Quebec Inc. (Groupe Specs)</nomcontractant>
+        <neqcontractant>1161283594</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-04-15</datedepense>
+        <datepublicationdepense>2020-05-19</datepublicationdepense>
+        <montantdepense>17169.930000</montantdepense>
+        <description>Ajout, modification et suppression d'items au contrat </description>
+        <nomcontractant>9125-5661 Quebec Inc. (Groupe Specs)</nomcontractant>
+        <neqcontractant>1161283594</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-07-06</datedepense>
+        <datepublicationdepense>2020-07-08</datepublicationdepense>
+        <montantdepense>7579.420000</montantdepense>
+        <description>Modification de produits, ajout et suppression d'item</description>
+        <nomcontractant>9125-5661 Quebec Inc. (Groupe Specs)</nomcontractant>
+        <neqcontractant>1161283594</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1237502</numeroseao>
+    <numero>19-012-AO-C </numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-06-06</datedepense>
+        <datepublicationdepense>2019-06-21</datepublicationdepense>
+        <montantdepense>4539.050000</montantdepense>
+        <description>ODC #1  Conditions de chantier-maçonnerie du bassin B2 </description>
+        <nomcontractant>Toitures Trois Étoiles Inc.</nomcontractant>
+        <neqcontractant>1142111666</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-07-12</datedepense>
+        <datepublicationdepense>2020-07-15</datepublicationdepense>
+        <montantdepense>5046.850000</montantdepense>
+        <description>Ordre de changement 02: reconstruction de murets centraux du puits de lumière (1.19%)</description>
+        <nomcontractant>Toitures Trois Étoiles Inc.</nomcontractant>
+        <neqcontractant>1142111666</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-12-17</datedepense>
+        <datepublicationdepense>2020-07-15</datepublicationdepense>
+        <montantdepense>18607.230000</montantdepense>
+        <description>Ordre de changement 03: ARC-04,ARC-05,DC-S-01 et  crédit parapets (26 951.00 $)  ( 4.32 % ) </description>
+        <nomcontractant>Toitures Trois Étoiles Inc.</nomcontractant>
+        <neqcontractant>1142111666</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1254528</numeroseao>
+    <numero>175834</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-05-27</datedepense>
+        <datepublicationdepense>2019-07-23</datepublicationdepense>
+        <montantdepense>2876.000000</montantdepense>
+        <description>Services aditionnels durant la construction (honoraires forfaitaires )</description>
+        <nomcontractant>WSP Quebec</nomcontractant>
+        <neqcontractant>1148357057</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1255682</numeroseao>
+    <numero>7000623</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-07-16</datedepense>
+        <datepublicationdepense>2020-07-23</datepublicationdepense>
+        <montantdepense>259061.160000</montantdepense>
+        <description>Ajout de licences nécessaires pour l'accès à distance - Montant original en USD: 191 798,00$</description>
+        <nomcontractant>Adobe Systems Incorporated</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2020-07-16</datedepense>
+        <datepublicationdepense>2020-07-23</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Erreur de saisie - Doublon</description>
+        <nomcontractant>Adobe Systems Incorporated</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1270264</numeroseao>
+    <numero>2019-032-9959-cs-gg</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-06-01</datedepense>
+        <datepublicationdepense>2020-07-15</datepublicationdepense>
+        <montantdepense>13681.000000</montantdepense>
+        <description>prolongation de 30 jours au contrat (CS11949)</description>
+        <nomcontractant>GE Santé Canada</nomcontractant>
+        <neqcontractant>3362005533</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-07-01</datedepense>
+        <datepublicationdepense>2020-07-15</datepublicationdepense>
+        <montantdepense>13681.000000</montantdepense>
+        <description>prolongation de 30 jours au contrat  ( CS12026)</description>
+        <nomcontractant>GE Santé Canada</nomcontractant>
+        <neqcontractant>3362005533</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1285494</numeroseao>
+    <numero>44512617</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-05-14</datedepense>
+        <datepublicationdepense>2020-05-15</datepublicationdepense>
+        <montantdepense>72069.130000</montantdepense>
+        <description>Modification mineure ODC #8 </description>
+        <nomcontractant>Biron. (9170-7570 Qc inc.)</nomcontractant>
+        <neqcontractant>1163792774</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-05-15</datedepense>
+        <datepublicationdepense>2020-05-15</datepublicationdepense>
+        <montantdepense>10313.670000</montantdepense>
+        <description>Modification mineure ODC #13</description>
+        <nomcontractant>Biron. (9170-7570 Qc inc.)</nomcontractant>
+        <neqcontractant>1163792774</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1290325</numeroseao>
+    <numero>2019-1261(DST-2019-28)</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-11-22</datedepense>
+        <datepublicationdepense>2019-11-25</datepublicationdepense>
+        <montantdepense>1575.000000</montantdepense>
+        <description>ODC #1 </description>
+        <nomcontractant>Construction Transit 2eG</nomcontractant>
+        <neqcontractant>1168120534</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-11-27</datedepense>
+        <datepublicationdepense>2019-11-28</datepublicationdepense>
+        <montantdepense>6545.000000</montantdepense>
+        <description>ODC #2</description>
+        <nomcontractant>Construction Transit 2eG</nomcontractant>
+        <neqcontractant>1168120534</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-12-02</datedepense>
+        <datepublicationdepense>2019-12-04</datepublicationdepense>
+        <montantdepense>2531.100000</montantdepense>
+        <description>ODC #3</description>
+        <nomcontractant>Construction Transit 2eG</nomcontractant>
+        <neqcontractant>1168120534</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-04-07</datedepense>
+        <datepublicationdepense>2020-04-07</datepublicationdepense>
+        <montantdepense>50667.400000</montantdepense>
+        <description>ODC#5 + ODC #6 + ODC #7 + ODC #10</description>
+        <nomcontractant>Construction Transit 2eG</nomcontractant>
+        <neqcontractant>1168120534</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-04-28</datedepense>
+        <datepublicationdepense>2020-04-29</datepublicationdepense>
+        <montantdepense>5796.620000</montantdepense>
+        <description>ODC# 11 à ODC# 12</description>
+        <nomcontractant>Construction Transit 2eG</nomcontractant>
+        <neqcontractant>1168120534</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-04-28</datedepense>
+        <datepublicationdepense>2020-06-15</datepublicationdepense>
+        <montantdepense>34841.720000</montantdepense>
+        <description>ODC#8 ET ODC#9</description>
+        <nomcontractant>Construction Transit 2eG</nomcontractant>
+        <neqcontractant>1168120534</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-06-26</datedepense>
+        <datepublicationdepense>2020-07-01</datepublicationdepense>
+        <montantdepense>22358.280000</montantdepense>
+        <description>ODC #4 &amp; #13</description>
+        <nomcontractant>Construction Transit 2eG</nomcontractant>
+        <neqcontractant>1168120534</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1290989</numeroseao>
+    <numero>CS11216</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-12-19</datedepense>
+        <datepublicationdepense>2020-07-14</datepublicationdepense>
+        <montantdepense>1285.600000</montantdepense>
+        <description>ajout  des services</description>
+        <nomcontractant>SERVICES CONSEIL AMG INC.</nomcontractant>
+        <neqcontractant>1171576276</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1291341</numeroseao>
+    <numero>19-242-GG-S</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-02-01</datedepense>
+        <datepublicationdepense>2020-06-04</datepublicationdepense>
+        <montantdepense>162755.000000</montantdepense>
+        <description>Prolongation de 5 mois </description>
+        <nomcontractant>Le Plan Beauregard inc.</nomcontractant>
+        <neqcontractant>1168512052</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1295151</numeroseao>
+    <numero>44512466</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-11-15</datedepense>
+        <datepublicationdepense>2019-12-12</datepublicationdepense>
+        <montantdepense>56856.030000</montantdepense>
+        <description>Dépense supplémentaires ODC de 1 à 24</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-11-18</datedepense>
+        <datepublicationdepense>2019-12-12</datepublicationdepense>
+        <montantdepense>1093.480000</montantdepense>
+        <description>Remplacer les supports à savons encastrés</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-11-18</datedepense>
+        <datepublicationdepense>2019-12-12</datepublicationdepense>
+        <montantdepense>633.910000</montantdepense>
+        <description>Poignée pour couvercle de puisard</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-11-18</datedepense>
+        <datepublicationdepense>2019-12-12</datepublicationdepense>
+        <montantdepense>4099.640000</montantdepense>
+        <description>Modification des couduites de ventilation</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-11-18</datedepense>
+        <datepublicationdepense>2019-12-12</datepublicationdepense>
+        <montantdepense>3889.810000</montantdepense>
+        <description>Nouveau ventilateur</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-11-21</datedepense>
+        <datepublicationdepense>2019-12-12</datepublicationdepense>
+        <montantdepense>7211.200000</montantdepense>
+        <description>Électricité - Protection incendie - Ventilation</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-11-27</datedepense>
+        <datepublicationdepense>2019-12-12</datepublicationdepense>
+        <montantdepense>961.550000</montantdepense>
+        <description>Augmentation de la capacité électrique</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-11-27</datedepense>
+        <datepublicationdepense>2019-12-12</datepublicationdepense>
+        <montantdepense>405.540000</montantdepense>
+        <description>Raccordement du réfrigérateur</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-11-27</datedepense>
+        <datepublicationdepense>2019-12-12</datepublicationdepense>
+        <montantdepense>2090.670000</montantdepense>
+        <description>Divers items électriques</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-11-29</datedepense>
+        <datepublicationdepense>2019-12-12</datepublicationdepense>
+        <montantdepense>140.410000</montantdepense>
+        <description>Valve LF100XL</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-12-10</datedepense>
+        <datepublicationdepense>2019-12-12</datepublicationdepense>
+        <montantdepense>870.110000</montantdepense>
+        <description>Réparer les joints du fini de plancher en marmoléum dans la pièce RC279</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-12-11</datedepense>
+        <datepublicationdepense>2019-12-12</datepublicationdepense>
+        <montantdepense>1116.630000</montantdepense>
+        <description>Drainage de l'échangeur d'air</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-12-11</datedepense>
+        <datepublicationdepense>2019-12-12</datepublicationdepense>
+        <montantdepense>2614.980000</montantdepense>
+        <description>Drainage 2e étage + évent pourri</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-12-12</datedepense>
+        <datepublicationdepense>2020-01-06</datepublicationdepense>
+        <montantdepense>193.420000</montantdepense>
+        <description>Ajouts de serrure</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-12-12</datedepense>
+        <datepublicationdepense>2020-01-06</datepublicationdepense>
+        <montantdepense>2820.300000</montantdepense>
+        <description>Ajout de divers items électriques</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-01-06</datedepense>
+        <datepublicationdepense>2020-01-06</datepublicationdepense>
+        <montantdepense>1438.620000</montantdepense>
+        <description>Ajouter un plafond en gypse et un soufflage au mur dans le local RC235</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-01-28</datedepense>
+        <datepublicationdepense>2020-02-24</datepublicationdepense>
+        <montantdepense>433.480000</montantdepense>
+        <description>Faire les raccordements électriques suivants au boîtier de commande de la hotte</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-01-28</datedepense>
+        <datepublicationdepense>2020-02-24</datepublicationdepense>
+        <montantdepense>874.650000</montantdepense>
+        <description>Faire les raccordements électriques suivants au boîtier de commande de la hotte</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-01-28</datedepense>
+        <datepublicationdepense>2020-02-24</datepublicationdepense>
+        <montantdepense>209.090000</montantdepense>
+        <description>Faire le raccordement électrique d'un ouvre-porte automatique</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-02-21</datedepense>
+        <datepublicationdepense>2020-02-24</datepublicationdepense>
+        <montantdepense>697.230000</montantdepense>
+        <description>Faire alimentation électrique des séchoirs</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-02-21</datedepense>
+        <datepublicationdepense>2020-02-24</datepublicationdepense>
+        <montantdepense>243.570000</montantdepense>
+        <description>Modification à la trame d'éclairage</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-02-21</datedepense>
+        <datepublicationdepense>2020-02-24</datepublicationdepense>
+        <montantdepense>4706.240000</montantdepense>
+        <description>Installation d'un nouveau panneau électrique 208V</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-03-10</datedepense>
+        <datepublicationdepense>2020-03-10</datepublicationdepense>
+        <montantdepense>284.460000</montantdepense>
+        <description>Plinthe de caoutchouc et peinture opaque au plancher</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-03-30</datedepense>
+        <datepublicationdepense>2020-03-30</datepublicationdepense>
+        <montantdepense>87.800000</montantdepense>
+        <description>Ajout d'une barre d'appuis et autre précisions</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-03-30</datedepense>
+        <datepublicationdepense>2020-03-30</datepublicationdepense>
+        <montantdepense>704.300000</montantdepense>
+        <description>Modifier les accessoires de toilettes des vestiaires hommes et femmes</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-03-30</datedepense>
+        <datepublicationdepense>2020-03-30</datepublicationdepense>
+        <montantdepense>3867.130000</montantdepense>
+        <description>Modifier les lames décoratives, l’ossature et son système d’attache au plafond de la cuisine.</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-04-28</datedepense>
+        <datepublicationdepense>2020-04-28</datepublicationdepense>
+        <montantdepense>338.000000</montantdepense>
+        <description>Modifier le plafond du garde-manger et ajouter un pliage plafond corridor</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-04-27</datedepense>
+        <datepublicationdepense>2020-04-28</datepublicationdepense>
+        <montantdepense>1329.520000</montantdepense>
+        <description>Changement des lavabos</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-06-01</datedepense>
+        <datepublicationdepense>2020-06-03</datepublicationdepense>
+        <montantdepense>1310.740000</montantdepense>
+        <description>Modifier les lames décoratives, l'ossature et son système d'attache au plafond de la cuisine ODC49</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-06-01</datedepense>
+        <datepublicationdepense>2020-06-03</datepublicationdepense>
+        <montantdepense>4944.630000</montantdepense>
+        <description>Précision sur les persiennes requises en ventilation</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-06-01</datedepense>
+        <datepublicationdepense>2020-06-03</datepublicationdepense>
+        <montantdepense>1480.300000</montantdepense>
+        <description>Protection-incendie ODC 56</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-06-29</datedepense>
+        <datepublicationdepense>2020-07-06</datepublicationdepense>
+        <montantdepense>6018.320000</montantdepense>
+        <description>Honoraires de supervision supplémentaires ODC 57</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-11-15</datedepense>
+        <datepublicationdepense>2020-07-28</datepublicationdepense>
+        <montantdepense>460.000000</montantdepense>
+        <description>Balance du 10% à l'ODC 24</description>
+        <nomcontractant>Constructions Jean-Paul Plamondon Inc.</nomcontractant>
+        <neqcontractant>1144006658</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1312666</numeroseao>
+    <numero>DMA192000254</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-02-18</datedepense>
+        <datepublicationdepense>2020-07-06</datepublicationdepense>
+        <montantdepense>23702.430000</montantdepense>
+        <description>Ajout de repas et d'hébergement</description>
+        <nomcontractant>Le Victorin Inc</nomcontractant>
+        <neqcontractant>1163540751</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1320614</numeroseao>
+    <numero>36124500</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-12-03</datedepense>
+        <datepublicationdepense>2020-04-21</datepublicationdepense>
+        <montantdepense>99475.450000</montantdepense>
+        <description>Conditions imprévisibles de chantier</description>
+        <nomcontractant>Construction Unibec Inc.</nomcontractant>
+        <neqcontractant>1143119502</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-04-24</datedepense>
+        <datepublicationdepense>2020-07-23</datepublicationdepense>
+        <montantdepense>29620.250000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>Construction Unibec Inc.</nomcontractant>
+        <neqcontractant>1143119502</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-06-26</datedepense>
+        <datepublicationdepense>2020-07-23</datepublicationdepense>
+        <montantdepense>63209.900000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>Construction Unibec Inc.</nomcontractant>
+        <neqcontractant>1143119502</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1344110</numeroseao>
+    <numero>BC0000028702</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-01-14</datedepense>
+        <datepublicationdepense>2020-07-29</datepublicationdepense>
+        <montantdepense>26000.000000</montantdepense>
+        <description>Avenant 1 - Ajout d'honoraires engendré par l'augmentation de la portée des travaux.</description>
+        <nomcontractant>Minicucci architectes</nomcontractant>
+        <neqcontractant>2261460341</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-03-12</datedepense>
+        <datepublicationdepense>2020-07-29</datepublicationdepense>
+        <montantdepense>217.790000</montantdepense>
+        <description>Avenant 2 - Impression des plans d'appel d'offres</description>
+        <nomcontractant>Minicucci architectes</nomcontractant>
+        <neqcontractant>2261460341</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-07-07</datedepense>
+        <datepublicationdepense>2020-07-29</datepublicationdepense>
+        <montantdepense>86.620000</montantdepense>
+        <description>Avenant 3 - copies de plans</description>
+        <nomcontractant>Minicucci architectes</nomcontractant>
+        <neqcontractant>2261460341</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-07-23</datedepense>
+        <datepublicationdepense>2020-07-29</datepublicationdepense>
+        <montantdepense>6857.000000</montantdepense>
+        <description>Avenant 4 - Ajustement des honoraires pour plans et devis selon le décret et l'estimation finale des travaux</description>
+        <nomcontractant>Minicucci architectes</nomcontractant>
+        <neqcontractant>2261460341</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1347193</numeroseao>
+    <numero>44514362</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-07-02</datedepense>
+        <datepublicationdepense>2020-07-20</datepublicationdepense>
+        <montantdepense>56857.520000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>GÉNIAL Construction Inc.</nomcontractant>
+        <neqcontractant>1162306188</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1347281</numeroseao>
+    <numero>CT-2019-4608</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-07-28</datedepense>
+        <datepublicationdepense>2020-07-29</datepublicationdepense>
+        <montantdepense>12500.000000</montantdepense>
+        <description>AJOUT DE LA CONCEPTION DE PLATEFORME DE COMMUNICATION DE LA MARQUE MÈRE </description>
+        <nomcontractant>ZA communication d'influence inc.</nomcontractant>
+        <neqcontractant>1168153725</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1352114</numeroseao>
+    <numero>2020-13</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-05-27</datedepense>
+        <datepublicationdepense>2020-07-06</datepublicationdepense>
+        <montantdepense>12800.000000</montantdepense>
+        <description>ODC-01</description>
+        <nomcontractant>Toitures Gilles Veilleux Ltée.</nomcontractant>
+        <neqcontractant>1169107811</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1356604</numeroseao>
+    <numero>Entretien 20-21</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-03-24</datedepense>
+        <datepublicationdepense>2020-07-06</datepublicationdepense>
+        <montantdepense>13650.000000</montantdepense>
+        <description>Entretien ménager - aumgentation de la fréquence</description>
+        <nomcontractant>Les entretiens C.O.M.</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1378477</numeroseao>
+    <numero>280596</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-05-12</datedepense>
+        <datepublicationdepense>2020-07-09</datepublicationdepense>
+        <montantdepense>90000.000000</montantdepense>
+        <description>Prolongation de la durée et ajout HND et HV</description>
+        <nomcontractant>GDI Services (Québec) SEC.</nomcontractant>
+        <neqcontractant>3368751924</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-05-25</datedepense>
+        <datepublicationdepense>2020-07-09</datepublicationdepense>
+        <montantdepense>96000.000000</montantdepense>
+        <description>Prolongation de la durée </description>
+        <nomcontractant>GDI Services (Québec) SEC.</nomcontractant>
+        <neqcontractant>3368751924</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-06-17</datedepense>
+        <datepublicationdepense>2020-07-09</datepublicationdepense>
+        <montantdepense>320000.000000</montantdepense>
+        <description>Rehaussement</description>
+        <nomcontractant>GDI Services (Québec) SEC.</nomcontractant>
+        <neqcontractant>3368751924</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1391404</numeroseao>
+    <numero>SC-2703</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-07-07</datedepense>
+        <datepublicationdepense>2020-07-14</datepublicationdepense>
+        <montantdepense>13400.000000</montantdepense>
+        <description>Avenant - prolongation de contrat </description>
+        <nomcontractant>Benoît Pouliot</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1391788</numeroseao>
+    <numero>2019-068-9874-CS-GG</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-04-13</datedepense>
+        <datepublicationdepense>2020-07-15</datepublicationdepense>
+        <montantdepense>40550.010000</montantdepense>
+        <description>prolongation de 6 mois du contrat d'entretien camera gamma (CS11789)</description>
+        <nomcontractant>GE Santé Canada</nomcontractant>
+        <neqcontractant>3362005533</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1392077</numeroseao>
+    <numero>SRM027673</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-01-07</datedepense>
+        <datepublicationdepense>2020-07-16</datepublicationdepense>
+        <montantdepense>5153.500000</montantdepense>
+        <description>SRM029526 - 181 022 050</description>
+        <nomcontractant>DWB Consultant</nomcontractant>
+        <neqcontractant>1160969102</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-06-22</datedepense>
+        <datepublicationdepense>2020-07-16</datepublicationdepense>
+        <montantdepense>3201.800000</montantdepense>
+        <description>SRM031249 - 181 022 050</description>
+        <nomcontractant>DWB Consultant</nomcontractant>
+        <neqcontractant>1160969102</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+</export>

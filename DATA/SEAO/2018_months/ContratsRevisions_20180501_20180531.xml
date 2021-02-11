@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2018-05-01" datefin="2018-05-31">
+  <contrat>
+    <numeroseao>570126</numeroseao>
+    <numero>10093</numero>
+    <datefinale>2017-10-18</datefinale>
+    <datepublicationfinale>2018-01-26</datepublicationfinale>
+    <montantfinal>9017119.090000</montantfinal>
+    <nomcontractant>Filtrum Inc.</nomcontractant>
+    <neqcontractant>1166806464</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>584346</numeroseao>
+    <numero>CT1035667</numero>
+    <datefinale>2016-04-30</datefinale>
+    <datepublicationfinale>2016-06-17</datepublicationfinale>
+    <montantfinal>110203.000000</montantfinal>
+    <nomcontractant>Libéo</nomcontractant>
+    <neqcontractant>1165215154</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>637109</numeroseao>
+    <numero>6501-13-1033</numero>
+    <datefinale>2018-02-28</datefinale>
+    <datepublicationfinale>2017-12-11</datepublicationfinale>
+    <montantfinal>454757.980000</montantfinal>
+    <nomcontractant>Pavages Rimouski, div. Les Pavages des Monts inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>653647</numeroseao>
+    <numero>C-2013-58</numero>
+    <datefinale>2014-09-26</datefinale>
+    <datepublicationfinale>2018-02-22</datepublicationfinale>
+    <montantfinal>87375.280000</montantfinal>
+    <nomcontractant>PG Solutions</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>669291</numeroseao>
+    <numero>6406-11-FE10</numero>
+    <datefinale>2016-03-01</datefinale>
+    <datepublicationfinale>2016-04-20</datepublicationfinale>
+    <montantfinal>96917.220000</montantfinal>
+    <nomcontractant>Genivar inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>699393</numeroseao>
+    <numero>SP-13-35</numero>
+    <datefinale>2018-05-04</datefinale>
+    <datepublicationfinale>2016-05-04</datepublicationfinale>
+    <montantfinal>950708.700000</montantfinal>
+    <nomcontractant>Paysagiste Rive-Sud Ltée.</nomcontractant>
+    <neqcontractant>1142853937</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>700818</numeroseao>
+    <numero>2013-600-00-01</numero>
+    <datefinale>2017-02-28</datefinale>
+    <datepublicationfinale>2017-06-06</datepublicationfinale>
+    <montantfinal>382847.840000</montantfinal>
+    <nomcontractant>Papiers S.D.S. Inc.</nomcontractant>
+    <neqcontractant>1147658224</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>700818</numeroseao>
+    <numero>2013-600-00-01</numero>
+    <datefinale>2017-02-28</datefinale>
+    <datepublicationfinale>2017-06-06</datepublicationfinale>
+    <montantfinal>1369250.840000</montantfinal>
+    <nomcontractant>AMG Medical Inc.</nomcontractant>
+    <neqcontractant>1144209104</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>700818</numeroseao>
+    <numero>2013-600-00-01</numero>
+    <datefinale>2017-02-28</datefinale>
+    <datepublicationfinale>2017-06-06</datepublicationfinale>
+    <montantfinal>900064.670000</montantfinal>
+    <nomcontractant>Belpro Medical</nomcontractant>
+    <neqcontractant>1146136180</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>700818</numeroseao>
+    <numero>2013-600-00-01</numero>
+    <datefinale>2017-02-28</datefinale>
+    <datepublicationfinale>2017-06-06</datepublicationfinale>
+    <montantfinal>1732000.610000</montantfinal>
+    <nomcontractant>Cardinal Health Canada inc.</nomcontractant>
+    <neqcontractant>1146265252</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>700818</numeroseao>
+    <numero>2013-600-00-01</numero>
+    <datefinale>2017-02-28</datefinale>
+    <datepublicationfinale>2017-06-06</datepublicationfinale>
+    <montantfinal>105607.320000</montantfinal>
+    <nomcontractant>AMD Medicom Inc</nomcontractant>
+    <neqcontractant>1148384739</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>700818</numeroseao>
+    <numero>2013-600-00-01</numero>
+    <datefinale>2017-02-28</datefinale>
+    <datepublicationfinale>2017-06-06</datepublicationfinale>
+    <montantfinal>124977.210000</montantfinal>
+    <nomcontractant>Canadian Hospital Specialties Ltd.</nomcontractant>
+    <neqcontractant>1170891981</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>700818</numeroseao>
+    <numero>2013-600-00-01</numero>
+    <datefinale>2017-02-28</datefinale>
+    <datepublicationfinale>2017-06-06</datepublicationfinale>
+    <montantfinal>909534.820000</montantfinal>
+    <nomcontractant>Stevens</nomcontractant>
+    <neqcontractant>1168358662</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>700818</numeroseao>
+    <numero>2013-600-00-01</numero>
+    <datefinale>2017-02-28</datefinale>
+    <datepublicationfinale>2017-06-06</datepublicationfinale>
+    <montantfinal>205091.120000</montantfinal>
+    <nomcontractant>3M Soins de santé</nomcontractant>
+    <neqcontractant>1162958673</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>700818</numeroseao>
+    <numero>2013-600-00-01</numero>
+    <datefinale>2017-02-28</datefinale>
+    <datepublicationfinale>2017-06-06</datepublicationfinale>
+    <montantfinal>2211862.350000</montantfinal>
+    <nomcontractant>Hygie Canada</nomcontractant>
+    <neqcontractant>1164149024</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>700818</numeroseao>
+    <numero>2013-600-00-01</numero>
+    <datefinale>2017-02-28</datefinale>
+    <datepublicationfinale>2017-06-06</datepublicationfinale>
+    <montantfinal>131656.930000</montantfinal>
+    <nomcontractant>Covidien Canada ULC, une société de Medtronic (« Covidien »)</nomcontractant>
+    <neqcontractant>1168728104</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>700818</numeroseao>
+    <numero>2013-600-00-01</numero>
+    <datefinale>2017-02-28</datefinale>
+    <datepublicationfinale>2017-06-06</datepublicationfinale>
+    <montantfinal>659235.700000</montantfinal>
+    <nomcontractant>Medline Canada</nomcontractant>
+    <neqcontractant>1161996294</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>701371</numeroseao>
+    <numero>23071700</numero>
+    <datefinale>2018-04-30</datefinale>
+    <datepublicationfinale>2018-01-25</datepublicationfinale>
+    <montantfinal>1139280.540000</montantfinal>
+    <nomcontractant>4182901 CANADA INC.</nomcontractant>
+    <neqcontractant>1162809496</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>726154</numeroseao>
+    <numero>NÉCESSAIRE/2013-600-00-01</numero>
+    <datefinale>2017-02-28</datefinale>
+    <datepublicationfinale>2017-06-06</datepublicationfinale>
+    <montantfinal>220695.110000</montantfinal>
+    <nomcontractant>Stevens</nomcontractant>
+    <neqcontractant>1168358662</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>726154</numeroseao>
+    <numero>NÉCESSAIRE/2013-600-00-01</numero>
+    <datefinale>2017-02-28</datefinale>
+    <datepublicationfinale>2017-06-06</datepublicationfinale>
+    <montantfinal>2120367.610000</montantfinal>
+    <nomcontractant>Canadian Hospital Specialties Ltd.</nomcontractant>
+    <neqcontractant>1170891981</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>726154</numeroseao>
+    <numero>NÉCESSAIRE/2013-600-00-01</numero>
+    <datefinale>2017-02-28</datefinale>
+    <datepublicationfinale>2017-06-06</datepublicationfinale>
+    <montantfinal>835138.190000</montantfinal>
+    <nomcontractant>Ryan Medical Distributors Inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>786868</numeroseao>
+    <numero>2013-866-01-01</numero>
+    <datefinale>2017-08-31</datefinale>
+    <datepublicationfinale>2018-03-21</datepublicationfinale>
+    <montantfinal>67195.000000</montantfinal>
+    <nomcontractant>Certifiltre Inc.</nomcontractant>
+    <neqcontractant>1161476537</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>801110</numeroseao>
+    <numero>27172600</numero>
+    <datefinale>2018-03-14</datefinale>
+    <datepublicationfinale>2018-04-26</datepublicationfinale>
+    <montantfinal>749531.460000</montantfinal>
+    <nomcontractant>Le Groupe Simoneau Inc.</nomcontractant>
+    <neqcontractant>1160017381</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>837323</numeroseao>
+    <numero>P1455-01-01/665S</numero>
+    <datefinale>2014-12-05</datefinale>
+    <datepublicationfinale>2016-02-26</datepublicationfinale>
+    <montantfinal>38165.090000</montantfinal>
+    <nomcontractant>Can-Explore Inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>909245</numeroseao>
+    <numero>AOI-2015-C-013</numero>
+    <datefinale>2018-03-31</datefinale>
+    <datepublicationfinale>2017-01-25</datepublicationfinale>
+    <montantfinal>71816.650000</montantfinal>
+    <nomcontractant>Les Entreprises Électriques A &amp; R Ltée</nomcontractant>
+    <neqcontractant>1149670912</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>940329</numeroseao>
+    <numero>27618700</numero>
+    <datefinale>2017-10-31</datefinale>
+    <datepublicationfinale>2018-02-14</datepublicationfinale>
+    <montantfinal>30128.640000</montantfinal>
+    <nomcontractant>Groupe de sécurité Garda SENC</nomcontractant>
+    <neqcontractant>3368599133</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>953851</numeroseao>
+    <numero>DGA-2015-2016-160310840</numero>
+    <datefinale>2016-03-31</datefinale>
+    <datepublicationfinale>2016-05-04</datepublicationfinale>
+    <montantfinal>30520.000000</montantfinal>
+    <nomcontractant>Vertisoft Inc.</nomcontractant>
+    <neqcontractant>1162861844</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>986839</numeroseao>
+    <numero>BC0000023997 </numero>
+    <datefinale>2017-04-30</datefinale>
+    <datepublicationfinale>2017-05-09</datepublicationfinale>
+    <montantfinal>229585.660000</montantfinal>
+    <nomcontractant>Thomson Reuters</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>998222</numeroseao>
+    <numero>9001-16-0004</numero>
+    <datefinale>2018-02-19</datefinale>
+    <datepublicationfinale>2017-11-01</datepublicationfinale>
+    <montantfinal>331531.740000</montantfinal>
+    <nomcontractant>Construction et Pavage Dujour inc.</nomcontractant>
+    <neqcontractant>1170176912</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1002253</numeroseao>
+    <numero>2016SSU193</numero>
+    <datefinale>2017-12-21</datefinale>
+    <datepublicationfinale>2017-12-21</datepublicationfinale>
+    <montantfinal>72461.860000</montantfinal>
+    <nomcontractant>WSP Canada Inc. *Important*: ce compte dessert tous les bureaux de WSP au Québec. Si vous désirez transmettre une invitation à soumissionner à un de nos bureaux en particulier ou obtenir la liste de nos bureaux, svp contacter martine.gagnon@wspgroup.com</nomcontractant>
+    <neqcontractant>1148357057</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1026848</numeroseao>
+    <numero>Fidema-2015-02</numero>
+    <datefinale>2017-12-31</datefinale>
+    <datepublicationfinale>2017-08-22</datepublicationfinale>
+    <montantfinal>140489.090000</montantfinal>
+    <nomcontractant>Aon Parizeau inc.</nomcontractant>
+    <neqcontractant>1140825432</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1029754</numeroseao>
+    <numero>28771300</numero>
+    <datefinale>2018-04-16</datefinale>
+    <datepublicationfinale>2018-04-30</datepublicationfinale>
+    <montantfinal>86818.680000</montantfinal>
+    <nomcontractant>Construction Michel Gagnon Ltee - Québec</nomcontractant>
+    <neqcontractant>1142334623</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1038902</numeroseao>
+    <numero>C-2016-11-28-VRG-01</numero>
+    <datefinale>2017-02-18</datefinale>
+    <datepublicationfinale>2017-10-04</datepublicationfinale>
+    <montantfinal>15469.600000</montantfinal>
+    <nomcontractant>Alpha Traduction et Interprétation inc. </nomcontractant>
+    <neqcontractant>1149751035</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1063851</numeroseao>
+    <numero>5239-2017-01</numero>
+    <datefinale>2017-07-17</datefinale>
+    <datepublicationfinale>2018-04-09</datepublicationfinale>
+    <montantfinal>28484.750000</montantfinal>
+    <nomcontractant>S.T.A.F. La Doré Inc.</nomcontractant>
+    <neqcontractant>1148140602</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1073131</numeroseao>
+    <numero>BC1109922</numero>
+    <datefinale>2016-08-22</datefinale>
+    <datepublicationfinale>2017-05-23</datepublicationfinale>
+    <montantfinal>56211.280000</montantfinal>
+    <nomcontractant>SODER</nomcontractant>
+    <neqcontractant>1145449311</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1073352</numeroseao>
+    <numero>CGER 17 680016</numero>
+    <datefinale>2017-09-30</datefinale>
+    <datepublicationfinale>2017-11-06</datepublicationfinale>
+    <montantfinal>233671.000000</montantfinal>
+    <nomcontractant>CIMI Inc</nomcontractant>
+    <neqcontractant>1163873814</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1078114</numeroseao>
+    <numero>2017SCA383</numero>
+    <datefinale />
+    <datepublicationfinale>2018-04-12</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant>Logibec inc.</nomcontractant>
+    <neqcontractant>1170568035</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1093181</numeroseao>
+    <numero>332-44-900</numero>
+    <datefinale>2018-02-26</datefinale>
+    <datepublicationfinale>2018-04-17</datepublicationfinale>
+    <montantfinal>45000.000000</montantfinal>
+    <nomcontractant>MLS et associés, architectes</nomcontractant>
+    <neqcontractant>1167105833</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1109113</numeroseao>
+    <numero>33377400</numero>
+    <datefinale>2018-04-22</datefinale>
+    <datepublicationfinale>2018-04-13</datepublicationfinale>
+    <montantfinal>47624.200000</montantfinal>
+    <nomcontractant>Fabriq Architecture &amp; Exp</nomcontractant>
+    <neqcontractant>1149282999</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1125853</numeroseao>
+    <numero>44509042</numero>
+    <datefinale>2018-04-17</datefinale>
+    <datepublicationfinale>2018-04-30</datepublicationfinale>
+    <montantfinal>84130.000000</montantfinal>
+    <nomcontractant>Les entreprises Val-Mauricie électrique inc</nomcontractant>
+    <neqcontractant>1142132332</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1133669</numeroseao>
+    <numero>44508581</numero>
+    <datefinale>2018-01-31</datefinale>
+    <datepublicationfinale>2018-02-05</datepublicationfinale>
+    <montantfinal>31673.420000</montantfinal>
+    <nomcontractant>Lévis Construction</nomcontractant>
+    <neqcontractant>1140477598</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1137218</numeroseao>
+    <numero>BC79251</numero>
+    <datefinale>2017-11-22</datefinale>
+    <datepublicationfinale>2018-02-12</datepublicationfinale>
+    <montantfinal>188372.850000</montantfinal>
+    <nomcontractant>Amplitude Technologies</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1148842</numeroseao>
+    <numero>26726400</numero>
+    <datefinale>2018-04-09</datefinale>
+    <datepublicationfinale>2018-03-26</datepublicationfinale>
+    <montantfinal>30900.000000</montantfinal>
+    <nomcontractant>Michelle Décary Architecte</nomcontractant>
+    <neqcontractant>2265739633</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1152756</numeroseao>
+    <numero>28717100</numero>
+    <datefinale>2018-01-31</datefinale>
+    <datepublicationfinale>2018-04-04</datepublicationfinale>
+    <montantfinal>25644.680000</montantfinal>
+    <nomcontractant>Trane Québec</nomcontractant>
+    <neqcontractant>1149533664</neqcontractant>
+  </contrat>
+</export>

@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2019-10-01" datefin="2019-10-31">
+  <contrat>
+    <numeroseao>634042</numeroseao>
+    <numero>8901-12-HE01</numero>
+    <datefinale>2019-09-05</datefinale>
+    <datepublicationfinale>2019-08-27</datepublicationfinale>
+    <montantfinal>1719460.220000</montantfinal>
+    <nomcontractant>CIMA+ Gatineau</nomcontractant>
+    <neqcontractant>3340563140</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>695325</numeroseao>
+    <numero>6705-13-0213</numero>
+    <datefinale>2019-10-09</datefinale>
+    <datepublicationfinale>2017-01-19</datepublicationfinale>
+    <montantfinal>3347156.870000</montantfinal>
+    <nomcontractant>Les Excavations A. Savard  inc.</nomcontractant>
+    <neqcontractant>1143068220</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>748270</numeroseao>
+    <numero>25194200</numero>
+    <datefinale>2019-05-31</datefinale>
+    <datepublicationfinale>2019-06-19</datepublicationfinale>
+    <montantfinal>1028602.000000</montantfinal>
+    <nomcontractant>Service D'entretien Globel (4182901 Canada Inc)</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>753117</numeroseao>
+    <numero>7103-14-GZ02</numero>
+    <datefinale>2019-03-06</datefinale>
+    <datepublicationfinale>2019-06-20</datepublicationfinale>
+    <montantfinal>197531.610000</montantfinal>
+    <nomcontractant>Atelier Urban Soland inc. + Coarchitecture + Ombrages</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>761656</numeroseao>
+    <numero>26847000</numero>
+    <datefinale>2019-08-31</datefinale>
+    <datepublicationfinale>2019-09-05</datepublicationfinale>
+    <montantfinal>114222.230000</montantfinal>
+    <nomcontractant>Services Menagers Trifluviens inc.</nomcontractant>
+    <neqcontractant>1168757335</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>784909</numeroseao>
+    <numero>26545100</numero>
+    <datefinale>2019-07-31</datefinale>
+    <datepublicationfinale>2019-08-01</datepublicationfinale>
+    <montantfinal>133559.160000</montantfinal>
+    <nomcontractant>Les services ménagers Roy ltée.</nomcontractant>
+    <neqcontractant>1142147900</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>847559</numeroseao>
+    <numero>440727550</numero>
+    <datefinale>2019-09-17</datefinale>
+    <datepublicationfinale>2019-09-19</datepublicationfinale>
+    <montantfinal>14410.000000</montantfinal>
+    <nomcontractant>Arbitrage Denis Tremblay inc.</nomcontractant>
+    <neqcontractant>1147178447</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>872894</numeroseao>
+    <numero>8901-13-0004</numero>
+    <datefinale>2019-09-30</datefinale>
+    <datepublicationfinale>2017-06-09</datepublicationfinale>
+    <montantfinal>4617117.430000</montantfinal>
+    <nomcontractant>David Riddell Excavation / Transport (9129-6558 Québec inc.)</nomcontractant>
+    <neqcontractant>1161519989</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>888640</numeroseao>
+    <numero>6705-14-0207</numero>
+    <datefinale>2019-09-13</datefinale>
+    <datepublicationfinale>2017-06-09</datepublicationfinale>
+    <montantfinal>1596833.500000</montantfinal>
+    <nomcontractant>GESTION AJ(2003)INC</nomcontractant>
+    <neqcontractant>1161485405</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>896915</numeroseao>
+    <numero>2015-02</numero>
+    <datefinale>2019-07-02</datefinale>
+    <datepublicationfinale>2016-11-01</datepublicationfinale>
+    <montantfinal>493630.220000</montantfinal>
+    <nomcontractant>Coffrage Provincial Inc</nomcontractant>
+    <neqcontractant>1145137320</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>930911</numeroseao>
+    <numero>445736321</numero>
+    <datefinale>2019-09-17</datefinale>
+    <datepublicationfinale>2019-09-19</datepublicationfinale>
+    <montantfinal>15595.620000</montantfinal>
+    <nomcontractant>Nathalie Faucher, arbitre inc.</nomcontractant>
+    <neqcontractant>1168597269</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>930933</numeroseao>
+    <numero>445736377</numero>
+    <datefinale>2019-09-17</datefinale>
+    <datepublicationfinale>2019-09-19</datepublicationfinale>
+    <montantfinal>1680.000000</montantfinal>
+    <nomcontractant>Gilles Lavoie</nomcontractant>
+    <neqcontractant>2240713232</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>945108</numeroseao>
+    <numero>2016-550-01-01</numero>
+    <datefinale>2019-05-23</datefinale>
+    <datepublicationfinale>2019-09-20</datepublicationfinale>
+    <montantfinal>11911429.610000</montantfinal>
+    <nomcontractant>Fresenius Kabi Canada Ltd.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>945108</numeroseao>
+    <numero>2016-550-01-01</numero>
+    <datefinale>2019-05-23</datefinale>
+    <datepublicationfinale>2019-09-20</datepublicationfinale>
+    <montantfinal>98881.940000</montantfinal>
+    <nomcontractant>Generic Medical Partners Inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>945108</numeroseao>
+    <numero>2016-550-01-01</numero>
+    <datefinale>2019-05-23</datefinale>
+    <datepublicationfinale>2019-09-20</datepublicationfinale>
+    <montantfinal>26469094.520000</montantfinal>
+    <nomcontractant>SANDOZ CANADA INC.</nomcontractant>
+    <neqcontractant>1171584700</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>945108</numeroseao>
+    <numero>2016-550-01-01</numero>
+    <datefinale>2019-05-23</datefinale>
+    <datepublicationfinale>2019-09-20</datepublicationfinale>
+    <montantfinal>3319439.130000</montantfinal>
+    <nomcontractant>Pharmascience</nomcontractant>
+    <neqcontractant>1163022362</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>945108</numeroseao>
+    <numero>2016-550-01-01</numero>
+    <datefinale>2019-05-23</datefinale>
+    <datepublicationfinale>2019-09-20</datepublicationfinale>
+    <montantfinal>4317568.030000</montantfinal>
+    <nomcontractant>Apotex</nomcontractant>
+    <neqcontractant>1161583365</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>945108</numeroseao>
+    <numero>2016-550-01-01</numero>
+    <datefinale>2019-05-23</datefinale>
+    <datepublicationfinale>2019-09-20</datepublicationfinale>
+    <montantfinal>1531597.840000</montantfinal>
+    <nomcontractant>Jamp Pharma Corporation</nomcontractant>
+    <neqcontractant>1163843486</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>945108</numeroseao>
+    <numero>2016-550-01-01</numero>
+    <datefinale>2019-05-23</datefinale>
+    <datepublicationfinale>2019-09-20</datepublicationfinale>
+    <montantfinal>19599654.940000</montantfinal>
+    <nomcontractant>TEVA Canada Ltée</nomcontractant>
+    <neqcontractant>1160259512</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>945108</numeroseao>
+    <numero>2016-550-01-01</numero>
+    <datefinale>2019-05-23</datefinale>
+    <datepublicationfinale>2019-09-20</datepublicationfinale>
+    <montantfinal>10087468.260000</montantfinal>
+    <nomcontractant>Corporation Baxter</nomcontractant>
+    <neqcontractant>1171462808</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>973651</numeroseao>
+    <numero>309750-00</numero>
+    <datefinale>2019-07-31</datefinale>
+    <datepublicationfinale>2019-09-26</datepublicationfinale>
+    <montantfinal>62755.290000</montantfinal>
+    <nomcontractant>Av-Tech INC..</nomcontractant>
+    <neqcontractant>1174192535</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>977793</numeroseao>
+    <numero>2106-15-FA01</numero>
+    <datefinale>2019-02-08</datefinale>
+    <datepublicationfinale>2019-06-19</datepublicationfinale>
+    <montantfinal>99301.210000</montantfinal>
+    <nomcontractant>Cima+ S.E.N.C.</nomcontractant>
+    <neqcontractant>3340563140</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>978759</numeroseao>
+    <numero>30901100</numero>
+    <datefinale>2019-05-31</datefinale>
+    <datepublicationfinale>2019-06-11</datepublicationfinale>
+    <montantfinal>491512.870000</montantfinal>
+    <nomcontractant>Av-Tech INC..</nomcontractant>
+    <neqcontractant>1174192535</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>992198</numeroseao>
+    <numero>9009-16-4504</numero>
+    <datefinale>2019-05-31</datefinale>
+    <datepublicationfinale>2019-06-27</datepublicationfinale>
+    <montantfinal>411982.750000</montantfinal>
+    <nomcontractant>Excavation Alex Gagné inc.</nomcontractant>
+    <neqcontractant>1171842876</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>992483</numeroseao>
+    <numero>30891700</numero>
+    <datefinale>2019-06-30</datefinale>
+    <datepublicationfinale>2019-07-25</datepublicationfinale>
+    <montantfinal>269242.560000</montantfinal>
+    <nomcontractant>9182-3989 Qc inc. (Groupe SSB)</nomcontractant>
+    <neqcontractant>1164440407</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>997922</numeroseao>
+    <numero>31443500</numero>
+    <datefinale>2019-07-31</datefinale>
+    <datepublicationfinale>2019-08-27</datepublicationfinale>
+    <montantfinal>44597.710000</montantfinal>
+    <nomcontractant>RG Technilab</nomcontractant>
+    <neqcontractant>1148185862</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1000557</numeroseao>
+    <numero>6301-16-HE09</numero>
+    <datefinale>2019-10-09</datefinale>
+    <datepublicationfinale>2019-06-19</datepublicationfinale>
+    <montantfinal>148400.530000</montantfinal>
+    <nomcontractant>BPR - Infrastructure inc.</nomcontractant>
+    <neqcontractant>1161581104</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1009346</numeroseao>
+    <numero>31247900</numero>
+    <datefinale>2019-06-04</datefinale>
+    <datepublicationfinale>2019-07-16</datepublicationfinale>
+    <montantfinal>74998.880000</montantfinal>
+    <nomcontractant>Pierre-Frédérik Leblanc</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1015323</numeroseao>
+    <numero>CA20160098</numero>
+    <datefinale>2019-06-30</datefinale>
+    <datepublicationfinale>2019-09-26</datepublicationfinale>
+    <montantfinal>26013.990000</montantfinal>
+    <nomcontractant>Tributary Systems inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1021879</numeroseao>
+    <numero>2106-16-HA01</numero>
+    <datefinale>2019-09-25</datefinale>
+    <datepublicationfinale>2018-06-29</datepublicationfinale>
+    <montantfinal>147859.470000</montantfinal>
+    <nomcontractant>Stantec Experts-Conseils ltée.</nomcontractant>
+    <neqcontractant>1170241336</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1024688</numeroseao>
+    <numero>31951100</numero>
+    <datefinale>2019-06-04</datefinale>
+    <datepublicationfinale>2019-07-16</datepublicationfinale>
+    <montantfinal>91440.000000</montantfinal>
+    <nomcontractant>Déneigement Gaspé  90345596 Québec Inc.</nomcontractant>
+    <neqcontractant>1145760543</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1025420</numeroseao>
+    <numero>31255900</numero>
+    <datefinale>2019-07-17</datefinale>
+    <datepublicationfinale>2019-07-19</datepublicationfinale>
+    <montantfinal>112500.000000</montantfinal>
+    <nomcontractant>Les entreprises Jean-Marie Côté inc.</nomcontractant>
+    <neqcontractant>1164020241</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1027497</numeroseao>
+    <numero>16-601</numero>
+    <datefinale>2016-11-25</datefinale>
+    <datepublicationfinale>2018-10-24</datepublicationfinale>
+    <montantfinal>102566.820000</montantfinal>
+    <nomcontractant>BFL CANADA</nomcontractant>
+    <neqcontractant>1142254748</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1027769</numeroseao>
+    <numero>CA20160097-A</numero>
+    <datefinale>2019-06-30</datefinale>
+    <datepublicationfinale>2019-09-26</datepublicationfinale>
+    <montantfinal>27585.600000</montantfinal>
+    <nomcontractant>Consultants Tandsoft inc.</nomcontractant>
+    <neqcontractant>1143039221</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1050883</numeroseao>
+    <numero>8903-16-FA05</numero>
+    <datefinale>2019-09-30</datefinale>
+    <datepublicationfinale>2018-06-29</datepublicationfinale>
+    <montantfinal>88335.600000</montantfinal>
+    <nomcontractant>Services EXP inc., Les</nomcontractant>
+    <neqcontractant>1167268128</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1056789</numeroseao>
+    <numero>2016-3253-21</numero>
+    <datefinale>2019-03-31</datefinale>
+    <datepublicationfinale>2019-04-01</datepublicationfinale>
+    <montantfinal>79726.000000</montantfinal>
+    <nomcontractant>H2Lab inc.</nomcontractant>
+    <neqcontractant>1163811830</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1059356</numeroseao>
+    <numero>4500627046</numero>
+    <datefinale>2019-03-31</datefinale>
+    <datepublicationfinale>2019-07-26</datepublicationfinale>
+    <montantfinal>84000.000000</montantfinal>
+    <nomcontractant>Illico Hodes</nomcontractant>
+    <neqcontractant>1149040058</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1078178</numeroseao>
+    <numero>GI-2017-12</numero>
+    <datefinale>2017-07-30</datefinale>
+    <datepublicationfinale>2018-08-07</datepublicationfinale>
+    <montantfinal>41649.690000</montantfinal>
+    <nomcontractant>SDL Construction inc.</nomcontractant>
+    <neqcontractant>1140344616</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1080387</numeroseao>
+    <numero>8906-17-4501</numero>
+    <datefinale>2019-08-26</datefinale>
+    <datepublicationfinale>2019-09-25</datepublicationfinale>
+    <montantfinal>892475.460000</montantfinal>
+    <nomcontractant>Excavation R.B. Gauthier Inc</nomcontractant>
+    <neqcontractant>1144190684</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1081234</numeroseao>
+    <numero>2017-02B</numero>
+    <datefinale>2017-11-30</datefinale>
+    <datepublicationfinale>2019-08-06</datepublicationfinale>
+    <montantfinal>819414.000000</montantfinal>
+    <nomcontractant>Pavages Maska Inc.</nomcontractant>
+    <neqcontractant>1147380647</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1081428</numeroseao>
+    <numero>Projet 2017-01</numero>
+    <datefinale>2018-07-09</datefinale>
+    <datepublicationfinale>2019-08-06</datepublicationfinale>
+    <montantfinal>1882835.000000</montantfinal>
+    <nomcontractant>Foraction inc..</nomcontractant>
+    <neqcontractant>1146024444</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1082707</numeroseao>
+    <numero>AO1617-041</numero>
+    <datefinale>2019-07-08</datefinale>
+    <datepublicationfinale>2018-11-23</datepublicationfinale>
+    <montantfinal>1417205.890000</montantfinal>
+    <nomcontractant>Innovtech Construction INC..</nomcontractant>
+    <neqcontractant>1160526621</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1130308</numeroseao>
+    <numero>M17X00401</numero>
+    <datefinale>2019-07-03</datefinale>
+    <datepublicationfinale>2019-08-07</datepublicationfinale>
+    <montantfinal>2231230.730000</montantfinal>
+    <nomcontractant>Construction Guy Bonneau ( 9337-6671 Québec inc)</nomcontractant>
+    <neqcontractant>1171647416</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1147015</numeroseao>
+    <numero>2017-079-28RM</numero>
+    <datefinale>2019-09-24</datefinale>
+    <datepublicationfinale>2019-05-21</datepublicationfinale>
+    <montantfinal>353696.630000</montantfinal>
+    <nomcontractant>BLR Excavation Division de Terrassement BLR inc</nomcontractant>
+    <neqcontractant>1141135401</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1166820</numeroseao>
+    <numero>7007-18-4523</numero>
+    <datefinale>2019-09-04</datefinale>
+    <datepublicationfinale>2019-09-25</datepublicationfinale>
+    <montantfinal>334631.030000</montantfinal>
+    <nomcontractant>Groupe Pelletier Entretien, division Jeannine Pelletier inc.</nomcontractant>
+    <neqcontractant>1141781477</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1177820</numeroseao>
+    <numero>CT1043930</numero>
+    <datefinale>2019-06-30</datefinale>
+    <datepublicationfinale>2019-09-30</datepublicationfinale>
+    <montantfinal>33519.600000</montantfinal>
+    <nomcontractant>Nivo 9 architectes inc.</nomcontractant>
+    <neqcontractant>1171789150</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1182074</numeroseao>
+    <numero>FP-508442</numero>
+    <datefinale>2019-06-30</datefinale>
+    <datepublicationfinale>2019-09-25</datepublicationfinale>
+    <montantfinal>291934.350000</montantfinal>
+    <nomcontractant>GRICS</nomcontractant>
+    <neqcontractant>1142572495</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1182374</numeroseao>
+    <numero>573507-1</numero>
+    <datefinale>2019-07-31</datefinale>
+    <datepublicationfinale>2019-09-06</datepublicationfinale>
+    <montantfinal>364014.000000</montantfinal>
+    <nomcontractant>Club de recherche d'emploi vallée des forts inc.</nomcontractant>
+    <neqcontractant>1142922286</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1182532</numeroseao>
+    <numero>576812-1</numero>
+    <datefinale>2019-08-06</datefinale>
+    <datepublicationfinale>2019-09-06</datepublicationfinale>
+    <montantfinal>1133640.000000</montantfinal>
+    <nomcontractant>Club de recherche d'emploi de Châteauguay</nomcontractant>
+    <neqcontractant>1141235862</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1182538</numeroseao>
+    <numero>572487-1</numero>
+    <datefinale>2019-08-06</datefinale>
+    <datepublicationfinale>2019-09-06</datepublicationfinale>
+    <montantfinal>747400.000000</montantfinal>
+    <nomcontractant>Services et formation aux immigrants en Montérégie (SFIM)</nomcontractant>
+    <neqcontractant>1145842721</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1182548</numeroseao>
+    <numero>574626-1</numero>
+    <datefinale>2019-08-05</datefinale>
+    <datepublicationfinale>2019-09-06</datepublicationfinale>
+    <montantfinal>256800.000000</montantfinal>
+    <nomcontractant>Centre d'integration Jeunesse-Adulte (C.I.J.A.D) Inc.</nomcontractant>
+    <neqcontractant>1142315481</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1182567</numeroseao>
+    <numero>572402--1</numero>
+    <datefinale>2019-07-09</datefinale>
+    <datepublicationfinale>2019-09-06</datepublicationfinale>
+    <montantfinal>664353.000000</montantfinal>
+    <nomcontractant>Carrefour Jeunesse Emploi Saint-Hubert</nomcontractant>
+    <neqcontractant>1145164993</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1182843</numeroseao>
+    <numero>574630-1</numero>
+    <datefinale>2019-08-05</datefinale>
+    <datepublicationfinale>2019-09-06</datepublicationfinale>
+    <montantfinal>488155.000000</montantfinal>
+    <nomcontractant>Centre d'integration Jeunesse-Adulte (C.I.J.A.D) Inc.</nomcontractant>
+    <neqcontractant>1142315481</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1182972</numeroseao>
+    <numero>573995-1</numero>
+    <datefinale>2019-07-11</datefinale>
+    <datepublicationfinale>2019-09-06</datepublicationfinale>
+    <montantfinal>192963.000000</montantfinal>
+    <nomcontractant>Centre de recherche d'emploi du Sud-Ouest (CRESO)</nomcontractant>
+    <neqcontractant>1141210683</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1183770</numeroseao>
+    <numero>577419-1</numero>
+    <datefinale>2019-07-31</datefinale>
+    <datepublicationfinale>2019-09-06</datepublicationfinale>
+    <montantfinal>148450.000000</montantfinal>
+    <nomcontractant>Intégration Travail Roussillon</nomcontractant>
+    <neqcontractant>1165615148</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1183930</numeroseao>
+    <numero>582305-0</numero>
+    <datefinale>2019-07-26</datefinale>
+    <datepublicationfinale>2019-09-06</datepublicationfinale>
+    <montantfinal>51666.190000</montantfinal>
+    <nomcontractant>l'envol Programme d'aide aux jeunes mères</nomcontractant>
+    <neqcontractant>1143597558</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1184188</numeroseao>
+    <numero>574732-1</numero>
+    <datefinale>2019-08-27</datefinale>
+    <datepublicationfinale>2019-09-06</datepublicationfinale>
+    <montantfinal>171282.000000</montantfinal>
+    <nomcontractant>CENTRE DE FORMATION ET D'AIDE À LA RECHERCHE D'EMPLOI (CFARE)</nomcontractant>
+    <neqcontractant>1144909943</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1184239</numeroseao>
+    <numero>574639-1</numero>
+    <datefinale>2019-07-10</datefinale>
+    <datepublicationfinale>2019-09-06</datepublicationfinale>
+    <montantfinal>921910.000000</montantfinal>
+    <nomcontractant>Place à l'emploi</nomcontractant>
+    <neqcontractant>1142293951</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1184248</numeroseao>
+    <numero>573972-1</numero>
+    <datefinale>2019-07-11</datefinale>
+    <datepublicationfinale>2019-09-06</datepublicationfinale>
+    <montantfinal>541402.000000</montantfinal>
+    <nomcontractant>CARREFOUR JEUNESSE EMPLOI HUNTINGDON</nomcontractant>
+    <neqcontractant>1143174762</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1184258</numeroseao>
+    <numero>576732-1</numero>
+    <datefinale>2019-07-23</datefinale>
+    <datepublicationfinale>2019-09-06</datepublicationfinale>
+    <montantfinal>810951.000000</montantfinal>
+    <nomcontractant>INTÉGRATION COMPÉTENCES</nomcontractant>
+    <neqcontractant>1142087064</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1184267</numeroseao>
+    <numero>573764-1</numero>
+    <datefinale>2019-08-02</datefinale>
+    <datepublicationfinale>2019-09-06</datepublicationfinale>
+    <montantfinal>502227.000000</montantfinal>
+    <nomcontractant>CARREFOUR JEUNESSE-EMPLOI LA PRAIRIE</nomcontractant>
+    <neqcontractant>1146804555</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1184297</numeroseao>
+    <numero>573986-1</numero>
+    <datefinale>2019-08-01</datefinale>
+    <datepublicationfinale>2019-09-06</datepublicationfinale>
+    <montantfinal>602252.000000</montantfinal>
+    <nomcontractant>CARREFOUR JEUNESSE EMPLOI VAUDREUIL-SOULANGES</nomcontractant>
+    <neqcontractant>1145523420</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1184303</numeroseao>
+    <numero>576518-1</numero>
+    <datefinale>2019-07-15</datefinale>
+    <datepublicationfinale>2019-09-06</datepublicationfinale>
+    <montantfinal>310479.000000</montantfinal>
+    <nomcontractant>CARREFOUR JEUNESSE EMPLOI COMTÉ JOHNSON</nomcontractant>
+    <neqcontractant>1145477288</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1184339</numeroseao>
+    <numero>574632-1</numero>
+    <datefinale>2019-07-09</datefinale>
+    <datepublicationfinale>2019-09-06</datepublicationfinale>
+    <montantfinal>998380.000000</montantfinal>
+    <nomcontractant>Place à l'emploi</nomcontractant>
+    <neqcontractant>1142293951</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1184437</numeroseao>
+    <numero>576512-1</numero>
+    <datefinale>2019-07-04</datefinale>
+    <datepublicationfinale>2019-09-06</datepublicationfinale>
+    <montantfinal>41505.000000</montantfinal>
+    <nomcontractant>SERVICE D'INTÉGRATION AU MARCHÉ DU TRAVAIL DE LA MONTÉRÉGIE INC.</nomcontractant>
+    <neqcontractant>1142378398</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1184446</numeroseao>
+    <numero>573978-1</numero>
+    <datefinale>2019-07-11</datefinale>
+    <datepublicationfinale>2019-09-06</datepublicationfinale>
+    <montantfinal>480356.000000</montantfinal>
+    <nomcontractant>CARREFOUR JEUNESSE EMPLOI CHÂTEAUGUAY</nomcontractant>
+    <neqcontractant>1143174762</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1186446</numeroseao>
+    <numero>999733006</numero>
+    <datefinale>2019-03-20</datefinale>
+    <datepublicationfinale>2019-06-19</datepublicationfinale>
+    <montantfinal>372574.000000</montantfinal>
+    <nomcontractant>Communication CNW (Communication CNW Québec inc.)</nomcontractant>
+    <neqcontractant>1144898088</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1198589</numeroseao>
+    <numero>44510475</numero>
+    <datefinale>2019-06-03</datefinale>
+    <datepublicationfinale>2019-06-26</datepublicationfinale>
+    <montantfinal>554273.500000</montantfinal>
+    <nomcontractant>Excavation Bourgoin et Dickner Inc.</nomcontractant>
+    <neqcontractant>1142894154</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1206240</numeroseao>
+    <numero>80669340</numero>
+    <datefinale>2019-09-20</datefinale>
+    <datepublicationfinale>2019-07-30</datepublicationfinale>
+    <montantfinal>34974.250000</montantfinal>
+    <nomcontractant>La Société protectrice des animaux de l'Estrie</nomcontractant>
+    <neqcontractant>1142628669</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1214121</numeroseao>
+    <numero>34970000</numero>
+    <datefinale>2019-05-15</datefinale>
+    <datepublicationfinale>2019-07-16</datepublicationfinale>
+    <montantfinal>27000.000000</montantfinal>
+    <nomcontractant>Yves Pelletier</nomcontractant>
+    <neqcontractant>2271258255</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1222584</numeroseao>
+    <numero>181600003</numero>
+    <datefinale>2019-06-15</datefinale>
+    <datepublicationfinale>2019-07-03</datepublicationfinale>
+    <montantfinal>22328.600000</montantfinal>
+    <nomcontractant>Restaurant Brasserie de la Rivière inc.</nomcontractant>
+    <neqcontractant>1173701609</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1230318</numeroseao>
+    <numero>181600009</numero>
+    <datefinale>2019-06-11</datefinale>
+    <datepublicationfinale>2019-06-10</datepublicationfinale>
+    <montantfinal>20951.000000</montantfinal>
+    <nomcontractant>Restaurant Brasserie de la Rivière inc.</nomcontractant>
+    <neqcontractant>1173701609</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1264539</numeroseao>
+    <numero>BC91236</numero>
+    <datefinale>2019-10-03</datefinale>
+    <datepublicationfinale>2019-06-25</datepublicationfinale>
+    <montantfinal>23127.600000</montantfinal>
+    <nomcontractant>Hypertec systems inc.</nomcontractant>
+    <neqcontractant>1142971879</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1273670</numeroseao>
+    <numero>7103-17-KA23</numero>
+    <datefinale>2019-06-07</datefinale>
+    <datepublicationfinale>2019-06-03</datepublicationfinale>
+    <montantfinal>39911.230000</montantfinal>
+    <nomcontractant>Englobe Corp.</nomcontractant>
+    <neqcontractant>1167280206</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1274899</numeroseao>
+    <numero>1819-088202</numero>
+    <datefinale>2019-06-25</datefinale>
+    <datepublicationfinale>2019-09-11</datepublicationfinale>
+    <montantfinal>60000.000000</montantfinal>
+    <nomcontractant>GYVA BOUTIQUE DU BUREAU</nomcontractant>
+    <neqcontractant>1143117480</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1307270</numeroseao>
+    <numero>6803-18-KZ22</numero>
+    <datefinale>2019-09-09</datefinale>
+    <datepublicationfinale>2019-09-25</datepublicationfinale>
+    <montantfinal>28006.340000</montantfinal>
+    <nomcontractant>GHD Consultants</nomcontractant>
+    <neqcontractant>1148070619</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1307402</numeroseao>
+    <numero>635199/634561/633805/3679</numero>
+    <datefinale>2018-07-31</datefinale>
+    <datepublicationfinale>2019-09-26</datepublicationfinale>
+    <montantfinal>264060.000000</montantfinal>
+    <nomcontractant>central waste paper</nomcontractant>
+    <neqcontractant>1143405117</neqcontractant>
+  </contrat>
+</export>

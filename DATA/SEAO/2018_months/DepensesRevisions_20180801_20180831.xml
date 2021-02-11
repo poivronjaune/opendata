@@ -1,0 +1,1510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2018-08-01" datefin="2018-08-31">
+  <avis>
+    <numeroseao>417068</numeroseao>
+    <numero>2010-801-01-01</numero>
+    <depenses>
+      <depense>
+        <datedepense>2014-08-31</datedepense>
+        <datepublicationdepense>2018-08-15</datepublicationdepense>
+        <montantdepense>456321.890000</montantdepense>
+        <description>L'hiver 2013-2014 a été très froid ce qui a considérablement augmenté la quantité d'huile de chauffage consommée.  De plus, le prix à la pompe avait beaucoup fluctué à la hausse (presque du double) cette année là.</description>
+        <nomcontractant>MÉLANÇON ET FILS INC</nomcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>648528</numeroseao>
+    <numero>ANO-2013-022-01-01</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-10-31</datedepense>
+        <datepublicationdepense>2018-06-08</datepublicationdepense>
+        <montantdepense>95587.000000</montantdepense>
+        <description>Certains établissements commandent des produits qu'ils n'ont pas mandaté.</description>
+        <nomcontractant>Aliments Ultima inc..</nomcontractant>
+        <neqcontractant>1142671891</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>707035</numeroseao>
+    <numero>24759800</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-08-01</datedepense>
+        <datepublicationdepense>2018-08-10</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>ajout entretien de la génératrice du client</description>
+        <nomcontractant>Hewitt Equipement Ltée - division Energie</nomcontractant>
+        <neqcontractant>1143555028</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>749289</numeroseao>
+    <numero>25657900</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-06-06</datedepense>
+        <datepublicationdepense>2017-06-07</datepublicationdepense>
+        <montantdepense>9289451.850000</montantdepense>
+        <description>modification mineur</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-06-27</datedepense>
+        <datepublicationdepense>2017-06-29</datepublicationdepense>
+        <montantdepense>40535.780000</montantdepense>
+        <description>modification mineur</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-29</datedepense>
+        <datepublicationdepense>2017-07-13</datepublicationdepense>
+        <montantdepense>58847.030000</montantdepense>
+        <description>modification mineur</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-21</datedepense>
+        <datepublicationdepense>2017-11-21</datepublicationdepense>
+        <montantdepense>1803829.520000</montantdepense>
+        <description>modification mineur</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-09</datedepense>
+        <datepublicationdepense>2018-01-19</datepublicationdepense>
+        <montantdepense>444195.440000</montantdepense>
+        <description>modification mineur</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-06</datedepense>
+        <datepublicationdepense>2018-02-21</datepublicationdepense>
+        <montantdepense>105896.470000</montantdepense>
+        <description>modification mineur</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-06</datedepense>
+        <datepublicationdepense>2018-03-16</datepublicationdepense>
+        <montantdepense>41763.840000</montantdepense>
+        <description>modification mineur</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-11</datedepense>
+        <datepublicationdepense>2018-04-17</datepublicationdepense>
+        <montantdepense>71360.930000</montantdepense>
+        <description>modification mineur</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-15</datedepense>
+        <datepublicationdepense>2018-05-16</datepublicationdepense>
+        <montantdepense>37030.930000</montantdepense>
+        <description>modification mineur</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-23</datedepense>
+        <datepublicationdepense>2018-05-24</datepublicationdepense>
+        <montantdepense>68666.230000</montantdepense>
+        <description>modification mineur</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-07</datedepense>
+        <datepublicationdepense>2018-06-11</datepublicationdepense>
+        <montantdepense>19930.870000</montantdepense>
+        <description>modification mineur</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-15</datedepense>
+        <datepublicationdepense>2018-06-15</datepublicationdepense>
+        <montantdepense>43987.020000</montantdepense>
+        <description>modification mineur</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-17</datedepense>
+        <datepublicationdepense>2018-08-20</datepublicationdepense>
+        <montantdepense>102482.700000</montantdepense>
+        <description>modification mineur</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-20</datedepense>
+        <datepublicationdepense>2018-08-21</datepublicationdepense>
+        <montantdepense>18849.750000</montantdepense>
+        <description>modification mineur</description>
+        <nomcontractant>Pomerleau Inc.</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>848499</numeroseao>
+    <numero>Ouest-2014-972-01-01</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-12-01</datedepense>
+        <datepublicationdepense>2017-12-01</datepublicationdepense>
+        <montantdepense>94000.000000</montantdepense>
+        <description>L’ajout de la dépense supplémentaire à l’ensemble des fournisseurs à contrat est pour les points de service de l’Hôpital Rimouski-Neigette et le Centre Hospitalier du Grand-Portage pour une valeur de 94 000$ jusqu’au 31 mars 2020. Cependant l’hôpital de Matane était déjà participant à l’entente.</description>
+        <nomcontractant>Cardinal Health Canada inc.</nomcontractant>
+        <neqcontractant>1147150800</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-09-01</datedepense>
+        <datepublicationdepense>2017-10-24</datepublicationdepense>
+        <montantdepense>3251020.000000</montantdepense>
+        <description>Ajout d'établissements et de points de services d'établissements participants.  Ne pas prendre en compte le contrat associé à la dépense : le montant est une valeur globale applicable à l'ensemble du dossier, toutefois la mécanique de SEAO ne permet pas la divulgation globale.</description>
+        <nomcontractant>Medtronic</nomcontractant>
+        <neqcontractant>1149830540</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>904660</numeroseao>
+    <numero>29727100</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-02-05</datedepense>
+        <datepublicationdepense>2016-02-08</datepublicationdepense>
+        <montantdepense>393355.680000</montantdepense>
+        <description>Ajustement des honoraires en fonction des services supplémentaires demandés</description>
+        <nomcontractant>L'Équipe Daoust Lestage + ABCP</nomcontractant>
+        <neqcontractant>1168446459</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-06-08</datedepense>
+        <datepublicationdepense>2017-06-13</datepublicationdepense>
+        <montantdepense>88464.000000</montantdepense>
+        <description>Ajustement des honoraires en fonction des services supplémentaires demandés</description>
+        <nomcontractant>L'Équipe Daoust Lestage + ABCP</nomcontractant>
+        <neqcontractant>1168446459</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-21</datedepense>
+        <datepublicationdepense>2018-08-27</datepublicationdepense>
+        <montantdepense>60930.000000</montantdepense>
+        <description>Ajustement des honoraires en fonction des services supplémentaires demandés</description>
+        <nomcontractant>L'Équipe Daoust Lestage + ABCP</nomcontractant>
+        <neqcontractant>1168446459</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>943285</numeroseao>
+    <numero>55055-518_JYL_PUB_C_2étap</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-07-04</datedepense>
+        <datepublicationdepense>2018-07-04</datepublicationdepense>
+        <montantdepense>1364172.200000</montantdepense>
+        <description>Demandes de changement 001 à 122 (Août 2016 à Juillet 2018)</description>
+        <nomcontractant>Entreprise de Construction TEQ inc.</nomcontractant>
+        <neqcontractant>1144233385</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>982023</numeroseao>
+    <numero>16-027</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-02-01</datedepense>
+        <datepublicationdepense>2017-03-08</datepublicationdepense>
+        <montantdepense>34560.450000</montantdepense>
+        <description># 1 - Structure: Regroupement des directives en structure. S-01 en lien avec la P6: Crédit pour la modification des ancrages au roc. S-02 en lien avec P-2. L'entrepreneur a fourni une excavatrice pour effectuer des nouvelles coupes exploratoires pour le laboratoire de sol...</description>
+        <nomcontractant>Construction Raynald Tisseur</nomcontractant>
+        <neqcontractant>1149222300</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-05</datedepense>
+        <datepublicationdepense>2017-08-17</datepublicationdepense>
+        <montantdepense>5626.470000</montantdepense>
+        <description># 2 - CIVIL - Avant de débuter la phase de la décontamination, l'entrepreneur devra fournir une excavatrice pour la réalisation de coupes exploratoires supplémentaires à la demande du lab ABS et de l'ingénieur en structure. Ces coupes vont permettre aux professionels de préciser la contamination ...</description>
+        <nomcontractant>Construction Raynald Tisseur</nomcontractant>
+        <neqcontractant>1149222300</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-05</datedepense>
+        <datepublicationdepense>2017-08-17</datepublicationdepense>
+        <montantdepense>4579.500000</montantdepense>
+        <description># 3: Architecture - Regroupement des directives en architecture</description>
+        <nomcontractant>Construction Raynald Tisseur</nomcontractant>
+        <neqcontractant>1149222300</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-16</datedepense>
+        <datepublicationdepense>2017-10-24</datepublicationdepense>
+        <montantdepense>8721.120000</montantdepense>
+        <description># 4 - Mécanique: Installer des drains dans les locaux de conciergerie 117, 209 et 312.</description>
+        <nomcontractant>Construction Raynald Tisseur</nomcontractant>
+        <neqcontractant>1149222300</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-16</datedepense>
+        <datepublicationdepense>2017-10-24</datepublicationdepense>
+        <montantdepense>23069.450000</montantdepense>
+        <description># 5 -  Architecture: Suite à la démolition du plancher existant de l'administration de l'édifice du Savoir, nous avons découvert qu'il y avait 2 autres couches supplémentaires sous le plancher existant. Les couches de plancher devront être enlevées et la structure devra être renforcie ...</description>
+        <nomcontractant>Construction Raynald Tisseur</nomcontractant>
+        <neqcontractant>1149222300</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-16</datedepense>
+        <datepublicationdepense>2017-10-24</datepublicationdepense>
+        <montantdepense>1562.360000</montantdepense>
+        <description># 6 - Mécanique: Lors de la conception des plans de ventilation, l'ingénieur a omis un volet coupe-feu dans le conduit qui traverse le local 108. De plus, les grilles spécifiées dans les locaux 113, 115 et 116 ne sont pas du bon modèle.</description>
+        <nomcontractant>Construction Raynald Tisseur</nomcontractant>
+        <neqcontractant>1149222300</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-16</datedepense>
+        <datepublicationdepense>2017-10-24</datepublicationdepense>
+        <montantdepense>3618.250000</montantdepense>
+        <description># 7 - Structure: Afin de faciliter la mise en place du béton dans les colonnes et murs de refend apparents et pour obtenir un meilleur fini architectural, l'entrepreneur devra couler ces éléments avec des granulats ayant un diamètre nominal maximal de 10 mm au lieu de 20 mm.</description>
+        <nomcontractant>Construction Raynald Tisseur</nomcontractant>
+        <neqcontractant>1149222300</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-16</datedepense>
+        <datepublicationdepense>2017-10-24</datepublicationdepense>
+        <montantdepense>4791.960000</montantdepense>
+        <description># 8 - Électricité: L'ingénieur avait omis de spécifier l'emplacement des raccordements des appareils de robinetterie électronique sur les plans pour soumission.</description>
+        <nomcontractant>Construction Raynald Tisseur</nomcontractant>
+        <neqcontractant>1149222300</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-29</datedepense>
+        <datepublicationdepense>2017-12-08</datepublicationdepense>
+        <montantdepense>13522.060000</montantdepense>
+        <description># 9 - Architecture: 1.- Correction du montant de l'ODC 8 pour la directive A-13. 2. - La direction voulait des modifications de couleur de peinture pour l'administration et aussi un ajout de locaux à peindre dans le cadre du projet place-élèves. 3- Demande à l'entrepreneur de superviser et ...</description>
+        <nomcontractant>Construction Raynald Tisseur</nomcontractant>
+        <neqcontractant>1149222300</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-29</datedepense>
+        <datepublicationdepense>2017-12-08</datepublicationdepense>
+        <montantdepense>5790.360000</montantdepense>
+        <description>#10- Mécanique: Fournir et installer un bac en acier inox pour la section de serpentin de refroidissement et complément d'information pour la séquence des contrôles. Architecture: Les murs n'ont pas l'épaisseur requise pour y installer des toilettes murales pour le secteur de la maternelle...</description>
+        <nomcontractant>Construction Raynald Tisseur</nomcontractant>
+        <neqcontractant>1149222300</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-19</datedepense>
+        <datepublicationdepense>2018-01-22</datepublicationdepense>
+        <montantdepense>6019.200000</montantdepense>
+        <description># 11 - Architecture: Suite à des discussions entre le fournisseur de matériaux de toiture, l'inspecteur des travaux de toiture et l'architecte, il a été suggéré d'ajouter des barres d'ancrage à la composition de toiture. De plus, lors de la construction, il s'est avéré que l'espace...</description>
+        <nomcontractant>Construction Raynald Tisseur</nomcontractant>
+        <neqcontractant>1149222300</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-19</datedepense>
+        <datepublicationdepense>2018-01-22</datepublicationdepense>
+        <montantdepense>3745.810000</montantdepense>
+        <description># 12 - Mécanique: Fournir et installer 2 clapets de retenue avec un accès au plancher sur le réseau sanitaire existant. Remplacer le conduit d'alimentation d'air en tissu pour le gymnase originalement prévu par un conduit en acier de type spiral.</description>
+        <nomcontractant>Construction Raynald Tisseur</nomcontractant>
+        <neqcontractant>1149222300</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-19</datedepense>
+        <datepublicationdepense>2018-01-22</datepublicationdepense>
+        <montantdepense>3684.860000</montantdepense>
+        <description># 13 - Structure: Lors des travaux de démolition dans le bâtiment existant, une section du plancher de bois devra être remplacée. Une nouvelle dalle a été coulée.</description>
+        <nomcontractant>Construction Raynald Tisseur</nomcontractant>
+        <neqcontractant>1149222300</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-15</datedepense>
+        <datepublicationdepense>2018-04-12</datepublicationdepense>
+        <montantdepense>9425.060000</montantdepense>
+        <description># 14 -  Architecture: Modification des garde-corps vitrés par l'ingénieur en structure du vitrier de l'entrepreneur lors de la soumission des dessins d'ateliers des vitrages à l'architecte.</description>
+        <nomcontractant>Construction Raynald Tisseur</nomcontractant>
+        <neqcontractant>1149222300</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-15</datedepense>
+        <datepublicationdepense>2018-04-12</datepublicationdepense>
+        <montantdepense>6532.900000</montantdepense>
+        <description># 15 - Électricité: Effectuer la relocalisation de trois (3) appareils de chauffage. Vu que les appareils sont très lourds, une grue doit être utilisée pour les déplacements. Également, de nouveaux branchements de plomberie doivent être faits.</description>
+        <nomcontractant>Construction Raynald Tisseur</nomcontractant>
+        <neqcontractant>1149222300</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-15</datedepense>
+        <datepublicationdepense>2018-04-12</datepublicationdepense>
+        <montantdepense>7454.870000</montantdepense>
+        <description># 16 - Civil: Après l'ouverture des soumissions, l'arrondissement demande que la conduite d'égout sanitaire prévu à 100mm  de diamètre soit remplacée par une conduite de 150 mm. De plus, le diamètre de la conduite de branchement de l'aqueduc de 200mm doit être remplacé par une conduite en fonte ...</description>
+        <nomcontractant>Construction Raynald Tisseur</nomcontractant>
+        <neqcontractant>1149222300</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-15</datedepense>
+        <datepublicationdepense>2018-04-12</datepublicationdepense>
+        <montantdepense>6878.100000</montantdepense>
+        <description># 17 - Architecture: Suite aux déplacements des plinthes de chauffage, boucher les trous prévus pour les conduits de chauffage et installer de la nouvelle céramique. Couvrir les poutres d'acier apparentes avec du gypse dans les cages d'escaliers pour avoir le bon dégré de résistance au feu.</description>
+        <nomcontractant>Construction Raynald Tisseur</nomcontractant>
+        <neqcontractant>1149222300</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-17</datedepense>
+        <datepublicationdepense>2018-08-16</datepublicationdepense>
+        <montantdepense>3774.810000</montantdepense>
+        <description># 18 - Architecture: Remplacer la poignée de la fenêtre qui donne accès à la toiture car il est impossible de la barrer. Installer un butoir sur la retombée de plafond comme protection lors de l'ouverture de la fenêtre. Ajout d'une molure de protection en U sur les champs verticaux des verres des ..</description>
+        <nomcontractant>Construction Raynald Tisseur</nomcontractant>
+        <neqcontractant>1149222300</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-17</datedepense>
+        <datepublicationdepense>2018-08-16</datepublicationdepense>
+        <montantdepense>897.610000</montantdepense>
+        <description># 19 - Architecture: Suite à l'ajout d'une tablette encastrée poir le système de son dans le bureau du professeur de gymnastiqlue, une prise électrique doit être ajoutée pour le branchement. Électricité: Suite aux travaux de réaménagement du secrétariat, la sonnette et le bouton d'ouverture pour...</description>
+        <nomcontractant>Construction Raynald Tisseur</nomcontractant>
+        <neqcontractant>1149222300</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-17</datedepense>
+        <datepublicationdepense>2018-08-16</datepublicationdepense>
+        <montantdepense>136654.370000</montantdepense>
+        <description># 20 - Civil: Lors de la phase 2 décontamination des sols, la quantité de sols qui dépasse le critère C était plus abondante sur le site qu'intiialement prévu. De plus, l'ajout de membrane est requis car il y a présence de contamination sur le parois d'excavation.</description>
+        <nomcontractant>Construction Raynald Tisseur</nomcontractant>
+        <neqcontractant>1149222300</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-17</datedepense>
+        <datepublicationdepense>2018-08-16</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>#  21 - Crédit: (250 742,34 $): Divers: Crédit de l'entrepreneur pour le retrait des travaux du bâtiment existant du projet de l'agrandissement.</description>
+        <nomcontractant>Construction Raynald Tisseur</nomcontractant>
+        <neqcontractant>1149222300</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-17</datedepense>
+        <datepublicationdepense>2018-08-16</datepublicationdepense>
+        <montantdepense>2061.370000</montantdepense>
+        <description># 22 - Architecture: Ajouter des barres d'ancrage à la composition de toiture. Pour combler la différence entre L'ODC 11 et le montant final négocié.</description>
+        <nomcontractant>Construction Raynald Tisseur</nomcontractant>
+        <neqcontractant>1149222300</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-17</datedepense>
+        <datepublicationdepense>2018-08-16</datepublicationdepense>
+        <montantdepense>27838.830000</montantdepense>
+        <description># 23 - Structure: Rachat de l'étaiement temporaire de l'entrepreneur dans le bâtiment existant.</description>
+        <nomcontractant>Construction Raynald Tisseur</nomcontractant>
+        <neqcontractant>1149222300</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-17</datedepense>
+        <datepublicationdepense>2018-08-16</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 24 - Crédit (1 186,99 $) Architecture: Vu le retard de l'entrepreneur pour la pose des toiles, nous avons mandaté une compagnie pour en faire l'inatallation. l'entrepreneur nous a fourni un crédit.</description>
+        <nomcontractant>Construction Raynald Tisseur</nomcontractant>
+        <neqcontractant>1149222300</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-17</datedepense>
+        <datepublicationdepense>2018-08-16</datepublicationdepense>
+        <montantdepense>2352.870000</montantdepense>
+        <description># 25 - Électricité: annuler l'installation de deux (2) luminaires sur trois pour l'oeuvre d'art. Ils ne sont plus requis suite à la coordination avec les dessins de l'oeuvre d'art. / Relocaliser les détecteurs de présence du gymnase vers le centre du local, car leur détection est obstruée lorsque...</description>
+        <nomcontractant>Construction Raynald Tisseur</nomcontractant>
+        <neqcontractant>1149222300</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-17</datedepense>
+        <datepublicationdepense>2018-08-16</datepublicationdepense>
+        <montantdepense>990.860000</montantdepense>
+        <description># 26 - Architecture-structure: Lors de pose de blocs, il a été constaté que pour les cadres de porte 205, 207, 208 et 210. Il est impossible de prolonger le bloc linteau prévu de part et d'autres de l'ouverture car ces portes sont collées sur les colonnes existantes. Ainsi, du côté de la colonne...</description>
+        <nomcontractant>Construction Raynald Tisseur</nomcontractant>
+        <neqcontractant>1149222300</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-14</datedepense>
+        <datepublicationdepense>2018-08-16</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 27 - Crédit (10 202,62 $) Architecture: Crédit de l'entrepreneur pour le retrait des travaux de système intérieur dans le bâtiment existant de l'agrandissement.</description>
+        <nomcontractant>Construction Raynald Tisseur</nomcontractant>
+        <neqcontractant>1149222300</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-14</datedepense>
+        <datepublicationdepense>2018-08-16</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 28 - Crédit (26 602,81 $) Civil: Crédit de l'entrepreneur pour les travaux d'aménagement paysager qui ne seront pas faits.</description>
+        <nomcontractant>Construction Raynald Tisseur</nomcontractant>
+        <neqcontractant>1149222300</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>983676</numeroseao>
+    <numero>SRM016431</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-02-25</datedepense>
+        <datepublicationdepense>2016-05-31</datepublicationdepense>
+        <montantdepense>10000.000000</montantdepense>
+        <description>SRM016432</description>
+        <nomcontractant>GSC Gestion-Services-Conseils</nomcontractant>
+        <neqcontractant>2270011895</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-03-07</datedepense>
+        <datepublicationdepense>2016-05-31</datepublicationdepense>
+        <montantdepense>4500.000000</montantdepense>
+        <description>SRM16509A</description>
+        <nomcontractant>GSC Gestion-Services-Conseils</nomcontractant>
+        <neqcontractant>2270011895</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-05-28</datedepense>
+        <datepublicationdepense>2016-06-02</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>SRM014715 - Bon de commande initial SRM014715 annulé et remplacé par celui-ci (SRM016432)</description>
+        <nomcontractant>GSC Gestion-Services-Conseils</nomcontractant>
+        <neqcontractant>2270011895</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-04-22</datedepense>
+        <datepublicationdepense>2016-06-27</datepublicationdepense>
+        <montantdepense>5000.000000</montantdepense>
+        <description>SRM016841</description>
+        <nomcontractant>GSC Gestion-Services-Conseils</nomcontractant>
+        <neqcontractant>2270011895</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>987288</numeroseao>
+    <numero>UC-1605028(DDP)</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-05-24</datedepense>
+        <datepublicationdepense>2018-05-24</datepublicationdepense>
+        <montantdepense>48500.000000</montantdepense>
+        <description>Dépenses addtionnelles</description>
+        <nomcontractant>SDK et associés inc</nomcontractant>
+        <neqcontractant>1146344487</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1010978</numeroseao>
+    <numero>CNMTL2016-027</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-07-10</datedepense>
+        <datepublicationdepense>2017-10-03</datepublicationdepense>
+        <montantdepense>56905.320000</montantdepense>
+        <description>Différents travaux ont été ajoutés tel que : désamiantage, ajout de coupes-froid, travaux d'électricité ( prises électriques, filage), laminage de gypse, démantèlement supplémentaire de lignes de gicleurs, de lignes de gaz.</description>
+        <nomcontractant>Gaston Champoux (1973) Inc.</nomcontractant>
+        <neqcontractant>1142837930</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-24</datedepense>
+        <datepublicationdepense>2018-07-12</datepublicationdepense>
+        <montantdepense>13426.850000</montantdepense>
+        <description>Calorifugeage tuyauterie drainage. Relocal équip plomberie modif porte auto laverie. Démolition bases terrazzo dissimulées ss mobilier/reprise béton pr nouv revêtement vin. Aj DAR. Aj purgeur conduit capter. Annul travaux non-requis démolition double plafond plâtre amiante risque élevé. Aj sas ext.</description>
+        <nomcontractant>Gaston Champoux (1973) Inc.</nomcontractant>
+        <neqcontractant>1142837930</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-18</datedepense>
+        <datepublicationdepense>2018-07-18</datepublicationdepense>
+        <montantdepense>2228.420000</montantdepense>
+        <description>ODC 27 : Conditions de chantier. Pertes de temps pour les travaux de chauffage irréalisables dus à des valves non-étanches</description>
+        <nomcontractant>Gaston Champoux (1973) Inc.</nomcontractant>
+        <neqcontractant>1142837930</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-09</datedepense>
+        <datepublicationdepense>2018-08-09</datepublicationdepense>
+        <montantdepense>44137.340000</montantdepense>
+        <description>ODC 21, 24 et 25 : Conditions de chantiers. Ajustement des services mécaniques et frais supplémentaires pour perte de temps relié à décontamination d'amiante.</description>
+        <nomcontractant>Gaston Champoux (1973) Inc.</nomcontractant>
+        <neqcontractant>1142837930</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1043744</numeroseao>
+    <numero>17-022 - 6WENTM.02...</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-07-05</datedepense>
+        <datepublicationdepense>2017-08-17</datepublicationdepense>
+        <montantdepense>309.930000</montantdepense>
+        <description># 1 - Omission - Architecture: Ajout d'un ferme-porte au groupe de quincaillerie 01</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-09-01</datedepense>
+        <datepublicationdepense>2017-09-13</datepublicationdepense>
+        <montantdepense>655.810000</montantdepense>
+        <description># 2 - Réparation du lit ciment-sable désolidarisé sur la dalle de béton.</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-09-01</datedepense>
+        <datepublicationdepense>2017-09-13</datepublicationdepense>
+        <montantdepense>539.000000</montantdepense>
+        <description># 3 - Fournir un service d'une caméra avec radio détection afin de localiser la partie souterraine de la colonne pluviale.</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-09-20</datedepense>
+        <datepublicationdepense>2017-09-26</datepublicationdepense>
+        <montantdepense>1944.120000</montantdepense>
+        <description># 4 - Mécanique: Modification au raccordement de plomberie suite aux travaux de démolition.</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-10</datedepense>
+        <datepublicationdepense>2017-10-20</datepublicationdepense>
+        <montantdepense>3053.340000</montantdepense>
+        <description># 5 - Mécanique: Relocalisation de la colonne pluviale en conflit avec le support de toilette.</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-10</datedepense>
+        <datepublicationdepense>2017-10-20</datepublicationdepense>
+        <montantdepense>10598.530000</montantdepense>
+        <description># 6 - Architecture: Préparation de surface et travaux de réparation suite à la démolition de la maçonnerie.</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-08</datedepense>
+        <datepublicationdepense>2017-12-21</datepublicationdepense>
+        <montantdepense>1884.700000</montantdepense>
+        <description># 7 - Percement d'une poudre pour passage de conduits électriques (en lien avec DDCME05).</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-08</datedepense>
+        <datepublicationdepense>2017-12-21</datepublicationdepense>
+        <montantdepense>5165.850000</montantdepense>
+        <description># 8 - Structure: Ouverture dans la dalle pour permettre la relocalisation de la colonne pluviale en conflit avec le support de toilette (DDCME06rev1).</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-08</datedepense>
+        <datepublicationdepense>2017-12-21</datepublicationdepense>
+        <montantdepense>1903.380000</montantdepense>
+        <description># 9 - Mécanique: Déplacer 5 cabinets CA-1 adossés au mur du corridor de 65mm en direction de l'axe C. Déplacement causé par un espace insuffisant pour les supports de plomberie.</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-08</datedepense>
+        <datepublicationdepense>2017-12-21</datepublicationdepense>
+        <montantdepense>14093.800000</montantdepense>
+        <description># 10 - Mécanique: Raccordements électriques pour le bloc sanitaire.</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-08</datedepense>
+        <datepublicationdepense>2017-12-21</datepublicationdepense>
+        <montantdepense>949.550000</montantdepense>
+        <description># 11 - Architecture: Déplacer les cloisons de blocs de béton dans le bloc sanitaire, selon les conditions de chantier.</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-08</datedepense>
+        <datepublicationdepense>2017-12-21</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 12 - (Crédit 769,93 $) - Architecture: Remboursement des frais pour réparation du panneau d'alarme-intrusion suite aux travaux de percement de la poudre (DDCS03) dans la salle de mécanique #14.</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-08</datedepense>
+        <datepublicationdepense>2017-12-21</datepublicationdepense>
+        <montantdepense>882.050000</montantdepense>
+        <description># 13 - Architecture: Démolir des arrières-murs en brique.</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-08</datedepense>
+        <datepublicationdepense>2017-12-21</datepublicationdepense>
+        <montantdepense>196.210000</montantdepense>
+        <description># 14 - Architecture: Sur la cloison mitoyenne entre les toilettes #24 et #25, remplacer le gypse résistant  à l'humdité 16mm par un gypse régulier 19mm, afin d'intégrer les fonds de vissage du contreplaqué 19 mm de deux lavabos.</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-08</datedepense>
+        <datepublicationdepense>2017-12-21</datepublicationdepense>
+        <montantdepense>23475.380000</montantdepense>
+        <description>#15 - Architecture: Appliquer un mortier sur les fondations afin de clomber l'espace laissé libre par la démolition de l'ancien lit de mortier.</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-19</datedepense>
+        <datepublicationdepense>2018-01-11</datepublicationdepense>
+        <montantdepense>24356.840000</montantdepense>
+        <description># 16 - Mécanique: Modification du diamètre des conduits d'eau existants afin de permettre un débit suffisant d'eau pour le futur projet d'agrandissement.</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-17</datedepense>
+        <datepublicationdepense>2018-01-22</datepublicationdepense>
+        <montantdepense>2406.160000</montantdepense>
+        <description>#17 - Architecture: Couper excédent des angles d'acier structuraux derrière la maçonnerie. Fermer l'espace d'air avec membrane et tôle d'acier au jambage des protes extérieurs  doubles sur l'axe 11.5. Sur les arrières murs en brique, retirer proprement les joints de mortier baveux...</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-17</datedepense>
+        <datepublicationdepense>2018-01-22</datepublicationdepense>
+        <montantdepense>2696.940000</montantdepense>
+        <description># 18 - Mécanique: Tel que convenu au tout début du chantier, la fontaine d'eau existante ne sera pas réinstallée. En remplacement, fourniture et installation d'une nouvelle fontaine d'eau pour permettre le remplissage de bouteilles, et travaux connexes.</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-17</datedepense>
+        <datepublicationdepense>2018-01-22</datepublicationdepense>
+        <montantdepense>833.950000</montantdepense>
+        <description># 19 - Architecture: Fournir et installer une membrane d'étanchéité sur le blocage de bois de la porte extérieure existante du local 47 et le recouvrir d'une tôle de finition. Situation observée suite aux travaux de démolition.</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-05</datedepense>
+        <datepublicationdepense>2018-02-06</datepublicationdepense>
+        <montantdepense>1750.530000</montantdepense>
+        <description># 20 : Électricité - Fournir six(6) nouveaux luminaires de type F4 dans le corridor au lieu des types F1 tel qu'indiqué au plan. Remettre les luminaires de type F1 au propriétaire.</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-12</datedepense>
+        <datepublicationdepense>2018-02-28</datepublicationdepense>
+        <montantdepense>971.730000</montantdepense>
+        <description># 21 - Architecture: Dans la bibliothèque, relocaliser les prises murales et les sorties informatiques du mur existant vers le mur soufflé de l'entrée d'eau.</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-13</datedepense>
+        <datepublicationdepense>2018-04-10</datepublicationdepense>
+        <montantdepense>845.000000</montantdepense>
+        <description># 22 - Architecture: Les recouvrements métalliques autour des fenêtres devaient rester en place selon les plans et devis de l'architecte. L'entrepreneur n'a pas pu les conserver en place pendant l'enlèvement des fenêtres et n'a pas eu d'autres choix que de les retirer...</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-19</datedepense>
+        <datepublicationdepense>2018-08-21</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 23 - Crédit: (8 289,00 $) Architecture: À la demande de la CSMB, demande de crédit à l'entrepreneur pour couvrir les honoraires supplémentaires de l'architecte causé par le prolongement du chantier.</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1054205</numeroseao>
+    <numero>CT-2016-3699</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-11-11</datedepense>
+        <datepublicationdepense>2018-08-13</datepublicationdepense>
+        <montantdepense>14204.500000</montantdepense>
+        <description>Prolongation du contrat à cause du report du congé de maladie de l'employée permanente de BAnQ.</description>
+        <nomcontractant>Drakkar &amp; Associés.</nomcontractant>
+        <neqcontractant>1142366989</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1057672</numeroseao>
+    <numero>IM701544</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-10-25</datedepense>
+        <datepublicationdepense>2018-08-03</datepublicationdepense>
+        <montantdepense>94217.050000</montantdepense>
+        <description>Relocalisation de câbles à isolant minéral et modification au contrôle d'accès Desjardins</description>
+        <nomcontractant>Les Installations Électriques Pichette Inc .</nomcontractant>
+        <neqcontractant>1143997626</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1069476</numeroseao>
+    <numero>RM-2017-125-01</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-08-29</datedepense>
+        <datepublicationdepense>2018-03-05</datepublicationdepense>
+        <montantdepense>12526.170000</montantdepense>
+        <description>Enlever et disposer des casiers métalliques des élèves. Souffler le mur à l'aide de colombages métalliques. Démantèlement des fontaines existantes. Remplacement de l'intercepteur de graisse et robinet anti-gèle. Fournir 5 robinets infrarouges pour urinoir. Travaux électriques. </description>
+        <nomcontractant>Comco Entrepreneurs en bâtiment</nomcontractant>
+        <neqcontractant>1164969751</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-09-12</datedepense>
+        <datepublicationdepense>2018-03-05</datepublicationdepense>
+        <montantdepense>4892.510000</montantdepense>
+        <description>Dans le corridor principal, fournir et installer une bande de revêtement de plancher. Cette bande devra être soudée au revêtement adjacent, de chaque côté. Ouvrir et refermer les murs dans les salles de toilettes et près des fontaines pour permettre les travaux de plomberie.</description>
+        <nomcontractant>Comco Entrepreneurs en bâtiment</nomcontractant>
+        <neqcontractant>1164969751</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-12</datedepense>
+        <datepublicationdepense>2018-03-05</datepublicationdepense>
+        <montantdepense>8505.710000</montantdepense>
+        <description>Pose de céramique sur céramique existante - Ragréage du plancher du corridor Ouvrir et refermer le mur en arrière des lavabos - Pose de plinthe et joint de dilatation corridor Remplacer les fermes portes, installation des charnières continues et rabotage des portes Installation d'une trappe d'accès.</description>
+        <nomcontractant>Comco Entrepreneurs en bâtiment</nomcontractant>
+        <neqcontractant>1164969751</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-27</datedepense>
+        <datepublicationdepense>2018-08-29</datepublicationdepense>
+        <montantdepense>7345.010000</montantdepense>
+        <description>Descendre la fontaine à 27.5" et tourner 3 robinets de fontaines vers le centre; modifier les lavabos pour une hauteur finale à 27.5" et remplacer la robinetterie installée sur les deux lavabos</description>
+        <nomcontractant>Comco Entrepreneurs en bâtiment</nomcontractant>
+        <neqcontractant>1164969751</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1083619</numeroseao>
+    <numero>32911600</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-04-24</datedepense>
+        <datepublicationdepense>2018-06-01</datepublicationdepense>
+        <montantdepense>21367.960000</montantdepense>
+        <description>- Modification du 24 avril 2018, comprend la valeur des ajouts antérieurs à l'atteinte du 10% du montant initial du contrat</description>
+        <nomcontractant>Tecno Métal Inc.</nomcontractant>
+        <neqcontractant>1144255701</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1088529</numeroseao>
+    <numero>17-070 - 6PTCL.AGR</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-11-16</datedepense>
+        <datepublicationdepense>2017-11-20</datepublicationdepense>
+        <montantdepense>8068.550000</montantdepense>
+        <description># 1 - Architecture: Modifier le tracé pour l'installation de la palissade afin de clôturer et sécuriser le chantier tel que représenté dans le croquis CR-01.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-22</datedepense>
+        <datepublicationdepense>2017-12-05</datepublicationdepense>
+        <montantdepense>1047.820000</montantdepense>
+        <description># 2 - Électricité: Pour permettre l'homologation du compteur temporaire à 120/208 V par Poids et Mesure Canada, nous permettons l'installation d'un compteur temporaire sans homologation...</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-22</datedepense>
+        <datepublicationdepense>2017-12-05</datepublicationdepense>
+        <montantdepense>7335.560000</montantdepense>
+        <description># 3 - Structure: Suite à l'ouverture réalisée au coin des axes e2 et eA, la colonne existantes présente des déficiences importantes (rouille et flexion). Remplacer la colonne au coin des axes e2 et au coin des axes e2 et eA, la colonne existantes présente des déficiences importantes ...</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-22</datedepense>
+        <datepublicationdepense>2017-12-05</datepublicationdepense>
+        <montantdepense>1771.870000</montantdepense>
+        <description># 4 - Sécurité: Découverte d'isolant de tuyauterie en pâte cimentaire contenant de l'amiante sur des coudes de tuyauterie du vestibule d'entrée. Isolant calorifuge présent sur 9 coudes de la tuyauterie. Effectuer les travaux d'enlèvement de l'isolant selon la méthode du "sac à gant" ...</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-15</datedepense>
+        <datepublicationdepense>2018-01-22</datepublicationdepense>
+        <montantdepense>3718.260000</montantdepense>
+        <description># 5 -Électricité: Ajout de contact magnétique au nouveau groupe de portes 22, suite aux commentaires du client et des dessins d'atelier reçus.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-15</datedepense>
+        <datepublicationdepense>2018-01-22</datepublicationdepense>
+        <montantdepense>4439.230000</montantdepense>
+        <description># 6 - Mécanique: En remplacement de la DC EO3 qui a été annulée (pré-autorisation P9). Fournir et installer un radiateur de chauffage à l'eau chaude relié au système existant dans l'entrée existante aménagée temporairement.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-12</datedepense>
+        <datepublicationdepense>2018-02-28</datepublicationdepense>
+        <montantdepense>36229.440000</montantdepense>
+        <description># 7: Civil: Suite à la révision des plans pour permis, la Ville de Pointe-Claire a émise des commentaires ainsi que des demandes afin d'autoriser la construction de l'agrandissement. Ces demandes concernent principalement le nombre de cases de stationnement prévues pour le personnel...</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-12</datedepense>
+        <datepublicationdepense>2018-02-28</datepublicationdepense>
+        <montantdepense>13410.180000</montantdepense>
+        <description># 8 : Civil - Lors de l'excavation dans la rue pour préparer le raccordement à la conduite d'aqueduc municipale, il s'est avéré que le massif de béton "BC" se trouvait juste au-dessus du point de raccordement proposé au plan des services souterrains de Civil. Déplacer le raccordement vers le nord...</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-26</datedepense>
+        <datepublicationdepense>2018-04-13</datepublicationdepense>
+        <montantdepense>3821.500000</montantdepense>
+        <description># 9 - Structure: Problème constaté sur l'axe C entre les axes 6 et 9 suite à l'installation de la  charpente d'acier. Le HSS supportant le linteau à maçonnerie a été installé en façade des colonnes. Suite à une coordination avec l'architecte, le HSS doit être désaxé de 25 mm vers l'intérieur ...</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-26</datedepense>
+        <datepublicationdepense>2018-04-13</datepublicationdepense>
+        <montantdepense>1814.940000</montantdepense>
+        <description># 10 - Architecture: Fournir et installer un scellant Sikagard SN 100 de Sika sur les parties de béton laissées apparentes (lisière de 50mm côté intérieur de l'escalier et contremarches).</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-04</datedepense>
+        <datepublicationdepense>2018-04-13</datepublicationdepense>
+        <montantdepense>1868.410000</montantdepense>
+        <description># 11 - Architecture: Modification de la quincaillerie et clarification pour les ouvrages adjacents aux portes suite aux commentaires du client et des dessins d'atelier reçus.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-04</datedepense>
+        <datepublicationdepense>2018-04-13</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 12 - Architecture: Annulation du joint EM Seal et de la structure d'acier partant de la poutre jusqu'au plafond de gypse suspendu. Prolongation du plafond de gypse suspendu jusqu'au mur de maçonnerie existant conservé. Laisser un joint de 25mm entre le plafond et le mur et combler l'ouverture ...</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-04</datedepense>
+        <datepublicationdepense>2018-04-13</datepublicationdepense>
+        <montantdepense>2330.180000</montantdepense>
+        <description># 13 - Mécanique: à cause du manque d'espace libre, pour installer les fusibles de protection du moteur en mode dérivation, dans le panneau des VDF SHP, procéder au remplacement du sectionneur et fusibles par un disjoncteur.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-04</datedepense>
+        <datepublicationdepense>2018-04-13</datepublicationdepense>
+        <montantdepense>454.810000</montantdepense>
+        <description># 14 - Architecture: Modifier la structure en bois du mur acoustique, en partie haute du gymnase, le long de l'axe C afin de permettre le passage des tuyaux de mécanique, ajuster l'espace requis selon les recommendations et la coordination avec la mécanique.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-04</datedepense>
+        <datepublicationdepense>2018-04-13</datepublicationdepense>
+        <montantdepense>1570.480000</montantdepense>
+        <description># 15 - Électricité: Fournir, installer et raccorder une cellule photoélectrique Paragon no CW201-70 pour le contrôle des luminaires et de types Y et Z.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-04</datedepense>
+        <datepublicationdepense>2018-04-13</datepublicationdepense>
+        <montantdepense>755.800000</montantdepense>
+        <description># 16 - Électricité: Déplacer les services, l'alarme-incendie et l'éclairage d'urgence situés sur les murs d'oeuvre d'art. Certaines enseignes de "Sortie" pour installation murale doivent maintenant être pour installation au plafond.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-04</datedepense>
+        <datepublicationdepense>2018-04-13</datepublicationdepense>
+        <montantdepense>847.550000</montantdepense>
+        <description># 17 - Architecture: Modifier la profondeur des seuils d'aluminium spécifiés au bordereau de quincaillerie, dans le devis, dans le but que la profondeur de ceux-ci soit suffisante afin de couvrir le joint de construction entre la dalle de béton et le mur de fondation.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-04</datedepense>
+        <datepublicationdepense>2018-04-13</datepublicationdepense>
+        <montantdepense>1214.780000</montantdepense>
+        <description># 18 - Architecture: Coordination avec le manufacturier de tableaux d'affichage pour le design de certains tableaux. Ajout des tableaux d'affichage sur les soufflages des salles de classes D123 et D209. Modification de la position des angles obtus et aigus pour les tableaux d'affichage.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-05</datedepense>
+        <datepublicationdepense>2018-04-13</datepublicationdepense>
+        <montantdepense>854.310000</montantdepense>
+        <description># 19 - Architecture: Au détail 5/A415, ajouter un blocage en bois pour fixer un solin.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-05</datedepense>
+        <datepublicationdepense>2018-04-13</datepublicationdepense>
+        <montantdepense>968.660000</montantdepense>
+        <description># 20 - Architecture: Sur l'axe 1 entre M et M.5 au contreventement, faire le mur similaire au détail 5/A411 au lieu de 4/A411. Suite à la directive 501.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-05</datedepense>
+        <datepublicationdepense>2018-04-13</datepublicationdepense>
+        <montantdepense>1596.480000</montantdepense>
+        <description> 21 - Architecture: Les trois (3) volets coupe-feu dans la salle de classe B134 sont remplacés par des portes à enroulement coupe-feu dû à la hauteur disponible existante en tête de fenêtre restreinte.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-05</datedepense>
+        <datepublicationdepense>2018-04-13</datepublicationdepense>
+        <montantdepense>906.700000</montantdepense>
+        <description># 22 - Électricité: Le puits d'accès est annulé, par conséquent faire la continuité du massif. Le puits a été refusé par Hydro-Québec.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-05</datedepense>
+        <datepublicationdepense>2018-04-13</datepublicationdepense>
+        <montantdepense>4378.760000</montantdepense>
+        <description># 23 - Structure: Modifier les supports latéraux sous les poutres installés à l'étage pour qui ne soient pas visibles à partire de l'escalier. Sur les cornières conservées, prévoir un trou oblong vertical pour l'installation de tiges ancrées dans le bloc avec un adhésif.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-22</datedepense>
+        <datepublicationdepense>2018-08-21</datepublicationdepense>
+        <montantdepense>2470.090000</montantdepense>
+        <description># 24 - Omission-ÉLECTRICITÉ: fournir, installer et raccorder deux (2) séchoirs à mains: un dans la toilette # D203, le second dans la toilette # D204. du modèle spécifié aux plans. fournir et installer un conduit de 21mm entre l'ampli du gymnase, le local # D111 et le cabinet maitre à la réception.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-22</datedepense>
+        <datepublicationdepense>2018-08-21</datepublicationdepense>
+        <montantdepense>3265.260000</montantdepense>
+        <description># 25 - Omission - MÉCANIQUE: ajout des boîtiers encastrés et en surface pour les collecteurs de chauffage radiant.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-22</datedepense>
+        <datepublicationdepense>2018-08-21</datepublicationdepense>
+        <montantdepense>2368.200000</montantdepense>
+        <description># 26 -Mauvaise coordination - STRUCTURE: actuellement, au chantier, sur l'axe 2,5 entre K et M  approximativement, un support pour mur en maçonnerie est installé à l'endroit où un mur-rideau est prévu au plan. la présente directive indique à l'entrepreneur de retirer la support à maçonnerie et .... </description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-22</datedepense>
+        <datepublicationdepense>2018-08-21</datepublicationdepense>
+        <montantdepense>1002.940000</montantdepense>
+        <description># 27 -Demande du propriétaire-ARCHITECTURE: suite à la DDC A-13, prévoir un nouveau mur de blocs sur le palier intermédiaire de l'escalier # 1 respecter le détail typique d'armature des murs de maçonnerie non-porteurs. respecter le détail d'armature pour murs de blocs doubles. prévoir l'ajout ....</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-05</datedepense>
+        <datepublicationdepense>2018-08-21</datepublicationdepense>
+        <montantdepense>5066.920000</montantdepense>
+        <description># 28 - Condition de chantier - MÉCANIQUE: dû à la mauvaise qualité du remlai au chantier,  ajouter un total de 18'' de sable pour protéger les conduites de géothermie. le remblai inutilisé sera sorti du chantier.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-05</datedepense>
+        <datepublicationdepense>2018-08-21</datepublicationdepense>
+        <montantdepense>1324.550000</montantdepense>
+        <description># 29 - Mauvaise coordination - ARCHITECTURE: ajouter des Tés de suspension acoustique au pourtour des luminaires de type E dans les plafonds de gypse.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-14</datedepense>
+        <datepublicationdepense>2018-08-21</datepublicationdepense>
+        <montantdepense>5809.990000</montantdepense>
+        <description># 30 - Condition de chantier - ARCHITECTURE: le passage des conduits sera fait par la toiture. faire deux (2) boîtes de sorties sur le toit pour le passage des conduits électriques, dimension et emplacement à valider sur place. se référer aux directives en structure et en électricité pour les ....</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-14</datedepense>
+        <datepublicationdepense>2018-08-21</datepublicationdepense>
+        <montantdepense>4022.660000</montantdepense>
+        <description># 31 - Mauvaise coordination - MÉCANIQUE: suite aux modifications en civil pour la tuyauterie d'alimentation en eau potable de l'agrandissement (CO3), fournir la main-d'oeuvre pour faire les modification de deux (2) tuyaux en cuivre de 2'' à raccorder à un tuyau de 2,5'' à un mètre du bâtiment.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-14</datedepense>
+        <datepublicationdepense>2018-08-21</datepublicationdepense>
+        <montantdepense>1438.610000</montantdepense>
+        <description># 32 - Mauvaise coordination - ÉLECTRICITÉ: modification de l'éclairage de l'escalier tel qu'indiqué au plan d'architecture.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-14</datedepense>
+        <datepublicationdepense>2018-08-21</datepublicationdepense>
+        <montantdepense>1545.140000</montantdepense>
+        <description># 33 - Omission - ÉLECTRICITÉ: conserver le boîtier , les boutons et les témoins lumineux du démarreur modifier l'intérieur du démarreur pour le rendre conforme à une tension de 208V, 1 PH. fournir et installer un disjoncteur de 25 A pour l'alimentation de la pompe # P2.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-13</datedepense>
+        <datepublicationdepense>2018-08-22</datepublicationdepense>
+        <montantdepense>870.640000</montantdepense>
+        <description># 34 - Électricité: Fournir et installer deux (2) câbles BX 120Vca entre les ouvre-portes de l'ascenseur et la salle mécanique d'ascenseur. Positions fournies par le spécialiste en transport vertical. Noter que ces câbles doivent être près de la prise déjàaincluse aux plans dans la salle mécaniq...</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-13</datedepense>
+        <datepublicationdepense>2018-08-22</datepublicationdepense>
+        <montantdepense>1268.670000</montantdepense>
+        <description># 35 - Structure: Coordination en lien le changment R10. Une nouvelle ouverture de 600mm x 600mm sera requise dans la structure au toit de l'agrandissement. L'entrepreneur devra donc installer les renforts requis.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-14</datedepense>
+        <datepublicationdepense>2018-08-22</datepublicationdepense>
+        <montantdepense>6920.460000</montantdepense>
+        <description># 36 - Structure: La face du mure sur l'axe 21 est à 275mm de l'axe. Suite à un confilt en architecture, une nouvelle section de mur devra être coulée en façade du mur existant.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-14</datedepense>
+        <datepublicationdepense>2018-08-22</datepublicationdepense>
+        <montantdepense>2788.850000</montantdepense>
+        <description># 37 - Architecture: Les modifications suivantes sont apportées à l'escalier 1: -Une portion du mur prévu à l'axe K devient un mur bas de 1600mm de haut puisque le palier ne peut supporter un mur haut jusqu'au pontage d'acier. Prévoir une tablette au-dessus du mur bas. -Un nouveau mur de type C1b ..</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-14</datedepense>
+        <datepublicationdepense>2018-08-22</datepublicationdepense>
+        <montantdepense>991.730000</montantdepense>
+        <description># 38 - Architecture: Ajouter des bandes de gypse pour combler les cavités entre les murs de blocs et les colonnes d'acier, aux délais 6 et 7/A501, ceci afin de servir de support à la membrane.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-14</datedepense>
+        <datepublicationdepense>2018-08-22</datepublicationdepense>
+        <montantdepense>470.000000</montantdepense>
+        <description># 39 - Architecture: Suite à la nouvelle réglementation de la CSMB, au mobilie de la salle du personnel, 3B/A801, annuler l'espace pour le four et le remplacer par deux (2) portes et une tablette amobible sur crémaillère.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-14</datedepense>
+        <datepublicationdepense>2018-08-22</datepublicationdepense>
+        <montantdepense>1606.220000</montantdepense>
+        <description># 40 - Architecture: Faire un soufflage en gypse dans le local D-102 afin de cacher les tuyaux de chauffage dansle coin K/2.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-14</datedepense>
+        <datepublicationdepense>2018-08-22</datepublicationdepense>
+        <montantdepense>1824.900000</montantdepense>
+        <description># 41 - Architecture; Ajouter une tôle, voir détail 7/A501 et 7/A504, et continuer la membrane liquide surles murs du rangement.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-14</datedepense>
+        <datepublicationdepense>2018-08-22</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 42 - Crédit (21 392,87 $) Civil: Il y avait moins de sol contaminés sur place que prévu au bordereau d ventilation de prix de l'appel d'offres.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-14</datedepense>
+        <datepublicationdepense>2018-08-22</datepublicationdepense>
+        <montantdepense>1462.220000</montantdepense>
+        <description># 43 - Architecture: Remplacer  le mur de blocs de 140mm du mur des portes du monte-personne par la cloison suivante: mur de blocs de 90mm, fourure de 22mm, gypse FC 16mm du côté intérieur du monte-personne, face fini et peinturée, la tolérance maximum est de 1/8.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-14</datedepense>
+        <datepublicationdepense>2018-08-22</datepublicationdepense>
+        <montantdepense>3036.240000</montantdepense>
+        <description># 44 - Architecture:Modificaton du mobilier fixe pour régle le conflit entre le chauffage et le banc. Prolongation jusqu'au sol de tous les coups de pied du mobilier fixe.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-14</datedepense>
+        <datepublicationdepense>2018-08-22</datepublicationdepense>
+        <montantdepense>3327.430000</montantdepense>
+        <description># 45 - Architecture: Ajout de barres Z ajustables aux murs extérieurs derrière le revêtement de métal en remplacement des barres Z de 4" prévu dans les délais de mur type M2 et M3. Épaisseur de l'uréthane 4".</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-14</datedepense>
+        <datepublicationdepense>2018-08-22</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 46 - Crédit (8 616,06 $) - Divers: Crédit pour consomation de gaz naturel.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-14</datedepense>
+        <datepublicationdepense>2018-08-22</datepublicationdepense>
+        <montantdepense>835.560000</montantdepense>
+        <description># 47 - Architecture: Modification du profil ainsi que du mode d'attache de la main-courante de l'escalier 1 afin de la rapprocher du mur.</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-14</datedepense>
+        <datepublicationdepense>2018-08-22</datepublicationdepense>
+        <montantdepense>7699.190000</montantdepense>
+        <description># 48 - Électricité: Passage des conduits et câblage à partir de la nouvelle salle électrique existante par les classes plutôt que dans l'entre-plafond du corridor, celui-ci étant troup chargé. Alimentation temporaire de l'agrandissement par le toit avec câblage teck qui sera réutilisé  à l'intéri...</description>
+        <nomcontractant>Sept Frères Construction G2  Inc.</nomcontractant>
+        <neqcontractant>1168948264</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1099550</numeroseao>
+    <numero>2017/18-060</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-05-09</datedepense>
+        <datepublicationdepense>2018-07-16</datepublicationdepense>
+        <montantdepense>421322.860000</montantdepense>
+        <description>Diverses dépenses en lien avec la construction de la nouvelle école ( 3.89% de dépenses enregistrées)</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-29</datedepense>
+        <datepublicationdepense>2018-07-16</datepublicationdepense>
+        <montantdepense>830113.590000</montantdepense>
+        <description>AM#7 LCOP a.17 Excaver remblai supplém. égout pluvial 158501,36$-Disposer sols "AB" future rue Plage-De-Venise 404003,45$-Surexcaver stationnements 258166,90$-Ancrages bases de nivellement 5663,37$-Corriger pontage près escalier 3778,51$</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-29</datedepense>
+        <datepublicationdepense>2018-08-20</datepublicationdepense>
+        <montantdepense>7517.650000</montantdepense>
+        <description>AM#8 Crédit pour l’isolant rigide (793,00) $Travaux relatifs aux supports structuraux 8 310,65 $</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-03</datedepense>
+        <datepublicationdepense>2018-08-20</datepublicationdepense>
+        <montantdepense>10701.540000</montantdepense>
+        <description>AM#9 Bouchonner les puits pour permettre le forage de tous les puits et minimiser les échanges entre les puits 10 701,54 $</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-08</datedepense>
+        <datepublicationdepense>2018-08-28</datepublicationdepense>
+        <montantdepense>37134.030000</montantdepense>
+        <description>AM#10 DM-A-02 Modif. portes quincaillerie-DM-A-03 Modif refroidisseur/parapet/appentis-DM-A-04 Modif/Ajout soufflage DM-A-07 Modif couleus solins/mural/appentis DM-E-03 Modif Entrée câble/Data DM-M-04 Déplac thermostat DM-C-15 Modif qté clôture à installer</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1104538</numeroseao>
+    <numero>CGER 17 680071</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-06-01</datedepense>
+        <datepublicationdepense>2018-06-01</datepublicationdepense>
+        <montantdepense>33000.000000</montantdepense>
+        <description>Crédit pour deux chasse-neige</description>
+        <nomcontractant>Nortrax Québec inc..</nomcontractant>
+        <neqcontractant>1147443197</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-30</datedepense>
+        <datepublicationdepense>2018-08-17</datepublicationdepense>
+        <montantdepense>8200.000000</montantdepense>
+        <description>Modification</description>
+        <nomcontractant>Nortrax Québec inc..</nomcontractant>
+        <neqcontractant>1147443197</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-14</datedepense>
+        <datepublicationdepense>2018-08-17</datepublicationdepense>
+        <montantdepense>2000.000000</montantdepense>
+        <description>Ajout d'un contrepoids</description>
+        <nomcontractant>Nortrax Québec inc..</nomcontractant>
+        <neqcontractant>1147443197</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1129448</numeroseao>
+    <numero>44508205</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-01-30</datedepense>
+        <datepublicationdepense>2018-01-31</datepublicationdepense>
+        <montantdepense>17942.300000</montantdepense>
+        <description>Fournir et installer tous les matériaux nécessaires pour réalisé la galerie</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-30</datedepense>
+        <datepublicationdepense>2018-01-31</datepublicationdepense>
+        <montantdepense>6210.000000</montantdepense>
+        <description>Fournir la location des éléments de chauffage électrique</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-12</datedepense>
+        <datepublicationdepense>2018-03-22</datepublicationdepense>
+        <montantdepense>2699.180000</montantdepense>
+        <description>Tuyauterie de drainage pluvial</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-23</datedepense>
+        <datepublicationdepense>2018-04-04</datepublicationdepense>
+        <montantdepense>1306.850000</montantdepense>
+        <description>Correctifs de plomberie - Impacts sur l'architecture</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-05</datedepense>
+        <datepublicationdepense>2018-04-05</datepublicationdepense>
+        <montantdepense>1585.700000</montantdepense>
+        <description>Modification des ancrages des appareils d'éclairage existants</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-06</datedepense>
+        <datepublicationdepense>2018-05-23</datepublicationdepense>
+        <montantdepense>1204.900000</montantdepense>
+        <description>Trappes d'accès</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-19</datedepense>
+        <datepublicationdepense>2018-05-23</datepublicationdepense>
+        <montantdepense>2489.280000</montantdepense>
+        <description>Protection des membranes</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-19</datedepense>
+        <datepublicationdepense>2018-05-23</datepublicationdepense>
+        <montantdepense>2254.010000</montantdepense>
+        <description>Étanchéité du drain (Bassins #1 et #5)</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-01</datedepense>
+        <datepublicationdepense>2018-05-23</datepublicationdepense>
+        <montantdepense>2304.150000</montantdepense>
+        <description>Réparation de pierre - colonnes</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-24</datedepense>
+        <datepublicationdepense>2018-05-24</datepublicationdepense>
+        <montantdepense>7479.990000</montantdepense>
+        <description>Travaux supplémentaires requis pour la réfection du plafond</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1130139</numeroseao>
+    <numero>44509220</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-04-30</datedepense>
+        <datepublicationdepense>2018-05-16</datepublicationdepense>
+        <montantdepense>46240.000000</montantdepense>
+        <description>Modification mineure (odc # 1, #2, #3, #4, #5, #6, #7, #8)</description>
+        <nomcontractant>Groupe C.R. Gagnon inc.</nomcontractant>
+        <neqcontractant>1162040787</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-19</datedepense>
+        <datepublicationdepense>2018-05-16</datepublicationdepense>
+        <montantdepense>375.000000</montantdepense>
+        <description>Modification significative client ( ODC #009)</description>
+        <nomcontractant>Groupe C.R. Gagnon inc.</nomcontractant>
+        <neqcontractant>1162040787</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-19</datedepense>
+        <datepublicationdepense>2018-05-16</datepublicationdepense>
+        <montantdepense>75.000000</montantdepense>
+        <description>Modification significative client (ODC # 010)</description>
+        <nomcontractant>Groupe C.R. Gagnon inc.</nomcontractant>
+        <neqcontractant>1162040787</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-19</datedepense>
+        <datepublicationdepense>2018-05-16</datepublicationdepense>
+        <montantdepense>1320.000000</montantdepense>
+        <description>Modification significative client (ODC # 011)</description>
+        <nomcontractant>Groupe C.R. Gagnon inc.</nomcontractant>
+        <neqcontractant>1162040787</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-24</datedepense>
+        <datepublicationdepense>2018-05-16</datepublicationdepense>
+        <montantdepense>2384.790000</montantdepense>
+        <description>Réclamation (odc # 012)</description>
+        <nomcontractant>Groupe C.R. Gagnon inc.</nomcontractant>
+        <neqcontractant>1162040787</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-16</datedepense>
+        <datepublicationdepense>2018-08-29</datepublicationdepense>
+        <montantdepense>350.000000</montantdepense>
+        <description>Modification significative client (ODC # 13)</description>
+        <nomcontractant>Groupe C.R. Gagnon inc.</nomcontractant>
+        <neqcontractant>1162040787</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1143139</numeroseao>
+    <numero>DGEQ 18-01</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-04-25</datedepense>
+        <datepublicationdepense>2018-08-03</datepublicationdepense>
+        <montantdepense>432180.000000</montantdepense>
+        <description>Demande d'intervention 2</description>
+        <nomcontractant>CMI Groupe Conseil</nomcontractant>
+        <neqcontractant>1172658602</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-25</datedepense>
+        <datepublicationdepense>2018-08-03</datepublicationdepense>
+        <montantdepense>432180.000000</montantdepense>
+        <description>Demande d'intervention 2</description>
+        <nomcontractant>Groupe Nexio Québec, division de Groupe Nexio inc. et division de Groupe Nexio Sélect inc.</nomcontractant>
+        <neqcontractant>1169427326</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1143494</numeroseao>
+    <numero>P-602459</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-11-30</datedepense>
+        <datepublicationdepense>2018-08-23</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Aucune modification</description>
+        <nomcontractant>Pomerleau inc</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1158034</numeroseao>
+    <numero>067-2018-01</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-08-06</datedepense>
+        <datepublicationdepense>2018-08-16</datepublicationdepense>
+        <montantdepense>8085.000000</montantdepense>
+        <description>Démolition de deux murs de briques extérieurs du gymnas, situés au-dessus des toitures «D1 et D2», à partir du niveau des nouveaux solins intra-muraux, et ce, jusqu'au sommet de la poutre de béton. Intallation de nouveau ancrages et fournir et installer une nouvelle brique. </description>
+        <nomcontractant>Toitures Sherbrooke Inc.</nomcontractant>
+        <neqcontractant>1165849473</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1174904</numeroseao>
+    <numero>CS20180566</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-08-02</datedepense>
+        <datepublicationdepense>2018-08-15</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Erreur lors de la création de contrat</description>
+        <nomcontractant>Cantel Medical (Canada)</nomcontractant>
+        <neqcontractant>1162922257</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1194551</numeroseao>
+    <numero>SRM019300</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-06-26</datedepense>
+        <datepublicationdepense>2018-08-27</datepublicationdepense>
+        <montantdepense>9619.000000</montantdepense>
+        <description>SRM020079</description>
+        <nomcontractant>WSP Canada Inc. (Pour AO sur invitation pour tout le Québec)</nomcontractant>
+        <neqcontractant>1148357057</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-08</datedepense>
+        <datepublicationdepense>2018-08-27</datepublicationdepense>
+        <montantdepense>14976.000000</montantdepense>
+        <description>SRM022579</description>
+        <nomcontractant>WSP Canada Inc. (Pour AO sur invitation pour tout le Québec)</nomcontractant>
+        <neqcontractant>1148357057</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+</export>

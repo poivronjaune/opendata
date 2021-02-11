@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2018-07-01" datefin="2018-07-31">
+  <avis>
+    <numeroseao>701422</numeroseao>
+    <numero>20639700</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-08-26</datedepense>
+        <datepublicationdepense>2014-02-04</datepublicationdepense>
+        <montantdepense>430250.000000</montantdepense>
+        <description>Imprévu de design</description>
+        <nomcontractant>Lapointe Magne + AEdifica</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2014-08-08</datedepense>
+        <datepublicationdepense>2015-04-20</datepublicationdepense>
+        <montantdepense>15500.000000</montantdepense>
+        <description>Imprévu de design</description>
+        <nomcontractant>Lapointe Magne + AEdifica</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2015-07-09</datedepense>
+        <datepublicationdepense>2015-10-27</datepublicationdepense>
+        <montantdepense>78170.300000</montantdepense>
+        <description>Imprévu de design</description>
+        <nomcontractant>Lapointe Magne + AEdifica</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2015-11-11</datedepense>
+        <datepublicationdepense>2016-05-11</datepublicationdepense>
+        <montantdepense>129846.000000</montantdepense>
+        <description>Imprévu de design</description>
+        <nomcontractant>Lapointe Magne + AEdifica</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2016-10-28</datedepense>
+        <datepublicationdepense>2016-11-02</datepublicationdepense>
+        <montantdepense>191345.330000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>Lapointe Magne + AEdifica</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2018-03-12</datedepense>
+        <datepublicationdepense>2018-03-14</datepublicationdepense>
+        <montantdepense>7888.750000</montantdepense>
+        <description>Honoraires professionnels supplémentaires</description>
+        <nomcontractant>Lapointe Magne + AEdifica</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2018-06-29</datedepense>
+        <datepublicationdepense>2018-07-03</datepublicationdepense>
+        <montantdepense>222958.350000</montantdepense>
+        <description>Honoraires professionnels supplémentaires</description>
+        <nomcontractant>Lapointe Magne + AEdifica</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>753811</numeroseao>
+    <numero>25093500</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-01-11</datedepense>
+        <datepublicationdepense>2017-01-12</datepublicationdepense>
+        <montantdepense>3330.980000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>SOCOMEC INDUSTRIEL INC.</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2017-07-19</datedepense>
+        <datepublicationdepense>2017-07-26</datepublicationdepense>
+        <montantdepense>120248.940000</montantdepense>
+        <description>Condition imprévisible de chantier et Erreur et Omission</description>
+        <nomcontractant>SOCOMEC INDUSTRIEL INC.</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2018-03-09</datedepense>
+        <datepublicationdepense>2018-04-18</datepublicationdepense>
+        <montantdepense>173186.290000</montantdepense>
+        <description>Condition imprévisible de chantier et erreur et omission</description>
+        <nomcontractant>SOCOMEC INDUSTRIEL INC.</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>828846</numeroseao>
+    <numero>55055-518_JYL_PUB_SA</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-05-05</datedepense>
+        <datepublicationdepense>2017-04-27</datepublicationdepense>
+        <montantdepense>67590.000000</montantdepense>
+        <description>ODC-02 à 04</description>
+        <nomcontractant>Consortium Lemay / Ouellet Architectes</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2017-04-27</datedepense>
+        <datepublicationdepense>2017-04-27</datepublicationdepense>
+        <montantdepense>176794.430000</montantdepense>
+        <description>ODC-05 à ODC-11 : Extension novembre 2016 à mai 2017</description>
+        <nomcontractant>Consortium Lemay / Ouellet Architectes</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2018-01-10</datedepense>
+        <datepublicationdepense>2018-01-12</datepublicationdepense>
+        <montantdepense>23991.000000</montantdepense>
+        <description>ODC-12 : Extension juin 2017</description>
+        <nomcontractant>Consortium Lemay / Ouellet Architectes</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2018-03-07</datedepense>
+        <datepublicationdepense>2018-03-09</datepublicationdepense>
+        <montantdepense>60274.350000</montantdepense>
+        <description>ODC-13 à ODC-15 : Extension juillet à septembre 2017</description>
+        <nomcontractant>Consortium Lemay / Ouellet Architectes</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2018-07-09</datedepense>
+        <datepublicationdepense>2018-07-10</datepublicationdepense>
+        <montantdepense>94982.900000</montantdepense>
+        <description>ODC-16 à ODC-20 : Extension d'octobre 2017 à février 2018</description>
+        <nomcontractant>Consortium Lemay / Ouellet Architectes</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>965136</numeroseao>
+    <numero>251 72 500</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-01-11</datedepense>
+        <datepublicationdepense>2017-04-26</datepublicationdepense>
+        <montantdepense>318699.590000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>Ventilation Jean Roy 1999 Inc.</nomcontractant>
+        <neqcontractant>8230197949</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-23</datedepense>
+        <datepublicationdepense>2017-04-26</datepublicationdepense>
+        <montantdepense>662000.000000</montantdepense>
+        <description>Modification significative SQI</description>
+        <nomcontractant>Ventilation Jean Roy 1999 Inc.</nomcontractant>
+        <neqcontractant>8230197949</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-03-27</datedepense>
+        <datepublicationdepense>2017-04-26</datepublicationdepense>
+        <montantdepense>52946.360000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>Ventilation Jean Roy 1999 Inc.</nomcontractant>
+        <neqcontractant>8230197949</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-06-26</datedepense>
+        <datepublicationdepense>2017-07-06</datepublicationdepense>
+        <montantdepense>95044.140000</montantdepense>
+        <description>Condition imprévisible de chantier - Erreur ou omission</description>
+        <nomcontractant>Ventilation Jean Roy 1999 Inc.</nomcontractant>
+        <neqcontractant>8230197949</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-13</datedepense>
+        <datepublicationdepense>2018-02-13</datepublicationdepense>
+        <montantdepense>96232.820000</montantdepense>
+        <description>Condition imprévisible de chantier - Erreur ou omission -  Modification significative client</description>
+        <nomcontractant>Ventilation Jean Roy 1999 Inc.</nomcontractant>
+        <neqcontractant>8230197949</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-31</datedepense>
+        <datepublicationdepense>2018-04-19</datepublicationdepense>
+        <montantdepense>25333.100000</montantdepense>
+        <description>Condition imprévisible de chantier et erreur et omission</description>
+        <nomcontractant>Ventilation Jean Roy 1999 Inc.</nomcontractant>
+        <neqcontractant>8230197949</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>967783</numeroseao>
+    <numero>31135600</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-09-20</datedepense>
+        <datepublicationdepense>2017-04-19</datepublicationdepense>
+        <montantdepense>2500.000000</montantdepense>
+        <description>Services supplémentaires de relevé d'arpentage. </description>
+        <nomcontractant>NCK Inc.</nomcontractant>
+        <neqcontractant>1166982083</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>976562</numeroseao>
+    <numero>28-176P</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-05-12</datedepense>
+        <datepublicationdepense>2018-07-09</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>SRM019529</description>
+        <nomcontractant>Unique mobilier de bureau</nomcontractant>
+        <neqcontractant>1003777606</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>984736</numeroseao>
+    <numero>505067-0</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-04-13</datedepense>
+        <datepublicationdepense>2017-04-19</datepublicationdepense>
+        <montantdepense>26210.520000</montantdepense>
+        <description>Supplément requis afin de répondre à des demandes supplémentaires de services dans le cadre des mesures d'aide à l'emploi.</description>
+        <nomcontractant>Institut des communications graphiques et de l'imp</nomcontractant>
+        <neqcontractant>1140563793</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>994424</numeroseao>
+    <numero>16-2174</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-06-21</datedepense>
+        <datepublicationdepense>2018-07-06</datepublicationdepense>
+        <montantdepense>62155.280000</montantdepense>
+        <description>Travaux de construction</description>
+        <nomcontractant>Construction Mario Lepire Inc.</nomcontractant>
+        <neqcontractant>1142162917</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1000976</numeroseao>
+    <numero>503597-1</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-07-04</datedepense>
+        <datepublicationdepense>2017-07-13</datepublicationdepense>
+        <montantdepense>135702.000000</montantdepense>
+        <description>Supplément requis afin de répondre à des demandes supplémentaires de services dans le cadre des mesures d'aide à l'emploi.</description>
+        <nomcontractant>CARREFOUR JEUNESSE-EMPLOI RIVIÈRE-DU-LOUP - LES BA</nomcontractant>
+        <neqcontractant>1146012845</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1000998</numeroseao>
+    <numero>507434-1</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-06-28</datedepense>
+        <datepublicationdepense>2017-02-07</datepublicationdepense>
+        <montantdepense>89638.000000</montantdepense>
+        <description>Supplément requis afin de répondre à des demandes supplémentaires de services dans le cadre des mesures d'aide à l'emploi.</description>
+        <nomcontractant>STRATÉGIE CARRIÈRE</nomcontractant>
+        <neqcontractant>1147831383</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-05-10</datedepense>
+        <datepublicationdepense>2017-07-13</datepublicationdepense>
+        <montantdepense>29429.000000</montantdepense>
+        <description>Supplément requis afin de répondre à des demandes supplémentaires de services dans le cadre des mesures d'aide à l'emploi.</description>
+        <nomcontractant>STRATÉGIE CARRIÈRE</nomcontractant>
+        <neqcontractant>1147831383</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1008741</numeroseao>
+    <numero>700 248 639</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-06-12</datedepense>
+        <datepublicationdepense>2018-06-14</datepublicationdepense>
+        <montantdepense>25000.000000</montantdepense>
+        <description>un supplément de 25 000 $ au montant de la première période de renouvellement pévu au contrat dû à des besoins supplémentaires non prévus.</description>
+        <nomcontractant>Randstad intérim inc</nomcontractant>
+        <neqcontractant>1147091616</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1054793</numeroseao>
+    <numero>2016/17-195</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-11-08</datedepense>
+        <datepublicationdepense>2018-07-13</datepublicationdepense>
+        <montantdepense>197704.080000</montantdepense>
+        <description>Modifications multiples suite à l'aménagement nouvelle école primaire Pont-Viau </description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-11-08</datedepense>
+        <datepublicationdepense>2018-07-13</datepublicationdepense>
+        <montantdepense>2048.250000</montantdepense>
+        <description>AM#20 DM-A L'Entrepreneur devra sceller toutes HSS ouvertes de deux nouvelles plateformes au toit et galvanisation structure DEDS unités mécaniques au toit</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-11-08</datedepense>
+        <datepublicationdepense>2018-07-13</datepublicationdepense>
+        <montantdepense>2703.490000</montantdepense>
+        <description>AN#24DM-S-05 Modification structurale sur axe 1 et 2 Portion structure 247,31$ Impact achitecture 2456,18$</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-08</datedepense>
+        <datepublicationdepense>2018-07-13</datepublicationdepense>
+        <montantdepense>4654.070000</montantdepense>
+        <description>Am#22 Démentèlement conduit ventilation pour permettre décontamination plafond derrière chaufferie-Retirer brides brisées et installer de nouvelles - Divers travaux classes corridors</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1060605</numeroseao>
+    <numero>Projet # 2594</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-05-31</datedepense>
+        <datepublicationdepense>2018-07-10</datepublicationdepense>
+        <montantdepense>37598.850000</montantdepense>
+        <description>Travaux divers</description>
+        <nomcontractant>Construction JC-7 INC.</nomcontractant>
+        <neqcontractant>1164298961</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1062880</numeroseao>
+    <numero>32456600</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-06-29</datedepense>
+        <datepublicationdepense>2017-10-18</datepublicationdepense>
+        <montantdepense>25435.940000</montantdepense>
+        <description>Condition imprévisible de chantier - Erreur et omission</description>
+        <nomcontractant>Construction Michel Gagnon Ltee - Québec</nomcontractant>
+        <neqcontractant>1142334623</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-13</datedepense>
+        <datepublicationdepense>2017-10-18</datepublicationdepense>
+        <montantdepense>16909.030000</montantdepense>
+        <description>Condition imprévisible de chantier - Erreur et omission</description>
+        <nomcontractant>Construction Michel Gagnon Ltee - Québec</nomcontractant>
+        <neqcontractant>1142334623</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-07</datedepense>
+        <datepublicationdepense>2018-06-04</datepublicationdepense>
+        <montantdepense>20000.000000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>Construction Michel Gagnon Ltee - Québec</nomcontractant>
+        <neqcontractant>1142334623</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1064652</numeroseao>
+    <numero>44507001</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-11-27</datedepense>
+        <datepublicationdepense>2017-12-21</datepublicationdepense>
+        <montantdepense>193431.630000</montantdepense>
+        <description>ODC 1 à 38 </description>
+        <nomcontractant>Habitat Construction Matane (1986) Inc.</nomcontractant>
+        <neqcontractant>1144349637</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-07</datedepense>
+        <datepublicationdepense>2018-02-27</datepublicationdepense>
+        <montantdepense>40729.680000</montantdepense>
+        <description>ODC 39 à 42</description>
+        <nomcontractant>Habitat Construction Matane (1986) Inc.</nomcontractant>
+        <neqcontractant>1144349637</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1066335</numeroseao>
+    <numero>6803-17-0901</numero>
+    <depenses />
+  </avis>
+  <avis>
+    <numeroseao>1068453</numeroseao>
+    <numero>535137-1</numero>
+    <depenses />
+  </avis>
+  <avis>
+    <numeroseao>1076133</numeroseao>
+    <numero>6803-17-0924</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-02-22</datedepense>
+        <datepublicationdepense>2018-06-21</datepublicationdepense>
+        <montantdepense>15855.170000</montantdepense>
+        <description>Dépassement reliés à des variations de quantité et/ou des modifications au contrat de nature technique</description>
+        <nomcontractant>Compagnie Asphalte (CAL)</nomcontractant>
+        <neqcontractant>1145755295</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-07</datedepense>
+        <datepublicationdepense>2018-07-04</datepublicationdepense>
+        <montantdepense>4258.680000</montantdepense>
+        <description>Dépassement reliés à des variations de quantité et/ou des modifications au contrat de nature technique</description>
+        <nomcontractant>Compagnie Asphalte (CAL)</nomcontractant>
+        <neqcontractant>1145755295</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1099550</numeroseao>
+    <numero>2017/18-060</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-05-09</datedepense>
+        <datepublicationdepense>2018-07-16</datepublicationdepense>
+        <montantdepense>421322.860000</montantdepense>
+        <description>Diverses dépenses en lien avec la construction de la nouvelle école ( 3.89% de dépenses enregistrées)</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-29</datedepense>
+        <datepublicationdepense>2018-07-16</datepublicationdepense>
+        <montantdepense>830113.590000</montantdepense>
+        <description>AM#7 LCOP a.17 Excaver remblai supplém. égout pluvial 158501,36$-Disposer sols "AB" future rue Plage-De-Venise 404003,45$-Surexcaver stationnements 258166,90$-Ancrages bases de nivellement 5663,37$-Corriger pontage près escalier 3778,51$</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1101986</numeroseao>
+    <numero>32717100</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-11-02</datedepense>
+        <datepublicationdepense>2018-01-24</datepublicationdepense>
+        <montantdepense>2418.900000</montantdepense>
+        <description>Décaper la poutre principale de toiture des galeries et les boiseries.</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-02</datedepense>
+        <datepublicationdepense>2018-05-22</datepublicationdepense>
+        <montantdepense>3199.900000</montantdepense>
+        <description>Procéder au sondage et à la localisation des corbeaux existant.</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-23</datedepense>
+        <datepublicationdepense>2018-05-23</datepublicationdepense>
+        <montantdepense>4680.500000</montantdepense>
+        <description>Fourniture et mise en place de 6 rallonges de pieux.</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-29</datedepense>
+        <datepublicationdepense>2018-06-21</datepublicationdepense>
+        <montantdepense>807.400000</montantdepense>
+        <description>Percement exploratoire au sous-sol pour des travaux de pieutage futur.</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-21</datedepense>
+        <datepublicationdepense>2018-06-21</datepublicationdepense>
+        <montantdepense>24987.000000</montantdepense>
+        <description>Location d'équipement durant l'arrêt du chantier </description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1103341</numeroseao>
+    <numero>CGER 17 680065</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-05-08</datedepense>
+        <datepublicationdepense>2018-05-10</datepublicationdepense>
+        <montantdepense>9000.000000</montantdepense>
+        <description>Ajout de 10 limiteurs de pression au montage hydraulique de l'attache latérale de l'aile chasse-neige des chargeuses</description>
+        <nomcontractant>CIMI Inc</nomcontractant>
+        <neqcontractant>1163873814</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-11</datedepense>
+        <datepublicationdepense>2018-06-11</datepublicationdepense>
+        <montantdepense>8337.420000</montantdepense>
+        <description>Ajout d'un contrepoids de 885kg (1950lbs) intégré à l'arrière de la chargeuse</description>
+        <nomcontractant>CIMI Inc</nomcontractant>
+        <neqcontractant>1163873814</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-03</datedepense>
+        <datepublicationdepense>2018-07-04</datepublicationdepense>
+        <montantdepense>249.990000</montantdepense>
+        <description>Modification</description>
+        <nomcontractant>CIMI Inc</nomcontractant>
+        <neqcontractant>1163873814</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-22</datedepense>
+        <datepublicationdepense>2018-07-04</datepublicationdepense>
+        <montantdepense>18000.000000</montantdepense>
+        <description>Fabrication de 10 attaches latérales neuves pour les ailes chasse-neige</description>
+        <nomcontractant>CIMI Inc</nomcontractant>
+        <neqcontractant>1163873814</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-08</datedepense>
+        <datepublicationdepense>2018-07-04</datepublicationdepense>
+        <montantdepense>30258.000000</montantdepense>
+        <description>Modifications diverses</description>
+        <nomcontractant>CIMI Inc</nomcontractant>
+        <neqcontractant>1163873814</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-26</datedepense>
+        <datepublicationdepense>2018-07-04</datepublicationdepense>
+        <montantdepense>1351.760000</montantdepense>
+        <description>Ajout de deux boutons sur le levier de contrôle</description>
+        <nomcontractant>CIMI Inc</nomcontractant>
+        <neqcontractant>1163873814</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1108840</numeroseao>
+    <numero>CEMTL-2017-56</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-06-05</datedepense>
+        <datepublicationdepense>2018-07-31</datepublicationdepense>
+        <montantdepense>6306.030000</montantdepense>
+        <description>ODC 1 (Section de dalle de plancher manquante à prolonger et joints de mortier supplémentaires à corriger)</description>
+        <nomcontractant>St-Denis Thompson Inc.</nomcontractant>
+        <neqcontractant>1144491694</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1112014</numeroseao>
+    <numero>17-2703</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-07-06</datedepense>
+        <datepublicationdepense>2018-07-09</datepublicationdepense>
+        <montantdepense>49191.420000</montantdepense>
+        <description>Dépense additionnelle, lors de la démolition plusieurs problématiques sont survenues (fissures dans les fondations, fenêtres mal isolées, plomberie avec pente inversée, présences de moisissures).</description>
+        <nomcontractant>Les Entreprises Logis-Beauce</nomcontractant>
+        <neqcontractant>1142147967</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1121342</numeroseao>
+    <numero>201317</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-06-21</datedepense>
+        <datepublicationdepense>2018-07-24</datepublicationdepense>
+        <montantdepense>45000.000000</montantdepense>
+        <description>Plusieurs installations ont été ajoutées au mandat. En plus de l'évaluation nous avons demandé l'estimation des coûts par chacune des installations ce qui demande plus de travail. Finalement, plusieurs points de validation ont été ajouté lors des relevés.</description>
+        <nomcontractant>Massicotte Maloney architectes</nomcontractant>
+        <neqcontractant>3364300213</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1121522</numeroseao>
+    <numero>17-18-21</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-04-05</datedepense>
+        <datepublicationdepense>2018-07-05</datepublicationdepense>
+        <montantdepense>2108.770000</montantdepense>
+        <description>OC1 - Ajout de plaques adaptées aux postes secondaires encastrés.</description>
+        <nomcontractant>UTC Incendie &amp; Sécurité Canada Inc.</nomcontractant>
+        <neqcontractant>1166501933</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-08</datedepense>
+        <datepublicationdepense>2018-07-05</datepublicationdepense>
+        <montantdepense>2388.630000</montantdepense>
+        <description>OC2 - AVIS ME-2 - Ajout d'un poste secondaire dans le local 201 - 10 câbles de 1 paire no 16 pour les zones de haut-parleurs  à transférer entre deux locaux.</description>
+        <nomcontractant>UTC Incendie &amp; Sécurité Canada Inc.</nomcontractant>
+        <neqcontractant>1166501933</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-08</datedepense>
+        <datepublicationdepense>2018-07-05</datepublicationdepense>
+        <montantdepense>875.000000</montantdepense>
+        <description>OC2 - AVIS ME- 4 - Fourniture et installation de 7 transformateurs 25V/70V supplémentaires pour les haut-parleurs de corridors.</description>
+        <nomcontractant>UTC Incendie &amp; Sécurité Canada Inc.</nomcontractant>
+        <neqcontractant>1166501933</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-19</datedepense>
+        <datepublicationdepense>2018-07-05</datepublicationdepense>
+        <montantdepense>6279.660000</montantdepense>
+        <description>OC3 - Travaux complémentaires : Corrections, installation ou adaptation de postes secondaires, ajout et intégration de transformateurs du système d'intercom et remplacement du bloc d'alimentation des lampes stroboscopiques.</description>
+        <nomcontractant>UTC Incendie &amp; Sécurité Canada Inc.</nomcontractant>
+        <neqcontractant>1166501933</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1121612</numeroseao>
+    <numero>2017-0427</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-06-21</datedepense>
+        <datepublicationdepense>2018-07-10</datepublicationdepense>
+        <montantdepense>3000.000000</montantdepense>
+        <description>Envergure du mandat plus élevé que prévu. </description>
+        <nomcontractant>Lise Verreault</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1126925</numeroseao>
+    <numero>2018-01-08-002</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-04-05</datedepense>
+        <datepublicationdepense>2018-07-25</datepublicationdepense>
+        <montantdepense>30000.000000</montantdepense>
+        <description>Travaux supplémentaires requis</description>
+        <nomcontractant>Atelier La Flèche de Fer Inc</nomcontractant>
+        <neqcontractant>1171732697</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-25</datedepense>
+        <datepublicationdepense>2018-07-26</datepublicationdepense>
+        <montantdepense>10000.000000</montantdepense>
+        <description>Travaux supplémentaires requis</description>
+        <nomcontractant>Atelier La Flèche de Fer Inc</nomcontractant>
+        <neqcontractant>1171732697</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1128916</numeroseao>
+    <numero>17-18-37</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-04-09</datedepense>
+        <datepublicationdepense>2018-05-23</datepublicationdepense>
+        <montantdepense>1130.930000</montantdepense>
+        <description>OC1 - Ajout d'une porte entre locaux 521 et 217A</description>
+        <nomcontractant>Les entreprises Constructo</nomcontractant>
+        <neqcontractant>1168193010</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-12</datedepense>
+        <datepublicationdepense>2018-05-23</datepublicationdepense>
+        <montantdepense>2464.000000</montantdepense>
+        <description>OC2 - Ajout d'une caméra</description>
+        <nomcontractant>Les entreprises Constructo</nomcontractant>
+        <neqcontractant>1168193010</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-12</datedepense>
+        <datepublicationdepense>2018-05-23</datepublicationdepense>
+        <montantdepense>220.000000</montantdepense>
+        <description>OC3 - Déplacement de l'interrupteur du corridor</description>
+        <nomcontractant>Les entreprises Constructo</nomcontractant>
+        <neqcontractant>1168193010</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-12</datedepense>
+        <datepublicationdepense>2018-05-23</datepublicationdepense>
+        <montantdepense>1402.500000</montantdepense>
+        <description>OC4 - Ajout de prise - local 214</description>
+        <nomcontractant>Les entreprises Constructo</nomcontractant>
+        <neqcontractant>1168193010</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-12</datedepense>
+        <datepublicationdepense>2018-05-23</datepublicationdepense>
+        <montantdepense>412.500000</montantdepense>
+        <description>OC5 - Ajout de prises réseaux</description>
+        <nomcontractant>Les entreprises Constructo</nomcontractant>
+        <neqcontractant>1168193010</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-25</datedepense>
+        <datepublicationdepense>2018-05-23</datepublicationdepense>
+        <montantdepense>5663.750000</montantdepense>
+        <description>OC6 - Ragréage de mur existant pièce 213</description>
+        <nomcontractant>Les entreprises Constructo</nomcontractant>
+        <neqcontractant>1168193010</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-30</datedepense>
+        <datepublicationdepense>2018-06-18</datepublicationdepense>
+        <montantdepense>586.500000</montantdepense>
+        <description>OC8 - Remplacement tuiles en vinyle</description>
+        <nomcontractant>Les entreprises Constructo</nomcontractant>
+        <neqcontractant>1168193010</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-19</datedepense>
+        <datepublicationdepense>2018-07-04</datepublicationdepense>
+        <montantdepense>782.000000</montantdepense>
+        <description>OC9 - Démantèlement de tous les tableaux à craie et babillards</description>
+        <nomcontractant>Les entreprises Constructo</nomcontractant>
+        <neqcontractant>1168193010</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-19</datedepense>
+        <datepublicationdepense>2018-07-04</datepublicationdepense>
+        <montantdepense>2654.200000</montantdepense>
+        <description>OC10 - Ragréage, pièce 217 et 217A</description>
+        <nomcontractant>Les entreprises Constructo</nomcontractant>
+        <neqcontractant>1168193010</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-26</datedepense>
+        <datepublicationdepense>2018-07-04</datepublicationdepense>
+        <montantdepense>1226.500000</montantdepense>
+        <description>OC12 - Ajout de stores à rouleau</description>
+        <nomcontractant>Les entreprises Constructo</nomcontractant>
+        <neqcontractant>1168193010</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1129448</numeroseao>
+    <numero>44508205</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-01-30</datedepense>
+        <datepublicationdepense>2018-01-31</datepublicationdepense>
+        <montantdepense>17942.300000</montantdepense>
+        <description>Fournir et installer tous les matériaux nécessaires pour réalisé la galerie</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-30</datedepense>
+        <datepublicationdepense>2018-01-31</datepublicationdepense>
+        <montantdepense>6210.000000</montantdepense>
+        <description>Fournir la location des éléments de chauffage électrique</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-12</datedepense>
+        <datepublicationdepense>2018-03-22</datepublicationdepense>
+        <montantdepense>2699.180000</montantdepense>
+        <description>Tuyauterie de drainage pluvial</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-23</datedepense>
+        <datepublicationdepense>2018-04-04</datepublicationdepense>
+        <montantdepense>1306.850000</montantdepense>
+        <description>Correctifs de plomberie - Impacts sur l'architecture</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-05</datedepense>
+        <datepublicationdepense>2018-04-05</datepublicationdepense>
+        <montantdepense>1585.700000</montantdepense>
+        <description>Modification des ancrages des appareils d'éclairage existants</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-06</datedepense>
+        <datepublicationdepense>2018-05-23</datepublicationdepense>
+        <montantdepense>1204.900000</montantdepense>
+        <description>Trappes d'accès</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-19</datedepense>
+        <datepublicationdepense>2018-05-23</datepublicationdepense>
+        <montantdepense>2489.280000</montantdepense>
+        <description>Protection des membranes</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-19</datedepense>
+        <datepublicationdepense>2018-05-23</datepublicationdepense>
+        <montantdepense>2254.010000</montantdepense>
+        <description>Étanchéité du drain (Bassins #1 et #5)</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-01</datedepense>
+        <datepublicationdepense>2018-05-23</datepublicationdepense>
+        <montantdepense>2334.150000</montantdepense>
+        <description>Réparation de pierre - colonnes</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-24</datedepense>
+        <datepublicationdepense>2018-05-24</datepublicationdepense>
+        <montantdepense>7509.990000</montantdepense>
+        <description>Travaux supplémentaires requis pour la réfection du plafond</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1140618</numeroseao>
+    <numero>201402</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-03-15</datedepense>
+        <datepublicationdepense>2018-03-15</datepublicationdepense>
+        <montantdepense>340.000000</montantdepense>
+        <description>Résoudre problèmes de portes</description>
+        <nomcontractant>Leduc Sécurité</nomcontractant>
+        <neqcontractant>1166259318</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-09</datedepense>
+        <datepublicationdepense>2018-04-09</datepublicationdepense>
+        <montantdepense>2733.530000</montantdepense>
+        <description>Travaux d'accès supplémentaires pour 3 portes</description>
+        <nomcontractant>Leduc Sécurité</nomcontractant>
+        <neqcontractant>1166259318</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-25</datedepense>
+        <datepublicationdepense>2018-04-25</datepublicationdepense>
+        <montantdepense>1051.890000</montantdepense>
+        <description>Travaux supplémentaires sur la porte arrière </description>
+        <nomcontractant>Leduc Sécurité</nomcontractant>
+        <neqcontractant>1166259318</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-18</datedepense>
+        <datepublicationdepense>2018-07-20</datepublicationdepense>
+        <montantdepense>4342.990000</montantdepense>
+        <description>Remise en fonction de la porte arrière et mise en marche de 3 portes pour ESPA </description>
+        <nomcontractant>Leduc Sécurité</nomcontractant>
+        <neqcontractant>1166259318</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1141050</numeroseao>
+    <numero>2017SERVPROFARCH</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-06-26</datedepense>
+        <datepublicationdepense>2018-07-03</datepublicationdepense>
+        <montantdepense>33073.000000</montantdepense>
+        <description>Montant inscrit initialement très approximatif. Augmentation attribuable à l'ajout des honoraires pour les études préparatoires + aménagements supplémentaires nécessaires pour de la mise aux normes.</description>
+        <nomcontractant>Les architectes Goulet et LeBel</nomcontractant>
+        <neqcontractant>1172425119</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1147170</numeroseao>
+    <numero>544950-1</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-02-20</datedepense>
+        <datepublicationdepense>2018-03-14</datepublicationdepense>
+        <montantdepense>4035.000000</montantdepense>
+        <description>Supplément requis afin de répondre à des demandes supplémentaires de services dans le cadre des mesures d'aide à l' emploi</description>
+        <nomcontractant>ACCÈS-TRAVAIL DE MONTRÉAL</nomcontractant>
+        <neqcontractant>1140726473</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-15</datedepense>
+        <datepublicationdepense>2018-07-13</datepublicationdepense>
+        <montantdepense>8070.000000</montantdepense>
+        <description>Supplément requis afin de répondre à des demandes supplémentaires de services dans le cadre des mesures d'aide à l' emploi</description>
+        <nomcontractant>ACCÈS-TRAVAIL DE MONTRÉAL</nomcontractant>
+        <neqcontractant>1140726473</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1150612</numeroseao>
+    <numero>AO20180326</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-07-03</datedepense>
+        <datepublicationdepense>2018-07-17</datepublicationdepense>
+        <montantdepense>128124.000000</montantdepense>
+        <description>Travaux supplémentaires en lien avec la maçonnerie de la façade</description>
+        <nomcontractant>Groupe ERM Inc.</nomcontractant>
+        <neqcontractant>1168717768</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1154196</numeroseao>
+    <numero>201446</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-07-18</datedepense>
+        <datepublicationdepense>2018-07-20</datepublicationdepense>
+        <montantdepense>2940.000000</montantdepense>
+        <description>Travaux supplémentaires pour la réparation de mur, correction et ajout d'ancrages</description>
+        <nomcontractant>Entreprises J.Veilleux et Fils inc.</nomcontractant>
+        <neqcontractant>1144079671</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1156390</numeroseao>
+    <numero>18978900</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-03-26</datedepense>
+        <datepublicationdepense>2018-04-18</datepublicationdepense>
+        <montantdepense>32495.450000</montantdepense>
+        <description>forfaitisation des honoraires</description>
+        <nomcontractant>Technorm inc.</nomcontractant>
+        <neqcontractant>1171560858</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1156623</numeroseao>
+    <numero>N17-72100000-003</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-03-23</datedepense>
+        <datepublicationdepense>2018-07-09</datepublicationdepense>
+        <montantdepense>256306.870000</montantdepense>
+        <description>Les conditions de chantier imprévisibles ont nécissités des raccordements de plomberie, de protection incendie , de ventilation ect..</description>
+        <nomcontractant>Kingston Byers Inc</nomcontractant>
+        <neqcontractant>1143009521</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1170979</numeroseao>
+    <numero>BC-2018-1</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-07-11</datedepense>
+        <datepublicationdepense>2018-07-25</datepublicationdepense>
+        <montantdepense>221790.160000</montantdepense>
+        <description>Dépense supplémentaire</description>
+        <nomcontractant>Pépinière Baie des Chaleurs inc.</nomcontractant>
+        <neqcontractant>1141911405</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1171001</numeroseao>
+    <numero>SG-2018-1</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-07-11</datedepense>
+        <datepublicationdepense>2018-07-25</datepublicationdepense>
+        <montantdepense>201588.840000</montantdepense>
+        <description>Dépense supplémentaire</description>
+        <nomcontractant>SARGIM Coopérative de travailleurs en production de plants</nomcontractant>
+        <neqcontractant>1168877794</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1171496</numeroseao>
+    <numero>BE-2018-1</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-07-11</datedepense>
+        <datepublicationdepense>2018-07-25</datepublicationdepense>
+        <montantdepense>246289.990000</montantdepense>
+        <description>Dépense supplémentaire</description>
+        <nomcontractant>Bechedor inc.</nomcontractant>
+        <neqcontractant>1141901497</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1171737</numeroseao>
+    <numero>BO-2018-1</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-07-11</datedepense>
+        <datepublicationdepense>2018-07-25</datepublicationdepense>
+        <montantdepense>814895.280000</montantdepense>
+        <description>Dépense supplémentaire</description>
+        <nomcontractant>Pépinière Boucher division plants forestiers inc.</nomcontractant>
+        <neqcontractant>1165448292</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1171814</numeroseao>
+    <numero>GU-2018-1</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-07-11</datedepense>
+        <datepublicationdepense>2018-07-25</datepublicationdepense>
+        <montantdepense>198026.520000</montantdepense>
+        <description>Dépense supplémentaire</description>
+        <nomcontractant>Les Serres coopératives de Guyenne</nomcontractant>
+        <neqcontractant>1142735498</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1179826</numeroseao>
+    <numero>FH10094</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-03-19</datedepense>
+        <datepublicationdepense>2018-07-03</datepublicationdepense>
+        <montantdepense>1650.000000</montantdepense>
+        <description>Ajout de béton de remblaie sous le terrazo</description>
+        <nomcontractant>Constructions Paquet &amp; Levesque Inc.</nomcontractant>
+        <neqcontractant>1141050410</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-20</datedepense>
+        <datepublicationdepense>2018-07-03</datepublicationdepense>
+        <montantdepense>809.160000</montantdepense>
+        <description>Enlever plinthe de vinyle existant et installation plinthe vinyle 6"</description>
+        <nomcontractant>Constructions Paquet &amp; Levesque Inc.</nomcontractant>
+        <neqcontractant>1141050410</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-11</datedepense>
+        <datepublicationdepense>2018-07-03</datepublicationdepense>
+        <montantdepense>977.100000</montantdepense>
+        <description>Modifications des gicleurs</description>
+        <nomcontractant>Constructions Paquet &amp; Levesque Inc.</nomcontractant>
+        <neqcontractant>1141050410</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-11</datedepense>
+        <datepublicationdepense>2018-07-03</datepublicationdepense>
+        <montantdepense>196.250000</montantdepense>
+        <description>Ajout d'une trappe d'accès au plancher</description>
+        <nomcontractant>Constructions Paquet &amp; Levesque Inc.</nomcontractant>
+        <neqcontractant>1141050410</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-24</datedepense>
+        <datepublicationdepense>2018-07-03</datepublicationdepense>
+        <montantdepense>523.070000</montantdepense>
+        <description>Comptoir corian grade D au lieu de grade A</description>
+        <nomcontractant>Constructions Paquet &amp; Levesque Inc.</nomcontractant>
+        <neqcontractant>1141050410</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-24</datedepense>
+        <datepublicationdepense>2018-07-03</datepublicationdepense>
+        <montantdepense>944.300000</montantdepense>
+        <description>Travaux électrique</description>
+        <nomcontractant>Constructions Paquet &amp; Levesque Inc.</nomcontractant>
+        <neqcontractant>1141050410</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-24</datedepense>
+        <datepublicationdepense>2018-07-03</datepublicationdepense>
+        <montantdepense>889.420000</montantdepense>
+        <description>Travaux architecture</description>
+        <nomcontractant>Constructions Paquet &amp; Levesque Inc.</nomcontractant>
+        <neqcontractant>1141050410</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1184465</numeroseao>
+    <numero>31742200</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-02-17</datedepense>
+        <datepublicationdepense>2018-07-17</datepublicationdepense>
+        <montantdepense>16359.920000</montantdepense>
+        <description>Conditions imprévisibles de chantier</description>
+        <nomcontractant>Englobe Corp.</nomcontractant>
+        <neqcontractant>1167280206</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1186374</numeroseao>
+    <numero>44508321</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-05-30</datedepense>
+        <datepublicationdepense>2018-07-25</datepublicationdepense>
+        <montantdepense>6819.500000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>Construction et rénovation M. Dubeau</nomcontractant>
+        <neqcontractant>1144139293</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+</export>

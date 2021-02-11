@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2019-09-01" datefin="2019-09-30">
+  <avis>
+    <numeroseao>779805</numeroseao>
+    <numero>26585200</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-02-15</datedepense>
+        <datepublicationdepense>2018-05-17</datepublicationdepense>
+        <montantdepense>3300.000000</montantdepense>
+        <description>Augmentation de la superficie</description>
+        <nomcontractant>Entretien JDL Inc.</nomcontractant>
+        <neqcontractant>1145751823</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-08-01</datedepense>
+        <datepublicationdepense>2019-08-23</datepublicationdepense>
+        <montantdepense>38528.780000</montantdepense>
+        <description>Prolongation de 12 mois, soit du 1er août 2019 au 31 juillet 2020</description>
+        <nomcontractant>Entretien JDL Inc.</nomcontractant>
+        <neqcontractant>1145751823</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>971507</numeroseao>
+    <numero>SRM010585</numero>
+    <depenses>
+      <depense>
+        <datedepense>2014-04-28</datedepense>
+        <datepublicationdepense>2016-04-12</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>SRM012031 (ce bon de commande n'est pas lié à ce contrat)</description>
+        <nomcontractant>Groupe Lincora</nomcontractant>
+        <neqcontractant>1143722776</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>975253</numeroseao>
+    <numero>25-2345P</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-08-13</datedepense>
+        <datepublicationdepense>2019-09-10</datepublicationdepense>
+        <montantdepense>486935.250000</montantdepense>
+        <description>A-33-968 et A-33-1297 CEx 27 novembre 2018 résolution 26</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-08-15</datedepense>
+        <datepublicationdepense>2019-09-26</datepublicationdepense>
+        <montantdepense>183074.900000</montantdepense>
+        <description>SRM027766 - rapports A-33-968 et A-33-1297 - 281 016 020</description>
+        <nomcontractant>Les Expertises Argento</nomcontractant>
+        <neqcontractant>1147639141</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1024323</numeroseao>
+    <numero>AO20161020-IME</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-04-04</datedepense>
+        <datepublicationdepense>2019-05-29</datepublicationdepense>
+        <montantdepense>316531.000000</montantdepense>
+        <description>Avenants 11 et 12</description>
+        <nomcontractant>Pageau Morel - Bouthillette Parizeau</nomcontractant>
+        <neqcontractant>3371909576</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1057619</numeroseao>
+    <numero>SRM019029</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-10-19</datedepense>
+        <datepublicationdepense>2018-10-29</datepublicationdepense>
+        <montantdepense>38554.000000</montantdepense>
+        <description>SRM025159 (158 G08 530) </description>
+        <nomcontractant>Location Dion Inc.</nomcontractant>
+        <neqcontractant>1142362954</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-09-05</datedepense>
+        <datepublicationdepense>2019-09-20</datepublicationdepense>
+        <montantdepense>38554.000000</montantdepense>
+        <description>SRM027694 (158 G08 530)</description>
+        <nomcontractant>Location Dion Inc.</nomcontractant>
+        <neqcontractant>1142362954</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1099550</numeroseao>
+    <numero>2017/18-060</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-05-09</datedepense>
+        <datepublicationdepense>2018-07-16</datepublicationdepense>
+        <montantdepense>421322.860000</montantdepense>
+        <description>Am#1 à 6 Diverses dépenses en lien avec la construction de la nouvelle école ( 3.89% de dépenses enregistrées)</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-29</datedepense>
+        <datepublicationdepense>2018-07-16</datepublicationdepense>
+        <montantdepense>830113.590000</montantdepense>
+        <description>AM#7 LCOP a.17 Excaver remblai supplém. égout pluvial 158501,36$-Disposer sols "AB" future rue Plage-De-Venise 404003,45$-Surexcaver stationnements 258166,90$-Ancrages bases de nivellement 5663,37$-Corriger pontage près escalier 3778,51$</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-29</datedepense>
+        <datepublicationdepense>2018-08-20</datepublicationdepense>
+        <montantdepense>7517.650000</montantdepense>
+        <description>AM#8 Crédit pour l’isolant rigide (793,00) $Travaux relatifs aux supports structuraux 8 310,65 $</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-03</datedepense>
+        <datepublicationdepense>2018-08-20</datepublicationdepense>
+        <montantdepense>10701.540000</montantdepense>
+        <description>AM#9 Bouchonner les puits pour permettre le forage de tous les puits et minimiser les échanges entre les puits 10 701,54 $</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-08</datedepense>
+        <datepublicationdepense>2018-08-28</datepublicationdepense>
+        <montantdepense>37134.030000</montantdepense>
+        <description>AM#10 DM-A-02 Modif. portes quincaillerie-DM-A-03 Modif refroidisseur/parapet/appentis-DM-A-04 Modif/Ajout soufflage DM-A-07 Modif couleus solins/mural/appentis DM-E-03 Modif Entrée câble/Data DM-M-04 Déplac thermostat DM-C-15 Modif qté clôture à installer</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-22</datedepense>
+        <datepublicationdepense>2018-09-14</datepublicationdepense>
+        <montantdepense>107687.160000</montantdepense>
+        <description>AM#11 Modifier alimentations électriques 782,06$ - Installer nouveau drain toiture 2 168,73$ - Disposer sols AB restant de surexcavation sols instables 102 895,66 $ - Percements de plots de cisaillement pour injection utéhane 1 840,71$</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-09-12</datedepense>
+        <datepublicationdepense>2018-11-14</datepublicationdepense>
+        <montantdepense>1386428.280000</montantdepense>
+        <description>AM#12 DM-C-13 + C-19: Surexcavation sous le bassin et reconfiguration du bassin 511 862,86 $-DM-C-20: Surexcavation de la zone d’accès des autobus du mois d’août 874 565,42 $</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-09-20</datedepense>
+        <datepublicationdepense>2018-11-14</datepublicationdepense>
+        <montantdepense>195522.000000</montantdepense>
+        <description>AM#13-Installation de ressorts et d’une structure sus le refroidisseur au toit/Frais de retour pour le refroidisseur/Percement plomberie local musique/Surexcavation horizon organique sous zone d’accès autobus/Raccorder ventilateur local télécom./Installer gypse sur colombages/peinture et autres </description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-10-03</datedepense>
+        <datepublicationdepense>2018-11-14</datepublicationdepense>
+        <montantdepense>127401.700000</montantdepense>
+        <description>AM#14 Nettoyage rue/Abaissement plafonds+Ajouts cloisons puits/Travaux suite annulation de compartimentation/Soufflage panneau alarme incendie/Ajout retombée plafond biblio/Ajout renfort muret/Ajout prises électriques/Surexcavation zone accès autobus sept 18/Ajour détail porte 9</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-10-09</datedepense>
+        <datepublicationdepense>2018-11-14</datepublicationdepense>
+        <montantdepense>93743.430000</montantdepense>
+        <description>AM#15 Ajout système d'étanchéité ancrages/Ajout conduits de transfert et ajout volets coupe-feu/ Modifications électriques diverses/Disposition de la terre végétale provenant décapage/Remplacement regard 1800mm pour 2100mm</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-11-13</datedepense>
+        <datepublicationdepense>2018-11-30</datepublicationdepense>
+        <montantdepense>304032.140000</montantdepense>
+        <description>Am#16 Ajout d'apprêt/cloisons de puits-Ajout d'isolant giclé/conduit/Ajout luminaires/oeuvre d'art/ajust HP/variateurs vitesses/Surexcavation sols instables/Travaux membrane géogrille et zone d'accès autobs/Abbatage arbre risque tombé/Prolonger le linteau brique fenêtre</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-12-04</datedepense>
+        <datepublicationdepense>2019-01-15</datepublicationdepense>
+        <montantdepense>8032.600000</montantdepense>
+        <description>AM#17 Ajout soufflage localt 104/crédit contre-plaqué plafond local 139 - Ajout trappes d'accès et retriat de moulure local 100 - Repositionnement barrière à dédiment et clôture de chantier</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-01-10</datedepense>
+        <datepublicationdepense>2019-04-02</datepublicationdepense>
+        <montantdepense>21509.440000</montantdepense>
+        <description>AM#18 Peinture cabinet chauffage, finition luminaires 1380$- abris temporaires tests insitu 7173,65$-épandage abat poussière chemin temporaire 657,05$- changemen ajout bornes WIFI sur 2 étages 1757,90$-Aménagement aire circulation temporaire 7540,84$</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-01-21</datedepense>
+        <datepublicationdepense>2019-04-02</datepublicationdepense>
+        <montantdepense>14048.370000</montantdepense>
+        <description>AM#19 Modification cloisons acoustiques 514,43$-Modifier détail mur bloc jonction poutrelles gymnase 1165,09$-Fournir installer monument plancher local217 1603,35$-Frais entreposage lampadaires 700,59$-Couper extrémités poutres dépassent structure escaliers 5 486,88$- Ajout support structural3579,03</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-08</datedepense>
+        <datepublicationdepense>2019-04-02</datepublicationdepense>
+        <montantdepense>10703.790000</montantdepense>
+        <description>AM#20 Disposition excavation et remblai surexcavation sous jellyfish 8 453,26$ - Ajustement disjoncteur panneau RC-PDNO 301 824,30$- Installation 2 arrêts-départs pompes GLY-PP-01 et GE-PP-01 1 443,63$</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-22</datedepense>
+        <datepublicationdepense>2019-04-02</datepublicationdepense>
+        <montantdepense>15390.000000</montantdepense>
+        <description>AM#21 Réclamation pour différence du crédit fourni dans la DC-056-R1 pour la disposition de la terre végétales incluse à la DM-C-18</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-12</datedepense>
+        <datepublicationdepense>2019-04-08</datepublicationdepense>
+        <montantdepense>26327.580000</montantdepense>
+        <description>AM#22 Ajout signalisation 1083,71$-AJout tablette fenêtre et scellement gym 1872,25$-Peinturer boîte/clé vestibule 421,73$-Ajout relais contrôler sonnette 1771,24$-Remplacer portes panneauxélect.44,86$-Ajout4sortiessecours1940,38$-Ajout33klaxons16450,60$-Nouveau câble446,52$-Ajout extincteur1496,29$</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-14</datedepense>
+        <datepublicationdepense>2019-04-08</datepublicationdepense>
+        <montantdepense>5492.590000</montantdepense>
+        <description>Am#23 Ajout de détecteurs de fumée dans les corridors</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-08</datedepense>
+        <datepublicationdepense>2019-05-10</datepublicationdepense>
+        <montantdepense>9877.380000</montantdepense>
+        <description>AM#24 Demande modif hauteur solins 548,34$-Ajout protection murale 2600,98$-Nettoyage suppl ajout Klaxons alarm Incend 686,52$-Visite suppl ligne téléph.610,71$ -Ajout membr géotextyle gym 1138,50$ - Nouv attach méc pour trappe d'acc 404,64$-Rempl détect mouv 3887,69$</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-03</datedepense>
+        <datepublicationdepense>2019-06-17</datepublicationdepense>
+        <montantdepense>93817.060000</montantdepense>
+        <description>Am#25 Frais de réclamation DM Travaux civil 91 439,85$- Ajout et déplacement détecteurs fumée 627,41$ - Ajout surveillance basse pression 1749,80$</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-09-13</datedepense>
+        <datepublicationdepense>2019-09-19</datepublicationdepense>
+        <montantdepense>17587.170000</montantdepense>
+        <description>AM#26 Ajout Panier Basketball, modif syst bollards et communication, déplacement bordure, balancement hydrolique réseau et réclamation frais électricité et ass+caution</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-07-11</datedepense>
+        <datepublicationdepense>2019-09-19</datepublicationdepense>
+        <montantdepense>15398.770000</montantdepense>
+        <description>AM#27Relocalisation de la roche existante-Modification quantité de bordure-Ventre de bœuf sous poteaux ballons poire</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-08-05</datedepense>
+        <datepublicationdepense>2019-09-19</datepublicationdepense>
+        <montantdepense>2904.970000</montantdepense>
+        <description>AM#28 Rehaussement pavage près porte gymnase - Relocaliser communitateur pression soupape alarme</description>
+        <nomcontractant>Consortium M.R. Canada ltée</nomcontractant>
+        <neqcontractant>1142691576</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1108462</numeroseao>
+    <numero>SRM20522A</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-09-12</datedepense>
+        <datepublicationdepense>2019-09-18</datepublicationdepense>
+        <montantdepense>29127.260000</montantdepense>
+        <description>SRM028114 (198010550)</description>
+        <nomcontractant>Les Consultants S.M. Inc. (Bureau des Offres)</nomcontractant>
+        <neqcontractant>1143019660</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1120638</numeroseao>
+    <numero>SRM020004</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-07-18</datedepense>
+        <datepublicationdepense>2018-09-18</datepublicationdepense>
+        <montantdepense>48508.760000</montantdepense>
+        <description>SRM023536</description>
+        <nomcontractant>Location Dion Inc.</nomcontractant>
+        <neqcontractant>1142362954</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-10-31</datedepense>
+        <datepublicationdepense>2018-11-14</datepublicationdepense>
+        <montantdepense>78000.000000</montantdepense>
+        <description>SRM025279 (158 G09 310)</description>
+        <nomcontractant>Location Dion Inc.</nomcontractant>
+        <neqcontractant>1142362954</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-09-05</datedepense>
+        <datepublicationdepense>2019-09-24</datepublicationdepense>
+        <montantdepense>78000.000000</montantdepense>
+        <description>SRM027696 (158 012 600)</description>
+        <nomcontractant>Location Dion Inc.</nomcontractant>
+        <neqcontractant>1142362954</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1122124</numeroseao>
+    <numero>32722400</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-06-14</datedepense>
+        <datepublicationdepense>2019-06-25</datepublicationdepense>
+        <montantdepense>92010.000000</montantdepense>
+        <description>Conditions imprévisibles de chantier</description>
+        <nomcontractant>GHD</nomcontractant>
+        <neqcontractant>1171077796</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1146566</numeroseao>
+    <numero>083 - EM et ET 2018-2021</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-09-01</datedepense>
+        <datepublicationdepense>2019-09-27</datepublicationdepense>
+        <montantdepense>2880.000000</montantdepense>
+        <description>Entretien ménager: ajout de 151,67m2 supplémentaires valide du 1 sept. au 30 juin 2020 (Petits déjeûners - à réévaluer la prochaine année) (représente 288 $/mois)</description>
+        <nomcontractant>Jacques Fortin</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1150453</numeroseao>
+    <numero>20180323-01</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-10-15</datedepense>
+        <datepublicationdepense>2019-09-09</datepublicationdepense>
+        <montantdepense>16106.100000</montantdepense>
+        <description>Travaux mécaniques</description>
+        <nomcontractant>Alphonse Lamonde Inc</nomcontractant>
+        <neqcontractant>1142846154</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1203949</numeroseao>
+    <numero>SRM023567</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-08-08</datedepense>
+        <datepublicationdepense>2019-09-19</datepublicationdepense>
+        <montantdepense>5795.900000</montantdepense>
+        <description>SRM027705 - 340 A00 320</description>
+        <nomcontractant>GR7 Architecture inc.</nomcontractant>
+        <neqcontractant>1143500214</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1212643</numeroseao>
+    <numero>35047701</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-06-01</datedepense>
+        <datepublicationdepense>2019-06-11</datepublicationdepense>
+        <montantdepense>10220.000000</montantdepense>
+        <description>Entretien annuel et mensuel (ajout d'édifices)</description>
+        <nomcontractant>Les Produits Énergétiques GAL inc.</nomcontractant>
+        <neqcontractant>1146046280</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-09-25</datedepense>
+        <datepublicationdepense>2019-09-25</datepublicationdepense>
+        <montantdepense>14175.000000</montantdepense>
+        <description>Prolongation du contrat </description>
+        <nomcontractant>Les Produits Énergétiques GAL inc.</nomcontractant>
+        <neqcontractant>1146046280</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1221692</numeroseao>
+    <numero>55213-518_MSL_C- GRÉ</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-08-30</datedepense>
+        <datepublicationdepense>2019-09-03</datepublicationdepense>
+        <montantdepense>1875.000000</montantdepense>
+        <description>Ajout de superficie de pavage : Passage piétonnier entre les deux chemins vers la cour d'honneur. </description>
+        <nomcontractant>Les Entreprises Ventec Inc</nomcontractant>
+        <neqcontractant>1145668878</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1233178</numeroseao>
+    <numero>2018-500-AO</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-07-08</datedepense>
+        <datepublicationdepense>2019-09-06</datepublicationdepense>
+        <montantdepense>7369.450000</montantdepense>
+        <description>Travaux supplémentaires nécessaires</description>
+        <nomcontractant>Préma inc.</nomcontractant>
+        <neqcontractant>1164328073</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-08-01</datedepense>
+        <datepublicationdepense>2019-09-06</datepublicationdepense>
+        <montantdepense>4134.530000</montantdepense>
+        <description>Travaux supplémentaires nécessaires</description>
+        <nomcontractant>Préma inc.</nomcontractant>
+        <neqcontractant>1164328073</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-09-04</datedepense>
+        <datepublicationdepense>2019-09-06</datepublicationdepense>
+        <montantdepense>9479.540000</montantdepense>
+        <description>Travaux supplémentaires nécessaires</description>
+        <nomcontractant>Préma inc.</nomcontractant>
+        <neqcontractant>1164328073</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1247400</numeroseao>
+    <numero>1820-EG</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-05-13</datedepense>
+        <datepublicationdepense>2019-09-13</datepublicationdepense>
+        <montantdepense>2500.000000</montantdepense>
+        <description>ODC 01 Démolition d'un vieux puisard</description>
+        <nomcontractant>Excavation DDL</nomcontractant>
+        <neqcontractant>1146070991</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-13</datedepense>
+        <datepublicationdepense>2019-09-13</datepublicationdepense>
+        <montantdepense>6152.500000</montantdepense>
+        <description>ODC 03 Modification du concept et travaux des infrastructures situées dans l'emprise de la Ville</description>
+        <nomcontractant>Excavation DDL</nomcontractant>
+        <neqcontractant>1146070991</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-07-03</datedepense>
+        <datepublicationdepense>2019-09-13</datepublicationdepense>
+        <montantdepense>8649.110000</montantdepense>
+        <description>ODC 04 Modification des entrées, trottoirs, conduites et asphaltes</description>
+        <nomcontractant>Excavation DDL</nomcontractant>
+        <neqcontractant>1146070991</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-07-05</datedepense>
+        <datepublicationdepense>2019-09-13</datepublicationdepense>
+        <montantdepense>41190.000000</montantdepense>
+        <description>ODC 05 Correction d'un problème d'infiltration d'eau au sous-sol</description>
+        <nomcontractant>Excavation DDL</nomcontractant>
+        <neqcontractant>1146070991</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-07-08</datedepense>
+        <datepublicationdepense>2019-09-13</datepublicationdepense>
+        <montantdepense>36919.500000</montantdepense>
+        <description>ODC 06 Excavation supplémentaire de rock</description>
+        <nomcontractant>Excavation DDL</nomcontractant>
+        <neqcontractant>1146070991</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1249831</numeroseao>
+    <numero>SRM026099</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-08-26</datedepense>
+        <datepublicationdepense>2019-09-10</datepublicationdepense>
+        <montantdepense>49269.000000</montantdepense>
+        <description>SRM028006 - 078 016 300 - A-33-1388-A-Rés.22</description>
+        <nomcontractant>Pageau Morel et associés inc.</nomcontractant>
+        <neqcontractant>1140030215</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1274971</numeroseao>
+    <numero>44513510</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-07-17</datedepense>
+        <datepublicationdepense>2019-07-18</datepublicationdepense>
+        <montantdepense>11274.430000</montantdepense>
+        <description>Conditions imprévisible de changier</description>
+        <nomcontractant>Humaco Construction inc.</nomcontractant>
+        <neqcontractant>1161872792</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-08-15</datedepense>
+        <datepublicationdepense>2019-07-18</datepublicationdepense>
+        <montantdepense>3322.000000</montantdepense>
+        <description>condition imprévisible de chantier</description>
+        <nomcontractant>Humaco Construction inc.</nomcontractant>
+        <neqcontractant>1161872792</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-08-19</datedepense>
+        <datepublicationdepense>2019-08-20</datepublicationdepense>
+        <montantdepense>516.240000</montantdepense>
+        <description>Autres: erreur ou omission</description>
+        <nomcontractant>Humaco Construction inc.</nomcontractant>
+        <neqcontractant>1161872792</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+</export>

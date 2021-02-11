@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2020-12-01" datefin="2020-12-31">
+  <contrat>
+    <numeroseao>533955</numeroseao>
+    <numero>8901-11-1101</numero>
+    <datefinale>2020-10-26</datefinale>
+    <datepublicationfinale>2017-11-24</datepublicationfinale>
+    <montantfinal>59644795.530000</montantfinal>
+    <nomcontractant>Couillard Construction Ltée.</nomcontractant>
+    <neqcontractant>1143700343</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>562980</numeroseao>
+    <numero>5378-12-QF01</numero>
+    <datefinale>2020-11-10</datefinale>
+    <datepublicationfinale>2017-12-11</datepublicationfinale>
+    <montantfinal>897617.020000</montantfinal>
+    <nomcontractant>TechnoConseil Inc.</nomcontractant>
+    <neqcontractant>1161451621</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>563639</numeroseao>
+    <numero>FP-7.3.5</numero>
+    <datefinale>2016-12-16</datefinale>
+    <datepublicationfinale>2018-07-25</datepublicationfinale>
+    <montantfinal>774971.720000</montantfinal>
+    <nomcontractant>Dessau inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>785839</numeroseao>
+    <numero>8401-13-FE04</numero>
+    <datefinale>2020-11-05</datefinale>
+    <datepublicationfinale>2017-05-29</datepublicationfinale>
+    <montantfinal>942371.670000</montantfinal>
+    <nomcontractant>CIMA+</nomcontractant>
+    <neqcontractant>3340563140</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>886280</numeroseao>
+    <numero>1415-19123</numero>
+    <datefinale>2018-06-30</datefinale>
+    <datepublicationfinale>2018-07-18</datepublicationfinale>
+    <montantfinal>30137.080000</montantfinal>
+    <nomcontractant>Drumco Énergie Inc.</nomcontractant>
+    <neqcontractant>1166889569</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>895828</numeroseao>
+    <numero>8401-15-FE02</numero>
+    <datefinale>2020-10-29</datefinale>
+    <datepublicationfinale>2020-09-11</datepublicationfinale>
+    <montantfinal>307647.970000</montantfinal>
+    <nomcontractant>CIMA+</nomcontractant>
+    <neqcontractant>3340563140</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>936855</numeroseao>
+    <numero>5404-15-APD9</numero>
+    <datefinale>2020-10-16</datefinale>
+    <datepublicationfinale>2020-02-03</datepublicationfinale>
+    <montantfinal>2097972.300000</montantfinal>
+    <nomcontractant>Signalisation SMG inc.</nomcontractant>
+    <neqcontractant>1148962195</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>965536</numeroseao>
+    <numero>2016-002 (G6114U3N14699)</numero>
+    <datefinale>2020-03-14</datefinale>
+    <datepublicationfinale>2019-06-27</datepublicationfinale>
+    <montantfinal>129317.690000</montantfinal>
+    <nomcontractant>Les Reliures Caron et Létourneau Ltée</nomcontractant>
+    <neqcontractant>1143174721</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1000102</numeroseao>
+    <numero>6703-16-0911</numero>
+    <datefinale>2020-10-20</datefinale>
+    <datepublicationfinale>2019-05-31</datepublicationfinale>
+    <montantfinal>2709692.680000</montantfinal>
+    <nomcontractant>Construction B.M.L., division de Sintra inc.</nomcontractant>
+    <neqcontractant>1145755295</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1084063</numeroseao>
+    <numero>700 001 310</numero>
+    <datefinale>2020-11-06</datefinale>
+    <datepublicationfinale>2020-11-20</datepublicationfinale>
+    <montantfinal>478588.000000</montantfinal>
+    <nomcontractant>Archi-Medic inc</nomcontractant>
+    <neqcontractant>1165565202</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1088106</numeroseao>
+    <numero>B-82.01</numero>
+    <datefinale>2020-12-15</datefinale>
+    <datepublicationfinale>2020-11-25</datepublicationfinale>
+    <montantfinal>7939643.700000</montantfinal>
+    <nomcontractant>Entreprises Landco inc.</nomcontractant>
+    <neqcontractant>1142177600</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1100797</numeroseao>
+    <numero>8721</numero>
+    <datefinale>2020-09-20</datefinale>
+    <datepublicationfinale>2020-09-30</datepublicationfinale>
+    <montantfinal>1352400.370000</montantfinal>
+    <nomcontractant>Exploitation Forestière Daniel Cloutier Inc</nomcontractant>
+    <neqcontractant>1144044717</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1104196</numeroseao>
+    <numero>32177800</numero>
+    <datefinale>2020-10-31</datefinale>
+    <datepublicationfinale>2020-11-12</datepublicationfinale>
+    <montantfinal>808555.300000</montantfinal>
+    <nomcontractant>Av-Tech INC..</nomcontractant>
+    <neqcontractant>1174192535</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1107978</numeroseao>
+    <numero>AP17-106</numero>
+    <datefinale>2019-07-02</datefinale>
+    <datepublicationfinale>2020-11-10</datepublicationfinale>
+    <montantfinal>58714.000000</montantfinal>
+    <nomcontractant>Transport JML</nomcontractant>
+    <neqcontractant>2264238900</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1133280</numeroseao>
+    <numero>AP18-006</numero>
+    <datefinale>2018-08-17</datefinale>
+    <datepublicationfinale>2020-11-11</datepublicationfinale>
+    <montantfinal>581267.610000</montantfinal>
+    <nomcontractant>Surplec Inc.</nomcontractant>
+    <neqcontractant>1142862953</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1135774</numeroseao>
+    <numero>AP18-003</numero>
+    <datefinale>2018-05-23</datefinale>
+    <datepublicationfinale>2020-11-11</datepublicationfinale>
+    <montantfinal>43790.720000</montantfinal>
+    <nomcontractant>A. Chalut Auto Ltée</nomcontractant>
+    <neqcontractant>1141772773</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1140636</numeroseao>
+    <numero>AP18-009</numero>
+    <datefinale>2020-07-21</datefinale>
+    <datepublicationfinale>2020-11-11</datepublicationfinale>
+    <montantfinal>70537.160000</montantfinal>
+    <nomcontractant>Les paysagistes d'éco-solution enr.</nomcontractant>
+    <neqcontractant>2249184302</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1144444</numeroseao>
+    <numero>AP18-036</numero>
+    <datefinale>2019-12-18</datefinale>
+    <datepublicationfinale>2020-11-11</datepublicationfinale>
+    <montantfinal>208103.500000</montantfinal>
+    <nomcontractant>Lignco</nomcontractant>
+    <neqcontractant>1147164058</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1150919</numeroseao>
+    <numero>9001-18-0212</numero>
+    <datefinale>2020-10-21</datefinale>
+    <datepublicationfinale>2020-04-20</datepublicationfinale>
+    <montantfinal>978019.320000</montantfinal>
+    <nomcontractant>Excavation démolition Apogee Inc.</nomcontractant>
+    <neqcontractant>1168005099</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1151122</numeroseao>
+    <numero>AP18-010</numero>
+    <datefinale>2018-07-09</datefinale>
+    <datepublicationfinale>2020-11-11</datepublicationfinale>
+    <montantfinal>67567.080000</montantfinal>
+    <nomcontractant>A. Chalut Auto Ltée</nomcontractant>
+    <neqcontractant>1141772773</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1151162</numeroseao>
+    <numero>AP18-011</numero>
+    <datefinale>2018-11-30</datefinale>
+    <datepublicationfinale>2020-11-11</datepublicationfinale>
+    <montantfinal>52436.310000</montantfinal>
+    <nomcontractant>Beauregard Environnement</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1151178</numeroseao>
+    <numero>AP18-012</numero>
+    <datefinale>2018-07-25</datefinale>
+    <datepublicationfinale>2020-11-11</datepublicationfinale>
+    <montantfinal>43366.800000</montantfinal>
+    <nomcontractant>Beauregard Environnement</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1151897</numeroseao>
+    <numero>AP18-015</numero>
+    <datefinale>2018-06-01</datefinale>
+    <datepublicationfinale>2020-11-11</datepublicationfinale>
+    <montantfinal>30279.580000</montantfinal>
+    <nomcontractant>ABC Environnement inc</nomcontractant>
+    <neqcontractant>1141969957</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1151937</numeroseao>
+    <numero>AP18-018</numero>
+    <datefinale>2018-08-31</datefinale>
+    <datepublicationfinale>2020-11-11</datepublicationfinale>
+    <montantfinal>44380.120000</montantfinal>
+    <nomcontractant>BLR Excavation Division de Terrassement BLR inc</nomcontractant>
+    <neqcontractant>1141135401</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1176449</numeroseao>
+    <numero>AP18-037</numero>
+    <datefinale>2020-05-11</datefinale>
+    <datepublicationfinale>2020-11-11</datepublicationfinale>
+    <montantfinal>34455.150000</montantfinal>
+    <nomcontractant>Les Services EXP Inc</nomcontractant>
+    <neqcontractant>1167268128</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1176469</numeroseao>
+    <numero>AP18-013</numero>
+    <datefinale>2019-04-30</datefinale>
+    <datepublicationfinale>2020-11-11</datepublicationfinale>
+    <montantfinal>26869.740000</montantfinal>
+    <nomcontractant>ABC Environnement inc</nomcontractant>
+    <neqcontractant>1141969957</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1187726</numeroseao>
+    <numero>2506-18-SB20</numero>
+    <datefinale>2020-11-18</datefinale>
+    <datepublicationfinale>2019-11-22</datepublicationfinale>
+    <montantfinal>295421.100000</montantfinal>
+    <nomcontractant>Les Entreprises Philippe Daigneault inc.</nomcontractant>
+    <neqcontractant>1163353130</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1224597</numeroseao>
+    <numero>AP18-002</numero>
+    <datefinale>2019-01-29</datefinale>
+    <datepublicationfinale>2020-11-11</datepublicationfinale>
+    <montantfinal>44143.470000</montantfinal>
+    <nomcontractant>A. Chalut Auto Ltée</nomcontractant>
+    <neqcontractant>1141772773</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1244398</numeroseao>
+    <numero>2019-04</numero>
+    <datefinale>2019-11-01</datefinale>
+    <datepublicationfinale>2019-11-01</datepublicationfinale>
+    <montantfinal>185717.060000</montantfinal>
+    <nomcontractant>9060-1535 Québec inc.</nomcontractant>
+    <neqcontractant>1147468731</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1269566</numeroseao>
+    <numero>6105-1819-02</numero>
+    <datefinale>2019-05-31</datefinale>
+    <datepublicationfinale>2019-07-12</datepublicationfinale>
+    <montantfinal>27082.860000</montantfinal>
+    <nomcontractant>Le Cabinet de relations publiques National inc.</nomcontractant>
+    <neqcontractant>1172360324</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1319891</numeroseao>
+    <numero>2019APP344-01-01</numero>
+    <datefinale>2020-11-26</datefinale>
+    <datepublicationfinale>2020-11-27</datepublicationfinale>
+    <montantfinal>173099.980000</montantfinal>
+    <nomcontractant>Boston Scientific- Endoscopie</nomcontractant>
+    <neqcontractant>1166095613</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1327341</numeroseao>
+    <numero>2015-07-07</numero>
+    <datefinale>2020-03-31</datefinale>
+    <datepublicationfinale>2020-07-08</datepublicationfinale>
+    <montantfinal>1387700.350000</montantfinal>
+    <nomcontractant>Chrono Aviation</nomcontractant>
+    <neqcontractant>1168213602</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1327597</numeroseao>
+    <numero>2016-04-04</numero>
+    <datefinale>2019-10-14</datefinale>
+    <datepublicationfinale>2020-03-04</datepublicationfinale>
+    <montantfinal>401549.990000</montantfinal>
+    <nomcontractant>Autobus Des Monts inc.</nomcontractant>
+    <neqcontractant>1141949561</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1341324</numeroseao>
+    <numero>660318-1</numero>
+    <datefinale>2020-10-22</datefinale>
+    <datepublicationfinale>2020-10-29</datepublicationfinale>
+    <montantfinal>9802.820000</montantfinal>
+    <nomcontractant>Groupe Inclusia</nomcontractant>
+    <neqcontractant>1144507952</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1353108</numeroseao>
+    <numero>8701-08-0910</numero>
+    <datefinale>2020-10-27</datefinale>
+    <datepublicationfinale>2020-03-05</datepublicationfinale>
+    <montantfinal>1787290661.370000</montantfinal>
+    <nomcontractant>Nouvelle Autoroute 30 , S.E.N.C.</nomcontractant>
+    <neqcontractant>3365145849</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1367913</numeroseao>
+    <numero>44518325</numero>
+    <datefinale>2020-06-30</datefinale>
+    <datepublicationfinale>2020-07-07</datepublicationfinale>
+    <montantfinal>26323.650000</montantfinal>
+    <nomcontractant>Maintenance Euréka Ltée</nomcontractant>
+    <neqcontractant>1142075036</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1370690</numeroseao>
+    <numero>314950</numero>
+    <datefinale>2020-02-28</datefinale>
+    <datepublicationfinale>2020-06-29</datepublicationfinale>
+    <montantfinal>30112.420000</montantfinal>
+    <nomcontractant>Drakkar &amp; Associés.</nomcontractant>
+    <neqcontractant>1142366989</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1383125</numeroseao>
+    <numero>4500813997</numero>
+    <datefinale>2020-11-25</datefinale>
+    <datepublicationfinale>2020-06-26</datepublicationfinale>
+    <montantfinal>39671.850000</montantfinal>
+    <nomcontractant>9358-1205 QUÉBEC INC</nomcontractant>
+    <neqcontractant>1172672330</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1386609</numeroseao>
+    <numero>136996-2115</numero>
+    <datefinale>2020-04-19</datefinale>
+    <datepublicationfinale>2020-07-16</datepublicationfinale>
+    <montantfinal>95141.230000</montantfinal>
+    <nomcontractant>Xerox</nomcontractant>
+    <neqcontractant>1141555566</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1392473</numeroseao>
+    <numero>6501-18-AP11</numero>
+    <datefinale>2020-10-19</datefinale>
+    <datepublicationfinale>2020-07-17</datepublicationfinale>
+    <montantfinal>17442.060000</montantfinal>
+    <nomcontractant>Claveau concassage &amp; granulats ltée</nomcontractant>
+    <neqcontractant>1167565713</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1396534</numeroseao>
+    <numero>400379035</numero>
+    <datefinale>2020-10-01</datefinale>
+    <datepublicationfinale>2020-11-13</datepublicationfinale>
+    <montantfinal>45425.000000</montantfinal>
+    <nomcontractant>BDO Canada s.r.l./s.e.n.c.r.l./LLP</nomcontractant>
+    <neqcontractant>3342011858</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1410165</numeroseao>
+    <numero>2017-053-22SP-I</numero>
+    <datefinale>2020-02-17</datefinale>
+    <datepublicationfinale>2020-09-25</datepublicationfinale>
+    <montantfinal>54276.950000</montantfinal>
+    <nomcontractant>GBi Experts-Conseils inc.</nomcontractant>
+    <neqcontractant>1148115281</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1416146</numeroseao>
+    <numero>PRO-N-EB164</numero>
+    <datefinale>2020-10-08</datefinale>
+    <datepublicationfinale>2020-10-19</datepublicationfinale>
+    <montantfinal>93494.160000</montantfinal>
+    <nomcontractant>90394701 Québec Inc. Entreprises Carl Marchand Inc.</nomcontractant>
+    <neqcontractant>1146082350</neqcontractant>
+  </contrat>
+</export>

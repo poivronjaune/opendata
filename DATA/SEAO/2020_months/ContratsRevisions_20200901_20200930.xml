@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2020-09-01" datefin="2020-09-30">
+  <contrat>
+    <numeroseao>774993</numeroseao>
+    <numero>8701-14-0901</numero>
+    <datefinale>2020-02-27</datefinale>
+    <datepublicationfinale>2016-02-02</datepublicationfinale>
+    <montantfinal>15175992.000000</montantfinal>
+    <nomcontractant>L.A. Hébert Ltée</nomcontractant>
+    <neqcontractant>1143421148</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>786793</numeroseao>
+    <numero>8401-14-HC01</numero>
+    <datefinale>2019-03-07</datefinale>
+    <datepublicationfinale>2019-06-07</datepublicationfinale>
+    <montantfinal>1140933.000000</montantfinal>
+    <nomcontractant>Consortium EXP/CIMA+</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>903240</numeroseao>
+    <numero>8701-15-0208</numero>
+    <datefinale>2020-01-29</datefinale>
+    <datepublicationfinale>2019-11-22</datepublicationfinale>
+    <montantfinal>5798200.720000</montantfinal>
+    <nomcontractant>Construction Demathieu &amp; Bard (CDB) Inc.</nomcontractant>
+    <neqcontractant>1147057740</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>903869</numeroseao>
+    <numero>7203-15-0201</numero>
+    <datefinale>2020-07-23</datefinale>
+    <datepublicationfinale>2017-11-24</datepublicationfinale>
+    <montantfinal>1829740.000000</montantfinal>
+    <nomcontractant>Les Constructions et Pavage Jeskar Inc.</nomcontractant>
+    <neqcontractant>1145922051</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>912177</numeroseao>
+    <numero>8401-15-0004</numero>
+    <datefinale>2020-08-12</datefinale>
+    <datepublicationfinale>2017-09-21</datepublicationfinale>
+    <montantfinal>326888.000000</montantfinal>
+    <nomcontractant>Charex</nomcontractant>
+    <neqcontractant>1167167742</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>915090</numeroseao>
+    <numero>28493100</numero>
+    <datefinale>2020-07-31</datefinale>
+    <datepublicationfinale>2020-08-07</datepublicationfinale>
+    <montantfinal>294044.950000</montantfinal>
+    <nomcontractant>J.F. Inc</nomcontractant>
+    <neqcontractant>1149862428</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>937761</numeroseao>
+    <numero>7006-16-0201</numero>
+    <datefinale>2020-03-03</datefinale>
+    <datepublicationfinale>2020-01-15</datepublicationfinale>
+    <montantfinal>1209695.000000</montantfinal>
+    <nomcontractant>Groupe Civicam Inc.</nomcontractant>
+    <neqcontractant>1160710852</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>974632</numeroseao>
+    <numero>8801-16-0906</numero>
+    <datefinale>2020-08-19</datefinale>
+    <datepublicationfinale>2019-06-05</datepublicationfinale>
+    <montantfinal>1964423.440000</montantfinal>
+    <nomcontractant>Uniroc Construction inc</nomcontractant>
+    <neqcontractant>1168784057</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>995318</numeroseao>
+    <numero>8601-16-0903</numero>
+    <datefinale>2020-09-28</datefinale>
+    <datepublicationfinale>2019-10-30</datepublicationfinale>
+    <montantfinal>2838333.210000</montantfinal>
+    <nomcontractant>Ali Excavation Inc.</nomcontractant>
+    <neqcontractant>1143616580</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1042576</numeroseao>
+    <numero>30991300</numero>
+    <datefinale>2020-03-31</datefinale>
+    <datepublicationfinale>2020-07-06</datepublicationfinale>
+    <montantfinal>469566.240000</montantfinal>
+    <nomcontractant>Multi-Énergie Best Inc</nomcontractant>
+    <neqcontractant>1144040194</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1058046</numeroseao>
+    <numero>7105-16-CA01</numero>
+    <datefinale>2020-06-08</datefinale>
+    <datepublicationfinale>2020-07-06</datepublicationfinale>
+    <montantfinal>95771.000000</montantfinal>
+    <nomcontractant>Groupement Compilation Data Traffic / Planitrans</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1060444</numeroseao>
+    <numero>054/2017</numero>
+    <datefinale>2020-08-20</datefinale>
+    <datepublicationfinale>2019-12-16</datepublicationfinale>
+    <montantfinal>126114.500000</montantfinal>
+    <nomcontractant>Métaux fer</nomcontractant>
+    <neqcontractant>1161574109</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1063811</numeroseao>
+    <numero>2506-17-PA01</numero>
+    <datefinale>2020-08-15</datefinale>
+    <datepublicationfinale>2020-07-06</datepublicationfinale>
+    <montantfinal>181655.000000</montantfinal>
+    <nomcontractant>Hollywood Nettoyage Spécialisé (9106-9468 Québec inc.)</nomcontractant>
+    <neqcontractant>1160257649</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1065546</numeroseao>
+    <numero>2016-091-10RM-SP</numero>
+    <datefinale>2018-05-08</datefinale>
+    <datepublicationfinale>2018-02-20</datepublicationfinale>
+    <montantfinal>46764.600000</montantfinal>
+    <nomcontractant>Massicotte Maloney architectes</nomcontractant>
+    <neqcontractant>3364300213</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1066322</numeroseao>
+    <numero>6610-17-4525</numero>
+    <datefinale>2020-09-15</datefinale>
+    <datepublicationfinale>2019-08-27</datepublicationfinale>
+    <montantfinal>2283906.860000</montantfinal>
+    <nomcontractant>Transport Mario Giguere inc</nomcontractant>
+    <neqcontractant>1148433593</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1080060</numeroseao>
+    <numero>6406-17-4521</numero>
+    <datefinale>2020-08-24</datefinale>
+    <datepublicationfinale>2019-09-25</datepublicationfinale>
+    <montantfinal>1339871.470000</montantfinal>
+    <nomcontractant>Les Entreprises Jacques Beaudet inc.</nomcontractant>
+    <neqcontractant>1142816959</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1084598</numeroseao>
+    <numero>6408-17-4519</numero>
+    <datefinale>2020-09-02</datefinale>
+    <datepublicationfinale>2019-10-30</datepublicationfinale>
+    <montantfinal>691345.210000</montantfinal>
+    <nomcontractant>J. Noël Francoeur Inc.</nomcontractant>
+    <neqcontractant>1147227533</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1084600</numeroseao>
+    <numero>6408-17-4517</numero>
+    <datefinale>2020-09-02</datefinale>
+    <datepublicationfinale>2019-09-25</datepublicationfinale>
+    <montantfinal>820093.810000</montantfinal>
+    <nomcontractant>J. Noël Francoeur Inc.</nomcontractant>
+    <neqcontractant>1147227533</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1084905</numeroseao>
+    <numero>Contrat 2017-05</numero>
+    <datefinale>2019-03-31</datefinale>
+    <datepublicationfinale>2020-03-02</datepublicationfinale>
+    <montantfinal>1254844.780000</montantfinal>
+    <nomcontractant>L'Archevêque et Rivest Ltée</nomcontractant>
+    <neqcontractant>1163230627</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1095532</numeroseao>
+    <numero>6610-17-PA01</numero>
+    <datefinale>2020-05-01</datefinale>
+    <datepublicationfinale>2020-07-06</datepublicationfinale>
+    <montantfinal>75190.000000</montantfinal>
+    <nomcontractant>Contrôle d'animaux domestiques inc.</nomcontractant>
+    <neqcontractant>1167490953</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1101355</numeroseao>
+    <numero>700 001 293</numero>
+    <datefinale>2020-07-24</datefinale>
+    <datepublicationfinale>2020-08-03</datepublicationfinale>
+    <montantfinal>86481.000000</montantfinal>
+    <nomcontractant>Dyade Communication</nomcontractant>
+    <neqcontractant>1162524350</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1124389</numeroseao>
+    <numero>6803-17-0201</numero>
+    <datefinale>2020-03-02</datefinale>
+    <datepublicationfinale>2019-06-20</datepublicationfinale>
+    <montantfinal>1876241.000000</montantfinal>
+    <nomcontractant>Équipements JVC Inc. (Les)</nomcontractant>
+    <neqcontractant>1143285303</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1124914</numeroseao>
+    <numero>CT1043688</numero>
+    <datefinale>2020-05-31</datefinale>
+    <datepublicationfinale>2020-08-31</datepublicationfinale>
+    <montantfinal>39630.490000</montantfinal>
+    <nomcontractant>Lemieux Nolet, comptables professionnels agréés S.E.N.C.R.L.</nomcontractant>
+    <neqcontractant>3346059416</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1141061</numeroseao>
+    <numero>2017-055-11SP</numero>
+    <datefinale>2020-09-10</datefinale>
+    <datepublicationfinale>2020-07-02</datepublicationfinale>
+    <montantfinal>45907.640000</montantfinal>
+    <nomcontractant>Bouthillette Parizeau Inc.</nomcontractant>
+    <neqcontractant>1142591438</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1154342</numeroseao>
+    <numero>8801-18-0902</numero>
+    <datefinale>2020-09-03</datefinale>
+    <datepublicationfinale>2019-06-19</datepublicationfinale>
+    <montantfinal>583415.090000</montantfinal>
+    <nomcontractant>Uniroc Construction inc</nomcontractant>
+    <neqcontractant>1168784057</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1157927</numeroseao>
+    <numero>17-165-01</numero>
+    <datefinale>2019-05-13</datefinale>
+    <datepublicationfinale>2019-07-17</datepublicationfinale>
+    <montantfinal>662432.240000</montantfinal>
+    <nomcontractant>Bernard Malo Inc.</nomcontractant>
+    <neqcontractant>1143239102</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1163697</numeroseao>
+    <numero>7001-16-0003</numero>
+    <datefinale>2020-08-25</datefinale>
+    <datepublicationfinale>2020-02-27</datepublicationfinale>
+    <montantfinal>425296.880000</montantfinal>
+    <nomcontractant>Marcel Guimond et fils inc.</nomcontractant>
+    <neqcontractant>1149934953</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1173825</numeroseao>
+    <numero>6706-18-0101</numero>
+    <datefinale>2020-09-09</datefinale>
+    <datepublicationfinale>2020-07-29</datepublicationfinale>
+    <montantfinal>256822.960000</montantfinal>
+    <nomcontractant>Les Entreprises Rémi Charest Inc</nomcontractant>
+    <neqcontractant>1142219279</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1187915</numeroseao>
+    <numero>E600-1819-T0020</numero>
+    <datefinale>2020-06-04</datefinale>
+    <datepublicationfinale>2019-10-30</datepublicationfinale>
+    <montantfinal>63990.960000</montantfinal>
+    <nomcontractant>Iron Mountain</nomcontractant>
+    <neqcontractant>1165289035</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1204330</numeroseao>
+    <numero>201714CF</numero>
+    <datefinale>2019-07-22</datefinale>
+    <datepublicationfinale>2018-10-04</datepublicationfinale>
+    <montantfinal>334800.000000</montantfinal>
+    <nomcontractant>Programme Horizon jeunesse</nomcontractant>
+    <neqcontractant>1166850314</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1204342</numeroseao>
+    <numero>201715CF</numero>
+    <datefinale>2019-07-22</datefinale>
+    <datepublicationfinale>2018-10-04</datepublicationfinale>
+    <montantfinal>334800.000000</montantfinal>
+    <nomcontractant>Les fourchettes de l'espoir</nomcontractant>
+    <neqcontractant>1149891633</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1207524</numeroseao>
+    <numero>201817CF</numero>
+    <datefinale>2019-08-28</datefinale>
+    <datepublicationfinale>2019-12-18</datepublicationfinale>
+    <montantfinal>113600.000000</montantfinal>
+    <nomcontractant>Programme Horizon jeunesse</nomcontractant>
+    <neqcontractant>1166850314</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1207541</numeroseao>
+    <numero>201818CF</numero>
+    <datefinale>2019-08-26</datefinale>
+    <datepublicationfinale>2019-12-18</datepublicationfinale>
+    <montantfinal>113600.000000</montantfinal>
+    <nomcontractant>Les fourchettes de l'espoir</nomcontractant>
+    <neqcontractant>1149891633</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1224729</numeroseao>
+    <numero>6408-18-4521</numero>
+    <datefinale>2020-09-02</datefinale>
+    <datepublicationfinale>2019-10-30</datepublicationfinale>
+    <montantfinal>327147.870000</montantfinal>
+    <nomcontractant>Mini-Excavation M B</nomcontractant>
+    <neqcontractant>2262796438</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1269395</numeroseao>
+    <numero>9489</numero>
+    <datefinale>2020-08-18</datefinale>
+    <datepublicationfinale>2020-05-13</datepublicationfinale>
+    <montantfinal>119380.370000</montantfinal>
+    <nomcontractant>Construction Couture &amp; Tanguay</nomcontractant>
+    <neqcontractant>1161224309</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1284891</numeroseao>
+    <numero>GAG-2019-S-058</numero>
+    <datefinale>2020-06-05</datefinale>
+    <datepublicationfinale>2020-08-31</datepublicationfinale>
+    <montantfinal>36520.200000</montantfinal>
+    <nomcontractant>Krzysztof Tumanowicz</nomcontractant>
+    <neqcontractant>2274451766</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1297969</numeroseao>
+    <numero>2019APP237</numero>
+    <datefinale>2020-06-30</datefinale>
+    <datepublicationfinale>2020-07-07</datepublicationfinale>
+    <montantfinal>58985.000000</montantfinal>
+    <nomcontractant>Femcare Canada Inc</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1306220</numeroseao>
+    <numero>6406-17-NO01</numero>
+    <datefinale>2020-08-24</datefinale>
+    <datepublicationfinale>2019-09-25</datepublicationfinale>
+    <montantfinal>59897.380000</montantfinal>
+    <nomcontractant>J. P. Doyon ltée</nomcontractant>
+    <neqcontractant>1143981414</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1328468</numeroseao>
+    <numero>4770000493</numero>
+    <datefinale>2020-04-30</datefinale>
+    <datepublicationfinale>2020-07-28</datepublicationfinale>
+    <montantfinal>250000.000000</montantfinal>
+    <nomcontractant>PricewaterhouseCoopers s.r.l./S.E.N.C.R.L.</nomcontractant>
+    <neqcontractant>3347816566</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1379462</numeroseao>
+    <numero>GAG-2020-A-067</numero>
+    <datefinale>2020-08-10</datefinale>
+    <datepublicationfinale>2020-08-31</datepublicationfinale>
+    <montantfinal>493421.750000</montantfinal>
+    <nomcontractant>Life Technologies Inc.</nomcontractant>
+    <neqcontractant>1174743295</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1391835</numeroseao>
+    <numero>19380-094</numero>
+    <datefinale>2020-09-03</datefinale>
+    <datepublicationfinale>2020-08-13</datepublicationfinale>
+    <montantfinal>4080.000000</montantfinal>
+    <nomcontractant>Stevens</nomcontractant>
+    <neqcontractant>1168358662</neqcontractant>
+  </contrat>
+</export>

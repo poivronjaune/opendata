@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2020-05-01" datefin="2020-05-31">
+  <avis>
+    <numeroseao>706964</numeroseao>
+    <numero>21079200</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-10-01</datedepense>
+        <datepublicationdepense>2014-02-06</datepublicationdepense>
+        <montantdepense>98300.000000</montantdepense>
+        <description>Changement de programme interne</description>
+        <nomcontractant>Bouthillette Parizeau Inc.</nomcontractant>
+        <neqcontractant>1142591438</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2014-09-16</datedepense>
+        <datepublicationdepense>2015-04-23</datepublicationdepense>
+        <montantdepense>5825.000000</montantdepense>
+        <description>Modification aux plans.</description>
+        <nomcontractant>Bouthillette Parizeau Inc.</nomcontractant>
+        <neqcontractant>1142591438</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-27</datedepense>
+        <datepublicationdepense>2017-11-27</datepublicationdepense>
+        <montantdepense>115986.490000</montantdepense>
+        <description>Honoraires professionnels supplémentaires</description>
+        <nomcontractant>Bouthillette Parizeau Inc.</nomcontractant>
+        <neqcontractant>1142591438</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-26</datedepense>
+        <datepublicationdepense>2018-08-01</datepublicationdepense>
+        <montantdepense>7819.000000</montantdepense>
+        <description>Ajustement des honoraires</description>
+        <nomcontractant>Bouthillette Parizeau Inc.</nomcontractant>
+        <neqcontractant>1142591438</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>874120</numeroseao>
+    <numero>26481600</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-02-28</datedepense>
+        <datepublicationdepense>2020-03-02</datepublicationdepense>
+        <montantdepense>134253.180000</montantdepense>
+        <description>Modification du 28 février 2020 comprend la valeur des ajouts antérieurs à l'atteinte du 10 % du montant initial du contrat</description>
+        <nomcontractant>Entretien P.E.A.C.E. Plus Inc.</nomcontractant>
+        <neqcontractant>1162060595</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1052300</numeroseao>
+    <numero>24-477P2</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-03-14</datedepense>
+        <datepublicationdepense>2019-04-01</datepublicationdepense>
+        <montantdepense>54859.310000</montantdepense>
+        <description>Numéro du bon de commande : SRM026552 Numéro de projet : 109017200 </description>
+        <nomcontractant>Bouthillette Parizeau Inc.</nomcontractant>
+        <neqcontractant>1142591438</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-13</datedepense>
+        <datepublicationdepense>2019-04-04</datepublicationdepense>
+        <montantdepense>108552.000000</montantdepense>
+        <description>Numéro bon de commande: SRM026555 et numéro de projet: 109 017 200</description>
+        <nomcontractant>Bouthillette Parizeau Inc.</nomcontractant>
+        <neqcontractant>1142591438</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-04-08</datedepense>
+        <datepublicationdepense>2020-04-15</datepublicationdepense>
+        <montantdepense>132124.000000</montantdepense>
+        <description>SRM030169 - A-33-1519</description>
+        <nomcontractant>Bouthillette Parizeau Inc.</nomcontractant>
+        <neqcontractant>1142591438</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-05-08</datedepense>
+        <datepublicationdepense>2020-05-28</datepublicationdepense>
+        <montantdepense>81131.150000</montantdepense>
+        <description>SRM030748 (109 017 200)</description>
+        <nomcontractant>Bouthillette Parizeau Inc.</nomcontractant>
+        <neqcontractant>1142591438</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1081194</numeroseao>
+    <numero>BAnQ 2017-09</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-05-01</datedepense>
+        <datepublicationdepense>2020-05-09</datepublicationdepense>
+        <montantdepense>28260.000000</montantdepense>
+        <description>Supplément monétaire requis dans les conditions de la COVID-19 dues aux méthodes de travail qui devront être mises en place pour respecter la sécurité des travailleurs.</description>
+        <nomcontractant>Ascenseurs Innovatec Inc</nomcontractant>
+        <neqcontractant>1148062848</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1081470</numeroseao>
+    <numero>8809-17-NL02</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-04-16</datedepense>
+        <datepublicationdepense>2020-05-27</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Correction publication dépense supplémentaire (non terminée)</description>
+        <nomcontractant>Les Services RC Miller</nomcontractant>
+        <neqcontractant>1149167059</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1150934</numeroseao>
+    <numero>7006-18-1001</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-09-20</datedepense>
+        <datepublicationdepense>2019-05-24</datepublicationdepense>
+        <montantdepense>633341.260000</montantdepense>
+        <description>Dépassement relié à des variations de quantité et/ou des modifications au contrat de construction ou de services de nature technique</description>
+        <nomcontractant>Eurovia Québec Construction inc.</nomcontractant>
+        <neqcontractant>1169491884</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1153308</numeroseao>
+    <numero>55409-532A_SB_PUB_SI</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-05-21</datedepense>
+        <datepublicationdepense>2020-05-22</datepublicationdepense>
+        <montantdepense>10260.000000</montantdepense>
+        <description>Suivi travaux d'excavation complexe et de plomberie dans une salle de classe, Relocalisation imprévue du nouveau bassin de rétention d'eau, Vérification de l'état d’une poutre adjacente à l'escalier extérieur et l’investigation de la fixation de vieux collets de drains de toit pour éviter les risque</description>
+        <nomcontractant>Bouthillette Parizeau Inc.</nomcontractant>
+        <neqcontractant>1142591438</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1160457</numeroseao>
+    <numero>9001-18-0914</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-12-13</datedepense>
+        <datepublicationdepense>2019-05-31</datepublicationdepense>
+        <montantdepense>599377.000000</montantdepense>
+        <description>Dépassement relié à des variations de quantité et/ou des modifications au contrat de construction ou de services de nature technique</description>
+        <nomcontractant>Eurovia Québec Construction inc.</nomcontractant>
+        <neqcontractant>1169491884</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1174023</numeroseao>
+    <numero>6803-18-0918</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-10-24</datedepense>
+        <datepublicationdepense>2019-11-19</datepublicationdepense>
+        <montantdepense>589234.470000</montantdepense>
+        <description>Dépassement relié à des variations de quantité et/ou des modifications au contrat de construction ou de services de nature technique</description>
+        <nomcontractant>Inter-Cité Construction Ltée</nomcontractant>
+        <neqcontractant>1143991546</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1178861</numeroseao>
+    <numero>SR20180067</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-06-26</datedepense>
+        <datepublicationdepense>2020-05-28</datepublicationdepense>
+        <montantdepense>292789.500000</montantdepense>
+        <description>Ajustement en vue de la 2e année du contrat relativement au nombre de licences utilisées pour les produits Microsoft.</description>
+        <nomcontractant>Microsoft Canada Co</nomcontractant>
+        <neqcontractant>1168494905</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-05-14</datedepense>
+        <datepublicationdepense>2020-05-28</datepublicationdepense>
+        <montantdepense>3160.900000</montantdepense>
+        <description>Ajustement pour la 2e année du contrat relativement au nombre d'unités de consommation pour le produit Azure de Microsoft.</description>
+        <nomcontractant>Microsoft Canada Co</nomcontractant>
+        <neqcontractant>1168494905</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-05-26</datedepense>
+        <datepublicationdepense>2020-05-28</datepublicationdepense>
+        <montantdepense>743869.940000</montantdepense>
+        <description>Déploiement accéléré d'outils de travail à distance dans le cadre de la pandémie de COVID-19.</description>
+        <nomcontractant>Microsoft Canada Co</nomcontractant>
+        <neqcontractant>1168494905</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1184547</numeroseao>
+    <numero>6803-18-0912</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-08-06</datedepense>
+        <datepublicationdepense>2019-09-20</datepublicationdepense>
+        <montantdepense>252919.620000</montantdepense>
+        <description>Dépassement relié à des variations de quantité et/ou des modifications au contrat de construction ou de services de nature technique</description>
+        <nomcontractant>PAVEX LTÉE.</nomcontractant>
+        <neqcontractant>1143508282</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1191856</numeroseao>
+    <numero>8901-18-1001</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-08-13</datedepense>
+        <datepublicationdepense>2019-09-20</datepublicationdepense>
+        <montantdepense>517857.730000</montantdepense>
+        <description>Caractéristiques des sols différentes de celles prévues</description>
+        <nomcontractant>Construction Edelweiss inc.</nomcontractant>
+        <neqcontractant>1170544291</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-09-19</datedepense>
+        <datepublicationdepense>2019-10-25</datepublicationdepense>
+        <montantdepense>474277.150000</montantdepense>
+        <description>Dépassement relié à des variations de quantité et/ou des modifications au contrat de construction ou de services de nature technique</description>
+        <nomcontractant>Construction Edelweiss inc.</nomcontractant>
+        <neqcontractant>1170544291</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1194775</numeroseao>
+    <numero>CA-180820-PB</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-12-17</datedepense>
+        <datepublicationdepense>2019-09-03</datepublicationdepense>
+        <montantdepense>3698.840000</montantdepense>
+        <description>ODC 1</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-01</datedepense>
+        <datepublicationdepense>2019-09-03</datepublicationdepense>
+        <montantdepense>26819.220000</montantdepense>
+        <description>ODC 2 BASES DE BETON, DRAIN ET CONDUITS ELECTRIQUES</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-08-21</datedepense>
+        <datepublicationdepense>2019-09-03</datepublicationdepense>
+        <montantdepense>22970.870000</montantdepense>
+        <description>ODC 3 Divers changements</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-11-12</datedepense>
+        <datepublicationdepense>2019-11-13</datepublicationdepense>
+        <montantdepense>43732.070000</montantdepense>
+        <description>ODC 4 et 5</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-12-19</datedepense>
+        <datepublicationdepense>2020-02-21</datepublicationdepense>
+        <montantdepense>13606.270000</montantdepense>
+        <description>ODC 6 Divers changements</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-04-30</datedepense>
+        <datepublicationdepense>2020-05-05</datepublicationdepense>
+        <montantdepense>24422.010000</montantdepense>
+        <description>ODC 7</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-05-19</datedepense>
+        <datepublicationdepense>2020-05-29</datepublicationdepense>
+        <montantdepense>12164.200000</montantdepense>
+        <description>ODC 8 Divers changements</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1200569</numeroseao>
+    <numero>SRM021661</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-06-08</datedepense>
+        <datepublicationdepense>2018-09-19</datepublicationdepense>
+        <montantdepense>41271.000000</montantdepense>
+        <description>SRM023113</description>
+        <nomcontractant>Ouellet Architecte</nomcontractant>
+        <neqcontractant>1147573316</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-17</datedepense>
+        <datepublicationdepense>2018-09-19</datepublicationdepense>
+        <montantdepense>2340.970000</montantdepense>
+        <description>SRM024116</description>
+        <nomcontractant>Ouellet Architecte</nomcontractant>
+        <neqcontractant>1147573316</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-08</datedepense>
+        <datepublicationdepense>2018-09-21</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>SRM023113 - Correction montant déjà publié </description>
+        <nomcontractant>Ouellet Architecte</nomcontractant>
+        <neqcontractant>1147573316</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-04-17</datedepense>
+        <datepublicationdepense>2020-05-27</datepublicationdepense>
+        <montantdepense>2784.840000</montantdepense>
+        <description>SRM030684 (187 032 410)</description>
+        <nomcontractant>Ouellet Architecte</nomcontractant>
+        <neqcontractant>1147573316</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1201702</numeroseao>
+    <numero>SRM023182</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-05-15</datedepense>
+        <datepublicationdepense>2019-05-21</datepublicationdepense>
+        <montantdepense>59036.510000</montantdepense>
+        <description>SRM027156 - 087 017 790 </description>
+        <nomcontractant>L'institut d'échafaudage du Québec</nomcontractant>
+        <neqcontractant>1144653673</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-04</datedepense>
+        <datepublicationdepense>2019-06-25</datepublicationdepense>
+        <montantdepense>14374.100000</montantdepense>
+        <description>SRM027344 - 087 017 790</description>
+        <nomcontractant>L'institut d'échafaudage du Québec</nomcontractant>
+        <neqcontractant>1144653673</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-04-24</datedepense>
+        <datepublicationdepense>2020-05-22</datepublicationdepense>
+        <montantdepense>42038.080000</montantdepense>
+        <description>SRM030981 (087 017 790)</description>
+        <nomcontractant>L'institut d'échafaudage du Québec</nomcontractant>
+        <neqcontractant>1144653673</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-05-07</datedepense>
+        <datepublicationdepense>2020-05-25</datepublicationdepense>
+        <montantdepense>30801.640000</montantdepense>
+        <description>SRM030078 ( 087 017 790 )</description>
+        <nomcontractant>L'institut d'échafaudage du Québec</nomcontractant>
+        <neqcontractant>1144653673</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1211407</numeroseao>
+    <numero>24-478P</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-05-08</datedepense>
+        <datepublicationdepense>2020-05-20</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Correction du montant mis à zéro car il s'agit d'une erreur.</description>
+        <nomcontractant>Les Services EXP Inc</nomcontractant>
+        <neqcontractant>1167268128</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1219022</numeroseao>
+    <numero>24-546P1</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-08-23</datedepense>
+        <datepublicationdepense>2019-09-30</datepublicationdepense>
+        <montantdepense>23263.420000</montantdepense>
+        <description>SRM027923 (086 018 510)</description>
+        <nomcontractant>Ouellet Architecte</nomcontractant>
+        <neqcontractant>1147573316</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-10-25</datedepense>
+        <datepublicationdepense>2019-11-21</datepublicationdepense>
+        <montantdepense>21659.900000</montantdepense>
+        <description>SRM028111 - 100-013-650			</description>
+        <nomcontractant>Ouellet Architecte</nomcontractant>
+        <neqcontractant>1147573316</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-03-05</datedepense>
+        <datepublicationdepense>2020-03-11</datepublicationdepense>
+        <montantdepense>54197.930000</montantdepense>
+        <description>SRM030417 - 118 024 990 </description>
+        <nomcontractant>Ouellet Architecte</nomcontractant>
+        <neqcontractant>1147573316</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-04-16</datedepense>
+        <datepublicationdepense>2020-04-25</datepublicationdepense>
+        <montantdepense>12694.590000</montantdepense>
+        <description>SRM030682 - 086 018 510 - Ajustement de l'offre de service</description>
+        <nomcontractant>Ouellet Architecte</nomcontractant>
+        <neqcontractant>1147573316</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-04-28</datedepense>
+        <datepublicationdepense>2020-05-04</datepublicationdepense>
+        <montantdepense>49314.440000</montantdepense>
+        <description>SRM030778 - 100013650 (2e ajustement) rapport A-33-1531 comité du 31 mars 2020</description>
+        <nomcontractant>Ouellet Architecte</nomcontractant>
+        <neqcontractant>1147573316</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-05-05</datedepense>
+        <datepublicationdepense>2020-05-28</datepublicationdepense>
+        <montantdepense>177030.730000</montantdepense>
+        <description>SRM030757 (112 035 230)</description>
+        <nomcontractant>Ouellet Architecte</nomcontractant>
+        <neqcontractant>1147573316</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1229771</numeroseao>
+    <numero>201893</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-02-10</datedepense>
+        <datepublicationdepense>2020-03-04</datepublicationdepense>
+        <montantdepense>9000.000000</montantdepense>
+        <description>Honoraires supplémentaires dus aux ordres de changement ainsi qu'à la prolongation du chantier</description>
+        <nomcontractant>Archipel Architecture</nomcontractant>
+        <neqcontractant>1166969478</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-02-10</datedepense>
+        <datepublicationdepense>2020-05-22</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Dépense déjà publiée</description>
+        <nomcontractant>Archipel Architecture</nomcontractant>
+        <neqcontractant>1166969478</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1232611</numeroseao>
+    <numero>25-2604P</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-12-06</datedepense>
+        <datepublicationdepense>2019-12-18</datepublicationdepense>
+        <montantdepense>76178.230000</montantdepense>
+        <description>SRM029407 - 055 040 360 - Rapport A-33-1420-A - Résolution 24</description>
+        <nomcontractant>AKA Construction inc.</nomcontractant>
+        <neqcontractant>1171279137</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-04-28</datedepense>
+        <datepublicationdepense>2020-05-27</datepublicationdepense>
+        <montantdepense>8653.060000</montantdepense>
+        <description>SRM030744 (055 040 360) - Rapport A-33-1420-A - Résolution 24</description>
+        <nomcontractant>AKA Construction inc.</nomcontractant>
+        <neqcontractant>1171279137</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1236417</numeroseao>
+    <numero>24-557P2</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-01-24</datedepense>
+        <datepublicationdepense>2020-02-06</datepublicationdepense>
+        <montantdepense>29057.240000</montantdepense>
+        <description>SRM029705 (187 039 890)</description>
+        <nomcontractant>Cima+s.e.n.c.</nomcontractant>
+        <neqcontractant>3340563140</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-01-27</datedepense>
+        <datepublicationdepense>2020-02-12</datepublicationdepense>
+        <montantdepense>48037.590000</montantdepense>
+        <description>SRM028738 - 020 024 540</description>
+        <nomcontractant>Cima+s.e.n.c.</nomcontractant>
+        <neqcontractant>3340563140</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-05-07</datedepense>
+        <datepublicationdepense>2020-05-28</datepublicationdepense>
+        <montantdepense>109436.310000</montantdepense>
+        <description>SRM030815 (020 024 540)</description>
+        <nomcontractant>Cima+s.e.n.c.</nomcontractant>
+        <neqcontractant>3340563140</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1242836</numeroseao>
+    <numero>55458-621_MVM_PUB-SI</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-07-31</datedepense>
+        <datepublicationdepense>2020-05-01</datepublicationdepense>
+        <montantdepense>6000.000000</montantdepense>
+        <description> Révision de l'étude de faisabilité et la mise à jour de l'estimation pour l'ajout d'un lave-cages dans la chatterie. </description>
+        <nomcontractant>Pageau Morel Inc.</nomcontractant>
+        <neqcontractant>1144576254</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-04-30</datedepense>
+        <datepublicationdepense>2020-05-01</datepublicationdepense>
+        <montantdepense>15500.000000</montantdepense>
+        <description>Le type de lave-cage (incluant ses spécifications et besoins électromécaniques) a changé à la demande du client, la conception, la coordination ainsi que les P&amp;D complétés à 100%. Refaire la coordination des relevés et revoir la conception des P&amp;D pour réfléter les nouveaux besoins,</description>
+        <nomcontractant>Pageau Morel Inc.</nomcontractant>
+        <neqcontractant>1144576254</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1244857</numeroseao>
+    <numero>801706</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-04-14</datedepense>
+        <datepublicationdepense>2020-05-04</datepublicationdepense>
+        <montantdepense>8000.000000</montantdepense>
+        <description>Plus de demandes que prévues à la conclusion de ce contrat à exécution sur demande</description>
+        <nomcontractant>Groupe SCE</nomcontractant>
+        <neqcontractant>1147819081</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1263941</numeroseao>
+    <numero>067-2018-02</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-04-23</datedepense>
+        <datepublicationdepense>2020-04-27</datepublicationdepense>
+        <montantdepense>27196.050000</montantdepense>
+        <description>Architecture: Déplacement d'évent de plomberie car conflit avec la mécanique de structure; nouvelle cloisons local 301-A; Nouvelle retombée de plafond , aile Nord, escalier 101 et divers travaux d'architecture. </description>
+        <nomcontractant>Construction Mario Fafard  Inc.</nomcontractant>
+        <neqcontractant>1161685590</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-04-23</datedepense>
+        <datepublicationdepense>2020-04-27</datepublicationdepense>
+        <montantdepense>44389.680000</montantdepense>
+        <description>Mécanique du bâtiment: Ajout d'un serpentin, déplacer deux évents existant et ajustement de la ventilation. Déplacement de la ventilation dans l'aile sud et ajout de volet coupe-feu.</description>
+        <nomcontractant>Construction Mario Fafard  Inc.</nomcontractant>
+        <neqcontractant>1161685590</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-04-23</datedepense>
+        <datepublicationdepense>2020-04-27</datepublicationdepense>
+        <montantdepense>37838.420000</montantdepense>
+        <description>Électricité: modification des serpentins de chauffage, Déplacer les sept câbles de type BX au-dessus du panneau pour permettre le passage des conduits de ventilation. Ajout de luminaire dans l'aile sud et électricité divers.</description>
+        <nomcontractant>Construction Mario Fafard  Inc.</nomcontractant>
+        <neqcontractant>1161685590</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-05-19</datedepense>
+        <datepublicationdepense>2020-05-20</datepublicationdepense>
+        <montantdepense>17090.700000</montantdepense>
+        <description>Ancrages des structures au toit des ailes nord et sud; Ajout de contreventements horizontaux</description>
+        <nomcontractant>Construction Mario Fafard  Inc.</nomcontractant>
+        <neqcontractant>1161685590</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1269526</numeroseao>
+    <numero>18-19-91</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-09-18</datedepense>
+        <datepublicationdepense>2020-05-05</datepublicationdepense>
+        <montantdepense>17963.630000</montantdepense>
+        <description>ODC1 - Ajout de la zone 1 aux travaux d'excavation</description>
+        <nomcontractant>Entreprises Charles Maisonneuve Ltée.</nomcontractant>
+        <neqcontractant>1144392371</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-03-02</datedepense>
+        <datepublicationdepense>2020-05-05</datepublicationdepense>
+        <montantdepense>47619.000000</montantdepense>
+        <description>ODC3 - Ajout des puits-test (10 au total)</description>
+        <nomcontractant>Entreprises Charles Maisonneuve Ltée.</nomcontractant>
+        <neqcontractant>1144392371</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-04-22</datedepense>
+        <datepublicationdepense>2020-05-05</datepublicationdepense>
+        <montantdepense>17875.000000</montantdepense>
+        <description>ODC4 - Pompage supplémentaire au site</description>
+        <nomcontractant>Entreprises Charles Maisonneuve Ltée.</nomcontractant>
+        <neqcontractant>1144392371</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1276558</numeroseao>
+    <numero>3709</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-05-29</datedepense>
+        <datepublicationdepense>2020-05-29</datepublicationdepense>
+        <montantdepense>10305.370000</montantdepense>
+        <description>Travaux de même nature</description>
+        <nomcontractant>Amec Construction inc</nomcontractant>
+        <neqcontractant>1161430567</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1278365</numeroseao>
+    <numero>186110410</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-07-17</datedepense>
+        <datepublicationdepense>2020-05-04</datepublicationdepense>
+        <montantdepense>4877.140000</montantdepense>
+        <description>Amendement #1 - Phase 2 du projet, ajustement des honoraires professionnels selon la méthode à pourcentage pour réunions et visites supplémentaires et pour modifications.</description>
+        <nomcontractant>Bergeron Thouin Associés Architectes Inc.</nomcontractant>
+        <neqcontractant>1145414901</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-10-10</datedepense>
+        <datepublicationdepense>2020-05-04</datepublicationdepense>
+        <montantdepense>73581.690000</montantdepense>
+        <description>Amendement #1 - Phase 3- honoraires pour P&amp;D préliminaires et définitifs selon la méthode à pourcentage, pour surveillance et pour l'embauche d'un entrepreneur en coupe exploratoire.</description>
+        <nomcontractant>Bergeron Thouin Associés Architectes Inc.</nomcontractant>
+        <neqcontractant>1145414901</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-03-20</datedepense>
+        <datepublicationdepense>2020-05-04</datepublicationdepense>
+        <montantdepense>2556.170000</montantdepense>
+        <description>Amendement #3 - Honoraires pour visites supplémentaires et survillance accrue et pour coordination de demande de permis.</description>
+        <nomcontractant>Bergeron Thouin Associés Architectes Inc.</nomcontractant>
+        <neqcontractant>1145414901</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-05-06</datedepense>
+        <datepublicationdepense>2020-05-20</datepublicationdepense>
+        <montantdepense>1500.080000</montantdepense>
+        <description>Amendement #4 - Ajustement des honoraires pour P&amp;D préliminaires et définitifs et pour la gestion des changements et de surveillance selon la méthode à pourcentage.</description>
+        <nomcontractant>Bergeron Thouin Associés Architectes Inc.</nomcontractant>
+        <neqcontractant>1145414901</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1283240</numeroseao>
+    <numero>GG19020-20M03</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-04-01</datedepense>
+        <datepublicationdepense>2020-05-05</datepublicationdepense>
+        <montantdepense>8850.000000</montantdepense>
+        <description>Rehaussement du contrat</description>
+        <nomcontractant>Dr Jeanne-Nicole Faille</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1287315</numeroseao>
+    <numero>OPQ360-2019-4</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-04-29</datedepense>
+        <datepublicationdepense>2020-05-13</datepublicationdepense>
+        <montantdepense>65000.000000</montantdepense>
+        <description>Services juridiques</description>
+        <nomcontractant>Tremblay Bois Mignault Lemay, S.E.N.C.R.L.</nomcontractant>
+        <neqcontractant>3341670498</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1301086</numeroseao>
+    <numero>186110321</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-06-19</datedepense>
+        <datepublicationdepense>2019-08-30</datepublicationdepense>
+        <montantdepense>2000.000000</montantdepense>
+        <description>Ajustement d'honoraires professionnels pour les études et discussions préparatoires pour la portion électrique (forfaitaire).</description>
+        <nomcontractant>Stantec Experts Conseils Inc.</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-19</datedepense>
+        <datepublicationdepense>2019-08-30</datepublicationdepense>
+        <montantdepense>1000.000000</montantdepense>
+        <description>Ajustement d'honoraires professionnels pour la portion des frais de deux appels d'offres spécialité électrique (forfaitaire).</description>
+        <nomcontractant>Stantec Experts Conseils Inc.</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-19</datedepense>
+        <datepublicationdepense>2019-08-30</datepublicationdepense>
+        <montantdepense>11809.250000</montantdepense>
+        <description>Ajustement des honoraires professionnels pour la portion des plans et devis électrique (devis sur plan) lot 1 - démolition lot 2 - réaménagement (méthode à pourcentage).</description>
+        <nomcontractant>Stantec Experts Conseils Inc.</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-19</datedepense>
+        <datepublicationdepense>2019-08-30</datepublicationdepense>
+        <montantdepense>4445.750000</montantdepense>
+        <description>Ajustement des honoraires professionnels pour la portion de la surveillance partielle des travaux (incluant 3 visites) électrique lot 1 - démolition lot 2 - réaménagement. (méthode à pourcentage).</description>
+        <nomcontractant>Stantec Experts Conseils Inc.</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-19</datedepense>
+        <datepublicationdepense>2019-08-30</datepublicationdepense>
+        <montantdepense>1000.000000</montantdepense>
+        <description>Ajout d'honoraires professionnels pour les relevés et mise en plan - spécialité mécanique.</description>
+        <nomcontractant>Stantec Experts Conseils Inc.</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-19</datedepense>
+        <datepublicationdepense>2019-08-30</datepublicationdepense>
+        <montantdepense>1000.000000</montantdepense>
+        <description>Ajustement d'honoraires professionnels pour la portion des frais de deux appels d'offres côté mécanique (forfaitaire).</description>
+        <nomcontractant>Stantec Experts Conseils Inc.</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-19</datedepense>
+        <datepublicationdepense>2019-08-30</datepublicationdepense>
+        <montantdepense>11200.000000</montantdepense>
+        <description>Ajustement des honoraires professionnnels pour la portion des plans et devis mécaniques (devis sur plan) lot 1 - démoliton lot 2 - réaménagement (méthodes à pourcentage)</description>
+        <nomcontractant>Stantec Experts Conseils Inc.</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-19</datedepense>
+        <datepublicationdepense>2019-09-03</datepublicationdepense>
+        <montantdepense>4100.000000</montantdepense>
+        <description>Ajustement des honoraires professionnels pour la portion dela surveillance partielle des travaux (incluant les visites) mécanique lot 1 - démolition lot 2 - réaménagement (méthode à pourcentage).</description>
+        <nomcontractant>Stantec Experts Conseils Inc.</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-19</datedepense>
+        <datepublicationdepense>2019-09-03</datepublicationdepense>
+        <montantdepense>6000.000000</montantdepense>
+        <description>Service en structure - plans et devis (devis sur plan) méthode forfaitaire.</description>
+        <nomcontractant>Stantec Experts Conseils Inc.</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-19</datedepense>
+        <datepublicationdepense>2019-09-03</datepublicationdepense>
+        <montantdepense>2000.000000</montantdepense>
+        <description>Surveillance partielle des travaux incluant deux visites - méthode forfaitaire.</description>
+        <nomcontractant>Stantec Experts Conseils Inc.</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-19</datedepense>
+        <datepublicationdepense>2019-09-03</datepublicationdepense>
+        <montantdepense>500.000000</montantdepense>
+        <description>TQC - méthode forfaitaire.</description>
+        <nomcontractant>Stantec Experts Conseils Inc.</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-19</datedepense>
+        <datepublicationdepense>2019-09-03</datepublicationdepense>
+        <montantdepense>500.000000</montantdepense>
+        <description>Ajout d'allocation.</description>
+        <nomcontractant>Stantec Experts Conseils Inc.</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-12</datedepense>
+        <datepublicationdepense>2019-09-03</datepublicationdepense>
+        <montantdepense>2000.000000</montantdepense>
+        <description>Ajustement d'honoraires professionnels pour les études et discussions préparatoires pour la portion mécaniques (forfaitaire).</description>
+        <nomcontractant>Stantec Experts Conseils Inc.</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-10-21</datedepense>
+        <datepublicationdepense>2020-05-28</datepublicationdepense>
+        <montantdepense>2612.630000</montantdepense>
+        <description>Ajustement des honoraires pour P&amp;D définitifs et pour surveillance selon la méthode à pourcentage.</description>
+        <nomcontractant>Stantec Experts Conseils Inc.</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-05-05</datedepense>
+        <datepublicationdepense>2020-05-28</datepublicationdepense>
+        <montantdepense>12994.230000</montantdepense>
+        <description>Honoraires pour gestion des changements en extra, et de surveillance suite à la prolongation des travaux de construction selon la méthode à taux horaire.</description>
+        <nomcontractant>Stantec Experts Conseils Inc.</nomcontractant>
+        <neqcontractant>1170241336</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1305966</numeroseao>
+    <numero>AO20190919</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-04-17</datedepense>
+        <datepublicationdepense>2020-05-06</datepublicationdepense>
+        <montantdepense>18480.000000</montantdepense>
+        <description>Renouvellement de la ressource pour un mois (Mai 2020)</description>
+        <nomcontractant>ERP Connex Inc.</nomcontractant>
+        <neqcontractant>1166069774</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1317487</numeroseao>
+    <numero>C9120</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-11-13</datedepense>
+        <datepublicationdepense>2019-11-13</datepublicationdepense>
+        <montantdepense>14300.000000</montantdepense>
+        <description>Préparation d'un devis de précommande, revue de concept de pompage de glycol froid en primaire / secondaire, remplacement du serpentin de refroidissement du système 4A, augmentation de la capacité du refroidisseur récupérateur de chaleur RF2 de 120 T nominales à 100T nettes.</description>
+        <nomcontractant>Tetra Tech QI inc - Est</nomcontractant>
+        <neqcontractant>1169411510</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-05-14</datedepense>
+        <datepublicationdepense>2020-05-25</datepublicationdepense>
+        <montantdepense>13083.000000</montantdepense>
+        <description>Ajout pour demande de changement et surveillance</description>
+        <nomcontractant>Tetra Tech QI inc - Est</nomcontractant>
+        <neqcontractant>1169411510</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1335912</numeroseao>
+    <numero>14862 2019-2020</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-04-17</datedepense>
+        <datepublicationdepense>2020-05-03</datepublicationdepense>
+        <montantdepense>17742.640000</montantdepense>
+        <description>Contrat à commande consommation supérieure aux prévisions</description>
+        <nomcontractant>bioMerieux Canada, Inc.</nomcontractant>
+        <neqcontractant>1143870633</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-04-30</datedepense>
+        <datepublicationdepense>2020-05-03</datepublicationdepense>
+        <montantdepense>8928.040000</montantdepense>
+        <description>Contrat à commande consommation supérieure aux prévisions</description>
+        <nomcontractant>bioMerieux Canada, Inc.</nomcontractant>
+        <neqcontractant>1143870633</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1356830</numeroseao>
+    <numero>07-13209</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-05-27</datedepense>
+        <datepublicationdepense>2020-05-27</datepublicationdepense>
+        <montantdepense>7751.000000</montantdepense>
+        <description>Imprévus de chantier</description>
+        <nomcontractant>DLS Construction Inc.</nomcontractant>
+        <neqcontractant>1144215010</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-03-23</datedepense>
+        <datepublicationdepense>2020-05-27</datepublicationdepense>
+        <montantdepense>1166.220000</montantdepense>
+        <description>Changement de design</description>
+        <nomcontractant>DLS Construction Inc.</nomcontractant>
+        <neqcontractant>1144215010</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2020-03-20</datedepense>
+        <datepublicationdepense>2020-05-27</datepublicationdepense>
+        <montantdepense>2628.370000</montantdepense>
+        <description>Imprévus de chantier</description>
+        <nomcontractant>DLS Construction Inc.</nomcontractant>
+        <neqcontractant>1144215010</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1359142</numeroseao>
+    <numero>CO2020-6316-3</numero>
+    <depenses>
+      <depense>
+        <datedepense>2020-05-22</datedepense>
+        <datepublicationdepense>2020-05-25</datepublicationdepense>
+        <montantdepense>23800.000000</montantdepense>
+        <description>Ajout de 280 heures </description>
+        <nomcontractant>Jacinthe Thériault </nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+</export>

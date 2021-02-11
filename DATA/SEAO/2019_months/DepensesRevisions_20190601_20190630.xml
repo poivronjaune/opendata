@@ -1,0 +1,1303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2019-06-01" datefin="2019-06-30">
+  <avis>
+    <numeroseao>523622</numeroseao>
+    <numero>21453700</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-04-30</datedepense>
+        <datepublicationdepense>2019-06-05</datepublicationdepense>
+        <montantdepense>86690.000000</montantdepense>
+        <description>Prolongation du contrat.</description>
+        <nomcontractant>Siemens Inc.</nomcontractant>
+        <neqcontractant>1161355988</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>537770</numeroseao>
+    <numero>2211</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-05-23</datedepense>
+        <datepublicationdepense>2019-06-11</datepublicationdepense>
+        <montantdepense>36591.610000</montantdepense>
+        <description>Avenant no 1</description>
+        <nomcontractant>Jodoin Lamarre Pratte et Associés Architectes</nomcontractant>
+        <neqcontractant>1168778877</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2014-06-11</datedepense>
+        <datepublicationdepense>2019-06-11</datepublicationdepense>
+        <montantdepense>33804.810000</montantdepense>
+        <description>Avenant no 2</description>
+        <nomcontractant>Jodoin Lamarre Pratte et Associés Architectes</nomcontractant>
+        <neqcontractant>1168778877</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-04-12</datedepense>
+        <datepublicationdepense>2019-06-11</datepublicationdepense>
+        <montantdepense>27852.000000</montantdepense>
+        <description>Avenant no 3</description>
+        <nomcontractant>Jodoin Lamarre Pratte et Associés Architectes</nomcontractant>
+        <neqcontractant>1168778877</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-06-12</datedepense>
+        <datepublicationdepense>2019-06-11</datepublicationdepense>
+        <montantdepense>37706.310000</montantdepense>
+        <description>Avenant no 4</description>
+        <nomcontractant>Jodoin Lamarre Pratte et Associés Architectes</nomcontractant>
+        <neqcontractant>1168778877</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>779350</numeroseao>
+    <numero>8801-14-0226</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-09-10</datedepense>
+        <datepublicationdepense>2017-02-15</datepublicationdepense>
+        <montantdepense>36287.000000</montantdepense>
+        <description>Dépassement relié à des variations de quantité et/ou des modifications au contrat de construction ou de services de nature technique</description>
+        <nomcontractant>Cimota inc..</nomcontractant>
+        <neqcontractant>1169588333</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-04-11</datedepense>
+        <datepublicationdepense>2017-06-07</datepublicationdepense>
+        <montantdepense>112653.830000</montantdepense>
+        <description>Poursuites judiciaires ou réclamations</description>
+        <nomcontractant>Cimota inc..</nomcontractant>
+        <neqcontractant>1169588333</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-04-27</datedepense>
+        <datepublicationdepense>2019-05-31</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Erreur de saisie</description>
+        <nomcontractant>Cimota inc..</nomcontractant>
+        <neqcontractant>1169588333</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>998029</numeroseao>
+    <numero>2017-4898</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-04-12</datedepense>
+        <datepublicationdepense>2019-06-03</datepublicationdepense>
+        <montantdepense>56868.000000</montantdepense>
+        <description>Prolongation de 9 mois de l'entente originale. Ajout de produits en cours d'entente.</description>
+        <nomcontractant>Olympus Canada Inc</nomcontractant>
+        <neqcontractant>1163495170</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1038912</numeroseao>
+    <numero>CE 2016-2017/025</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-05-31</datedepense>
+        <datepublicationdepense>2018-06-25</datepublicationdepense>
+        <montantdepense>15216.370000</montantdepense>
+        <description>Méthode à taux horaire.  Conception plus complexe pour une ouverture entre les deux parties de la bâtisse.  Complexité reliée à l'ascenseur.  Manque de suivi et de personnel au niveau de l'entrepreneur.  Prolongation du chantier.</description>
+        <nomcontractant>BGLA | Architecture + Design Urbain</nomcontractant>
+        <neqcontractant>1140294530</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-06-30</datedepense>
+        <datepublicationdepense>2018-06-25</datepublicationdepense>
+        <montantdepense>3951.350000</montantdepense>
+        <description>Méthode à taux horaire.  Conception plus complexe pour une ouverture entre les deux parties de la bâtisse.  Complexité reliée à l'ascenseur.  Manque de suivi et de personnel au niveau de l'entrepreneur.  Prolongation du chantier.</description>
+        <nomcontractant>BGLA | Architecture + Design Urbain</nomcontractant>
+        <neqcontractant>1140294530</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-31</datedepense>
+        <datepublicationdepense>2018-06-25</datepublicationdepense>
+        <montantdepense>4626.790000</montantdepense>
+        <description>Méthode à taux horaire.  Conception plus complexe pour une ouverture entre les deux parties de la bâtisse.  Complexité reliée à l'ascenseur.  Manque de suivi et de personnel au niveau de l'entrepreneur.  Prolongation du chantier.</description>
+        <nomcontractant>BGLA | Architecture + Design Urbain</nomcontractant>
+        <neqcontractant>1140294530</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-08-31</datedepense>
+        <datepublicationdepense>2018-06-25</datepublicationdepense>
+        <montantdepense>4160.720000</montantdepense>
+        <description>Méthode à taux horaire.  Conception plus complexe pour une ouverture entre les deux parties de la bâtisse.  Complexité reliée à l'ascenseur.  Manque de suivi et de personnel au niveau de l'entrepreneur.  Prolongation du chantier.</description>
+        <nomcontractant>BGLA | Architecture + Design Urbain</nomcontractant>
+        <neqcontractant>1140294530</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-09-30</datedepense>
+        <datepublicationdepense>2018-06-25</datepublicationdepense>
+        <montantdepense>4930.970000</montantdepense>
+        <description>Méthode à taux horaire.  Conception plus complexe pour une ouverture entre les deux parties de la bâtisse.  Complexité reliée à l'ascenseur.  Manque de suivi et de personnel au niveau de l'entrepreneur.  Prolongation du chantier.</description>
+        <nomcontractant>BGLA | Architecture + Design Urbain</nomcontractant>
+        <neqcontractant>1140294530</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-31</datedepense>
+        <datepublicationdepense>2018-06-25</datepublicationdepense>
+        <montantdepense>6034.670000</montantdepense>
+        <description>Méthode à taux horaire.  Conception plus complexe pour une ouverture entre les deux parties de la bâtisse.  Complexité reliée à l'ascenseur.  Manque de suivi et de personnel au niveau de l'entrepreneur.  Prolongation du chantier.</description>
+        <nomcontractant>BGLA | Architecture + Design Urbain</nomcontractant>
+        <neqcontractant>1140294530</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-30</datedepense>
+        <datepublicationdepense>2018-06-25</datepublicationdepense>
+        <montantdepense>3541.990000</montantdepense>
+        <description>Méthode à taux horaire.  Conception plus complexe pour une ouverture entre les deux parties de la bâtisse.  Complexité reliée à l'ascenseur.  Manque de suivi et de personnel au niveau de l'entrepreneur.  Prolongation du chantier.</description>
+        <nomcontractant>BGLA | Architecture + Design Urbain</nomcontractant>
+        <neqcontractant>1140294530</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-31</datedepense>
+        <datepublicationdepense>2018-06-25</datepublicationdepense>
+        <montantdepense>2384.660000</montantdepense>
+        <description>Méthode à taux horaire.  Conception plus complexe pour une ouverture entre les deux parties de la bâtisse.  Complexité reliée à l'ascenseur.  Manque de suivi et de personnel au niveau de l'entrepreneur.  Prolongation du chantier.</description>
+        <nomcontractant>BGLA | Architecture + Design Urbain</nomcontractant>
+        <neqcontractant>1140294530</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-31</datedepense>
+        <datepublicationdepense>2018-06-25</datepublicationdepense>
+        <montantdepense>2663.740000</montantdepense>
+        <description>Méthode à taux horaire.  Conception plus complexe pour une ouverture entre les deux parties de la bâtisse.  Complexité reliée à l'ascenseur.  Manque de suivi et de personnel au niveau de l'entrepreneur.  Prolongation du chantier.</description>
+        <nomcontractant>BGLA | Architecture + Design Urbain</nomcontractant>
+        <neqcontractant>1140294530</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-28</datedepense>
+        <datepublicationdepense>2018-06-25</datepublicationdepense>
+        <montantdepense>526.210000</montantdepense>
+        <description>Méthode à taux horaire.  Conception plus complexe pour une ouverture entre les deux parties de la bâtisse.  Complexité reliée à l'ascenseur.  Manque de suivi et de personnel au niveau de l'entrepreneur.  Prolongation du chantier.</description>
+        <nomcontractant>BGLA | Architecture + Design Urbain</nomcontractant>
+        <neqcontractant>1140294530</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-31</datedepense>
+        <datepublicationdepense>2018-06-25</datepublicationdepense>
+        <montantdepense>1246.210000</montantdepense>
+        <description>Méthode à taux horaire.  Conception plus complexe pour une ouverture entre les deux parties de la bâtisse.  Complexité reliée à l'ascenseur.  Manque de suivi et de personnel au niveau de l'entrepreneur.  Prolongation du chantier.</description>
+        <nomcontractant>BGLA | Architecture + Design Urbain</nomcontractant>
+        <neqcontractant>1140294530</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-30</datedepense>
+        <datepublicationdepense>2018-06-25</datepublicationdepense>
+        <montantdepense>527.010000</montantdepense>
+        <description>Méthode à taux horaire.  Conception plus complexe pour une ouverture entre les deux parties de la bâtisse.  Complexité reliée à l'ascenseur.  Manque de suivi et de personnel au niveau de l'entrepreneur.  Prolongation du chantier.</description>
+        <nomcontractant>BGLA | Architecture + Design Urbain</nomcontractant>
+        <neqcontractant>1140294530</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-31</datedepense>
+        <datepublicationdepense>2019-06-27</datepublicationdepense>
+        <montantdepense>1593.750000</montantdepense>
+        <description>Méthode à taux horaire. Conception plus complexe pour une ouverture entre les deux parties de la bâtisse. Complexité reliée à l'ascenseur. Manque de suivi et de personnel au niveau de l'entrepreneur. Prolongation du chantier. </description>
+        <nomcontractant>BGLA | Architecture + Design Urbain</nomcontractant>
+        <neqcontractant>1140294530</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-30</datedepense>
+        <datepublicationdepense>2019-06-27</datepublicationdepense>
+        <montantdepense>957.110000</montantdepense>
+        <description>Méthode à taux horaire. Conception plus complexe pour une ouverture entre les deux parties de la bâtisse. Complexité reliée à l'ascenseur. Manque de suivi et de personnel au niveau de l'entrepreneur. Prolongation du chantier. </description>
+        <nomcontractant>BGLA | Architecture + Design Urbain</nomcontractant>
+        <neqcontractant>1140294530</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-31</datedepense>
+        <datepublicationdepense>2019-06-27</datepublicationdepense>
+        <montantdepense>489.060000</montantdepense>
+        <description>Méthode à taux horaire. Conception plus complexe pour une ouverture entre les deux parties de la bâtisse. Complexité reliée à l'ascenseur. Manque de suivi et de personnel au niveau de l'entrepreneur. Prolongation du chantier. </description>
+        <nomcontractant>BGLA | Architecture + Design Urbain</nomcontractant>
+        <neqcontractant>1140294530</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-31</datedepense>
+        <datepublicationdepense>2019-06-27</datepublicationdepense>
+        <montantdepense>1622.580000</montantdepense>
+        <description>Méthode à taux horaire. Conception plus complexe pour une ouverture entre les deux parties de la bâtisse. Complexité reliée à l'ascenseur. Manque de suivi et de personnel au niveau de l'entrepreneur. Prolongation du chantier. </description>
+        <nomcontractant>BGLA | Architecture + Design Urbain</nomcontractant>
+        <neqcontractant>1140294530</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-11-30</datedepense>
+        <datepublicationdepense>2019-06-27</datepublicationdepense>
+        <montantdepense>1002.490000</montantdepense>
+        <description>Méthode à taux horaire. Conception plus complexe pour une ouverture entre les deux parties de la bâtisse. Complexité reliée à l'ascenseur. Manque de suivi et de personnel au niveau de l'entrepreneur. Prolongation du chantier. </description>
+        <nomcontractant>BGLA | Architecture + Design Urbain</nomcontractant>
+        <neqcontractant>1140294530</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-12-31</datedepense>
+        <datepublicationdepense>2019-06-27</datepublicationdepense>
+        <montantdepense>541.830000</montantdepense>
+        <description>Méthode à taux horaire. Conception plus complexe pour une ouverture entre les deux parties de la bâtisse. Complexité reliée à l'ascenseur. Manque de suivi et de personnel au niveau de l'entrepreneur. Prolongation du chantier. </description>
+        <nomcontractant>BGLA | Architecture + Design Urbain</nomcontractant>
+        <neqcontractant>1140294530</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-01-31</datedepense>
+        <datepublicationdepense>2019-06-27</datepublicationdepense>
+        <montantdepense>317.110000</montantdepense>
+        <description>Méthode à taux horaire. Conception plus complexe pour une ouverture entre les deux parties de la bâtisse. Complexité reliée à l'ascenseur. Manque de suivi et de personnel au niveau de l'entrepreneur. Prolongation du chantier. </description>
+        <nomcontractant>BGLA | Architecture + Design Urbain</nomcontractant>
+        <neqcontractant>1140294530</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1040921</numeroseao>
+    <numero>999728834</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-04-29</datedepense>
+        <datepublicationdepense>2019-05-16</datepublicationdepense>
+        <montantdepense>2175000.000000</montantdepense>
+        <description>Un montant additionnel a été alloué afin de mener à terme le contrat.</description>
+        <nomcontractant>Gartner Canada Co</nomcontractant>
+        <neqcontractant>1162106687</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1088346</numeroseao>
+    <numero>32269200</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-11-23</datedepense>
+        <datepublicationdepense>2019-01-21</datepublicationdepense>
+        <montantdepense>246783.000000</montantdepense>
+        <description>Conditions imprévisibles de chantier</description>
+        <nomcontractant>Ondel inc.</nomcontractant>
+        <neqcontractant>1143586387</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-01</datedepense>
+        <datepublicationdepense>2019-02-05</datepublicationdepense>
+        <montantdepense>702.030000</montantdepense>
+        <description>Calfeutrage pour les silencieux des génératrices.</description>
+        <nomcontractant>Ondel inc.</nomcontractant>
+        <neqcontractant>1143586387</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-03</datedepense>
+        <datepublicationdepense>2019-04-03</datepublicationdepense>
+        <montantdepense>2158.080000</montantdepense>
+        <description>Divers ordres de changement (n°53 à n°56)</description>
+        <nomcontractant>Ondel inc.</nomcontractant>
+        <neqcontractant>1143586387</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-04</datedepense>
+        <datepublicationdepense>2019-04-04</datepublicationdepense>
+        <montantdepense>2943.170000</montantdepense>
+        <description>Divers ordres de changement (no 57 à no 59)</description>
+        <nomcontractant>Ondel inc.</nomcontractant>
+        <neqcontractant>1143586387</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-03</datedepense>
+        <datepublicationdepense>2019-06-27</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Ajout de L'ODC 60</description>
+        <nomcontractant>Ondel inc.</nomcontractant>
+        <neqcontractant>1143586387</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1088487</numeroseao>
+    <numero>SD17-5001-5003-1</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-03-07</datedepense>
+        <datepublicationdepense>2019-06-18</datepublicationdepense>
+        <montantdepense>55550.000000</montantdepense>
+        <description>Remplacement du joint de tablier à l'axe 4 du pont P-10492 au-dessus de la rivière Rupert et annulation des travaux de remplacement d'une garniture enclenchée d'un joint de tablier à l'axe 4.</description>
+        <nomcontractant>Blais &amp; Langlois Inc.</nomcontractant>
+        <neqcontractant>1142754960</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-08</datedepense>
+        <datepublicationdepense>2019-06-18</datepublicationdepense>
+        <montantdepense>3179330.000000</montantdepense>
+        <description>Ajout de ponceaux à remplacer sur 13 sites d'intervention entre les km 144 et 198.</description>
+        <nomcontractant>Blais &amp; Langlois Inc.</nomcontractant>
+        <neqcontractant>1142754960</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-11</datedepense>
+        <datepublicationdepense>2019-06-18</datepublicationdepense>
+        <montantdepense>6006.200000</montantdepense>
+        <description>Correction des accotements au pont de la rivière Waswanipi. Le 26 novembre 2018: Augmentation des quantités pour la correction des accotements au pont de la rivière Waswanipi.</description>
+        <nomcontractant>Blais &amp; Langlois Inc.</nomcontractant>
+        <neqcontractant>1142754960</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-07</datedepense>
+        <datepublicationdepense>2019-06-18</datepublicationdepense>
+        <montantdepense>143510.000000</montantdepense>
+        <description>-143 510,00 $ - Élimination des travaux de planage, compensation pour la perte des résidus de planage et élimination de granulat concassé MG-20 sur accotements.</description>
+        <nomcontractant>Blais &amp; Langlois Inc.</nomcontractant>
+        <neqcontractant>1142754960</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-31</datedepense>
+        <datepublicationdepense>2019-06-18</datepublicationdepense>
+        <montantdepense>1539490.000000</montantdepense>
+        <description>Ajout de ponceaux à remplacer sur 10 sites d'intervention.</description>
+        <nomcontractant>Blais &amp; Langlois Inc.</nomcontractant>
+        <neqcontractant>1142754960</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-11-30</datedepense>
+        <datepublicationdepense>2019-06-18</datepublicationdepense>
+        <montantdepense>22572.000000</montantdepense>
+        <description>Ajustement de prix de profondeur de démolition de la dalle de béton sur le pont de la rivière Broadback.</description>
+        <nomcontractant>Blais &amp; Langlois Inc.</nomcontractant>
+        <neqcontractant>1142754960</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-11-30</datedepense>
+        <datepublicationdepense>2019-06-18</datepublicationdepense>
+        <montantdepense>4279.800000</montantdepense>
+        <description>Démolition des écrous et fourniture de nouveaux écrous pour le système anti-soulèvement des ponts des rivières Waswanipi et Broadback.</description>
+        <nomcontractant>Blais &amp; Langlois Inc.</nomcontractant>
+        <neqcontractant>1142754960</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-11-30</datedepense>
+        <datepublicationdepense>2019-06-18</datepublicationdepense>
+        <montantdepense>800.580000</montantdepense>
+        <description>Réparation à l'asphalte froide des approches du pont de la rivière Waswanipi.</description>
+        <nomcontractant>Blais &amp; Langlois Inc.</nomcontractant>
+        <neqcontractant>1142754960</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-11-30</datedepense>
+        <datepublicationdepense>2019-06-18</datepublicationdepense>
+        <montantdepense>23398.500000</montantdepense>
+        <description>Travaux divers supplémentaires en dépenses contrôlées.</description>
+        <nomcontractant>Blais &amp; Langlois Inc.</nomcontractant>
+        <neqcontractant>1142754960</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-11-30</datedepense>
+        <datepublicationdepense>2019-06-18</datepublicationdepense>
+        <montantdepense>6787.370000</montantdepense>
+        <description>Démolition et remplacement d'écrous au système anti-soulèvement du pont de la rivière Broadback.</description>
+        <nomcontractant>Blais &amp; Langlois Inc.</nomcontractant>
+        <neqcontractant>1142754960</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-11-30</datedepense>
+        <datepublicationdepense>2019-06-18</datepublicationdepense>
+        <montantdepense>4067.850000</montantdepense>
+        <description>Modification des blocs d'ancrage des haubans du pont de la rivière Rupert ET soudure des membranes de deux diaphragmes (axe 3) du pont de la rivière Rupert.</description>
+        <nomcontractant>Blais &amp; Langlois Inc.</nomcontractant>
+        <neqcontractant>1142754960</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-11-30</datedepense>
+        <datepublicationdepense>2019-06-18</datepublicationdepense>
+        <montantdepense>3465.000000</montantdepense>
+        <description>Ajustement de prix pour profondeur de démolition du pont de la rivière Broadback.</description>
+        <nomcontractant>Blais &amp; Langlois Inc.</nomcontractant>
+        <neqcontractant>1142754960</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-01-29</datedepense>
+        <datepublicationdepense>2019-06-18</datepublicationdepense>
+        <montantdepense>1139.050000</montantdepense>
+        <description>Meulage des faces extérieures des ailes inférieures des poutres 2, 3 et 4 du pont de la rivière Rupert.</description>
+        <nomcontractant>Blais &amp; Langlois Inc.</nomcontractant>
+        <neqcontractant>1142754960</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-01-29</datedepense>
+        <datepublicationdepense>2019-06-18</datepublicationdepense>
+        <montantdepense>2004923.130000</montantdepense>
+        <description>Ajustement du prix du bitume et du carburant.</description>
+        <nomcontractant>Blais &amp; Langlois Inc.</nomcontractant>
+        <neqcontractant>1142754960</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1100053</numeroseao>
+    <numero>689036-ADM-2017-2</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-05-10</datedepense>
+        <datepublicationdepense>2018-06-29</datepublicationdepense>
+        <montantdepense>38889.930000</montantdepense>
+        <description>Montant avant taxes</description>
+        <nomcontractant>GIDC Mecatina Inc</nomcontractant>
+        <neqcontractant>1143312040</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-25</datedepense>
+        <datepublicationdepense>2019-06-28</datepublicationdepense>
+        <montantdepense>19240.270000</montantdepense>
+        <description> Montant avant taxes</description>
+        <nomcontractant>GIDC Mecatina Inc</nomcontractant>
+        <neqcontractant>1143312040</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1124747</numeroseao>
+    <numero>26A1701-I</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-05-31</datedepense>
+        <datepublicationdepense>2019-06-28</datepublicationdepense>
+        <montantdepense>3738.820000</montantdepense>
+        <description>Méthode à taux horaire.  En cours de mandat, découverte d'une fissure dans un mur de béton ce qui a demandé plus de travail d'ingénierie.</description>
+        <nomcontractant>LGT inc.</nomcontractant>
+        <neqcontractant>1171470132</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-30</datedepense>
+        <datepublicationdepense>2019-06-28</datepublicationdepense>
+        <montantdepense>3461.190000</montantdepense>
+        <description>Méthode à taux horaire. En cours de mandat, découverte d'une fissure dans un mur de béton ce qui a demandé plus de travail d'ingénierie. </description>
+        <nomcontractant>LGT inc.</nomcontractant>
+        <neqcontractant>1171470132</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-01</datedepense>
+        <datepublicationdepense>2019-06-28</datepublicationdepense>
+        <montantdepense>8617.560000</montantdepense>
+        <description>Méthode à taux horaire. En cours de mandat, découverte d'une fissure dans un mur de béton ce qui a demandé plus de travail d'ingénierie. </description>
+        <nomcontractant>LGT inc.</nomcontractant>
+        <neqcontractant>1171470132</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-31</datedepense>
+        <datepublicationdepense>2019-06-28</datepublicationdepense>
+        <montantdepense>9511.190000</montantdepense>
+        <description>Méthode à taux horaire. En cours de mandat, découverte d'une fissure dans un mur de béton ce qui a demandé plus de travail d'ingénierie. </description>
+        <nomcontractant>LGT inc.</nomcontractant>
+        <neqcontractant>1171470132</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-09-30</datedepense>
+        <datepublicationdepense>2019-06-28</datepublicationdepense>
+        <montantdepense>4947.190000</montantdepense>
+        <description>Méthode à taux horaire. En cours de mandat, découverte d'une fissure dans un mur de béton ce qui a demandé plus de travail d'ingénierie. </description>
+        <nomcontractant>LGT inc.</nomcontractant>
+        <neqcontractant>1171470132</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-12-14</datedepense>
+        <datepublicationdepense>2019-06-28</datepublicationdepense>
+        <montantdepense>4482.940000</montantdepense>
+        <description>Méthode à taux horaire. En cours de mandat, découverte d'une fissure dans un mur de béton ce qui a demandé plus de travail d'ingénierie. </description>
+        <nomcontractant>LGT inc.</nomcontractant>
+        <neqcontractant>1171470132</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1127668</numeroseao>
+    <numero>109EstaCircuitSportÉtudes</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-02-08</datedepense>
+        <datepublicationdepense>2018-02-12</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Dépense mise dans le mauvais dossier - Ajout Danse District</description>
+        <nomcontractant>Les Autobus Bell-Horizon</nomcontractant>
+        <neqcontractant>1142907865</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1127855</numeroseao>
+    <numero>CA-171030-RY</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-02-28</datedepense>
+        <datepublicationdepense>2019-05-28</datepublicationdepense>
+        <montantdepense>72853.240000</montantdepense>
+        <description>Aménagement d'une salle d'induction et réserves stériles</description>
+        <nomcontractant>Construction GCP Inc.</nomcontractant>
+        <neqcontractant>1143366657</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1133320</numeroseao>
+    <numero>2017/18-031</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-05-09</datedepense>
+        <datepublicationdepense>2019-06-11</datepublicationdepense>
+        <montantdepense>71351.870000</montantdepense>
+        <description>AM#1 1er 10% Am#1=7,43% + 2,57%Am#2 = 1er 10% = 53 005,95$+18345,92$ (78237,87*2,57%/10,96%) =71 351,87$=1er 10%</description>
+        <nomcontractant>Emcon</nomcontractant>
+        <neqcontractant>1167005546</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-09</datedepense>
+        <datepublicationdepense>2019-06-11</datepublicationdepense>
+        <montantdepense>59891.950000</montantdepense>
+        <description>AM#2 fait dépasser au delà du 1er 10% Correction plomberie/régulation = 78 237,87$-18345,92$(inclus dans 1er 10%)=59891,95$</description>
+        <nomcontractant>Emcon</nomcontractant>
+        <neqcontractant>1167005546</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-27</datedepense>
+        <datepublicationdepense>2019-06-20</datepublicationdepense>
+        <montantdepense>26875.260000</montantdepense>
+        <description>Am#3 Ajout Flexible, coupe de béton et réclamation</description>
+        <nomcontractant>Emcon</nomcontractant>
+        <neqcontractant>1167005546</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-27</datedepense>
+        <datepublicationdepense>2019-06-20</datepublicationdepense>
+        <montantdepense>1.000000</montantdepense>
+        <description>Aucune transaction</description>
+        <nomcontractant>Emcon</nomcontractant>
+        <neqcontractant>1167005546</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1134070</numeroseao>
+    <numero>33374300</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-04-18</datedepense>
+        <datepublicationdepense>2019-04-18</datepublicationdepense>
+        <montantdepense>158437.680000</montantdepense>
+        <description>Imprévus de chantier</description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-10</datedepense>
+        <datepublicationdepense>2019-05-23</datepublicationdepense>
+        <montantdepense>4904.750000</montantdepense>
+        <description>Erreur et omission</description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-16</datedepense>
+        <datepublicationdepense>2019-05-23</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Erreur : double saisie</description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-17</datedepense>
+        <datepublicationdepense>2019-06-28</datepublicationdepense>
+        <montantdepense>260974.700000</montantdepense>
+        <description>Imprévus de chantier</description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-17</datedepense>
+        <datepublicationdepense>2019-06-28</datepublicationdepense>
+        <montantdepense>11287.250000</montantdepense>
+        <description>Imprévus de chantier</description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1135971</numeroseao>
+    <numero>AO-5257</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-12-19</datedepense>
+        <datepublicationdepense>2019-02-14</datepublicationdepense>
+        <montantdepense>192574.240000</montantdepense>
+        <description>Avenant pour ajustement du calcul des honoraires suite à la révision au budget de construction</description>
+        <nomcontractant>BGLA ET ABCP, architectes en consortium</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1135983</numeroseao>
+    <numero>AO-5258</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-12-19</datedepense>
+        <datepublicationdepense>2019-02-14</datepublicationdepense>
+        <montantdepense>159807.000000</montantdepense>
+        <description>Avenant pour frais d’honoraires supplémentaires pour les services de bases</description>
+        <nomcontractant>Bouthillette Parizeau Inc.</nomcontractant>
+        <neqcontractant>1142591438</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1137939</numeroseao>
+    <numero>CNIM2017-051</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-02-01</datedepense>
+        <datepublicationdepense>2019-02-25</datepublicationdepense>
+        <montantdepense>39598.090000</montantdepense>
+        <description>ODC 1 à 11 &lt;10%: (26 236.21$) Conditions chantier, demande du client, erreur ou omission pour différents travaux de construction. ODC 12 et 13 Cumulatif de 10.89% (13 361.88$): Frais de prolongation du chantier et frais additionnels pour cautionnements et assurances pour la durée de prolongation</description>
+        <nomcontractant>Gaston Champoux (1973) Inc.</nomcontractant>
+        <neqcontractant>1142837930</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-04</datedepense>
+        <datepublicationdepense>2019-04-25</datepublicationdepense>
+        <montantdepense>709.810000</montantdepense>
+        <description>ODC 14: Demande du client: Travaux électriques pour fournir et installer deux boutons d'urgence Siemens </description>
+        <nomcontractant>Gaston Champoux (1973) Inc.</nomcontractant>
+        <neqcontractant>1142837930</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-19</datedepense>
+        <datepublicationdepense>2019-06-21</datepublicationdepense>
+        <montantdepense>938.760000</montantdepense>
+        <description>28 mai 2019: ODC 16 au montant de 938.76$: Erreur et omission Fournir matériaux, main d'oeuvre, équipement et outillage nécessaires pour faire les travaux d'électricité pour le contrôle des indicateurs lumineux d'examen</description>
+        <nomcontractant>Gaston Champoux (1973) Inc.</nomcontractant>
+        <neqcontractant>1142837930</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-27</datedepense>
+        <datepublicationdepense>2019-06-26</datepublicationdepense>
+        <montantdepense>12476.810000</montantdepense>
+        <description>ODC 15: Erreur et omission. Fournir matériaux, main d'oeuvre, équipement et outillage nécessaires pour rendre conforme le système d'alarme incendie.</description>
+        <nomcontractant>Gaston Champoux (1973) Inc.</nomcontractant>
+        <neqcontractant>1142837930</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1145443</numeroseao>
+    <numero>20180308-01</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-11-06</datedepense>
+        <datepublicationdepense>2018-12-03</datepublicationdepense>
+        <montantdepense>56449.510000</montantdepense>
+        <description>Ajout travaux d'architecture, de structure et de mécanique</description>
+        <nomcontractant>Construction Langis Normand</nomcontractant>
+        <neqcontractant>1143408418</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-20</datedepense>
+        <datepublicationdepense>2019-06-17</datepublicationdepense>
+        <montantdepense>2660.000000</montantdepense>
+        <description>travaux supplémentaires sur les radiateurs</description>
+        <nomcontractant>Construction Langis Normand</nomcontractant>
+        <neqcontractant>1143408418</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1151858</numeroseao>
+    <numero>17-075 </numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-03-14</datedepense>
+        <datepublicationdepense>2019-06-07</datepublicationdepense>
+        <montantdepense>17123.150000</montantdepense>
+        <description>Ajouts de divers travaux (avenants 1 à 5)</description>
+        <nomcontractant>Les Entreprises O`Propp</nomcontractant>
+        <neqcontractant>1143690445</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1159277</numeroseao>
+    <numero>0062M1516</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-09-27</datedepense>
+        <datepublicationdepense>2018-10-02</datepublicationdepense>
+        <montantdepense>37381.930000</montantdepense>
+        <description>Divers travaux en lien avec la démolition de la dalle de béton et modification du diamètre tuyauterie</description>
+        <nomcontractant>Marin construction</nomcontractant>
+        <neqcontractant>1168871748</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-22</datedepense>
+        <datepublicationdepense>2019-06-27</datepublicationdepense>
+        <montantdepense>1171.900000</montantdepense>
+        <description>bTravaux en lien avec la démolition de la dalle de béton à la chaufferie </description>
+        <nomcontractant>Marin construction</nomcontractant>
+        <neqcontractant>1168871748</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-22</datedepense>
+        <datepublicationdepense>2019-06-27</datepublicationdepense>
+        <montantdepense>1756.150000</montantdepense>
+        <description>Luminaire de la cuisine </description>
+        <nomcontractant>Marin construction</nomcontractant>
+        <neqcontractant>1168871748</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-22</datedepense>
+        <datepublicationdepense>2019-06-27</datepublicationdepense>
+        <montantdepense>715.440000</montantdepense>
+        <description>Service incendie </description>
+        <nomcontractant>Marin construction</nomcontractant>
+        <neqcontractant>1168871748</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-27</datedepense>
+        <datepublicationdepense>2019-06-27</datepublicationdepense>
+        <montantdepense>7000.000000</montantdepense>
+        <description>Travaux généraux hotte de cuisine </description>
+        <nomcontractant>Marin construction</nomcontractant>
+        <neqcontractant>1168871748</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1159736</numeroseao>
+    <numero>CA-180418-PDS</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-05-24</datedepense>
+        <datepublicationdepense>2019-05-29</datepublicationdepense>
+        <montantdepense>67694.540000</montantdepense>
+        <description>Réfection maconnerie phase 2 CH Elisabeth-Lafrance</description>
+        <nomcontractant>Groupe Atwill-Morin</nomcontractant>
+        <neqcontractant>1164438492</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1165005</numeroseao>
+    <numero>1718-AOP-S-02</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-04-15</datedepense>
+        <datepublicationdepense>2019-05-14</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>L'équipe a fait les séries donc plus de transport à payer, mais le montant est plus petit que 10 % du contrat total.</description>
+        <nomcontractant>Le Groupe Bell-Horizon inc.</nomcontractant>
+        <neqcontractant>1163432116</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1174822</numeroseao>
+    <numero>QC-RAMQ-20161201-1</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-03-19</datedepense>
+        <datepublicationdepense>2019-06-21</datepublicationdepense>
+        <montantdepense>21216.000000</montantdepense>
+        <description>Ajout d'une somme supplémentaire pour des travaux imprévus</description>
+        <nomcontractant>Construction Michel Gagnon Ltee - Québec</nomcontractant>
+        <neqcontractant>1142334623</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1179927</numeroseao>
+    <numero>44510681</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-05-10</datedepense>
+        <datepublicationdepense>2019-05-17</datepublicationdepense>
+        <montantdepense>162148.000000</montantdepense>
+        <description>Changement programme client, imprévu chantier et imprévu design</description>
+        <nomcontractant>Société Bon Pasteur S.E.N.C.</nomcontractant>
+        <neqcontractant>3341184375</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-15</datedepense>
+        <datepublicationdepense>2019-05-17</datepublicationdepense>
+        <montantdepense>53949.000000</montantdepense>
+        <description>Changement programme client, imprévu chantier et imprévu design</description>
+        <nomcontractant>Société Bon Pasteur S.E.N.C.</nomcontractant>
+        <neqcontractant>3341184375</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1199546</numeroseao>
+    <numero>18-451-GG-S</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-06-24</datedepense>
+        <datepublicationdepense>2019-06-06</datepublicationdepense>
+        <montantdepense>26242.580000</montantdepense>
+        <description>Avenant #1</description>
+        <nomcontractant>Cimaise inc</nomcontractant>
+        <neqcontractant>1162634092</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1201952</numeroseao>
+    <numero>44510873</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-10-31</datedepense>
+        <datepublicationdepense>2019-04-08</datepublicationdepense>
+        <montantdepense>81055.440000</montantdepense>
+        <description>Conditions imprévisibles de chantier.</description>
+        <nomcontractant>Groupe Symaco Inc.</nomcontractant>
+        <neqcontractant>1143241215</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-12</datedepense>
+        <datepublicationdepense>2019-06-10</datepublicationdepense>
+        <montantdepense>12886.480000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>Groupe Symaco Inc.</nomcontractant>
+        <neqcontractant>1143241215</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-11</datedepense>
+        <datepublicationdepense>2019-06-10</datepublicationdepense>
+        <montantdepense>7099.500000</montantdepense>
+        <description>Modification mineure</description>
+        <nomcontractant>Groupe Symaco Inc.</nomcontractant>
+        <neqcontractant>1143241215</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-11</datedepense>
+        <datepublicationdepense>2019-06-10</datepublicationdepense>
+        <montantdepense>3400.620000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>Groupe Symaco Inc.</nomcontractant>
+        <neqcontractant>1143241215</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-11</datedepense>
+        <datepublicationdepense>2019-06-10</datepublicationdepense>
+        <montantdepense>3378.200000</montantdepense>
+        <description>Erreur ou omission</description>
+        <nomcontractant>Groupe Symaco Inc.</nomcontractant>
+        <neqcontractant>1143241215</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-11</datedepense>
+        <datepublicationdepense>2019-06-10</datepublicationdepense>
+        <montantdepense>1334.060000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>Groupe Symaco Inc.</nomcontractant>
+        <neqcontractant>1143241215</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-11</datedepense>
+        <datepublicationdepense>2019-06-10</datepublicationdepense>
+        <montantdepense>1407.830000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>Groupe Symaco Inc.</nomcontractant>
+        <neqcontractant>1143241215</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-11</datedepense>
+        <datepublicationdepense>2019-06-10</datepublicationdepense>
+        <montantdepense>2488.000000</montantdepense>
+        <description>Erreur ou omission</description>
+        <nomcontractant>Groupe Symaco Inc.</nomcontractant>
+        <neqcontractant>1143241215</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-11</datedepense>
+        <datepublicationdepense>2019-06-10</datepublicationdepense>
+        <montantdepense>748.020000</montantdepense>
+        <description>Modification mineure</description>
+        <nomcontractant>Groupe Symaco Inc.</nomcontractant>
+        <neqcontractant>1143241215</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1203639</numeroseao>
+    <numero>DG-18-01010</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-04-10</datedepense>
+        <datepublicationdepense>2019-06-10</datepublicationdepense>
+        <montantdepense>2100.000000</montantdepense>
+        <description>COMPLÉMENT AU MANDAT INITIALE</description>
+        <nomcontractant>kbs+ montréal</nomcontractant>
+        <neqcontractant>3367474403</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-09-05</datedepense>
+        <datepublicationdepense>2019-06-10</datepublicationdepense>
+        <montantdepense>6500.000000</montantdepense>
+        <description>COMPLÉMENT AU MANDAT INITIALE</description>
+        <nomcontractant>kbs+ montréal</nomcontractant>
+        <neqcontractant>3367474403</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-11-09</datedepense>
+        <datepublicationdepense>2019-06-10</datepublicationdepense>
+        <montantdepense>20000.000000</montantdepense>
+        <description>COMPLÉMENT AU MANDAT INITIALE</description>
+        <nomcontractant>kbs+ montréal</nomcontractant>
+        <neqcontractant>3367474403</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1204599</numeroseao>
+    <numero>186110048</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-11-21</datedepense>
+        <datepublicationdepense>2019-06-11</datepublicationdepense>
+        <montantdepense>2591.600000</montantdepense>
+        <description>Dépense 1: Amendement au bon de commande, ajustement honoraire pour plans et devis , ajustement d'honiraires professionnels à pourcentage pour service durant la construction, ajutement relevés et mise en plans, études préparatoires, démarches pour les permis auprès de la ville</description>
+        <nomcontractant>ANA Architecture inc.</nomcontractant>
+        <neqcontractant>1169003986</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-10-25</datedepense>
+        <datepublicationdepense>2019-06-11</datepublicationdepense>
+        <montantdepense>2840.000000</montantdepense>
+        <description>Dépense 2: Entrepeneur pour ouvertures exploratoires</description>
+        <nomcontractant>ANA Architecture inc.</nomcontractant>
+        <neqcontractant>1169003986</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-10-25</datedepense>
+        <datepublicationdepense>2019-06-11</datepublicationdepense>
+        <montantdepense>284.000000</montantdepense>
+        <description>Dépense 3: Frais administratifs de 10%</description>
+        <nomcontractant>ANA Architecture inc.</nomcontractant>
+        <neqcontractant>1169003986</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-09-10</datedepense>
+        <datepublicationdepense>2019-06-11</datepublicationdepense>
+        <montantdepense>1214.400000</montantdepense>
+        <description>Dépense 4: Expert en reconditionnement des fenêtres </description>
+        <nomcontractant>ANA Architecture inc.</nomcontractant>
+        <neqcontractant>1169003986</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-09-10</datedepense>
+        <datepublicationdepense>2019-06-11</datepublicationdepense>
+        <montantdepense>3935.000000</montantdepense>
+        <description>Dépense 5: Contingence générale de 10%</description>
+        <nomcontractant>ANA Architecture inc.</nomcontractant>
+        <neqcontractant>1169003986</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-29</datedepense>
+        <datepublicationdepense>2019-06-11</datepublicationdepense>
+        <montantdepense>40.000000</montantdepense>
+        <description>Dépense 6: Ajustement d'honoraires professionnels pour la partie frais d'administration de 10%</description>
+        <nomcontractant>ANA Architecture inc.</nomcontractant>
+        <neqcontractant>1169003986</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1209336</numeroseao>
+    <numero>2018CNT704</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-05-14</datedepense>
+        <datepublicationdepense>2019-06-04</datepublicationdepense>
+        <montantdepense>105081.900000</montantdepense>
+        <description>Ajout contreplaqué, démolition, nouvelle toiture, peinture, tirage de joints, étanchement, travaux sur la marquise</description>
+        <nomcontractant>Laberge et Allard Inc.</nomcontractant>
+        <neqcontractant>1143276740</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1212053</numeroseao>
+    <numero>280420935</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-03-27</datedepense>
+        <datepublicationdepense>2019-06-14</datepublicationdepense>
+        <montantdepense>32771.070000</montantdepense>
+        <description>Achat de 30 laissez-passer supplémentaires pour répondre à la demande des entreprises dans le cadre du Salon SXSW.</description>
+        <nomcontractant>SXSW LLC</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1225680</numeroseao>
+    <numero>2018-1191 (DST-2018-30)</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-06-11</datedepense>
+        <datepublicationdepense>2019-06-12</datepublicationdepense>
+        <montantdepense>2429.920000</montantdepense>
+        <description>Modification quincaillerie et ajout de superficie de plancher a remplacer</description>
+        <nomcontractant>Gilca inc.</nomcontractant>
+        <neqcontractant>1172630478</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1228053</numeroseao>
+    <numero>CG-190114-RY</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-05-14</datedepense>
+        <datepublicationdepense>2019-06-13</datepublicationdepense>
+        <montantdepense>2354.770000</montantdepense>
+        <description>Ajout, remplacement et installation</description>
+        <nomcontractant>Les Entreprises Électriques A &amp; R Ltée</nomcontractant>
+        <neqcontractant>1149670912</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1234479</numeroseao>
+    <numero>2019-003-9107-CS-CS</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-06-25</datedepense>
+        <datepublicationdepense>2019-06-25</datepublicationdepense>
+        <montantdepense>13491.670000</montantdepense>
+        <description>Ajout d'une période d'un mois, soit une couverture actualisée de 7 mois</description>
+        <nomcontractant>Pentax Medical - Canada Inc.</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1236810</numeroseao>
+    <numero>2019000803 - 5264-1-31</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-02-01</datedepense>
+        <datepublicationdepense>2019-02-14</datepublicationdepense>
+        <montantdepense>12379.460000</montantdepense>
+        <description>Dépense supplémentaire 1</description>
+        <nomcontractant>9363-2941 Québec inc.</nomcontractant>
+        <neqcontractant>1172938558</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-01</datedepense>
+        <datepublicationdepense>2019-04-02</datepublicationdepense>
+        <montantdepense>8067.920000</montantdepense>
+        <description>Dépense supplémentaire 2</description>
+        <nomcontractant>9363-2941 Québec inc.</nomcontractant>
+        <neqcontractant>1172938558</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-01</datedepense>
+        <datepublicationdepense>2019-05-02</datepublicationdepense>
+        <montantdepense>8429.110000</montantdepense>
+        <description>Dépense supplémentaire 3</description>
+        <nomcontractant>9363-2941 Québec inc.</nomcontractant>
+        <neqcontractant>1172938558</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-21</datedepense>
+        <datepublicationdepense>2019-06-12</datepublicationdepense>
+        <montantdepense>2726.910000</montantdepense>
+        <description>Dépense supplémentaire 4</description>
+        <nomcontractant>9363-2941 Québec inc.</nomcontractant>
+        <neqcontractant>1172938558</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-01</datedepense>
+        <datepublicationdepense>2019-06-12</datepublicationdepense>
+        <montantdepense>10260.350000</montantdepense>
+        <description>Dépense supplémentaire</description>
+        <nomcontractant>9363-2941 Québec inc.</nomcontractant>
+        <neqcontractant>1172938558</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1243725</numeroseao>
+    <numero>2019001253 - 5321-31</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-03-01</datedepense>
+        <datepublicationdepense>2019-03-04</datepublicationdepense>
+        <montantdepense>6747.100000</montantdepense>
+        <description>Dépense supplémentaire 1</description>
+        <nomcontractant>9363-2941 Québec inc.</nomcontractant>
+        <neqcontractant>1172938558</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-01</datedepense>
+        <datepublicationdepense>2019-04-02</datepublicationdepense>
+        <montantdepense>12730.800000</montantdepense>
+        <description>Dépense supplémentaire 2</description>
+        <nomcontractant>9363-2941 Québec inc.</nomcontractant>
+        <neqcontractant>1172938558</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-01</datedepense>
+        <datepublicationdepense>2019-05-02</datepublicationdepense>
+        <montantdepense>13799.000000</montantdepense>
+        <description>Dépense supplémentaire 3</description>
+        <nomcontractant>9363-2941 Québec inc.</nomcontractant>
+        <neqcontractant>1172938558</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-21</datedepense>
+        <datepublicationdepense>2019-06-12</datepublicationdepense>
+        <montantdepense>7032.300000</montantdepense>
+        <description>Dépense supplémentaire 4</description>
+        <nomcontractant>9363-2941 Québec inc.</nomcontractant>
+        <neqcontractant>1172938558</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1245327</numeroseao>
+    <numero>07-12176</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-06-28</datedepense>
+        <datepublicationdepense>2019-06-28</datepublicationdepense>
+        <montantdepense>8088.400000</montantdepense>
+        <description>Imprévu de chantier</description>
+        <nomcontractant>9185-1444 QUÉBEC INC</nomcontractant>
+        <neqcontractant>1164582224</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-21</datedepense>
+        <datepublicationdepense>2019-06-28</datepublicationdepense>
+        <montantdepense>2270.000000</montantdepense>
+        <description>Imprévu de chantier</description>
+        <nomcontractant>9185-1444 QUÉBEC INC</nomcontractant>
+        <neqcontractant>1164582224</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1250155</numeroseao>
+    <numero>BC125222</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-12-05</datedepense>
+        <datepublicationdepense>2019-06-03</datepublicationdepense>
+        <montantdepense>4785.000000</montantdepense>
+        <description>Ajout Vitek MS via Myla</description>
+        <nomcontractant>Services Technidata Canada inc.</nomcontractant>
+        <neqcontractant>1165790024</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1263615</numeroseao>
+    <numero>07-11503</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-05-29</datedepense>
+        <datepublicationdepense>2019-06-21</datepublicationdepense>
+        <montantdepense>4877.950000</montantdepense>
+        <description>Autres: Ajustement des escaliers</description>
+        <nomcontractant>Colt Hydro ensemencement</nomcontractant>
+        <neqcontractant>1170103619</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-31</datedepense>
+        <datepublicationdepense>2019-06-21</datepublicationdepense>
+        <montantdepense>3556.000000</montantdepense>
+        <description>Autres: Travaux mineurs</description>
+        <nomcontractant>Colt Hydro ensemencement</nomcontractant>
+        <neqcontractant>1170103619</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-10</datedepense>
+        <datepublicationdepense>2019-06-21</datepublicationdepense>
+        <montantdepense>4460.000000</montantdepense>
+        <description>Autres: Travaux mineurs</description>
+        <nomcontractant>Colt Hydro ensemencement</nomcontractant>
+        <neqcontractant>1170103619</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-10</datedepense>
+        <datepublicationdepense>2019-06-21</datepublicationdepense>
+        <montantdepense>2157.750000</montantdepense>
+        <description>Imprévu de design</description>
+        <nomcontractant>Colt Hydro ensemencement</nomcontractant>
+        <neqcontractant>1170103619</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1276982</numeroseao>
+    <numero>051-351-67051 - ELECT</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-05-31</datedepense>
+        <datepublicationdepense>2019-06-07</datepublicationdepense>
+        <montantdepense>1442.960000</montantdepense>
+        <description>Travaux supplémentaires</description>
+        <nomcontractant>Site Intégration Plus Inc. / Groupe SIP</nomcontractant>
+        <neqcontractant>1160184363</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1277280</numeroseao>
+    <numero>24813200</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-06-14</datedepense>
+        <datepublicationdepense>2019-06-25</datepublicationdepense>
+        <montantdepense>253000.000000</montantdepense>
+        <description>Contrat transféré de la Société Québécoise des immeubles vers l'École nationale de police du Québec. Prolongation du contrat jusqu'au 31 décembre 2019 en fonction de la disposition de l'article 46 al.1 du Règlement sur certains contrats de services des organismes publics. </description>
+        <nomcontractant>GDI Services (Québec) SEC</nomcontractant>
+        <neqcontractant>3368751924</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1278066</numeroseao>
+    <numero>AOI-CONDUITSCSAD2019</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-05-31</datedepense>
+        <datepublicationdepense>2019-06-11</datepublicationdepense>
+        <montantdepense>5650.000000</montantdepense>
+        <description>Nettoyage supplémentaire requis section soccer et vestiaires </description>
+        <nomcontractant>Nettoyage Nick-Hel. inc.</nomcontractant>
+        <neqcontractant>1147274071</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1282086</numeroseao>
+    <numero>BM617</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-12-14</datedepense>
+        <datepublicationdepense>2019-06-21</datepublicationdepense>
+        <montantdepense>19402.600000</montantdepense>
+        <description>Phase 1 - Activités de conception additionnelles et activités de suivi environnemental additionnels.</description>
+        <nomcontractant>Stantec Experts-conseils ltée</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2018-12-20</datedepense>
+        <datepublicationdepense>2019-06-21</datepublicationdepense>
+        <montantdepense>72203.700000</montantdepense>
+        <description>Phase 2 - Conception des plans et devis du pont, demande de permis environnemental et accompagnement.</description>
+        <nomcontractant>Stantec Experts-conseils ltée</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+</export>

@@ -1,0 +1,1007 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2018-04-01" datefin="2018-04-30">
+  <avis>
+    <numeroseao>550590</numeroseao>
+    <numero>22402800-A</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-03</datedepense>
+        <datepublicationdepense>2017-03-21</datepublicationdepense>
+        <montantdepense>12931.540000</montantdepense>
+        <description>Ajout d'un établissement / avenant du 1er novembre 2013 au 9 août 2014 inclusivement</description>
+        <nomcontractant>Québec-Prosnet Inc</nomcontractant>
+        <neqcontractant>1149089360</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-03-01</datedepense>
+        <datepublicationdepense>2017-03-21</datepublicationdepense>
+        <montantdepense>10397.040000</montantdepense>
+        <description>Prolongation du contrat / avenant au contrat jusqu'au 30 juin 2017</description>
+        <nomcontractant>Québec-Prosnet Inc</nomcontractant>
+        <neqcontractant>1149089360</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-21</datedepense>
+        <datepublicationdepense>2017-07-21</datepublicationdepense>
+        <montantdepense>3465.700000</montantdepense>
+        <description>Modification du 21 juillet 2017 comprend une prolongation de 2 mois. Toutefois, s’ajoute à ce montant une modification en date du 24 août 2018, soit un crédit de 3465,66$ pour une valeur nette totale des modifications au contrat de 3465,70$.</description>
+        <nomcontractant>Québec-Prosnet Inc</nomcontractant>
+        <neqcontractant>1149089360</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>753811</numeroseao>
+    <numero>25093500</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-01-11</datedepense>
+        <datepublicationdepense>2017-01-12</datepublicationdepense>
+        <montantdepense>3331.000000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>SOCOMEC INDUSTRIEL INC.</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2017-07-19</datedepense>
+        <datepublicationdepense>2017-07-26</datepublicationdepense>
+        <montantdepense>179457.000000</montantdepense>
+        <description>Condition imprévisible de chantier et Erreur et Omission</description>
+        <nomcontractant>SOCOMEC INDUSTRIEL INC.</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2018-03-09</datedepense>
+        <datepublicationdepense>2018-04-18</datepublicationdepense>
+        <montantdepense>113979.000000</montantdepense>
+        <description>Condition imprévisible de chantier et erreur et omission</description>
+        <nomcontractant>SOCOMEC INDUSTRIEL INC.</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>824339</numeroseao>
+    <numero>7803-2014-088 et 7803-201</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-10-16</datedepense>
+        <datepublicationdepense>2015-11-17</datepublicationdepense>
+        <montantdepense>42074.900000</montantdepense>
+        <description>Avenant #1-2-3</description>
+        <nomcontractant>Les Consultants Odette Roy et Isabelle Jacques Inc.</nomcontractant>
+        <neqcontractant>1164160716</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-13</datedepense>
+        <datepublicationdepense>2017-03-04</datepublicationdepense>
+        <montantdepense>37785.830000</montantdepense>
+        <description>Avenant 1 et 2</description>
+        <nomcontractant>Roche Ltée, Groupe-Conseil</nomcontractant>
+        <neqcontractant>1165310831</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-08-14</datedepense>
+        <datepublicationdepense>2017-10-03</datepublicationdepense>
+        <montantdepense>2113.820000</montantdepense>
+        <description>Avenant #1-2</description>
+        <nomcontractant>Roche Ltée, Groupe-Conseil</nomcontractant>
+        <neqcontractant>1165310831</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-08-25</datedepense>
+        <datepublicationdepense>2017-10-03</datepublicationdepense>
+        <montantdepense>21855.670000</montantdepense>
+        <description>Avenant #3 - Honoraire </description>
+        <nomcontractant>Roche Ltée, Groupe-Conseil</nomcontractant>
+        <neqcontractant>1165310831</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>938091</numeroseao>
+    <numero>2015-12</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-03-15</datedepense>
+        <datepublicationdepense>2018-04-11</datepublicationdepense>
+        <montantdepense>219298.040000</montantdepense>
+        <description>Retard dans les travaux préparatoires effectués par le MJQ. </description>
+        <nomcontractant>Société Conseil Groupe LGS</nomcontractant>
+        <neqcontractant>1142691709</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>965136</numeroseao>
+    <numero>251 72 500</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-01-11</datedepense>
+        <datepublicationdepense>2017-04-26</datepublicationdepense>
+        <montantdepense>318702.000000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>Ventilation Jean Roy 1999 Inc.</nomcontractant>
+        <neqcontractant>8230197949</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-23</datedepense>
+        <datepublicationdepense>2017-04-26</datepublicationdepense>
+        <montantdepense>662000.000000</montantdepense>
+        <description>Modification significative SQI</description>
+        <nomcontractant>Ventilation Jean Roy 1999 Inc.</nomcontractant>
+        <neqcontractant>8230197949</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-03-27</datedepense>
+        <datepublicationdepense>2017-04-26</datepublicationdepense>
+        <montantdepense>52946.000000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>Ventilation Jean Roy 1999 Inc.</nomcontractant>
+        <neqcontractant>8230197949</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-06-26</datedepense>
+        <datepublicationdepense>2017-07-06</datepublicationdepense>
+        <montantdepense>95044.140000</montantdepense>
+        <description>Condition imprévisible de chantier - Erreur ou omission</description>
+        <nomcontractant>Ventilation Jean Roy 1999 Inc.</nomcontractant>
+        <neqcontractant>8230197949</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-13</datedepense>
+        <datepublicationdepense>2018-02-13</datepublicationdepense>
+        <montantdepense>96232.000000</montantdepense>
+        <description>Condition imprévisible de chantier - Erreur ou omission -  Modification significative client</description>
+        <nomcontractant>Ventilation Jean Roy 1999 Inc.</nomcontractant>
+        <neqcontractant>8230197949</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-31</datedepense>
+        <datepublicationdepense>2018-04-19</datepublicationdepense>
+        <montantdepense>25333.000000</montantdepense>
+        <description>Condition imprévisible de chantier et erreur et omission</description>
+        <nomcontractant>Ventilation Jean Roy 1999 Inc.</nomcontractant>
+        <neqcontractant>8230197949</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>976113</numeroseao>
+    <numero>30129400</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-03-28</datedepense>
+        <datepublicationdepense>2018-04-18</datepublicationdepense>
+        <montantdepense>61339.310000</montantdepense>
+        <description>Travaux supplémentaires - imprévu de chantier</description>
+        <nomcontractant>GROUPE DUBÉ ENTREPRENEUR GÉNÉRAL INC.</nomcontractant>
+        <neqcontractant>1166533407</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-31</datedepense>
+        <datepublicationdepense>2018-04-18</datepublicationdepense>
+        <montantdepense>19589.200000</montantdepense>
+        <description>Travaux supplémentaires - imprévu de chantier</description>
+        <nomcontractant>GROUPE DUBÉ ENTREPRENEUR GÉNÉRAL INC.</nomcontractant>
+        <neqcontractant>1166533407</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1024444</numeroseao>
+    <numero>O16 38</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-04-06</datedepense>
+        <datepublicationdepense>2018-04-06</datepublicationdepense>
+        <montantdepense>7936.980000</montantdepense>
+        <description>Avenant #2 I17 427</description>
+        <nomcontractant>Smith Vigeant architectes</nomcontractant>
+        <neqcontractant>1160892346</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-04-04</datedepense>
+        <datepublicationdepense>2018-04-09</datepublicationdepense>
+        <montantdepense>13619.840000</montantdepense>
+        <description>Avenant # 1 (O16-64)</description>
+        <nomcontractant>Smith Vigeant architectes</nomcontractant>
+        <neqcontractant>1160892346</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1029165</numeroseao>
+    <numero>16-17-27</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-06-07</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>13574.420000</montantdepense>
+        <description>OC1 - Déplacement et ajout de plinthes électiques.</description>
+        <nomcontractant>Plomberie Mario Thivierge Inc</nomcontractant>
+        <neqcontractant>1168527522</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-09-12</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>27244.450000</montantdepense>
+        <description>OC2 - Ajout rés. exp. + déviation sur pompe P3 - Amiante dans béton cheminée - Démarreur Va-3  + divers - Remplacé câblage entrée électrique.</description>
+        <nomcontractant>Plomberie Mario Thivierge Inc</nomcontractant>
+        <neqcontractant>1168527522</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-31</datedepense>
+        <datepublicationdepense>2017-11-30</datepublicationdepense>
+        <montantdepense>1718.270000</montantdepense>
+        <description>OC3 - Remplacement du poteau électrique</description>
+        <nomcontractant>Plomberie Mario Thivierge Inc</nomcontractant>
+        <neqcontractant>1168527522</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-01</datedepense>
+        <datepublicationdepense>2018-04-17</datepublicationdepense>
+        <montantdepense>2240.580000</montantdepense>
+        <description>OC4 - Remplacement de la soupape de sûreté de la chaudière électrique existante par une soupape de sécurité d'une pression de 75 psi avec une capacité minimale de 202kw.</description>
+        <nomcontractant>Plomberie Mario Thivierge Inc</nomcontractant>
+        <neqcontractant>1168527522</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1048243</numeroseao>
+    <numero>16-17-43</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-06-28</datedepense>
+        <datepublicationdepense>2018-04-06</datepublicationdepense>
+        <montantdepense>410.000000</montantdepense>
+        <description>AC2 - Réparation d'une boîte de vanne</description>
+        <nomcontractant>Pavage Dion Inc.</nomcontractant>
+        <neqcontractant>1170326061</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1055935</numeroseao>
+    <numero>2176-16</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-05-31</datedepense>
+        <datepublicationdepense>2018-04-04</datepublicationdepense>
+        <montantdepense>8160.000000</montantdepense>
+        <description>Ordre de changement # 1: Remplacement des éléments pourris</description>
+        <nomcontractant>Construction Jacques Raiche &amp; Fils Inc.</nomcontractant>
+        <neqcontractant>1163434773</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1056113</numeroseao>
+    <numero>1606EG</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-07-11</datedepense>
+        <datepublicationdepense>2017-07-25</datepublicationdepense>
+        <montantdepense>6735.150000</montantdepense>
+        <description>ODC 1: ajout d'intercepteur de solide dans le drainage de chaque garage</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-11</datedepense>
+        <datepublicationdepense>2017-07-25</datepublicationdepense>
+        <montantdepense>5415.850000</montantdepense>
+        <description>ODC 2: fournir et installer les seche-main</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-06</datedepense>
+        <datepublicationdepense>2017-07-25</datepublicationdepense>
+        <montantdepense>991.760000</montantdepense>
+        <description>ODC 3: ajouter séquence de dégivrage à l'unité ECH1</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-10</datedepense>
+        <datepublicationdepense>2017-07-25</datepublicationdepense>
+        <montantdepense>9468.800000</montantdepense>
+        <description>ODC 4 : application de sikafloor 81 épo cem sur dalle de tranchée pour accélérer les travaux</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-06-15</datedepense>
+        <datepublicationdepense>2017-07-25</datepublicationdepense>
+        <montantdepense>4048.000000</montantdepense>
+        <description>ODC 5: démantèlement et remplacement des haut-parleur du nouveau WICC</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-17</datedepense>
+        <datepublicationdepense>2017-07-25</datepublicationdepense>
+        <montantdepense>3230.130000</montantdepense>
+        <description>ODC 6: modification des grilles de caniveau par des grille galvanisée</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-17</datedepense>
+        <datepublicationdepense>2017-07-25</datepublicationdepense>
+        <montantdepense>154.800000</montantdepense>
+        <description>ODC 7: modification architecture dû au contitions de chantier (DC A6,A8 et A9)</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-06-26</datedepense>
+        <datepublicationdepense>2017-09-09</datepublicationdepense>
+        <montantdepense>470.000000</montantdepense>
+        <description>ODC 17 ; annulation d'une partition de toilette</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-06</datedepense>
+        <datepublicationdepense>2017-09-09</datepublicationdepense>
+        <montantdepense>3423.750000</montantdepense>
+        <description>ODC 16 : Modification de la trajectoire de drainage sanitaire</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-13</datedepense>
+        <datepublicationdepense>2017-09-09</datepublicationdepense>
+        <montantdepense>4057.170000</montantdepense>
+        <description>ODC 15: démolition, relocalisation et installation d'étagères et de tableau et ragréage</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-06-29</datedepense>
+        <datepublicationdepense>2017-09-09</datepublicationdepense>
+        <montantdepense>961.140000</montantdepense>
+        <description>ODC 14 :  démantèlement de conduit de plomberie local 2294</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-13</datedepense>
+        <datepublicationdepense>2017-09-09</datepublicationdepense>
+        <montantdepense>1062.500000</montantdepense>
+        <description>ODC 13 : agrandissement de la base mécanique au toit pour les conduits de climatisation supp.</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-06-16</datedepense>
+        <datepublicationdepense>2017-09-09</datepublicationdepense>
+        <montantdepense>47277.610000</montantdepense>
+        <description>ODC 10 : remplacement de 2 set de portes au gym et 4  set de portes à l'auditorium</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-07</datedepense>
+        <datepublicationdepense>2017-09-14</datepublicationdepense>
+        <montantdepense>1566.600000</montantdepense>
+        <description>ODC 19:retirer au haut-parleur, déplacer wifi et réalimenter luminaires</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-09-25</datedepense>
+        <datepublicationdepense>2017-09-29</datepublicationdepense>
+        <montantdepense>148574.000000</montantdepense>
+        <description>Ajout de scellant sur l'isolant acoustique dans les conduits et caissons de ventilation suite au nettoyage et ajout de 200 portes d'accès dans les conduits.</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-09-26</datedepense>
+        <datepublicationdepense>2017-09-29</datepublicationdepense>
+        <montantdepense>204796.760000</montantdepense>
+        <description>Fourniture et insallation d'un transformateur, des systemes de caniveaux pour prises, nouveau râtelier informatique et sectionneurs, relocaliser les connexions TNI, raccordement d'un nouveau ventilateur. Fourniture et installation de nouvelles unités de climatisation, les intégrer au système.</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-09-27</datedepense>
+        <datepublicationdepense>2017-10-16</datepublicationdepense>
+        <montantdepense>11904.990000</montantdepense>
+        <description>Modification des murets de l'esplanades</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-02</datedepense>
+        <datepublicationdepense>2017-12-14</datepublicationdepense>
+        <montantdepense>10204.310000</montantdepense>
+        <description>Relocalisation de séparateur d'huile SH-2 suite aux conditions de chantier</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-09-21</datedepense>
+        <datepublicationdepense>2017-12-14</datepublicationdepense>
+        <montantdepense>126775.000000</montantdepense>
+        <description>Pompage d'eau contaminée tel qu'indiqué à la directive DC-D-01 </description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-02</datedepense>
+        <datepublicationdepense>2017-12-14</datepublicationdepense>
+        <montantdepense>3630.550000</montantdepense>
+        <description>Réparation du mur de bloc béton local 113A.</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-04</datedepense>
+        <datepublicationdepense>2017-12-14</datepublicationdepense>
+        <montantdepense>3410.000000</montantdepense>
+        <description>fournir et poser des pillicules givrés sur le vitrage et porte séparant WICC de PCHS</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-09-25</datedepense>
+        <datepublicationdepense>2017-12-14</datepublicationdepense>
+        <montantdepense>12389.160000</montantdepense>
+        <description>Panneau électrique existant PE-E-E-22D défectueux, a changer immédiatement selon l'ingénieur</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-17</datedepense>
+        <datepublicationdepense>2017-12-14</datepublicationdepense>
+        <montantdepense>4833.340000</montantdepense>
+        <description>Revetement résine vinyle, ragréage de plancher et pente au sol supplémentaires</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-17</datedepense>
+        <datepublicationdepense>2017-12-14</datepublicationdepense>
+        <montantdepense>8280.780000</montantdepense>
+        <description>Abaissement regard et puisard et prolongement de l'asphalte.</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-18</datedepense>
+        <datepublicationdepense>2017-12-14</datepublicationdepense>
+        <montantdepense>742.500000</montantdepense>
+        <description>Nettoyage des graffitis au muret existant de l'esplanade Sud-ouest</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-30</datedepense>
+        <datepublicationdepense>2017-12-14</datepublicationdepense>
+        <montantdepense>2736.200000</montantdepense>
+        <description>Plans d'évacuation supplémentaires tel que décrit à la directive DC-A-22R2</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-09</datedepense>
+        <datepublicationdepense>2017-12-14</datepublicationdepense>
+        <montantdepense>13773.420000</montantdepense>
+        <description>Renfort de la structure au toit pour la tour d'eau tel que décrit aux directives S4 et S5r2</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-06</datedepense>
+        <datepublicationdepense>2018-04-09</datepublicationdepense>
+        <montantdepense>12522.290000</montantdepense>
+        <description>ODC 20R2: Temps suplémentaire pour compléter l'application de l'époxy de l'atelier no. 111</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-06</datedepense>
+        <datepublicationdepense>2018-04-09</datepublicationdepense>
+        <montantdepense>9944.990000</montantdepense>
+        <description>ODC 27: Modification des murets de l'esplanades et annulation des gardes corps des esplanades </description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-06</datedepense>
+        <datepublicationdepense>2018-04-09</datepublicationdepense>
+        <montantdepense>7625.270000</montantdepense>
+        <description>ODC 38R1: Raccordement plomberie tour d'eau tel que décrit à la DC-M-13R1</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-06</datedepense>
+        <datepublicationdepense>2018-04-09</datepublicationdepense>
+        <montantdepense>5671.380000</montantdepense>
+        <description>ODC 43R1: Modification au raccordement de la tour d'eau tel que décrit à la directive E11</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-06</datedepense>
+        <datepublicationdepense>2018-04-09</datepublicationdepense>
+        <montantdepense>4432.050000</montantdepense>
+        <description>ODC 44R1: Fourniture et installation de cornieres en acier pour les 4 portes a remplacer afin de supporter les blocs de béton.</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-06</datedepense>
+        <datepublicationdepense>2018-04-09</datepublicationdepense>
+        <montantdepense>6969.700000</montantdepense>
+        <description>ODC 48: Remplacement de mains-courantes installées.</description>
+        <nomcontractant>Gesmonde Ltée</nomcontractant>
+        <neqcontractant>1163071583</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1069908</numeroseao>
+    <numero>O16 63</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-04-06</datedepense>
+        <datepublicationdepense>2018-04-06</datepublicationdepense>
+        <montantdepense>11830.000000</montantdepense>
+        <description>Avenant #2 (I17-426)</description>
+        <nomcontractant>Claude Cormier et Associés</nomcontractant>
+        <neqcontractant>1141487133</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-07</datedepense>
+        <datepublicationdepense>2018-04-09</datepublicationdepense>
+        <montantdepense>23730.000000</montantdepense>
+        <description>Avenant # 1 (O17-4)</description>
+        <nomcontractant>Claude Cormier et Associés</nomcontractant>
+        <neqcontractant>1141487133</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1075789</numeroseao>
+    <numero>17-126 - 136108332...</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-02-26</datedepense>
+        <datepublicationdepense>2018-04-11</datepublicationdepense>
+        <montantdepense>434.880000</montantdepense>
+        <description>#1 Demande du propriétaire - DIVERS: Remboursement des frais de permis payés à la ville par l'entrepreneur pour ne pas retarder le commencement des travaux.</description>
+        <nomcontractant>Le Groupe Centco inc</nomcontractant>
+        <neqcontractant>1165903742</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-26</datedepense>
+        <datepublicationdepense>2018-04-11</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 2: (CRÉDIT - 1025.44$)- Condition de chantier - CIVIL: Adjustement de quantités réelles de matériaux vs quantités prévues contractuellement.</description>
+        <nomcontractant>Le Groupe Centco inc</nomcontractant>
+        <neqcontractant>1165903742</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-26</datedepense>
+        <datepublicationdepense>2018-04-11</datepublicationdepense>
+        <montantdepense>2615.720000</montantdepense>
+        <description># 3: Omission -  ÉLECTRICITÉ: Installation de nouveaux conduits et filages pour chauffage dans la cafétéria, coupés par accident et non identifiés aux plans. Aucun scan de dalles n'était prévu par plans.</description>
+        <nomcontractant>Le Groupe Centco inc</nomcontractant>
+        <neqcontractant>1165903742</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-26</datedepense>
+        <datepublicationdepense>2018-04-11</datepublicationdepense>
+        <montantdepense>100.000000</montantdepense>
+        <description># 4: Demande du propriétaire - DIVERS: Remboursement des frais de demande de permis sans taxes applicables. Relocalisation de l'entrée existante vers une autre pièce. Réfection de la tuyauterie.</description>
+        <nomcontractant>Le Groupe Centco inc</nomcontractant>
+        <neqcontractant>1165903742</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1078561</numeroseao>
+    <numero>17-176 - 3STREM.01 ...</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-03-26</datedepense>
+        <datepublicationdepense>2018-04-11</datepublicationdepense>
+        <montantdepense>5457.360000</montantdepense>
+        <description># 1: Condition de chantier - ARCHITECTURE: Suite au délai occasionné par la non-conformité du 1er soumissionnaire, les travaux sont exécutés en période occupation. Pour fin de sécurité, pour ne pas condamner le corridor d'issue, faire une ouverture dans le mur extérieur pour sortir les débris ...</description>
+        <nomcontractant>Arthur Murphy Contracting Ltd</nomcontractant>
+        <neqcontractant>1144065712</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-26</datedepense>
+        <datepublicationdepense>2018-04-11</datepublicationdepense>
+        <montantdepense>15137.040000</montantdepense>
+        <description># 2: Condition de chantier - ARCHIECTURE: Agrandir la zone de démolition de la dalle de béton incluant les murs de colombage de bois suite à la directive en structure. Construction de nouveaux murs en colombages métalliques. Remplacement de l'isolation des murs extérieurs.</description>
+        <nomcontractant>Arthur Murphy Contracting Ltd</nomcontractant>
+        <neqcontractant>1144065712</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-26</datedepense>
+        <datepublicationdepense>2018-04-11</datepublicationdepense>
+        <montantdepense>1817.000000</montantdepense>
+        <description># 3: condition de chantier - ARCHITECTURE: Ragréage des ouvertures dans les murs extérieurs existants. Ces ouvertures sont présentes à la  suite de démantèlement de la sortie d'arrosage existante ainsi qu'à l'enlèvement d'une fenêtre.</description>
+        <nomcontractant>Arthur Murphy Contracting Ltd</nomcontractant>
+        <neqcontractant>1144065712</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-26</datedepense>
+        <datepublicationdepense>2018-04-12</datepublicationdepense>
+        <montantdepense>2938.250000</montantdepense>
+        <description># 4: Condition de chantier - ARCHITECTURE: Travaux temporaires pour rendre conforme le corridor menant èa la sortie d'urgence.</description>
+        <nomcontractant>Arthur Murphy Contracting Ltd</nomcontractant>
+        <neqcontractant>1144065712</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-26</datedepense>
+        <datepublicationdepense>2018-04-12</datepublicationdepense>
+        <montantdepense>9425.330000</montantdepense>
+        <description># 5: condition de chantier - MÉCANIQUE: démantèlement de tuyauteries d'évent existantes découvertent lors de la démolition. Modification de tuyauteries existantes (drainage et évent) suite èa l'ajout de stucture. Remplacement de la sortie d'arrosage existante désuète.</description>
+        <nomcontractant>Arthur Murphy Contracting Ltd</nomcontractant>
+        <neqcontractant>1144065712</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-26</datedepense>
+        <datepublicationdepense>2018-04-12</datepublicationdepense>
+        <montantdepense>2729.800000</montantdepense>
+        <description># 6: Condition de chantier - MÉCANIQUE: Suite à la modification structurale concernant la réfection du mur extérieur, des interventions en plomberie sont requises: modifier la tuyauterie de drainage de la salle de toilettes des filles.</description>
+        <nomcontractant>Arthur Murphy Contracting Ltd</nomcontractant>
+        <neqcontractant>1144065712</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-26</datedepense>
+        <datepublicationdepense>2018-04-12</datepublicationdepense>
+        <montantdepense>1100.000000</montantdepense>
+        <description># 7: Condition de chantier - ÉLECTRICITÉ: Mises aux normes d'équipements électriques non-conformes aux codes et normes applicables.</description>
+        <nomcontractant>Arthur Murphy Contracting Ltd</nomcontractant>
+        <neqcontractant>1144065712</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1085410</numeroseao>
+    <numero>17-097</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-02-15</datedepense>
+        <datepublicationdepense>2018-02-28</datepublicationdepense>
+        <montantdepense>1680.140000</montantdepense>
+        <description># 1: Civil: Changement de matériaux du conduit d'aqueduc. Le conduit doit être en fonte plutôt qu'en PVC.</description>
+        <nomcontractant>KF Construction inc.</nomcontractant>
+        <neqcontractant>1160669041</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-15</datedepense>
+        <datepublicationdepense>2018-02-28</datepublicationdepense>
+        <montantdepense>3089.720000</montantdepense>
+        <description># 2: Mécanique - Fourniture et installation de gicleurs dans le corridor temporaire d'issue.</description>
+        <nomcontractant>KF Construction inc.</nomcontractant>
+        <neqcontractant>1160669041</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-13</datedepense>
+        <datepublicationdepense>2018-04-10</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 3: (CRÉDIT -685.00$) - Demande du propriétaire - ARCHITECTURE: La clôture enlevée dans la zone de chantier n'a pas à être réinstallé èa la fin des travaux.</description>
+        <nomcontractant>KF Construction inc.</nomcontractant>
+        <neqcontractant>1160669041</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-13</datedepense>
+        <datepublicationdepense>2018-04-10</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 4: (CRÉDIT- 926.54$) Condition de chantier - STRUCTURE: Il était prévu 25 mètres cube de sol contaminé B-C à évacuer. Sous la supervision du laboratioire,il y a eu moins de sol contaminé à gérer. L'entrepreneur doit donc offrir un crédit pour une diminution de sol à gérer équivalent à 15,65 m². </description>
+        <nomcontractant>KF Construction inc.</nomcontractant>
+        <neqcontractant>1160669041</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-13</datedepense>
+        <datepublicationdepense>2018-04-10</datepublicationdepense>
+        <montantdepense>1817.130000</montantdepense>
+        <description># 5: Omission - ARCHITECTURE : Cloisonnement temporaire vis-à-vis l'ancien mur-rideau.</description>
+        <nomcontractant>KF Construction inc.</nomcontractant>
+        <neqcontractant>1160669041</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-13</datedepense>
+        <datepublicationdepense>2018-04-10</datepublicationdepense>
+        <montantdepense>1248.650000</montantdepense>
+        <description># 6: Demande du propriétaire - CIVIL: Deux (2) puits d'exploration additionnels afin de permettre une caractérisation supplémentaire des sols le long du bâtiment.</description>
+        <nomcontractant>KF Construction inc.</nomcontractant>
+        <neqcontractant>1160669041</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-13</datedepense>
+        <datepublicationdepense>2018-04-10</datepublicationdepense>
+        <montantdepense>1878.520000</montantdepense>
+        <description># 7: Condition de chantier - CIVIL: Casser le roc présent avec un marteau pneumatique.</description>
+        <nomcontractant>KF Construction inc.</nomcontractant>
+        <neqcontractant>1160669041</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1094565</numeroseao>
+    <numero>17-900-GG-S</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-02-22</datedepense>
+        <datepublicationdepense>2018-04-20</datepublicationdepense>
+        <montantdepense>13209.000000</montantdepense>
+        <description>prolongation de deux mois avec ajout de 259 heures</description>
+        <nomcontractant>Mme Lise Fortin</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2018-04-20</datedepense>
+        <datepublicationdepense>2018-04-20</datepublicationdepense>
+        <montantdepense>17505.610000</montantdepense>
+        <description>178 heures supplémentaires travaillées durant la période initiale du contrat entre juillet et décembre 2018</description>
+        <nomcontractant>Mme Lise Fortin</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1101089</numeroseao>
+    <numero>32915400</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-03-12</datedepense>
+        <datepublicationdepense>2018-04-27</datepublicationdepense>
+        <montantdepense>200807.000000</montantdepense>
+        <description>Modification mineure</description>
+        <nomcontractant>Réfrigération Noel Inc</nomcontractant>
+        <neqcontractant>1142164293</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1106616</numeroseao>
+    <numero>44508131</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-11-20</datedepense>
+        <datepublicationdepense>2018-01-19</datepublicationdepense>
+        <montantdepense>7333.890000</montantdepense>
+        <description>Modification du 20 novembre 2017 comprend des travaux supplémentaires. Toutefois, s’ajoute à ce montant une modification en date du 2 février 2018, soit un crédit de 2891.61$ pour une valeur nette totale des modifications au contrat de 7333.89$.</description>
+        <nomcontractant>BEMA construction</nomcontractant>
+        <neqcontractant>1169143170</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-16</datedepense>
+        <datepublicationdepense>2018-02-05</datepublicationdepense>
+        <montantdepense>1482.000000</montantdepense>
+        <description>Reprendre les charges provenant du mur</description>
+        <nomcontractant>BEMA construction</nomcontractant>
+        <neqcontractant>1169143170</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1111624</numeroseao>
+    <numero>44508113</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-03-12</datedepense>
+        <datepublicationdepense>2018-04-23</datepublicationdepense>
+        <montantdepense>119902.960000</montantdepense>
+        <description>Comprend la valeur des ajouts antérieures du 10 % du montant initial du contrat</description>
+        <nomcontractant>Construction Tremblay et associes inc.</nomcontractant>
+        <neqcontractant>1148428858</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-20</datedepense>
+        <datepublicationdepense>2018-04-23</datepublicationdepense>
+        <montantdepense>1656.520000</montantdepense>
+        <description>Déplacer la sonde de température extérieure  et prise électrique</description>
+        <nomcontractant>Construction Tremblay et associes inc.</nomcontractant>
+        <neqcontractant>1148428858</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-18</datedepense>
+        <datepublicationdepense>2018-04-23</datepublicationdepense>
+        <montantdepense>11138.420000</montantdepense>
+        <description>Ajout d'un rang de gypse et modification de l'ossature (ODC 11) 12 196.67 - 1058.25 (ODC 014) = 11 138.42</description>
+        <nomcontractant>Construction Tremblay et associes inc.</nomcontractant>
+        <neqcontractant>1148428858</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-20</datedepense>
+        <datepublicationdepense>2018-04-23</datepublicationdepense>
+        <montantdepense>1442.080000</montantdepense>
+        <description>Modification de l'espacement des barres en Z</description>
+        <nomcontractant>Construction Tremblay et associes inc.</nomcontractant>
+        <neqcontractant>1148428858</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-04-20</datedepense>
+        <datepublicationdepense>2018-04-23</datepublicationdepense>
+        <montantdepense>228.410000</montantdepense>
+        <description>Modification à la quincaillerie (odc 015) 340.16 - 111.75 (odc 13) = 228.41</description>
+        <nomcontractant>Construction Tremblay et associes inc.</nomcontractant>
+        <neqcontractant>1148428858</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1112088</numeroseao>
+    <numero>17-312 - 144107726</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-02-26</datedepense>
+        <datepublicationdepense>2018-04-12</datepublicationdepense>
+        <montantdepense>1965.000000</montantdepense>
+        <description># 1: Omission -  ÉLECTRICITÉ: Déplacement d'un interrupteur simple, d'un interrupteur double, d'un thermostat en surface et d'une prise électrique qui étaient sur des murs/cloisons à démolir.</description>
+        <nomcontractant>Polygone Construction Inc.</nomcontractant>
+        <neqcontractant>1169875870</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-26</datedepense>
+        <datepublicationdepense>2018-04-12</datepublicationdepense>
+        <montantdepense>3864.850000</montantdepense>
+        <description># 2: Omission - ARCHITECTURE: Ragréage de plancher de plancher dans une zone de démolition de cloisions, changement de type de contreplaqué pour adjustements du niveau des nouveaux planchers, ragréage et peinture des locaux 118 et 113 oubliés aux plans.</description>
+        <nomcontractant>Polygone Construction Inc.</nomcontractant>
+        <neqcontractant>1169875870</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-26</datedepense>
+        <datepublicationdepense>2018-04-12</datepublicationdepense>
+        <montantdepense>1610.400000</montantdepense>
+        <description># 3: Omission - ARCHITECTURE: Supplément pour enlever, couper, polir vingt-deux (22) portes de casiers métalliques existantes non montréess aux plans et peinturer vingt-deux (22) casiers métalliques supplémentaires (88 montrés aux plans vs 110 en réallité).</description>
+        <nomcontractant>Polygone Construction Inc.</nomcontractant>
+        <neqcontractant>1169875870</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-26</datedepense>
+        <datepublicationdepense>2018-04-12</datepublicationdepense>
+        <montantdepense>768.900000</montantdepense>
+        <description># 4: Omission - ARCHITECTURE: Paire de raccords de main courante doubles pour l'escalier #4 non identifiée aux plans.</description>
+        <nomcontractant>Polygone Construction Inc.</nomcontractant>
+        <neqcontractant>1169875870</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-26</datedepense>
+        <datepublicationdepense>2018-04-12</datepublicationdepense>
+        <montantdepense>808.450000</montantdepense>
+        <description># 5: Condition de chantier - ARCHITECTURE: Imprévus pour le drainage des intercepteurs de solide, ouvertures, ragréage et finition imprévu pour appareils de plomberie. DEMANDE DU PROPRIÉTAIRE: 73 tuiles de plafond supplémentaires à réparer, pose de carton fibre sous le plancher ...</description>
+        <nomcontractant>Polygone Construction Inc.</nomcontractant>
+        <neqcontractant>1169875870</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-26</datedepense>
+        <datepublicationdepense>2018-04-12</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 6: (CRÉDIT - 1559.00$) - Condition de chantier - ARCHITECTURE: Crédit pour modification du type de plinthe, car le modèle proposé par l'architecte n'est pas fonctionnel partout.</description>
+        <nomcontractant>Polygone Construction Inc.</nomcontractant>
+        <neqcontractant>1169875870</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-26</datedepense>
+        <datepublicationdepense>2018-04-12</datepublicationdepense>
+        <montantdepense>536.470000</montantdepense>
+        <description># 7: Condition de chantier - ARCHITECTURE: Ragréage de plinthes de bois pour pose de vinyle en supplément.</description>
+        <nomcontractant>Polygone Construction Inc.</nomcontractant>
+        <neqcontractant>1169875870</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-26</datedepense>
+        <datepublicationdepense>2018-04-12</datepublicationdepense>
+        <montantdepense>690.000000</montantdepense>
+        <description># 8: Omission - ARCHITECTURE: Travaux supplémentaires et main-d'oeuvre additionnelle pour démolir des tuiles amiantées sur dalle de béton versus contreplaqué, tel qu'indiqué aux plans.</description>
+        <nomcontractant>Polygone Construction Inc.</nomcontractant>
+        <neqcontractant>1169875870</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-26</datedepense>
+        <datepublicationdepense>2018-04-12</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 9: (CRÉDIT - 971.50$) - Condition de chantier - MÉCANIQUE: Crédit alloué pour l'annulation des intercepteurs de solide.</description>
+        <nomcontractant>Polygone Construction Inc.</nomcontractant>
+        <neqcontractant>1169875870</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-26</datedepense>
+        <datepublicationdepense>2018-04-13</datepublicationdepense>
+        <montantdepense>3680.160000</montantdepense>
+        <description># 10: Demande du propriétaire - ARCHITECTURE: Peinture de garde-corps soudés par la CSMB. Travaux de peinture supplémentaires pour rangements et l'ensemble des surfaces d'ardoise qui seront partiellement recouvertes par des travaux blancs ou babillards.</description>
+        <nomcontractant>Polygone Construction Inc.</nomcontractant>
+        <neqcontractant>1169875870</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-26</datedepense>
+        <datepublicationdepense>2018-04-13</datepublicationdepense>
+        <montantdepense>1443.200000</montantdepense>
+        <description># 11: Condition de chantier - ARCHITECTURE: Vieliles tuiles de plafonds 12X12 à réparer qui tombent/brisent. Installation de fond de clouage et de quarante (40) tuiles.</description>
+        <nomcontractant>Polygone Construction Inc.</nomcontractant>
+        <neqcontractant>1169875870</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-26</datedepense>
+        <datepublicationdepense>2018-04-13</datepublicationdepense>
+        <montantdepense>450.000000</montantdepense>
+        <description># 12: Demande du propriétaire - ARCHITECTURE: Coût supplémentaire pour ménage. Débris laissés dans l'école par l'informatique et d'autres entrepreneurs de la CSMB. Le sous-Traitant en ménage doit ramasser plus de débris que ce qui était prévu initialement.</description>
+        <nomcontractant>Polygone Construction Inc.</nomcontractant>
+        <neqcontractant>1169875870</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1115169</numeroseao>
+    <numero>44507971</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-02-13</datedepense>
+        <datepublicationdepense>2018-02-13</datepublicationdepense>
+        <montantdepense>16943.820000</montantdepense>
+        <description>Ajout de travaux</description>
+        <nomcontractant>Construction Serge Bergeron &amp; Associés Inc.</nomcontractant>
+        <neqcontractant>1148062947</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-10</datedepense>
+        <datepublicationdepense>2018-03-06</datepublicationdepense>
+        <montantdepense>31074.380000</montantdepense>
+        <description>Ajout</description>
+        <nomcontractant>Construction Serge Bergeron &amp; Associés Inc.</nomcontractant>
+        <neqcontractant>1148062947</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-26</datedepense>
+        <datepublicationdepense>2018-03-07</datepublicationdepense>
+        <montantdepense>1081.000000</montantdepense>
+        <description>ajout de travaux</description>
+        <nomcontractant>Construction Serge Bergeron &amp; Associés Inc.</nomcontractant>
+        <neqcontractant>1148062947</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-08</datedepense>
+        <datepublicationdepense>2018-03-08</datepublicationdepense>
+        <montantdepense>8639.230000</montantdepense>
+        <description>Ajout de travaux</description>
+        <nomcontractant>Construction Serge Bergeron &amp; Associés Inc.</nomcontractant>
+        <neqcontractant>1148062947</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-13</datedepense>
+        <datepublicationdepense>2018-03-13</datepublicationdepense>
+        <montantdepense>4760.800000</montantdepense>
+        <description>Ajout de travaux</description>
+        <nomcontractant>Construction Serge Bergeron &amp; Associés Inc.</nomcontractant>
+        <neqcontractant>1148062947</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1126936</numeroseao>
+    <numero>17-18-29</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-02-21</datedepense>
+        <datepublicationdepense>2018-04-05</datepublicationdepense>
+        <montantdepense>1789.210000</montantdepense>
+        <description>OC1 - Remplacement des carreaux additionnels pour les écoles Des Rives et Armand-Corbeil</description>
+        <nomcontractant>Ralvec Construction Inc.</nomcontractant>
+        <neqcontractant>1144002160</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-21</datedepense>
+        <datepublicationdepense>2018-04-05</datepublicationdepense>
+        <montantdepense>16714.380000</montantdepense>
+        <description>OC2 - Remplacement de carreaux acoustiques additionnels</description>
+        <nomcontractant>Ralvec Construction Inc.</nomcontractant>
+        <neqcontractant>1144002160</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+</export>

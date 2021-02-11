@@ -1,0 +1,1409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2018-03-01" datefin="2018-03-31">
+  <avis>
+    <numeroseao>582374</numeroseao>
+    <numero>7000177</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-03-20</datedepense>
+        <datepublicationdepense>2018-03-01</datepublicationdepense>
+        <montantdepense>65231.570000</montantdepense>
+        <description>Besoins supplémentaires</description>
+        <nomcontractant>Centre De Téléphone Mobile Ltée</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>700725</numeroseao>
+    <numero>23772700</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-11-24</datedepense>
+        <datepublicationdepense>2017-12-13</datepublicationdepense>
+        <montantdepense>12726.330000</montantdepense>
+        <description>Avenant  - Prolongation du contrat initial d'une période de 3 mois.</description>
+        <nomcontractant>SERVICE D'ENTRETIEN 3M ENR.</nomcontractant>
+        <neqcontractant>1164670169</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>747074</numeroseao>
+    <numero>25258500</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-11-24</datedepense>
+        <datepublicationdepense>2017-01-12</datepublicationdepense>
+        <montantdepense>45072.000000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-22</datedepense>
+        <datepublicationdepense>2017-01-12</datepublicationdepense>
+        <montantdepense>6842.000000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-01-10</datedepense>
+        <datepublicationdepense>2017-01-12</datepublicationdepense>
+        <montantdepense>5898.000000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-23</datedepense>
+        <datepublicationdepense>2017-06-08</datepublicationdepense>
+        <montantdepense>163000.000000</montantdepense>
+        <description>Modification significative SQI</description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-06-07</datedepense>
+        <datepublicationdepense>2017-06-08</datepublicationdepense>
+        <montantdepense>28945.000000</montantdepense>
+        <description>Condition imprévisible de chantier - Erreur ou omission - Modification mineure</description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-05</datedepense>
+        <datepublicationdepense>2017-07-26</datepublicationdepense>
+        <montantdepense>20264.000000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-08-29</datedepense>
+        <datepublicationdepense>2017-10-18</datepublicationdepense>
+        <montantdepense>2587.000000</montantdepense>
+        <description>Condition imprévisible de chantier - Erreur et omission et Modification au programme</description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-02</datedepense>
+        <datepublicationdepense>2018-02-02</datepublicationdepense>
+        <montantdepense>28694.180000</montantdepense>
+        <description>Conditions imprévisibles de chantier - Erreur et omission </description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>814491</numeroseao>
+    <numero>AOP-2014-S-096</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-03-02</datedepense>
+        <datepublicationdepense>2018-03-09</datepublicationdepense>
+        <montantdepense>55000.000000</montantdepense>
+        <description>Prolongation de contrat</description>
+        <nomcontractant>Maintenance Euréka Ltée</nomcontractant>
+        <neqcontractant>1142075036</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>824339</numeroseao>
+    <numero>7803-2014-088 et 7803-201</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-10-16</datedepense>
+        <datepublicationdepense>2015-11-17</datepublicationdepense>
+        <montantdepense>42074.900000</montantdepense>
+        <description>Avenant #1-2-3</description>
+        <nomcontractant>Les Consultants Odette Roy et Isabelle Jacques Inc.</nomcontractant>
+        <neqcontractant>1164160716</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-13</datedepense>
+        <datepublicationdepense>2017-03-04</datepublicationdepense>
+        <montantdepense>37785.830000</montantdepense>
+        <description>Avenant 1 et 2</description>
+        <nomcontractant>Roche Ltée, Groupe-Conseil</nomcontractant>
+        <neqcontractant>1165310831</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-08-14</datedepense>
+        <datepublicationdepense>2017-10-03</datepublicationdepense>
+        <montantdepense>2113.820000</montantdepense>
+        <description>Avenant #1-2</description>
+        <nomcontractant>Roche Ltée, Groupe-Conseil</nomcontractant>
+        <neqcontractant>1165310831</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-08-25</datedepense>
+        <datepublicationdepense>2017-10-03</datepublicationdepense>
+        <montantdepense>21955.670000</montantdepense>
+        <description>Avenant #3 - Honoraire </description>
+        <nomcontractant>Roche Ltée, Groupe-Conseil</nomcontractant>
+        <neqcontractant>1165310831</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>855575</numeroseao>
+    <numero>27088700</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-02-28</datedepense>
+        <datepublicationdepense>2018-03-01</datepublicationdepense>
+        <montantdepense>87920.850000</montantdepense>
+        <description>Honoraires professionnels supplémentaires</description>
+        <nomcontractant>P2 + STGM Architectes</nomcontractant>
+        <neqcontractant>3364451057</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>902819</numeroseao>
+    <numero>CS4290</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-03-19</datedepense>
+        <datepublicationdepense>2018-03-19</datepublicationdepense>
+        <montantdepense>5600.000000</montantdepense>
+        <description>Harmonisation des numéros de produits avec logiciel GRF-GRM consolidé</description>
+        <nomcontractant>GE Healthcare</nomcontractant>
+        <neqcontractant>1149088602</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>911248</numeroseao>
+    <numero>2015/16-067</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-12-20</datedepense>
+        <datepublicationdepense>2017-04-10</datepublicationdepense>
+        <montantdepense>423623.830000</montantdepense>
+        <description>Le 1er 10% a totalisé des dépenses de 423 623,83$ où des avenants de modification de 1 à 72 ont été émis excluant l'AM #63 pour divers ajouts ou retraits de travaux en cour de réalisation de la construction.  L'avenant # 73 a fait monté la dépense à plus de 10 % soit 10,68%</description>
+        <nomcontractant>CANDEV CONSTRUCTION INC.</nomcontractant>
+        <neqcontractant>1144754414</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-20</datedepense>
+        <datepublicationdepense>2017-04-10</datepublicationdepense>
+        <montantdepense>38581.370000</montantdepense>
+        <description>AM #73 DM-E-6 Modification alimentation chauffage périmétrique DM-E-10 : Ajout prises data IP et relais : DM-E-11: Modification circuits alimentation chauffage 3e étage :DM-E-20 : Locaux 318 et 322 enlever et réinstaller conduit ventilation pr réaliser travaux coupe-feu -raccordement boite mélange</description>
+        <nomcontractant>CANDEV CONSTRUCTION INC.</nomcontractant>
+        <neqcontractant>1144754414</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-13</datedepense>
+        <datepublicationdepense>2017-04-10</datepublicationdepense>
+        <montantdepense>24900.200000</montantdepense>
+        <description>AM #74 DM-M-18 : Modification mécanique pour sécheuse et autre DM-E-5: Modification électrique locaux 110 et 120B DM-E-13R3: Modification alimentation boîte VAV  </description>
+        <nomcontractant>CANDEV CONSTRUCTION INC.</nomcontractant>
+        <neqcontractant>1144754414</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-09</datedepense>
+        <datepublicationdepense>2017-04-10</datepublicationdepense>
+        <montantdepense>15122.240000</montantdepense>
+        <description>AM #63 :DM-A-35R1 : Enlèvement de moisissure : Temps matériel DM-A-19R2 et coût pour les travaux en extra des 2 zones de la DM-A-10R3</description>
+        <nomcontractant>CANDEV CONSTRUCTION INC.</nomcontractant>
+        <neqcontractant>1144754414</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-01-26</datedepense>
+        <datepublicationdepense>2017-04-10</datepublicationdepense>
+        <montantdepense>39839.160000</montantdepense>
+        <description>AM #76 : DM-C-2: Modification armature de l'escalier : DM-C-3R-1 : Installation poteaux clôture terrain basket :DM-S-10 : Fosse de captation : DM-S-16 : Préparation des surfaces de béton requise pour le rehaussement des pilastres </description>
+        <nomcontractant>CANDEV CONSTRUCTION INC.</nomcontractant>
+        <neqcontractant>1144754414</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-17</datedepense>
+        <datepublicationdepense>2017-04-11</datepublicationdepense>
+        <montantdepense>3582.940000</montantdepense>
+        <description>AM #77: DM-A-25R1: Soufflage cloison sur axe 3 entre E et F au RDC, N2 et N3 :DM-A-54 : Peinture partie haute des cloisons du local 221-2 :DM-1-55 : Perfore portes 126 et 129 insérer grilles  ventilation :DM-A-57 Frais déplacement lignage sol classe 120-A:DM-A-58 Rallonges retenues portes magnétique</description>
+        <nomcontractant>CANDEV CONSTRUCTION INC.</nomcontractant>
+        <neqcontractant>1144754414</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-15</datedepense>
+        <datepublicationdepense>2017-04-11</datepublicationdepense>
+        <montantdepense>4348.740000</montantdepense>
+        <description>AM #78 DM-E-17 :Modification alimentation chauffe-eau local 135 :DM-E-12 :Alimentation pompe puisard :DM-M-22 : Fournir/ installer 5 grilles ventilation dans portes:DM-C-1 : Modif. trottoir entrée princ.et ajout trottoir 2 portes:DM-C-4 :Retrait travaux civil :crédit gazon en plaque/lignage chaussée</description>
+        <nomcontractant>CANDEV CONSTRUCTION INC.</nomcontractant>
+        <neqcontractant>1144754414</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-03-30</datedepense>
+        <datepublicationdepense>2017-05-15</datepublicationdepense>
+        <montantdepense>2299.240000</montantdepense>
+        <description>AM-79 Ajout d'un extincteur conformité lieux et livraison pour la conformité -Annuler branchement d'humidificateur existant-Enlèvement/pose d'allège dû moisissures -Finition cadre porte garage</description>
+        <nomcontractant>CANDEV CONSTRUCTION INC.</nomcontractant>
+        <neqcontractant>1144754414</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-04-05</datedepense>
+        <datepublicationdepense>2017-05-15</datepublicationdepense>
+        <montantdepense>22.500000</montantdepense>
+        <description>AM-80 DM-A-40 =non utilisation de l'allocation (1640,78) crédit - DM-E-18 = omission les horloges doubes nécessitaient 2 câbles plutôt qu'un seul pour les alimenter 1663,28$ (Ajout) = 22,50$</description>
+        <nomcontractant>CANDEV CONSTRUCTION INC.</nomcontractant>
+        <neqcontractant>1144754414</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-05-25</datedepense>
+        <datepublicationdepense>2017-08-31</datepublicationdepense>
+        <montantdepense>1826.900000</montantdepense>
+        <description>AM-82 Remplacer fibre dans le béton sur pontage métallique (2e et 3e) par un treillis métallique plus gros 4x4x4/4</description>
+        <nomcontractant>CANDEV CONSTRUCTION INC.</nomcontractant>
+        <neqcontractant>1144754414</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-22</datedepense>
+        <datepublicationdepense>2018-03-20</datepublicationdepense>
+        <montantdepense>199.090000</montantdepense>
+        <description>AM#81 DM-S-17 (Candec 192) - Réparation des trous dans le mur de fondation existant dans le puis d'ascenseur</description>
+        <nomcontractant>CANDEV CONSTRUCTION INC.</nomcontractant>
+        <neqcontractant>1144754414</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-09</datedepense>
+        <datepublicationdepense>2018-03-20</datepublicationdepense>
+        <montantdepense>3550.000000</montantdepense>
+        <description> AM#83 (R2) DM-A-(Candev 179)Ajustement 02/A-404 (entrée des étudiants) suite à  DM-C-2 550$ - DM-A-61(Candev  Rehausser portes grillag 212) ées escaliers 1-2 pour être égal avec 1ère marche de la volée d'escalier du 3e étage</description>
+        <nomcontractant>CANDEV CONSTRUCTION INC.</nomcontractant>
+        <neqcontractant>1144754414</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-29</datedepense>
+        <datepublicationdepense>2018-03-27</datepublicationdepense>
+        <montantdepense>9383.300000</montantdepense>
+        <description>AM#84 DM-A-62 : C148 frais chauffage temporaire -DMA-63 C206 Travaul soir au lieu jour balancement ventilation - DM-E-19 Crédit 10 klaxons suppl. au devis mais pas fournis - DM-A-64 C217 Divers travaux suppl à la demande CSDL </description>
+        <nomcontractant>CANDEV CONSTRUCTION INC.</nomcontractant>
+        <neqcontractant>1144754414</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>919000</numeroseao>
+    <numero>OP-INGME-STR-052 (2015)</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-05-25</datedepense>
+        <datepublicationdepense>2018-03-29</datepublicationdepense>
+        <montantdepense>1207.000000</montantdepense>
+        <description>Ajout d'honoraires pour visites supplémentaires</description>
+        <nomcontractant>Bouthillette Parizeau Inc.</nomcontractant>
+        <neqcontractant>1142591438</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-06-07</datedepense>
+        <datepublicationdepense>2018-03-29</datepublicationdepense>
+        <montantdepense>16914.000000</montantdepense>
+        <description>Modifications importantes aux plans et devis et conditions de chantier particulières</description>
+        <nomcontractant>Bouthillette Parizeau Inc.</nomcontractant>
+        <neqcontractant>1142591438</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>932111</numeroseao>
+    <numero>OP-INGCST-EHT-380 (2015)</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-09-26</datedepense>
+        <datepublicationdepense>2018-03-29</datepublicationdepense>
+        <montantdepense>6527.000000</montantdepense>
+        <description>Ajout de service d'un hydrologue pour calcul de débit</description>
+        <nomcontractant>Les Services Exp Inc</nomcontractant>
+        <neqcontractant>1167268128</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-22</datedepense>
+        <datepublicationdepense>2018-03-29</datepublicationdepense>
+        <montantdepense>17776.970000</montantdepense>
+        <description>Reprise de l'appel d'offre et surveillance de chantier accrue</description>
+        <nomcontractant>Les Services Exp Inc</nomcontractant>
+        <neqcontractant>1167268128</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>964653</numeroseao>
+    <numero>028-028-67028 </numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-12-23</datedepense>
+        <datepublicationdepense>2017-02-08</datepublicationdepense>
+        <montantdepense>215000.000000</montantdepense>
+        <description>Transation et quittance - Conditions exeptionnelles de début de chantier</description>
+        <nomcontractant>CANDEV CONSTRUCTION INC.</nomcontractant>
+        <neqcontractant>1144754414</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-09-27</datedepense>
+        <datepublicationdepense>2018-03-28</datepublicationdepense>
+        <montantdepense>23304.000000</montantdepense>
+        <description>Avenants de modifications ODC-01 à ODC-16</description>
+        <nomcontractant>CANDEV CONSTRUCTION INC.</nomcontractant>
+        <neqcontractant>1144754414</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-27</datedepense>
+        <datepublicationdepense>2018-03-28</datepublicationdepense>
+        <montantdepense>14480.080000</montantdepense>
+        <description>Avenants de modification de contrat ODC-18 à 19, , ODC-21 à 24</description>
+        <nomcontractant>CANDEV CONSTRUCTION INC.</nomcontractant>
+        <neqcontractant>1144754414</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-28</datedepense>
+        <datepublicationdepense>2018-03-28</datepublicationdepense>
+        <montantdepense>48830.010000</montantdepense>
+        <description>Avenants de modification de contrat ODC-17r01, ODC-20, ODC-25, ODC-26r01, ODC-27 à 29</description>
+        <nomcontractant>CANDEV CONSTRUCTION INC.</nomcontractant>
+        <neqcontractant>1144754414</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-15</datedepense>
+        <datepublicationdepense>2018-03-28</datepublicationdepense>
+        <montantdepense>63313.580000</montantdepense>
+        <description>Avenants de modification de contrat ODC-30 à 38, ODC-40 à 41</description>
+        <nomcontractant>CANDEV CONSTRUCTION INC.</nomcontractant>
+        <neqcontractant>1144754414</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-30</datedepense>
+        <datepublicationdepense>2018-03-28</datepublicationdepense>
+        <montantdepense>51870.280000</montantdepense>
+        <description>Avenants de modification de contrat ODC-39r1, ODC-42 à 43, ODC-21-B et C. </description>
+        <nomcontractant>CANDEV CONSTRUCTION INC.</nomcontractant>
+        <neqcontractant>1144754414</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-23</datedepense>
+        <datepublicationdepense>2018-03-28</datepublicationdepense>
+        <montantdepense>24653.510000</montantdepense>
+        <description>Avenants de modification de contrat ODC-44 à 46, ODC-48 à 53</description>
+        <nomcontractant>CANDEV CONSTRUCTION INC.</nomcontractant>
+        <neqcontractant>1144754414</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>972826</numeroseao>
+    <numero>44505451</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-10-14</datedepense>
+        <datepublicationdepense>2018-03-13</datepublicationdepense>
+        <montantdepense>9499.120000</montantdepense>
+        <description>ODC 1 - Location du dortoir (-11 000 $) ODC 2, 3 et 4 - Travaux supplémentaires (20 499,12 $)</description>
+        <nomcontractant>Construction Gaston Proulx &amp; Frères inc.</nomcontractant>
+        <neqcontractant>1142531574</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-25</datedepense>
+        <datepublicationdepense>2018-03-13</datepublicationdepense>
+        <montantdepense>2606.910000</montantdepense>
+        <description>ODC 5 - Ajout travaux mécaniques</description>
+        <nomcontractant>Construction Gaston Proulx &amp; Frères inc.</nomcontractant>
+        <neqcontractant>1142531574</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-07</datedepense>
+        <datepublicationdepense>2018-03-13</datepublicationdepense>
+        <montantdepense>2190.000000</montantdepense>
+        <description>ODC 6 - Installation section conduite de drainage</description>
+        <nomcontractant>Construction Gaston Proulx &amp; Frères inc.</nomcontractant>
+        <neqcontractant>1142531574</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-21</datedepense>
+        <datepublicationdepense>2018-03-13</datepublicationdepense>
+        <montantdepense>670.750000</montantdepense>
+        <description>ODC 7 - Livraison table en inox</description>
+        <nomcontractant>Construction Gaston Proulx &amp; Frères inc.</nomcontractant>
+        <neqcontractant>1142531574</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-28</datedepense>
+        <datepublicationdepense>2018-03-13</datepublicationdepense>
+        <montantdepense>2757.340000</montantdepense>
+        <description>ODC 8 - Ajout membranes d'étanchéité aux fondations</description>
+        <nomcontractant>Construction Gaston Proulx &amp; Frères inc.</nomcontractant>
+        <neqcontractant>1142531574</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-21</datedepense>
+        <datepublicationdepense>2018-03-13</datepublicationdepense>
+        <montantdepense>929.070000</montantdepense>
+        <description>ODC 9 - Retombé de plafond dans la cuisine</description>
+        <nomcontractant>Construction Gaston Proulx &amp; Frères inc.</nomcontractant>
+        <neqcontractant>1142531574</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>989015</numeroseao>
+    <numero>8503-14-0201</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-11-01</datedepense>
+        <datepublicationdepense>2017-12-11</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Ligne inscrite par erreur</description>
+        <nomcontractant>Construction Carbo Inc.</nomcontractant>
+        <neqcontractant>1140137085</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-21</datedepense>
+        <datepublicationdepense>2018-01-24</datepublicationdepense>
+        <montantdepense>286371.880000</montantdepense>
+        <description>Dommages ou contraintes imprévisibles ne pouvant être connus avant les travaux</description>
+        <nomcontractant>Construction Carbo Inc.</nomcontractant>
+        <neqcontractant>1140137085</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-09</datedepense>
+        <datepublicationdepense>2018-03-02</datepublicationdepense>
+        <montantdepense>14773.970000</montantdepense>
+        <description>Dépassement relié à des variations de quantité et/ou des modifications au contrat de construction ou de services de nature technique</description>
+        <nomcontractant>Construction Carbo Inc.</nomcontractant>
+        <neqcontractant>1140137085</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>992024</numeroseao>
+    <numero>R15039-02</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-11-07</datedepense>
+        <datepublicationdepense>2018-03-19</datepublicationdepense>
+        <montantdepense>3448.820000</montantdepense>
+        <description>Imprévus de chantier </description>
+        <nomcontractant>Construction GNF</nomcontractant>
+        <neqcontractant>1164341274</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1021571</numeroseao>
+    <numero>AO 62-2016-02</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-11-30</datedepense>
+        <datepublicationdepense>2017-12-19</datepublicationdepense>
+        <montantdepense>31635.000000</montantdepense>
+        <description>Heures additionnelles faites dans le cadre d'un contrat à l'heure. Aucune modification de contrat</description>
+        <nomcontractant>Rig-Rite Productions Inc.</nomcontractant>
+        <neqcontractant>1164584956</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-15</datedepense>
+        <datepublicationdepense>2018-03-11</datepublicationdepense>
+        <montantdepense>7155.000000</montantdepense>
+        <description>Augmentation des événements requérant le service d'accrochage . Contrat à l'heure selon # heure estimé. Aucune modification de contrat.</description>
+        <nomcontractant>Rig-Rite Productions Inc.</nomcontractant>
+        <neqcontractant>1164584956</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1030737</numeroseao>
+    <numero>LG-2016-11</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-03-06</datedepense>
+        <datepublicationdepense>2017-12-06</datepublicationdepense>
+        <montantdepense>4500.000000</montantdepense>
+        <description>Prolongation du bail du 1er avril 2017 au 30 septembre 2017 à raison de 750 $ / mois en attendant le début d'une nouvelle cohorte qui nécessitera la signature d'un nouveau bail</description>
+        <nomcontractant>Les Placements Bertrand Fradet Inc.</nomcontractant>
+        <neqcontractant>1142823153</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-19</datedepense>
+        <datepublicationdepense>2018-03-29</datepublicationdepense>
+        <montantdepense>800.000000</montantdepense>
+        <description>Il a été convenu de reporter la date de fin de bail au 31 décembre 2017 à raison de 200 $ / mois pour l'entreposage de l'équipement et de permettre à l'organisme de quitter les lieux pour le 31 janvier 2018</description>
+        <nomcontractant>Les Placements Bertrand Fradet Inc.</nomcontractant>
+        <neqcontractant>1142823153</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1047464</numeroseao>
+    <numero>CA16-2637-000-2</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-01-30</datedepense>
+        <datepublicationdepense>2018-02-19</datepublicationdepense>
+        <montantdepense>4970.000000</montantdepense>
+        <description>Fin de contrat modifié au 13 mars 2018</description>
+        <nomcontractant>Vidéotron s.e.n.c.</nomcontractant>
+        <neqcontractant>3366994047</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1047919</numeroseao>
+    <numero>2017-04</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-08-31</datedepense>
+        <datepublicationdepense>2018-03-12</datepublicationdepense>
+        <montantdepense>399.860000</montantdepense>
+        <description>ODC</description>
+        <nomcontractant>Regulvar Inc..</nomcontractant>
+        <neqcontractant>1146502761</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1048199</numeroseao>
+    <numero>55335-AW-INV-C</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-03-20</datedepense>
+        <datepublicationdepense>2018-03-21</datepublicationdepense>
+        <montantdepense>37439.900000</montantdepense>
+        <description>ODC01 À 03 : Changements en mécanique</description>
+        <nomcontractant>Securmax Systèmes Intégrés de Sécurité inc.</nomcontractant>
+        <neqcontractant>1145764511</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1051656</numeroseao>
+    <numero>2016CSU014</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-07-06</datedepense>
+        <datepublicationdepense>2017-07-06</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Honoraire pour ingénieur civil</description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-04-19</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>37297.050000</montantdepense>
+        <description>ODC 1 À 10 : Divers travaux</description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-05-11</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Filage éclairage sous-sol (compris dans ODC 1 à 10)</description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-05-05</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Modification détails de fenêtres à l'étage suite à la vérification sur place après l'enlèvement de la fenêtre 223 (compris dans ODC 1 à 10)</description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-05-31</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Isolation haut des murs extérieurs (compris dans ODC 1 à 10)</description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-05-11</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Démantèlement rails lève-patients (compris dans ODC 1 à 10)</description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-05-31</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Divers électricité (compris dans ODC 1 à 10)</description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-05-31</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Conduits électriques supplémentaires (compris dans ODC 1 à 10)</description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-05-31</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Tuyauterie gicleurs étage (compris dans ODC 1 à 10)</description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-05-29</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Raccordement de la cuve sur patte, conciergerie # 16 (compris dans ODC 1 à 10)</description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-05-29</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>remplacement de valves existantes et modif. de valves à billes aux plans (compris dans ODC 1 à 10)</description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-05-30</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>98580.520000</montantdepense>
+        <description>ODC 11 À 30 : Travaux divers</description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-05-31</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Réflection de la tuyauterie de drainage sanitaire de la cuisine (compris dans ODC 11 à 30) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-06-22</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Modification du tracé de la conduite d'entrée d'eau et du profil du stationnement (compris dans ODC 11 à 30) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-05-31</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Dalle de béton au rez-de-chaussé (compris dans ODC 11 à 30) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-05-29</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Prise micro-ondes 204 (compris dans ODC 11 à 30) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-05-31</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Enlèvement de l'amiante fascias (compris dans ODC 11 à 30) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-05-31</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Démolition supplémentaire (compris dans ODC 11 à 30) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-05-31</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Isolation structure périphérique uréthane giclé (compris dans ODC 11 à 30) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-06-22</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Passage de gaines de ventilation (compris dans ODC 11 à 30) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-06-22</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Supports conduits ventilation existants  (compris dans ODC 11 à 30) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-06-22</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Aménagement de la salle électrique  (compris dans ODC 11 à 30) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-20</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Stations manuelles  (compris dans ODC 11 à 30) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-06-22</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Supports pour filate informatique  (compris dans ODC 11 à 30) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-06-28</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Prises électriques chambres existantes  (compris dans ODC 11 à 30) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-20</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Contrôle d'étage  (compris dans ODC 11 à 30) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-06-22</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Problématique élévation de la nappe phréatique  (compris dans ODC 11 à 30) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-06-22</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Modif. cloisons remplacement protection murale corridors 167, 145b, 210  (compris dans ODC 11 à 30) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-03</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Éclairage 254  (compris dans ODC 11 à 30) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-03</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Transformation conduit alimentation 17-A1 (compris dans ODC 11 à 30) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-11</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>89233.790000</montantdepense>
+        <description>ODC 31 À 50 : Travaux divers</description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-10</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Robinetterie évier utilité souillée 126 (compris dans ODC 31 à 50) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-10</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Plomberie divers (compris dans ODC 31 à 50) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-10</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Appel de garde (compris dans ODC 31 à 50) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-10</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Toit de protection de l'entrée principale (compris dans ODC 31 à 50) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-20</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Plomberie demande client (compris dans ODC 31 à 50) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-20</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Quincaillerie groupe # 7 (compris dans ODC 31 à 50) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-20</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Ragréage des murs suite à l'ajout des prises de courant (compris dans ODC 31 à 50) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-20</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Remplacement thermos déscellé (compris dans ODC 31 à 50) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-20</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Isolation céramique conduits de ventilation de la buanderie (compris dans ODC 31 à 50) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-20</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Travaux de gypse (compris dans ODC 31 à 50) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-20</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Raccordement panneau P-11 (compris dans ODC 31 à 50) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-08-25</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Conduite de gaz naturel (compris dans ODC 31 à 50) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-08-25</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Modif. composition façade et section du plancher du balcon (compris dans ODC 31 à 50) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-08-25</datedepense>
+        <datepublicationdepense>2017-09-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Gicleurs galerie extérieure (compris dans ODC 31 à 50) </description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-09-25</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>13470.040000</montantdepense>
+        <description>ODC 51 À 60 : Travaux divers</description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-12</datedepense>
+        <datepublicationdepense>2017-12-12</datepublicationdepense>
+        <montantdepense>17350.350000</montantdepense>
+        <description>ODC 61 à 70 : Travaux divers</description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-12</datedepense>
+        <datepublicationdepense>2018-01-08</datepublicationdepense>
+        <montantdepense>19160.500000</montantdepense>
+        <description>ODC 71 à 80 : Travaux divers</description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-30</datedepense>
+        <datepublicationdepense>2018-02-13</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Déjà inclus dans autre ODC</description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-16</datedepense>
+        <datepublicationdepense>2018-03-19</datepublicationdepense>
+        <montantdepense>10444.050000</montantdepense>
+        <description>ODC 81 et 82 : Drainage point bas gicleurs, modification têtes de fenêtres</description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-19</datedepense>
+        <datepublicationdepense>2018-03-20</datepublicationdepense>
+        <montantdepense>22284.730000</montantdepense>
+        <description>ODC 42 et 45 : Corriger mur extérieur</description>
+        <nomcontractant>Les Constructions Binet Inc</nomcontractant>
+        <neqcontractant>1142847111</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1051692</numeroseao>
+    <numero>16-17-52</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-07-14</datedepense>
+        <datepublicationdepense>2017-07-20</datepublicationdepense>
+        <montantdepense>21319.980000</montantdepense>
+        <description>OC1 - Ajout d'une porte , signalisation, démolition du mur de blocs pour la nouvelle porte</description>
+        <nomcontractant>Construction Hébert &amp; Hébert Inc.</nomcontractant>
+        <neqcontractant>1142967224</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1056483</numeroseao>
+    <numero>2016CSU015</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-06-12</datedepense>
+        <datepublicationdepense>2017-06-28</datepublicationdepense>
+        <montantdepense>35000.000000</montantdepense>
+        <description>Modification de la tâche à effectuer</description>
+        <nomcontractant>Groupe Excel S.M. Inc.</nomcontractant>
+        <neqcontractant>1146204475</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-06-26</datedepense>
+        <datepublicationdepense>2017-06-28</datepublicationdepense>
+        <montantdepense>34800.000000</montantdepense>
+        <description>Honoraire supplémentaire suite à l'avenant #2</description>
+        <nomcontractant>Groupe Excel S.M. Inc.</nomcontractant>
+        <neqcontractant>1146204475</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-17</datedepense>
+        <datepublicationdepense>2017-10-30</datepublicationdepense>
+        <montantdepense>18277.960000</montantdepense>
+        <description>ODC</description>
+        <nomcontractant>Groupe Excel S.M. Inc.</nomcontractant>
+        <neqcontractant>1146204475</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1058073</numeroseao>
+    <numero>2017-04-CSPORT(ING)</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-06-09</datedepense>
+        <datepublicationdepense>2018-03-01</datepublicationdepense>
+        <montantdepense>7063.300000</montantdepense>
+        <description>Honoraires professionnels pour l' études conceptuelles pour l'ajout de murs de blocs</description>
+        <nomcontractant>CIMA Québec s.e.n.c.</nomcontractant>
+        <neqcontractant>3340563140</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-03</datedepense>
+        <datepublicationdepense>2018-03-01</datepublicationdepense>
+        <montantdepense>12236.500000</montantdepense>
+        <description>Honoraires professionnels en ingénierie pour les travaux en génie civil - plans et devis</description>
+        <nomcontractant>CIMA Québec s.e.n.c.</nomcontractant>
+        <neqcontractant>3340563140</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-14</datedepense>
+        <datepublicationdepense>2018-03-01</datepublicationdepense>
+        <montantdepense>31280.000000</montantdepense>
+        <description>Ajustement des honoraires professionnels principalement en structure et en génie civil pour les plans et devis et les services fournis durant la construction</description>
+        <nomcontractant>CIMA Québec s.e.n.c.</nomcontractant>
+        <neqcontractant>3340563140</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-28</datedepense>
+        <datepublicationdepense>2018-03-01</datepublicationdepense>
+        <montantdepense>2875.440000</montantdepense>
+        <description>Honoraires supplémentaires suite à l'ajout de fenêtres dans l'espace piscine.</description>
+        <nomcontractant>CIMA Québec s.e.n.c.</nomcontractant>
+        <neqcontractant>3340563140</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1063024</numeroseao>
+    <numero>16-17-80</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-10-20</datedepense>
+        <datepublicationdepense>2018-03-08</datepublicationdepense>
+        <montantdepense>1382.180000</montantdepense>
+        <description>Ajout d'un DAR pour le branchement du réseau d'eau potable sur la tuyauterie de drainage.</description>
+        <nomcontractant>Plomberie Mario Thivierge Inc</nomcontractant>
+        <neqcontractant>1168527522</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1074889</numeroseao>
+    <numero>M09M00301</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-10-18</datedepense>
+        <datepublicationdepense>2017-11-01</datepublicationdepense>
+        <montantdepense>23378.210000</montantdepense>
+        <description>Modifications qui occasionnent des dépenses supplémentaires</description>
+        <nomcontractant>MECANIQUE M.G.S. MÉTAL</nomcontractant>
+        <neqcontractant>1143829670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-16</datedepense>
+        <datepublicationdepense>2018-03-08</datepublicationdepense>
+        <montantdepense>654.580000</montantdepense>
+        <description>Directive de chantier M-05</description>
+        <nomcontractant>MECANIQUE M.G.S. MÉTAL</nomcontractant>
+        <neqcontractant>1143829670</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1075188</numeroseao>
+    <numero>CS2017635</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-02-07</datedepense>
+        <datepublicationdepense>2018-03-23</datepublicationdepense>
+        <montantdepense>12000.000000</montantdepense>
+        <description>Ajout en contrat en raison d'une augmentation du besoin</description>
+        <nomcontractant>Cira Services Médicaux</nomcontractant>
+        <neqcontractant>3370578547</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1075226</numeroseao>
+    <numero>CS2017636</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-02-07</datedepense>
+        <datepublicationdepense>2018-03-23</datepublicationdepense>
+        <montantdepense>12000.000000</montantdepense>
+        <description>Augmentation du besoin</description>
+        <nomcontractant>Robin Dancose M.D. INC.</nomcontractant>
+        <neqcontractant>1166105529</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1079560</numeroseao>
+    <numero>AOP-0036</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-10-23</datedepense>
+        <datepublicationdepense>2017-10-25</datepublicationdepense>
+        <montantdepense>1005.680000</montantdepense>
+        <description>Désamiantage des quatre (4) hottes de laboratoire (A-544 et A-534)</description>
+        <nomcontractant>Sélection 2000 Entrepreneur Général</nomcontractant>
+        <neqcontractant>1161408340</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-24</datedepense>
+        <datepublicationdepense>2017-10-25</datepublicationdepense>
+        <montantdepense>2200.000000</montantdepense>
+        <description>ODC-2 Livraison rapide de l'unité de ventilation</description>
+        <nomcontractant>Sélection 2000 Entrepreneur Général</nomcontractant>
+        <neqcontractant>1161408340</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-24</datedepense>
+        <datepublicationdepense>2017-10-25</datepublicationdepense>
+        <montantdepense>625.600000</montantdepense>
+        <description>ODC-3 Enlèvement de baguettes de bois existantes qui gênent l'installation des comptoirs</description>
+        <nomcontractant>Sélection 2000 Entrepreneur Général</nomcontractant>
+        <neqcontractant>1161408340</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-03</datedepense>
+        <datepublicationdepense>2017-11-07</datepublicationdepense>
+        <montantdepense>7171.860000</montantdepense>
+        <description> ODC-4 Protection mobilier et enlèvement des luminaires</description>
+        <nomcontractant>Sélection 2000 Entrepreneur Général</nomcontractant>
+        <neqcontractant>1161408340</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-03</datedepense>
+        <datepublicationdepense>2017-11-07</datepublicationdepense>
+        <montantdepense>5327.480000</montantdepense>
+        <description>ODC-5 Modification des poutres de rives et démolition béton armé </description>
+        <nomcontractant>Sélection 2000 Entrepreneur Général</nomcontractant>
+        <neqcontractant>1161408340</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-23</datedepense>
+        <datepublicationdepense>2017-12-06</datepublicationdepense>
+        <montantdepense>5803.840000</montantdepense>
+        <description>ODC-6 (demande de changement M-4) Couper les sections de tuyaux de drainage, du tuyau en fonte, du tuyau d'évent en acier galvanisé afin d'installer les nouvelles poutrelles. Réinstaller les tuyaux touchés avec des joints mécaniques.</description>
+        <nomcontractant>Sélection 2000 Entrepreneur Général</nomcontractant>
+        <neqcontractant>1161408340</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-29</datedepense>
+        <datepublicationdepense>2017-12-06</datepublicationdepense>
+        <montantdepense>5000.000000</montantdepense>
+        <description>ODC-7 (demande de changement M-3 Rev.1)  Option 1: - Raccorder le basin de neutralisation sur le drainage existant. - Effectuer les scans et percements sur les deux dalles.</description>
+        <nomcontractant>Sélection 2000 Entrepreneur Général</nomcontractant>
+        <neqcontractant>1161408340</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-14</datedepense>
+        <datepublicationdepense>2017-12-15</datepublicationdepense>
+        <montantdepense>7944.200000</montantdepense>
+        <description>ODC-8 (demande de changement M-5)  Modifier le diamètre de la tuyauterie de gaz naturel</description>
+        <nomcontractant>Sélection 2000 Entrepreneur Général</nomcontractant>
+        <neqcontractant>1161408340</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-12</datedepense>
+        <datepublicationdepense>2018-01-15</datepublicationdepense>
+        <montantdepense>3036.860000</montantdepense>
+        <description>ODC-9 (demande de changement M-2)  Modification des robinets</description>
+        <nomcontractant>Sélection 2000 Entrepreneur Général</nomcontractant>
+        <neqcontractant>1161408340</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-12</datedepense>
+        <datepublicationdepense>2018-01-15</datepublicationdepense>
+        <montantdepense>6236.420000</montantdepense>
+        <description>ODC-10 (demande de changement E-2)  Démolition de conduits, conducteurs et boites désuets au plafond</description>
+        <nomcontractant>Sélection 2000 Entrepreneur Général</nomcontractant>
+        <neqcontractant>1161408340</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-12</datedepense>
+        <datepublicationdepense>2018-01-15</datepublicationdepense>
+        <montantdepense>605.000000</montantdepense>
+        <description>ODC-11 (demande de changement M-7)  Remplacement de la soupape de gaz.  En complément à M-5</description>
+        <nomcontractant>Sélection 2000 Entrepreneur Général</nomcontractant>
+        <neqcontractant>1161408340</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-19</datedepense>
+        <datepublicationdepense>2018-01-25</datepublicationdepense>
+        <montantdepense>7938.610000</montantdepense>
+        <description>ODC-12 (demande de changement M-6)  Déplacement du compresseur de vide</description>
+        <nomcontractant>Sélection 2000 Entrepreneur Général</nomcontractant>
+        <neqcontractant>1161408340</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-19</datedepense>
+        <datepublicationdepense>2018-01-25</datepublicationdepense>
+        <montantdepense>7210.000000</montantdepense>
+        <description>ODC-13 (demande de changement A3)  Nouveau plafond en tuiles et suspensions constituant un assemblage coupe-feu dans le A-443</description>
+        <nomcontractant>Sélection 2000 Entrepreneur Général</nomcontractant>
+        <neqcontractant>1161408340</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-01</datedepense>
+        <datepublicationdepense>2018-03-16</datepublicationdepense>
+        <montantdepense>2922.180000</montantdepense>
+        <description>ODC-15 (demande de changement M-8) - Ajout d'un régulateur de gaz pour le raccordement de l'unité au toit</description>
+        <nomcontractant>Sélection 2000 Entrepreneur Général</nomcontractant>
+        <neqcontractant>1161408340</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-14</datedepense>
+        <datepublicationdepense>2018-03-16</datepublicationdepense>
+        <montantdepense>2208.130000</montantdepense>
+        <description>ODC-14-rev 1 (demande de changement E-3) -  Ajout d'un câble chauffant autour du conduit d'eau situé au toit vers l'unité de ventilation.</description>
+        <nomcontractant>Sélection 2000 Entrepreneur Général</nomcontractant>
+        <neqcontractant>1161408340</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-14</datedepense>
+        <datepublicationdepense>2018-03-16</datepublicationdepense>
+        <montantdepense>3103.010000</montantdepense>
+        <description>ODC-16 (demande de changement M-9)  - Isolation d'un tuyaux dans un plénum.</description>
+        <nomcontractant>Sélection 2000 Entrepreneur Général</nomcontractant>
+        <neqcontractant>1161408340</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1088917</numeroseao>
+    <numero>2017-1073</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-02-28</datedepense>
+        <datepublicationdepense>2018-02-28</datepublicationdepense>
+        <montantdepense>2114.300000</montantdepense>
+        <description>Services Professionnels</description>
+        <nomcontractant>CBCI Telecom Canada Inc.</nomcontractant>
+        <neqcontractant>1147421458</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1100290</numeroseao>
+    <numero>32915700</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-01-16</datedepense>
+        <datepublicationdepense>2018-01-29</datepublicationdepense>
+        <montantdepense>150914.220000</montantdepense>
+        <description>Conditions imprévisibles de chantier et erreur ou omission</description>
+        <nomcontractant>TBC Constructions inc.</nomcontractant>
+        <neqcontractant>1170148176</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-19</datedepense>
+        <datepublicationdepense>2018-03-15</datepublicationdepense>
+        <montantdepense>12330.450000</montantdepense>
+        <description>condition imprévisibles de chantier et erreur ou omission</description>
+        <nomcontractant>TBC Constructions inc.</nomcontractant>
+        <neqcontractant>1170148176</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1142223</numeroseao>
+    <numero>SP9290.094 (CHUM-244)</numero>
+    <depenses>
+      <depense>
+        <datedepense>2010-12-09</datedepense>
+        <datepublicationdepense>2018-03-19</datepublicationdepense>
+        <montantdepense>49310.000000</montantdepense>
+        <description>Ajout d'une somme additionnelle.</description>
+        <nomcontractant>Le Groupe LGA Inc.</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2011-01-05</datedepense>
+        <datepublicationdepense>2018-03-19</datepublicationdepense>
+        <montantdepense>18750.000000</montantdepense>
+        <description>Extension du mandat </description>
+        <nomcontractant>Le Groupe LGA Inc.</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2011-03-31</datedepense>
+        <datepublicationdepense>2018-03-19</datepublicationdepense>
+        <montantdepense>39750.000000</montantdepense>
+        <description>Extension du mandat </description>
+        <nomcontractant>Le Groupe LGA Inc.</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2012-01-11</datedepense>
+        <datepublicationdepense>2018-03-19</datepublicationdepense>
+        <montantdepense>40000.000000</montantdepense>
+        <description>Extension du mandat </description>
+        <nomcontractant>Le Groupe LGA Inc.</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2012-06-19</datedepense>
+        <datepublicationdepense>2018-03-19</datepublicationdepense>
+        <montantdepense>10077.500000</montantdepense>
+        <description>Ajout d'expertise multimédia.</description>
+        <nomcontractant>Le Groupe LGA Inc.</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1149784</numeroseao>
+    <numero>201275</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-02-27</datedepense>
+        <datepublicationdepense>2018-03-22</datepublicationdepense>
+        <montantdepense>13500.000000</montantdepense>
+        <description>Révision des honoraires pour la préparation des plans et devis ainsi que pour la surveillance des travaux pour convertir un local en fumoir.</description>
+        <nomcontractant>Bouthillette Parizeau Inc.</nomcontractant>
+        <neqcontractant>1142591438</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1150405</numeroseao>
+    <numero>C-0917983</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-03-12</datedepense>
+        <datepublicationdepense>2018-03-26</datepublicationdepense>
+        <montantdepense>1275.150000</montantdepense>
+        <description>Arracher ciment existant et refaire l'autonivellant</description>
+        <nomcontractant>Céramique Michel Dubuc </nomcontractant>
+        <neqcontractant>2262810627</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-14</datedepense>
+        <datepublicationdepense>2018-03-26</datepublicationdepense>
+        <montantdepense>1907.100000</montantdepense>
+        <description>Installation de nez de marche</description>
+        <nomcontractant>Céramique Michel Dubuc </nomcontractant>
+        <neqcontractant>2262810627</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-15</datedepense>
+        <datepublicationdepense>2018-03-26</datepublicationdepense>
+        <montantdepense>2168.000000</montantdepense>
+        <description>Rajout de prélart dû à un manque de mesures qui n'étaient pas figurer sur les plans et perte occasionnée par les pointes des angles</description>
+        <nomcontractant>Céramique Michel Dubuc </nomcontractant>
+        <neqcontractant>2262810627</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-03-23</datedepense>
+        <datepublicationdepense>2018-03-29</datepublicationdepense>
+        <montantdepense>2716.910000</montantdepense>
+        <description>Réfection de plancher dans la salle d'isolement</description>
+        <nomcontractant>Céramique Michel Dubuc </nomcontractant>
+        <neqcontractant>2262810627</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+</export>

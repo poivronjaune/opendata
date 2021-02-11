@@ -1,0 +1,1759 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2019-03-01" datefin="2019-03-31">
+  <avis>
+    <numeroseao>697921</numeroseao>
+    <numero>25946100</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-01-31</datedepense>
+        <datepublicationdepense>2019-02-14</datepublicationdepense>
+        <montantdepense>44451.600000</montantdepense>
+        <description>Prolongation du contrat de 6 mois</description>
+        <nomcontractant>Gestion P.R. Maintenance Inc.</nomcontractant>
+        <neqcontractant>1161663340</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>740266</numeroseao>
+    <numero>24-315P</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-07-14</datedepense>
+        <datepublicationdepense>2016-09-16</datepublicationdepense>
+        <montantdepense>90000.000000</montantdepense>
+        <description>SRM017550</description>
+        <nomcontractant>NFOE et associés architectes</nomcontractant>
+        <neqcontractant>3345415767</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-04-25</datedepense>
+        <datepublicationdepense>2018-08-17</datepublicationdepense>
+        <montantdepense>182859.000000</montantdepense>
+        <description>BC SRM019704</description>
+        <nomcontractant>NFOE et associés architectes</nomcontractant>
+        <neqcontractant>3345415767</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-05</datedepense>
+        <datepublicationdepense>2019-03-27</datepublicationdepense>
+        <montantdepense>89709.430000</montantdepense>
+        <description>SRM026246 (36019570)</description>
+        <nomcontractant>NFOE et associés architectes</nomcontractant>
+        <neqcontractant>3345415767</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-30</datedepense>
+        <datepublicationdepense>2017-12-01</datepublicationdepense>
+        <montantdepense>45160.760000</montantdepense>
+        <description>SRM021421</description>
+        <nomcontractant>PAGEAU MOREL inc.</nomcontractant>
+        <neqcontractant>1144576254</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-11-22</datedepense>
+        <datepublicationdepense>2018-12-05</datepublicationdepense>
+        <montantdepense>50500.000000</montantdepense>
+        <description>SRM020420 (080 018 950)</description>
+        <nomcontractant>SDK et associés inc</nomcontractant>
+        <neqcontractant>1146344487</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>753811</numeroseao>
+    <numero>25093500</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-01-11</datedepense>
+        <datepublicationdepense>2017-01-12</datepublicationdepense>
+        <montantdepense>3330.980000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>SOCOMEC INDUSTRIEL INC.</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2017-07-19</datedepense>
+        <datepublicationdepense>2017-07-26</datepublicationdepense>
+        <montantdepense>123580.000000</montantdepense>
+        <description>Condition imprévisible de chantier et Erreur et Omission</description>
+        <nomcontractant>SOCOMEC INDUSTRIEL INC.</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2018-03-09</datedepense>
+        <datepublicationdepense>2018-04-18</datepublicationdepense>
+        <montantdepense>296766.000000</montantdepense>
+        <description>Condition imprévisible de chantier et erreur et omission</description>
+        <nomcontractant>SOCOMEC INDUSTRIEL INC.</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>805750</numeroseao>
+    <numero>TCR 2014-15-14 P</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-10-13</datedepense>
+        <datepublicationdepense>2016-10-21</datepublicationdepense>
+        <montantdepense>57600.000000</montantdepense>
+        <description>Ajout à la banque d'heure pour le Soutien technique N1 &amp; N2</description>
+        <nomcontractant>Matricis Informatique Inc...</nomcontractant>
+        <neqcontractant>1149011802</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-14</datedepense>
+        <datepublicationdepense>2019-03-15</datepublicationdepense>
+        <montantdepense>40274.780000</montantdepense>
+        <description>Ajout d'un 4e serveur SQL en relève ;  Test de relève; MAJ environnem.SQL- préprod et prod.(P16-006); Ajout banque hrs sup.technique N1 et N2 (SRL)</description>
+        <nomcontractant>Matricis Informatique Inc...</nomcontractant>
+        <neqcontractant>1149011802</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>813377</numeroseao>
+    <numero>24-319P</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-09-21</datedepense>
+        <datepublicationdepense>2016-11-02</datepublicationdepense>
+        <montantdepense>27474.890000</montantdepense>
+        <description>SRM018083</description>
+        <nomcontractant>Leclerc Associés Architectes inc.</nomcontractant>
+        <neqcontractant>2248342380</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-14</datedepense>
+        <datepublicationdepense>2016-11-02</datepublicationdepense>
+        <montantdepense>81558.370000</montantdepense>
+        <description>SRM018059</description>
+        <nomcontractant>Leclerc Associés Architectes inc.</nomcontractant>
+        <neqcontractant>2248342380</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-15</datedepense>
+        <datepublicationdepense>2016-11-02</datepublicationdepense>
+        <montantdepense>29427.380000</montantdepense>
+        <description>SRM018061</description>
+        <nomcontractant>Leclerc Associés Architectes inc.</nomcontractant>
+        <neqcontractant>2248342380</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-21</datedepense>
+        <datepublicationdepense>2016-11-02</datepublicationdepense>
+        <montantdepense>77149.580000</montantdepense>
+        <description>SRM018079</description>
+        <nomcontractant>Leclerc Associés Architectes inc.</nomcontractant>
+        <neqcontractant>2248342380</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-04-19</datedepense>
+        <datepublicationdepense>2017-06-13</datepublicationdepense>
+        <montantdepense>46802.000000</montantdepense>
+        <description>SRM019437A</description>
+        <nomcontractant>Leclerc Associés Architectes inc.</nomcontractant>
+        <neqcontractant>2248342380</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-03-28</datedepense>
+        <datepublicationdepense>2017-07-13</datepublicationdepense>
+        <montantdepense>32732.500000</montantdepense>
+        <description>SRM019698</description>
+        <nomcontractant>Leclerc Associés Architectes inc.</nomcontractant>
+        <neqcontractant>2248342380</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-05</datedepense>
+        <datepublicationdepense>2017-07-13</datepublicationdepense>
+        <montantdepense>20980.300000</montantdepense>
+        <description>SRM020081</description>
+        <nomcontractant>Leclerc Associés Architectes inc.</nomcontractant>
+        <neqcontractant>2248342380</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-03-13</datedepense>
+        <datepublicationdepense>2017-08-22</datepublicationdepense>
+        <montantdepense>25163.160000</montantdepense>
+        <description>SRM019581</description>
+        <nomcontractant>Leclerc Associés Architectes inc.</nomcontractant>
+        <neqcontractant>2248342380</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-04-26</datedepense>
+        <datepublicationdepense>2018-01-10</datepublicationdepense>
+        <montantdepense>10525.000000</montantdepense>
+        <description>SRM019969</description>
+        <nomcontractant>Leclerc Associés Architectes inc.</nomcontractant>
+        <neqcontractant>2248342380</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-09</datedepense>
+        <datepublicationdepense>2018-01-10</datepublicationdepense>
+        <montantdepense>9916.670000</montantdepense>
+        <description>SRM021516</description>
+        <nomcontractant>Leclerc Associés Architectes inc.</nomcontractant>
+        <neqcontractant>2248342380</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-29</datedepense>
+        <datepublicationdepense>2018-01-10</datepublicationdepense>
+        <montantdepense>9322.660000</montantdepense>
+        <description>SRM021613</description>
+        <nomcontractant>Leclerc Associés Architectes inc.</nomcontractant>
+        <neqcontractant>2248342380</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-11</datedepense>
+        <datepublicationdepense>2018-08-07</datepublicationdepense>
+        <montantdepense>2370.000000</montantdepense>
+        <description>BC SRM020390 - 2017 P040-0184</description>
+        <nomcontractant>Leclerc Associés Architectes inc.</nomcontractant>
+        <neqcontractant>2248342380</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-28</datedepense>
+        <datepublicationdepense>2018-08-07</datepublicationdepense>
+        <montantdepense>9380.780000</montantdepense>
+        <description>BC SRM021791 </description>
+        <nomcontractant>Leclerc Associés Architectes inc.</nomcontractant>
+        <neqcontractant>2248342380</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-28</datedepense>
+        <datepublicationdepense>2018-12-03</datepublicationdepense>
+        <montantdepense>100510.300000</montantdepense>
+        <description>SRM019419 (140 031 300)</description>
+        <nomcontractant>Leclerc Associés Architectes inc.</nomcontractant>
+        <neqcontractant>2248342380</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-11-09</datedepense>
+        <datepublicationdepense>2018-12-04</datepublicationdepense>
+        <montantdepense>13645.750000</montantdepense>
+        <description>SRM023578 (140 031 300)</description>
+        <nomcontractant>Leclerc Associés Architectes inc.</nomcontractant>
+        <neqcontractant>2248342380</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-12-21</datedepense>
+        <datepublicationdepense>2019-01-11</datepublicationdepense>
+        <montantdepense>26713.270000</montantdepense>
+        <description>SRM025507 - 300 022 090</description>
+        <nomcontractant>Leclerc Associés Architectes inc.</nomcontractant>
+        <neqcontractant>2248342380</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-14</datedepense>
+        <datepublicationdepense>2019-03-08</datepublicationdepense>
+        <montantdepense>46085.600000</montantdepense>
+        <description>SRM021332 (140 031 300)</description>
+        <nomcontractant>Leclerc Associés Architectes inc.</nomcontractant>
+        <neqcontractant>2248342380</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-09</datedepense>
+        <datepublicationdepense>2019-03-18</datepublicationdepense>
+        <montantdepense>34081.400000</montantdepense>
+        <description>SRM18114A (140 028 050)</description>
+        <nomcontractant>Leclerc Associés Architectes inc.</nomcontractant>
+        <neqcontractant>2248342380</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-26</datedepense>
+        <datepublicationdepense>2019-03-18</datepublicationdepense>
+        <montantdepense>3492.980000</montantdepense>
+        <description>SRM025735 (140 028 050) </description>
+        <nomcontractant>Leclerc Associés Architectes inc.</nomcontractant>
+        <neqcontractant>2248342380</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>880131</numeroseao>
+    <numero>24-339P</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-09-24</datedepense>
+        <datepublicationdepense>2018-10-22</datepublicationdepense>
+        <montantdepense>488602.360000</montantdepense>
+        <description>SRM024825 - A-33-1209</description>
+        <nomcontractant>Bergeron Bouthillier architectes</nomcontractant>
+        <neqcontractant>3364829583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-10-30</datedepense>
+        <datepublicationdepense>2018-10-31</datepublicationdepense>
+        <montantdepense>558533.740000</montantdepense>
+        <description>SRM025152 (026 006 060) - Rapport d'information A-33-1203</description>
+        <nomcontractant>Bergeron Bouthillier architectes</nomcontractant>
+        <neqcontractant>3364829583</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-06</datedepense>
+        <datepublicationdepense>2019-03-27</datepublicationdepense>
+        <montantdepense>252077.260000</montantdepense>
+        <description>SRM025764 (26006060) </description>
+        <nomcontractant>Bergeron Bouthillier architectes</nomcontractant>
+        <neqcontractant>3364829583</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>960313</numeroseao>
+    <numero>16-042</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-09-14</datedepense>
+        <datepublicationdepense>2016-09-27</datepublicationdepense>
+        <montantdepense>3113.690000</montantdepense>
+        <description># 1 - Condition de chantier - ÉLECTRICITÉ: Remonter les 2 conduits 1 1/4 po et leurs conducteurs situés sur le mur du local 102 (condition de chantier)</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-09-14</datedepense>
+        <datepublicationdepense>2016-09-27</datepublicationdepense>
+        <montantdepense>6914.740000</montantdepense>
+        <description># 2 - Demande du propriétaire - ARCHITECTURE: Remplacement tuiles bibliothèque et local A-103 suite à l'enlèvement des caniveaux.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-14</datedepense>
+        <datepublicationdepense>2016-11-17</datepublicationdepense>
+        <montantdepense>938.440000</montantdepense>
+        <description># 3 - Électricité: Fournir, installer et raccorder un nouvel interrupteur pour contrôler les appareils d'éclairage de la salle du personnel. Raccorder l'interrupteur existant de la cuisinette de façon à ce qu'il puisse contrôler les appareils de la cuisine seulement.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-14</datedepense>
+        <datepublicationdepense>2016-11-17</datepublicationdepense>
+        <montantdepense>8517.390000</montantdepense>
+        <description># 4 - Électricité: Retrait des conduits électriques en conflit avec le puits d'ascenseur.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-14</datedepense>
+        <datepublicationdepense>2016-11-17</datepublicationdepense>
+        <montantdepense>2730.000000</montantdepense>
+        <description># 5 - STRUCTURE: Enlever les caniveaux existants en acier dans la dalle sur le sol de la bibliothèque responsable de la détérioration de la surface de la dalle de béton.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-14</datedepense>
+        <datepublicationdepense>2016-11-17</datepublicationdepense>
+        <montantdepense>1612.960000</montantdepense>
+        <description># 6 -ARCHITECTURE: Procéder aux travaux de réparation concernant le dégât d'eau dans les locaux sous la scène no. 406 et no. 467.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-28</datedepense>
+        <datepublicationdepense>2016-11-17</datepublicationdepense>
+        <montantdepense>23208.260000</montantdepense>
+        <description># 7 - STRUCTURE: Modification des fondations de l'escalier extérieur et de la rampe d'accès suite à la découverte de sol argileux et de pilotis.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-28</datedepense>
+        <datepublicationdepense>2016-11-17</datepublicationdepense>
+        <montantdepense>1936.020000</montantdepense>
+        <description># 8 - Mauvaise coordination - ÉLECTRICITÉ:Enlever le sectionneur qui alimente le panneau S6-N1-1. Installer sur chacun des disjoncteurs du panneau S6-N1-1 des dispositifs de verrouillage en position OFF afin de rencontrer les exigences d'Hydro-Québec. Installer un conduit vide de 2"0' dans le mur ..</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-10-28</datedepense>
+        <datepublicationdepense>2016-11-17</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 9 - SANS FRAIS-Mauvaise coordination-MÉCANIQUE: Ventilation: modification dans la distribution d'air dans l'auditorium. Le positionnement des grilles d'alimentation au périmètre de la salle ont été revu. Certaines grilles d'alimentation ont changer de type de raccordement passant de flexible...</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-08</datedepense>
+        <datepublicationdepense>2016-11-21</datepublicationdepense>
+        <montantdepense>40234.930000</montantdepense>
+        <description># 10 - STRUCTURE: Modifier les travaux de renforts des poutrelles existantes de l'auditorium selon les conditions de chantier.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-08</datedepense>
+        <datepublicationdepense>2016-11-21</datepublicationdepense>
+        <montantdepense>7238.990000</montantdepense>
+        <description># 11 -ÉLECTRICITÉ: Modification des appareils d'éclairage et ajout de deux appareils.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-08</datedepense>
+        <datepublicationdepense>2016-11-21</datepublicationdepense>
+        <montantdepense>3356.570000</montantdepense>
+        <description># 12 - MÉCANIQUE: Rehausser la conduite d'eau froide domestique existante située au plafond de l'auditorium.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-08</datedepense>
+        <datepublicationdepense>2016-11-21</datepublicationdepense>
+        <montantdepense>2262.990000</montantdepense>
+        <description># 13 - ÉLECTRICITÉ: Ajout des têtes d'éclairage d'urgence tel que montré sur le croquis C01. Également, sélectionner la puissance de la batterie X1 en conséquence.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-11-11</datedepense>
+        <datepublicationdepense>2016-11-21</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 14 - (Crédit -1 045,26 $) - MÉCANIQUE:Éléments de ventilation prévus au plan finalement non requis. Annuler les quatre conduits de transfert d'air, les grilles de plafond type E ainsi que leurs volets coupe-feu. Ajouter à la cloison du mur extérieur un volet coupe-feu, sur le conduit ...</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-01</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>3416.390000</montantdepense>
+        <description># 15 - MÉCANIQUE: Retirer l'isolant de l'amiante de l'échangeur à vapeur présent sous la scène dans l'auditorium. Retirer l'échangeur à vapeur situé sous la scène dans l'auditorium. Obstruer de façon émétique la tuyauterie existante raccordée à l'échangeur à retirer.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-01</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>6003.060000</montantdepense>
+        <description># 16 -ÉLECTRICITÉ: Fournir, installer et raccorder un appareil de chauffage infrarouge dans le sas d'entrée de l'auditorium, local incluant son alimentation et le thermostat.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-01</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>3636.480000</montantdepense>
+        <description># 17 - ÉLECTRICITÉ: Modification de raccordement d'appareils et prises. Fournir, installer et raccorder tout le câblage et le matériel pour le raccordement des équipements et prises tel qu'indiqué. Remplacer le type des prises selon les indications...</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-01</datedepense>
+        <datepublicationdepense>2016-12-02</datepublicationdepense>
+        <montantdepense>1510.620000</montantdepense>
+        <description># 18: MÉCANIQUE: Déplacer le ventilateur d'extraction de toilettes existant situé au toit au-dessus de l'appentis 106B. Travaux en conséquence de l'agrandissement de l'appentis.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-15</datedepense>
+        <datepublicationdepense>2017-03-08</datepublicationdepense>
+        <montantdepense>1678.040000</montantdepense>
+        <description># 19 - Structure: Travaux de démolition et la construction de la chape de béton au-dessus de la dalle sur le sol au niveau du seuil d'entrée selon les conditions de chantier. Le seuil et le cadre de la porte doivent être enlevés afin de permettre d'exécuter les travaux de réparation de la chape.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-15</datedepense>
+        <datepublicationdepense>2017-03-08</datepublicationdepense>
+        <montantdepense>216.350000</montantdepense>
+        <description># 20 - Électricité: Fournir, installer et raccorder un interrupteur mural à détecteur de mouvement afin de contrôler le luminaire et le ventilateur de la salle de toilette pour personne à mobilité réduite.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-12-15</datedepense>
+        <datepublicationdepense>2017-03-08</datepublicationdepense>
+        <montantdepense>930.920000</montantdepense>
+        <description># 21: Électricité: Modifier le raccordement électrique du ventilateur d'extraction de toilettes existant situé au toit au-dessus de la salle mécanique 106B.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-01-31</datedepense>
+        <datepublicationdepense>2017-03-08</datepublicationdepense>
+        <montantdepense>2329.690000</montantdepense>
+        <description># 22 - Architecture:Suite à la constatation de l'état et du niveau de dégradation du plancher de la scène, remplacement complet(plutôt que partiel) du plancher existant de la scène par un nouveau plancher puisqu'il est impossible de le restaurer comme il était prévu au plan.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-09</datedepense>
+        <datepublicationdepense>2017-03-08</datepublicationdepense>
+        <montantdepense>251.230000</montantdepense>
+        <description># 23 - Architecture: Procéder à l'abaissement des plafonds escalier 101-C et hall 200 tels qu'illustrés et dimensionnés aux dessins pour avoir assez d'espace pour la gaine de ventilation. (Note: Le plafond avait d'abord été construit selon les plans et devis).</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-09</datedepense>
+        <datepublicationdepense>2017-03-08</datepublicationdepense>
+        <montantdepense>899.210000</montantdepense>
+        <description># 24 - Architecture: Procéder au ragréage du mur entre les locaux du concierge no 058 et les toilettes hommes no 057 suite au remplacement du panneau électrique défectueux. En lien avec les travaux de la DDC E03 (P7). Cette dépense est couverte.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-22</datedepense>
+        <datepublicationdepense>2017-03-08</datepublicationdepense>
+        <montantdepense>916.940000</montantdepense>
+        <description># 25 - Structure: Ajouter un support vertical en acier (colonne W150X30) pour supporter le rail de l'ascenceur sur l'axe 5.6, entre l'axe E et F au niveau de l'appentis de l'ascenceur.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-23</datedepense>
+        <datepublicationdepense>2017-03-29</datepublicationdepense>
+        <montantdepense>1563.420000</montantdepense>
+        <description># 26 - Architecture: Ajout d'un recouvrement en gypse de la poutre et de la colonne de béton qui devaient demeurées apparentes dans les deux cages d'escalier. Le recouvrement est nécessaire puisque les dalles et poutres ne pouvaient être coupées proprement car les colonnes sont creuses.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-23</datedepense>
+        <datepublicationdepense>2017-03-29</datepublicationdepense>
+        <montantdepense>4387.480000</montantdepense>
+        <description># 27 - Architecture: Procéder à l'ajout de cloisons à l'aménagement de la cuisinette. Ajouter un soufflage de 64 mm sur la cloison de toilette à l'axe 6. Ajout de la porte 150 avec cadre et quincaillerie.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-23</datedepense>
+        <datepublicationdepense>2017-03-29</datepublicationdepense>
+        <montantdepense>4622.520000</montantdepense>
+        <description># 28 - Électricité: Fournir, installer et raccorder tout le câblage et le matériel pour le raccordement des équipements, de prises et lumières de sièges selon la coordination avec le fournisseur de l'entrepreneur.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-02-23</datedepense>
+        <datepublicationdepense>2017-03-29</datepublicationdepense>
+        <montantdepense>4393.060000</montantdepense>
+        <description># 29 - Mauvaise coordination - Architecture: Agrandir l'appentis de façon à englober la base de l'extracteur. La base entre en conflit avec le mur prévu au plans et devis.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-03-09</datedepense>
+        <datepublicationdepense>2017-04-04</datepublicationdepense>
+        <montantdepense>5568.070000</montantdepense>
+        <description># 30 - Mécanique: Fournir et installer 3 volets coupe-feu dans la salle mécanique. Faire des percements et du ragréage pour insérer les nouveaux volets-coup-feu. Modifier les conduits existants.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-03-09</datedepense>
+        <datepublicationdepense>2017-04-04</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 31 - (Crédit -510,06 $ ) - Mécanique: Ventilation, calorifugeage. L'isolation de certaines sections de conduits dans l'auditorium peut être omise puisqu'il était déjà prévu de les isoler en usine.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-04-03</datedepense>
+        <datepublicationdepense>2017-09-18</datepublicationdepense>
+        <montantdepense>4864.890000</montantdepense>
+        <description># 32 - Électricité: Ajout d'un conduit pour le filage de l'audiovisuelle et l'éclairage de scène. Ce conduit doit être peint en nor. Un conduit de 1" était prévu au plan, mais celui-ci est trop petit pour passer tous les fils.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-04-03</datedepense>
+        <datepublicationdepense>2017-09-18</datepublicationdepense>
+        <montantdepense>2027.870000</montantdepense>
+        <description># 33 - Électricité: Le détecteur prévu au plan ne peut être installé à la gaine principale par manque d'espace. La solution est de fournir, installer et raccorder trois(3) détecteurs de fumée sur trois gaines secondaires comme montrés sur le croquis C-01...</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-04-03</datedepense>
+        <datepublicationdepense>2017-09-18</datepublicationdepense>
+        <montantdepense>12742.190000</montantdepense>
+        <description># 34 - Architecture: Démolir la céramique qui recouvre la dépression de l'ancienne grille gratte-pied (C.G.P.). Installer une nouvelle G.C.P...</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-04-12</datedepense>
+        <datepublicationdepense>2017-09-18</datepublicationdepense>
+        <montantdepense>2945.280000</montantdepense>
+        <description># 35 - Architecture - Procéder au déplacement et à l'inversion du cadre 059. Procéder au changement des carreaux acoustiques pour du gypse au plafond. Annuler la cloison 10A et la remplacer par une cloison de type 7.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-05-01</datedepense>
+        <datepublicationdepense>2017-09-18</datepublicationdepense>
+        <montantdepense>5191.450000</montantdepense>
+        <description># 36 - Structure: La présente vise à ajouter deux ouvertures au niveau de deux poutrelles pour le passage des conduits mécaniques. Modifier les renforcements des cordes de trois poutrelles au niveau des épisseurs selon les existants et renforcer les nouveaux raidisseurs modifiés sur place...</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-05-23</datedepense>
+        <datepublicationdepense>2017-09-18</datepublicationdepense>
+        <montantdepense>3295.110000</montantdepense>
+        <description># 38 - Divers: Dû à un conflit de mécanique et de structure avec le moteur demandé au devis, le modèle de moteur du rideau principal doit être modifié. Fournir le nouveau modèle précisé à la demande de changement SE01.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-05-23</datedepense>
+        <datepublicationdepense>2017-09-18</datepublicationdepense>
+        <montantdepense>1814.630000</montantdepense>
+        <description># 39 - Électricité: Démolir l'éclairage existant de la marquise. Fournir, installer et raccorder 3 nouveaux appareils d'éclairage. Travaux en lien avec la P34(Démolir la marquise existante suite à la découverte, pendant les travaux dans ce secteur, qu'elle était dangereuse...)</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-05-23</datedepense>
+        <datepublicationdepense>2017-09-18</datepublicationdepense>
+        <montantdepense>783.560000</montantdepense>
+        <description># 40 - Architecture: Procéder à la peinture des murs, 5 portes et cadres du corridor #110. Ceci a pour but d'harmonis cette zone visible du foyer de l'auditorium, qui sera lui aussi renové.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-05-23</datedepense>
+        <datepublicationdepense>2017-09-18</datepublicationdepense>
+        <montantdepense>22850.170000</montantdepense>
+        <description># 41 - Architecture : Démolir la marquise existante suite à la découverte, pendant les travaux dans ce secteur, qu'elle était dangereuse. La structure de bois est pourrie et le revêtment risque de tomber sur la tête des ulilisateurs.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-05</datedepense>
+        <datepublicationdepense>2018-08-22</datepublicationdepense>
+        <montantdepense>5049.260000</montantdepense>
+        <description># 42 - Omission - MÉCANIQUE: fournir et installer six gradateurs pour contrôler les diffuseurs au dessus de la scène. les diffuseurs se trouvaient sur le plan mais aucun modèle était spécifié, n'y aucun câblage, conduit et transformateur</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-05</datedepense>
+        <datepublicationdepense>2018-08-22</datepublicationdepense>
+        <montantdepense>1589.210000</montantdepense>
+        <description># 43 - Condition de chantier - ÉLECTRICITÉ: fournir et installer deux blocs d'alimentation pour le raccordement des sièges selon la coordination avec le fournisseur de l'entrepreneur.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-05</datedepense>
+        <datepublicationdepense>2018-08-22</datepublicationdepense>
+        <montantdepense>7300.000000</montantdepense>
+        <description># 44 - Omission - ARCHITECTURE: travaux supplémentaires requis pur la fourniture et l'installtion de céramique murale et de lambris indiquées comme hors contrat sur les plans de l'architecte, mais requis pour les travaux.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-05</datedepense>
+        <datepublicationdepense>2018-08-22</datepublicationdepense>
+        <montantdepense>5136.130000</montantdepense>
+        <description># 45 - Omission - ARCHITECTURE: prolonger la cloison dans l'entre-plafond jusqu'au pontage d'acier et sceller (cloison type coupe-feu) afin de respecter le code du bâtiment.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-05</datedepense>
+        <datepublicationdepense>2018-08-22</datepublicationdepense>
+        <montantdepense>8167.560000</montantdepense>
+        <description># 46 - Condition de chantier -ARCHITECTURE: procéder à la coupe de plâtre existant dans le haut des murs de façon à ce qu'il soit le plus droit possible et installer le gypse au dessus afin d'assurer la finition des murs jusqu'au platelage.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-05</datedepense>
+        <datepublicationdepense>2018-08-23</datepublicationdepense>
+        <montantdepense>8820.530000</montantdepense>
+        <description># 47 - Mauviase coordination - ARCHITECTURE : procéder à la réalisation des murets de la base de l'unité mécanique no 1. Note: ces travaux sont requis suite à l'annotation contradictoire des professionnels sur les dessins d'atelier à propos de la hauteur de la base.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-05</datedepense>
+        <datepublicationdepense>2018-08-23</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 48 - (CRÉDIT -1 239,45$) - Mauvaise coordination -ARCHITECTURE: annulation du déplacement de la porte 157 du local du concierge. plomberie à déplacer.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-05-01</datedepense>
+        <datepublicationdepense>2018-10-30</datepublicationdepense>
+        <montantdepense>1635.020000</montantdepense>
+        <description># 37: Mauvaise coordination - Électricité: Déplacer des conduites existantes dans la salle mécanique (106B) pour le passage de la conduite de ventilation. Déplacer la conduite existante en interférence avec les conduites de ventilation au plafond du corridor (salle 101). Ces modifications sont en ..</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-09-11</datedepense>
+        <datepublicationdepense>2018-10-30</datepublicationdepense>
+        <montantdepense>7497.990000</montantdepense>
+        <description># 49: Condition de chantier - STRUCTURE: Travaux d'excavation de la fosse d'ascenseur au niveau du rez-de-chaussée entre les axes "E/F" et "5/7" suite aux conditions de chantier et les recommandations de la CNESST. Et, afin d'éviter le démantèlement du mur existant à droite de l'axe "7" lors des ...</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-28</datedepense>
+        <datepublicationdepense>2019-03-01</datepublicationdepense>
+        <montantdepense>45250.540000</montantdepense>
+        <description># 50: (DDC-14r1): Condition de chantier - Architecture: Une entente avec M. Denis Gouge et l'entrepreneur en lien avec des délais de jours alloués pour la demande de changement S-04. Nombres de jours alloués -14.</description>
+        <nomcontractant>Innovtech Construction INC..</nomcontractant>
+        <neqcontractant>1160526621</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>995488</numeroseao>
+    <numero>IM701204</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-05-03</datedepense>
+        <datepublicationdepense>2018-06-20</datepublicationdepense>
+        <montantdepense>56153.000000</montantdepense>
+        <description>Modifications architecturales des cloisons N170, ajout d'un mur, d'une porte et d'un plafond acoustique, ajout d'un local télécom RIO</description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-27</datedepense>
+        <datepublicationdepense>2018-08-20</datepublicationdepense>
+        <montantdepense>71503.300000</montantdepense>
+        <description>Modifications électro-aimants, modifications aux portes, cadres et quincaillerie</description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-28</datedepense>
+        <datepublicationdepense>2018-10-17</datepublicationdepense>
+        <montantdepense>81852.750000</montantdepense>
+        <description>Ajustement des cloisons et plafonds pour la grille de désemfumage au niveau 136, modification aux portes, cadres et quincaillerie</description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-10-22</datedepense>
+        <datepublicationdepense>2018-12-18</datepublicationdepense>
+        <montantdepense>116954.500000</montantdepense>
+        <description>Installation de nouvelles barres de panique à deux portes, ajout de soufflage de gypse au niveau 106 et modification du groupe de quincaillerie pour deux portes.</description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-12-05</datedepense>
+        <datepublicationdepense>2019-02-08</datepublicationdepense>
+        <montantdepense>7223.700000</montantdepense>
+        <description>Installation de nouvelles barres de panique à deux portes, ajout de soufflage de gypse au niveau 106 et modification du groupe de quincaillerie pour deux portes</description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1061601</numeroseao>
+    <numero>2014-IM-Enveloppe GTQ</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-03-14</datedepense>
+        <datepublicationdepense>2017-05-12</datepublicationdepense>
+        <montantdepense>2724530.150000</montantdepense>
+        <description>Réfection de l'enveloppe extérieure du GTQ - Ordres de changement #1 et #2</description>
+        <nomcontractant>POMERLEAU INC .</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-10-04</datedepense>
+        <datepublicationdepense>2017-10-23</datepublicationdepense>
+        <montantdepense>206617.970000</montantdepense>
+        <description>Réfection de l'enveloppe extérieure du GTQ - Ordre de changement #3</description>
+        <nomcontractant>POMERLEAU INC .</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-01</datedepense>
+        <datepublicationdepense>2017-11-16</datepublicationdepense>
+        <montantdepense>298850.950000</montantdepense>
+        <description>Réfection de l'enveloppe extérieure du GTQ - Ordre de changement #4</description>
+        <nomcontractant>POMERLEAU INC .</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-16</datedepense>
+        <datepublicationdepense>2017-11-17</datepublicationdepense>
+        <montantdepense>108309.070000</montantdepense>
+        <description>Réfection de l'enveloppe extérieure du GTQ - Ordres de changements #5</description>
+        <nomcontractant>POMERLEAU INC .</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-14</datedepense>
+        <datepublicationdepense>2018-02-22</datepublicationdepense>
+        <montantdepense>19681.000000</montantdepense>
+        <description>Réfection de l'enveloppe extérieure du GTQ - Ordre de changement # 6</description>
+        <nomcontractant>POMERLEAU INC .</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-28</datedepense>
+        <datepublicationdepense>2018-02-28</datepublicationdepense>
+        <montantdepense>100000.000000</montantdepense>
+        <description>Réfection de l'enveloppe extérieure du GTQ - Ordre de changement # 7</description>
+        <nomcontractant>POMERLEAU INC .</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-28</datedepense>
+        <datepublicationdepense>2018-02-28</datepublicationdepense>
+        <montantdepense>29063.090000</montantdepense>
+        <description>Réfection de l'enveloppe extérieure du GTQ - Ordre de changement # 8</description>
+        <nomcontractant>POMERLEAU INC .</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-14</datedepense>
+        <datepublicationdepense>2018-05-14</datepublicationdepense>
+        <montantdepense>685337.670000</montantdepense>
+        <description>Réfection de l'enveloppe extérieure du GTQ - Ordre de changements #9</description>
+        <nomcontractant>POMERLEAU INC .</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-16</datedepense>
+        <datepublicationdepense>2018-05-16</datepublicationdepense>
+        <montantdepense>178213.270000</montantdepense>
+        <description>Réfection de l'enveloppe extérieure du GTQ - Ordre de changements #10</description>
+        <nomcontractant>POMERLEAU INC .</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-20</datedepense>
+        <datepublicationdepense>2018-06-21</datepublicationdepense>
+        <montantdepense>458260.000000</montantdepense>
+        <description>Réfection de l'enveloppe extérieure du GTQ - Ordre de changement #12</description>
+        <nomcontractant>POMERLEAU INC .</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-26</datedepense>
+        <datepublicationdepense>2018-07-26</datepublicationdepense>
+        <montantdepense>711621.530000</montantdepense>
+        <description>Réfection de l'enveloppe extérieure du GTQ - Ordre de changement # 11</description>
+        <nomcontractant>POMERLEAU INC .</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-09-26</datedepense>
+        <datepublicationdepense>2018-10-15</datepublicationdepense>
+        <montantdepense>655766.120000</montantdepense>
+        <description>Réfection de l'enveloppe extérieure du GTQ - Ordres de changement # 13</description>
+        <nomcontractant>POMERLEAU INC .</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-10-03</datedepense>
+        <datepublicationdepense>2018-10-15</datepublicationdepense>
+        <montantdepense>27720.000000</montantdepense>
+        <description>Réfection de l'enveloppe extérieure du GTQ - Ordre de changement # 15</description>
+        <nomcontractant>POMERLEAU INC .</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-11-14</datedepense>
+        <datepublicationdepense>2018-12-07</datepublicationdepense>
+        <montantdepense>126366.810000</montantdepense>
+        <description>Réfection de l'enveloppe extérieure du GTQ - Ordre de changement # 16</description>
+        <nomcontractant>POMERLEAU INC .</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-12-12</datedepense>
+        <datepublicationdepense>2018-12-14</datepublicationdepense>
+        <montantdepense>386346.720000</montantdepense>
+        <description>Réfection de l'enveloppe extérieure du GTQ - Ordre de changement # 17</description>
+        <nomcontractant>POMERLEAU INC .</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-01-16</datedepense>
+        <datepublicationdepense>2019-01-16</datepublicationdepense>
+        <montantdepense>21730.190000</montantdepense>
+        <description>Réfection de l'enveloppe extérieure du GTQ - Ordre de changement # 18</description>
+        <nomcontractant>POMERLEAU INC .</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-01-24</datedepense>
+        <datepublicationdepense>2019-01-25</datepublicationdepense>
+        <montantdepense>131880.000000</montantdepense>
+        <description>Réfection de l'enveloppe extérieure du GTQ - Ordre de changement # 19</description>
+        <nomcontractant>POMERLEAU INC .</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-06</datedepense>
+        <datepublicationdepense>2019-02-06</datepublicationdepense>
+        <montantdepense>77738.760000</montantdepense>
+        <description>Réfection de l'enveloppe extérieure du GTQ - Ordre de changement # 20, 21, 22 et 23</description>
+        <nomcontractant>POMERLEAU INC .</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-28</datedepense>
+        <datepublicationdepense>2019-02-28</datepublicationdepense>
+        <montantdepense>26872.050000</montantdepense>
+        <description>Réfection de l'enveloppe extérieure du GTQ - Ordre de changement # 24</description>
+        <nomcontractant>POMERLEAU INC .</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-07</datedepense>
+        <datepublicationdepense>2019-03-12</datepublicationdepense>
+        <montantdepense>6681.060000</montantdepense>
+        <description>Réfection de l'enveloppe extérieure du GTQ - Ordre de changement # 25</description>
+        <nomcontractant>POMERLEAU INC .</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-07</datedepense>
+        <datepublicationdepense>2019-03-12</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Réfection de l'enveloppe extérieure du GTQ - Ordre de changement # 26 - crédit de $ 30 040</description>
+        <nomcontractant>POMERLEAU INC .</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-18</datedepense>
+        <datepublicationdepense>2019-03-18</datepublicationdepense>
+        <montantdepense>67457.490000</montantdepense>
+        <description>Réfection de l'enveloppe extérieure du GTQ - Ordre de changement # 27</description>
+        <nomcontractant>POMERLEAU INC .</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-22</datedepense>
+        <datepublicationdepense>2019-03-22</datepublicationdepense>
+        <montantdepense>40492.980000</montantdepense>
+        <description>Réfection de l'enveloppe extérieure du GTQ - Ordre de changement # 28-29-30</description>
+        <nomcontractant>POMERLEAU INC .</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-28</datedepense>
+        <datepublicationdepense>2019-03-28</datepublicationdepense>
+        <montantdepense>49500.000000</montantdepense>
+        <description>Réfection de l'enveloppe extérieure du GTQ - Ordre de changement # 32</description>
+        <nomcontractant>POMERLEAU INC .</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-28</datedepense>
+        <datepublicationdepense>2019-03-28</datepublicationdepense>
+        <montantdepense>241689.650000</montantdepense>
+        <description>Réfection de l'enveloppe extérieure du GTQ - Ordre de changement # 14</description>
+        <nomcontractant>POMERLEAU INC .</nomcontractant>
+        <neqcontractant>1142005934</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1073817</numeroseao>
+    <numero>3500-040</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-03-15</datedepense>
+        <datepublicationdepense>2019-03-25</datepublicationdepense>
+        <montantdepense>4350.820000</montantdepense>
+        <description>Ajustement sur service </description>
+        <nomcontractant>COOP DE TRAVAIL SEMPI</nomcontractant>
+        <neqcontractant>1160414166</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1081782</numeroseao>
+    <numero>55035-515_MD_PUB_C</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-12-18</datedepense>
+        <datepublicationdepense>2019-01-11</datepublicationdepense>
+        <montantdepense>287250.100000</montantdepense>
+        <description>Demandes de changement octobre 2017 à décembre 2018 (voir annexe 2 no. 104076)</description>
+        <nomcontractant>Procova Inc.</nomcontractant>
+        <neqcontractant>1143985894</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-01-25</datedepense>
+        <datepublicationdepense>2019-02-05</datepublicationdepense>
+        <montantdepense>16994.230000</montantdepense>
+        <description>Demandes de changement janvier 2019 (voir annexe 2 no.104076)</description>
+        <nomcontractant>Procova Inc.</nomcontractant>
+        <neqcontractant>1143985894</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-28</datedepense>
+        <datepublicationdepense>2019-03-01</datepublicationdepense>
+        <montantdepense>10722.170000</montantdepense>
+        <description>Demandes de changement février 2019 (voir annexe 2 no.104076)</description>
+        <nomcontractant>Procova Inc.</nomcontractant>
+        <neqcontractant>1143985894</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1091278</numeroseao>
+    <numero>48686-ARCH</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-07-09</datedepense>
+        <datepublicationdepense>2019-03-20</datepublicationdepense>
+        <montantdepense>5888.780000</montantdepense>
+        <description>Ajout mandat initial</description>
+        <nomcontractant>Les architectes Goulet et LeBel</nomcontractant>
+        <neqcontractant>1164008758</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1105895</numeroseao>
+    <numero>CGER 17 680075</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-03-13</datedepense>
+        <datepublicationdepense>2019-03-13</datepublicationdepense>
+        <montantdepense>6925.740000</montantdepense>
+        <description>Ajustement du prix de deux caisses fourgon et ajout d'un chauffage au diesel pour les 3 caisses fourgon</description>
+        <nomcontractant>Halrai inc.</nomcontractant>
+        <neqcontractant>1167015792</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1120631</numeroseao>
+    <numero>33568100</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-11-23</datedepense>
+        <datepublicationdepense>2019-01-21</datepublicationdepense>
+        <montantdepense>23133.520000</montantdepense>
+        <description>Conditions imprévisibles de chantier</description>
+        <nomcontractant>Descimco</nomcontractant>
+        <neqcontractant>1143574920</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1121893</numeroseao>
+    <numero>029-063-44892</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-07-11</datedepense>
+        <datepublicationdepense>2019-03-05</datepublicationdepense>
+        <montantdepense>4902.110000</montantdepense>
+        <description>AVENANT 01</description>
+        <nomcontractant>Promarel Maintenance inc.</nomcontractant>
+        <neqcontractant>1166904103</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-30</datedepense>
+        <datepublicationdepense>2019-03-05</datepublicationdepense>
+        <montantdepense>3831.850000</montantdepense>
+        <description>AVENANT 02</description>
+        <nomcontractant>Promarel Maintenance inc.</nomcontractant>
+        <neqcontractant>1166904103</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1133571</numeroseao>
+    <numero>E16-17-14B</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-09-27</datedepense>
+        <datepublicationdepense>2018-12-12</datepublicationdepense>
+        <montantdepense>40251.210000</montantdepense>
+        <description>ING-01 À ING-08</description>
+        <nomcontractant>Construction et rénovation Stéphane Ouellet inc</nomcontractant>
+        <neqcontractant>1167083568</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-12-19</datedepense>
+        <datepublicationdepense>2019-03-11</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>ING-9</description>
+        <nomcontractant>Construction et rénovation Stéphane Ouellet inc</nomcontractant>
+        <neqcontractant>1167083568</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1136315</numeroseao>
+    <numero>17-051-2</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-09-17</datedepense>
+        <datepublicationdepense>2019-03-05</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>ODC-01</description>
+        <nomcontractant>DESHAIES &amp; RAYMOND INC.</nomcontractant>
+        <neqcontractant>1141862608</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-09-17</datedepense>
+        <datepublicationdepense>2019-03-05</datepublicationdepense>
+        <montantdepense>3214.700000</montantdepense>
+        <description>ODC-02</description>
+        <nomcontractant>DESHAIES &amp; RAYMOND INC.</nomcontractant>
+        <neqcontractant>1141862608</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1140388</numeroseao>
+    <numero>1701-EG</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-08-15</datedepense>
+        <datepublicationdepense>2018-12-11</datepublicationdepense>
+        <montantdepense>1195.180000</montantdepense>
+        <description>ODC-03: Travaux supplémentaires pour nouveau lampadaire extérieur non fonctionnel: Réalimentation électrique et travaux d'excavation et remblai pour conduite souterraine.</description>
+        <nomcontractant>Construction Richard A. Germano Ltée.</nomcontractant>
+        <neqcontractant>1144224061</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-20</datedepense>
+        <datepublicationdepense>2018-12-11</datepublicationdepense>
+        <montantdepense>4457.200000</montantdepense>
+        <description>ODC-05: Remplacement du ponceau existant par un ponceau en PEHD et modification du profil du trottoir</description>
+        <nomcontractant>Construction Richard A. Germano Ltée.</nomcontractant>
+        <neqcontractant>1144224061</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-08</datedepense>
+        <datepublicationdepense>2018-12-11</datepublicationdepense>
+        <montantdepense>612.870000</montantdepense>
+        <description>ODC-07: Remplacement de la tête d'un puisard</description>
+        <nomcontractant>Construction Richard A. Germano Ltée.</nomcontractant>
+        <neqcontractant>1144224061</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-10-19</datedepense>
+        <datepublicationdepense>2018-12-11</datepublicationdepense>
+        <montantdepense>4107.310000</montantdepense>
+        <description>ODC-8: Ajout de tuiles radiantes aux plafond des toilettes de l'admninistration</description>
+        <nomcontractant>Construction Richard A. Germano Ltée.</nomcontractant>
+        <neqcontractant>1144224061</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-13</datedepense>
+        <datepublicationdepense>2018-12-11</datepublicationdepense>
+        <montantdepense>7095.000000</montantdepense>
+        <description>ODC-09: Remplacement des puits de lumière</description>
+        <nomcontractant>Construction Richard A. Germano Ltée.</nomcontractant>
+        <neqcontractant>1144224061</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-27</datedepense>
+        <datepublicationdepense>2018-12-17</datepublicationdepense>
+        <montantdepense>7251.220000</montantdepense>
+        <description>ODC-1: Travaux supplémentaires suite èa la découverte du massif lors de l'excavation pour l'enlèevement du réservoir d'huile </description>
+        <nomcontractant>Construction Richard A. Germano Ltée.</nomcontractant>
+        <neqcontractant>1144224061</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-13</datedepense>
+        <datepublicationdepense>2018-12-17</datepublicationdepense>
+        <montantdepense>47682.820000</montantdepense>
+        <description>ODC-13: Travaux supplémentaires reliés à l'enlèevement du réservoir d'huile souterrain de stockage de combustibles et de gestion des sols contaminées de type AB et BC.</description>
+        <nomcontractant>Construction Richard A. Germano Ltée.</nomcontractant>
+        <neqcontractant>1144224061</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-12-12</datedepense>
+        <datepublicationdepense>2019-03-20</datepublicationdepense>
+        <montantdepense>308.000000</montantdepense>
+        <description>ODC-10: Frais de retard du gardien de sécurité</description>
+        <nomcontractant>Construction Richard A. Germano Ltée.</nomcontractant>
+        <neqcontractant>1144224061</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-12-12</datedepense>
+        <datepublicationdepense>2019-03-20</datepublicationdepense>
+        <montantdepense>14485.900000</montantdepense>
+        <description>ODC-11: Changements des plombs de toilettes incluant les travaux de plomberie, de démolition et de ragréage de la dalle sur sol.</description>
+        <nomcontractant>Construction Richard A. Germano Ltée.</nomcontractant>
+        <neqcontractant>1144224061</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-18</datedepense>
+        <datepublicationdepense>2019-03-20</datepublicationdepense>
+        <montantdepense>3342.900000</montantdepense>
+        <description>ODC-12: Vu que le type de chape de béton est friable, l'entrepreneur a procédé à l'enlèvement de 1'' de plus de chape de béton dans les blocs sanitaires (toilettes).</description>
+        <nomcontractant>Construction Richard A. Germano Ltée.</nomcontractant>
+        <neqcontractant>1144224061</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-11-16</datedepense>
+        <datepublicationdepense>2019-03-20</datepublicationdepense>
+        <montantdepense>3983.120000</montantdepense>
+        <description>ODC-14: Ajout de remplisseurs de verres aux fontianes d'eau.</description>
+        <nomcontractant>Construction Richard A. Germano Ltée.</nomcontractant>
+        <neqcontractant>1144224061</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-15</datedepense>
+        <datepublicationdepense>2019-03-20</datepublicationdepense>
+        <montantdepense>5571.500000</montantdepense>
+        <description>ODC- 15: Remplacement les plafonds existants dans les blocs sanitaires (toilettes) par des plafonds suspendus et tuiles acoustiques</description>
+        <nomcontractant>Construction Richard A. Germano Ltée.</nomcontractant>
+        <neqcontractant>1144224061</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1142222</numeroseao>
+    <numero>44509208</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-08-16</datedepense>
+        <datepublicationdepense>2018-09-05</datepublicationdepense>
+        <montantdepense>52285.960000</montantdepense>
+        <description>ODC 1 à 33</description>
+        <nomcontractant>Marcel Charest et Fils Inc</nomcontractant>
+        <neqcontractant>1142157040</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-11-07</datedepense>
+        <datepublicationdepense>2019-02-08</datepublicationdepense>
+        <montantdepense>970.640000</montantdepense>
+        <description>Ajout de protection pour l'UPS</description>
+        <nomcontractant>Marcel Charest et Fils Inc</nomcontractant>
+        <neqcontractant>1142157040</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-01-25</datedepense>
+        <datepublicationdepense>2019-02-08</datepublicationdepense>
+        <montantdepense>626.330000</montantdepense>
+        <description>Divers travaux en électricité</description>
+        <nomcontractant>Marcel Charest et Fils Inc</nomcontractant>
+        <neqcontractant>1142157040</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-04</datedepense>
+        <datepublicationdepense>2019-03-13</datepublicationdepense>
+        <montantdepense>1681.850000</montantdepense>
+        <description>Travaux supplémentaires</description>
+        <nomcontractant>Marcel Charest et Fils Inc</nomcontractant>
+        <neqcontractant>1142157040</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1142313</numeroseao>
+    <numero>44508918</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-01-14</datedepense>
+        <datepublicationdepense>2019-01-15</datepublicationdepense>
+        <montantdepense>127378.720000</montantdepense>
+        <description>Conditions imprévisible de chantiers ODC 1 à 28</description>
+        <nomcontractant>LCC &amp; Associés Canada Inc.</nomcontractant>
+        <neqcontractant>1166591686</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-01-09</datedepense>
+        <datepublicationdepense>2019-01-15</datepublicationdepense>
+        <montantdepense>496.470000</montantdepense>
+        <description>Modification mineure ODC 29</description>
+        <nomcontractant>LCC &amp; Associés Canada Inc.</nomcontractant>
+        <neqcontractant>1166591686</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-01-09</datedepense>
+        <datepublicationdepense>2019-01-15</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Modification mineure. Crédit suite à l'annulation de travaux (600$) ODC 30</description>
+        <nomcontractant>LCC &amp; Associés Canada Inc.</nomcontractant>
+        <neqcontractant>1166591686</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-01-09</datedepense>
+        <datepublicationdepense>2019-01-15</datepublicationdepense>
+        <montantdepense>811.110000</montantdepense>
+        <description>Erreur ou omission (1411.11 - 600) ODC 31</description>
+        <nomcontractant>LCC &amp; Associés Canada Inc.</nomcontractant>
+        <neqcontractant>1166591686</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-01-09</datedepense>
+        <datepublicationdepense>2019-01-15</datepublicationdepense>
+        <montantdepense>4843.100000</montantdepense>
+        <description>Condition imprévisible de chantier ODC 32</description>
+        <nomcontractant>LCC &amp; Associés Canada Inc.</nomcontractant>
+        <neqcontractant>1166591686</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-01-11</datedepense>
+        <datepublicationdepense>2019-01-15</datepublicationdepense>
+        <montantdepense>2767.000000</montantdepense>
+        <description>Imprévu de chantier ODC 33</description>
+        <nomcontractant>LCC &amp; Associés Canada Inc.</nomcontractant>
+        <neqcontractant>1166591686</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-01-16</datedepense>
+        <datepublicationdepense>2019-01-21</datepublicationdepense>
+        <montantdepense>3460.780000</montantdepense>
+        <description>Changement de programme client ODC 034</description>
+        <nomcontractant>LCC &amp; Associés Canada Inc.</nomcontractant>
+        <neqcontractant>1166591686</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-01-16</datedepense>
+        <datepublicationdepense>2019-01-21</datepublicationdepense>
+        <montantdepense>2926.290000</montantdepense>
+        <description>Condition de chantier ODC 035</description>
+        <nomcontractant>LCC &amp; Associés Canada Inc.</nomcontractant>
+        <neqcontractant>1166591686</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-01-29</datedepense>
+        <datepublicationdepense>2019-01-30</datepublicationdepense>
+        <montantdepense>4090.150000</montantdepense>
+        <description>Modification significative client ODC # 036</description>
+        <nomcontractant>LCC &amp; Associés Canada Inc.</nomcontractant>
+        <neqcontractant>1166591686</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-19</datedepense>
+        <datepublicationdepense>2019-02-19</datepublicationdepense>
+        <montantdepense>8836.920000</montantdepense>
+        <description>Erreur ou omission par professionnel ODC 037</description>
+        <nomcontractant>LCC &amp; Associés Canada Inc.</nomcontractant>
+        <neqcontractant>1166591686</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-21</datedepense>
+        <datepublicationdepense>2019-02-25</datepublicationdepense>
+        <montantdepense>2353.570000</montantdepense>
+        <description>Erreur ou omission par le professionnel ODC 038</description>
+        <nomcontractant>LCC &amp; Associés Canada Inc.</nomcontractant>
+        <neqcontractant>1166591686</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-07</datedepense>
+        <datepublicationdepense>2019-03-08</datepublicationdepense>
+        <montantdepense>8463.250000</montantdepense>
+        <description>Omission du professionnel ODC 039</description>
+        <nomcontractant>LCC &amp; Associés Canada Inc.</nomcontractant>
+        <neqcontractant>1166591686</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-26</datedepense>
+        <datepublicationdepense>2019-03-27</datepublicationdepense>
+        <montantdepense>3977.890000</montantdepense>
+        <description>Condition de chantier ODC 040</description>
+        <nomcontractant>LCC &amp; Associés Canada Inc.</nomcontractant>
+        <neqcontractant>1166591686</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1154437</numeroseao>
+    <numero>CS20180330</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-09-26</datedepense>
+        <datepublicationdepense>2018-11-01</datepublicationdepense>
+        <montantdepense>20000.000000</montantdepense>
+        <description>ajout d'heure au contrat</description>
+        <nomcontractant>Clinique de médecine industrielle des Laurentides</nomcontractant>
+        <neqcontractant>1143581545</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-20</datedepense>
+        <datepublicationdepense>2019-03-05</datepublicationdepense>
+        <montantdepense>80000.000000</montantdepense>
+        <description>Ajout d'heure au contrat - Clinique médecine industrielle (30-11-2018 45 000$ et 20-02-2019 35000$)</description>
+        <nomcontractant>Clinique de médecine industrielle des Laurentides</nomcontractant>
+        <neqcontractant>1143581545</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1160999</numeroseao>
+    <numero>E17-18-10</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-10-04</datedepense>
+        <datepublicationdepense>2019-03-13</datepublicationdepense>
+        <montantdepense>2195.170000</montantdepense>
+        <description>Avenant 1 - comprenant ing-1, ing-2, ing-3, ing-4, ing-5</description>
+        <nomcontractant>Les Entreprises G&amp;M Laplante Ltée</nomcontractant>
+        <neqcontractant>1143318542</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-12-06</datedepense>
+        <datepublicationdepense>2019-03-13</datepublicationdepense>
+        <montantdepense>16672.060000</montantdepense>
+        <description>Avenant 2 - comprend ARCH-01, ARCH-02, ARCH-03, ARCH-05</description>
+        <nomcontractant>Les Entreprises G&amp;M Laplante Ltée</nomcontractant>
+        <neqcontractant>1143318542</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-01-14</datedepense>
+        <datepublicationdepense>2019-03-13</datepublicationdepense>
+        <montantdepense>3424.780000</montantdepense>
+        <description>Avenant 3 - comprend ing-06 et ing-07</description>
+        <nomcontractant>Les Entreprises G&amp;M Laplante Ltée</nomcontractant>
+        <neqcontractant>1143318542</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-01-14</datedepense>
+        <datepublicationdepense>2019-03-13</datepublicationdepense>
+        <montantdepense>52359.980000</montantdepense>
+        <description>Avenant 4 - comprend ARCH-04, ARCH-07, ARCH-08, ARCH-09, ARCH-10, ARCH-11</description>
+        <nomcontractant>Les Entreprises G&amp;M Laplante Ltée</nomcontractant>
+        <neqcontractant>1143318542</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1166261</numeroseao>
+    <numero>89051</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-07-18</datedepense>
+        <datepublicationdepense>2019-01-03</datepublicationdepense>
+        <montantdepense>5221.200000</montantdepense>
+        <description>Salaire technicien en mécanique du bâtiment</description>
+        <nomcontractant>9094423 Canada inc. Groupe PMLC</nomcontractant>
+        <neqcontractant>1170523584</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-10-25</datedepense>
+        <datepublicationdepense>2019-01-03</datepublicationdepense>
+        <montantdepense>9780.860000</montantdepense>
+        <description>Salaire technicien en mécanique du bâtiment</description>
+        <nomcontractant>9094423 Canada inc. Groupe PMLC</nomcontractant>
+        <neqcontractant>1170523584</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-12-05</datedepense>
+        <datepublicationdepense>2019-01-03</datepublicationdepense>
+        <montantdepense>14556.900000</montantdepense>
+        <description>Salaire technicien en mécanique du bâtiment</description>
+        <nomcontractant>9094423 Canada inc. Groupe PMLC</nomcontractant>
+        <neqcontractant>1170523584</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-08</datedepense>
+        <datepublicationdepense>2019-02-08</datepublicationdepense>
+        <montantdepense>7603.200000</montantdepense>
+        <description>Salaire technicien en mécanique du bâtiment.</description>
+        <nomcontractant>9094423 Canada inc. Groupe PMLC</nomcontractant>
+        <neqcontractant>1170523584</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-18</datedepense>
+        <datepublicationdepense>2019-03-18</datepublicationdepense>
+        <montantdepense>14580.000000</montantdepense>
+        <description>Salaire technicien en mécanique du bâtiment.</description>
+        <nomcontractant>9094423 Canada inc. Groupe PMLC</nomcontractant>
+        <neqcontractant>1170523584</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1167992</numeroseao>
+    <numero>MG-2017-2018-07</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-10-18</datedepense>
+        <datepublicationdepense>2018-10-23</datepublicationdepense>
+        <montantdepense>3061.060000</montantdepense>
+        <description>Remplacement d'une grille de ventilation et travaux de peinture</description>
+        <nomcontractant>8577765 Canada Inc.</nomcontractant>
+        <neqcontractant>1169310886</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-18</datedepense>
+        <datepublicationdepense>2019-02-25</datepublicationdepense>
+        <montantdepense>1224.300000</montantdepense>
+        <description>AV#2 Crédit - Retour de l'évier EV-01 et AV#3 Relocalisation de la boîte B20</description>
+        <nomcontractant>8577765 Canada Inc.</nomcontractant>
+        <neqcontractant>1169310886</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1171302</numeroseao>
+    <numero>A18-0601</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-12-19</datedepense>
+        <datepublicationdepense>2019-01-04</datepublicationdepense>
+        <montantdepense>50634.770000</montantdepense>
+        <description>Imprévus de chantier, erreurs/omissions</description>
+        <nomcontractant>Lévesque et Associées Construction Inc.</nomcontractant>
+        <neqcontractant>1149139215</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1172023</numeroseao>
+    <numero>18-192 - 105125492</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-11-20</datedepense>
+        <datepublicationdepense>2019-03-01</datepublicationdepense>
+        <montantdepense>2397.000000</montantdepense>
+        <description># 1: Omission - Civil: La nouvelle section de clôture n'a pas été installée è la même hauteur que l'existante, car la hauteur sur les plans de l'ingénieur n'était pas la bonne. Installer une nouvelle section de clôture entre le voisin et l'agradissement qui n'était pas prévu dans le cadre du projet.</description>
+        <nomcontractant>Démolition A.M. de l'Est du Québec</nomcontractant>
+        <neqcontractant>1142424861</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-11-20</datedepense>
+        <datepublicationdepense>2019-03-04</datepublicationdepense>
+        <montantdepense>3966.160000</montantdepense>
+        <description># 2: Omission - Civil: (AE-DC-02) Omision du prifessionnel de l'agrandissement: Changer la maille de clôture qui a été installée lors de l'agrandissement, car la maille se termine en pique, et non de façon arrondi sur le dessue.</description>
+        <nomcontractant>Démolition A.M. de l'Est du Québec</nomcontractant>
+        <neqcontractant>1142424861</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-25</datedepense>
+        <datepublicationdepense>2019-03-05</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 3: Crédit (1 918,45 $ )- Civil: (A-DC-01): Mauvaise coordination ingénieur civil et architecture: Les deux arbres prévus en face ne seront pas plantés, car aucun espace de plantation n'est prévu pour eux. Le remblai a été fait avec du sable ce qui rend leur plantation impossible.</description>
+        <nomcontractant>Démolition A.M. de l'Est du Québec</nomcontractant>
+        <neqcontractant>1142424861</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-25</datedepense>
+        <datepublicationdepense>2019-03-05</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 4: Crédit (5 820,49 $) Civil- (DC-03): Condition du chantier: Suite à plusieurs caractérisations supplémentaires en chantier, nous avons constaté des quantités de sols A-B, C-RESC inférieures aux quantités prévues au contrat de l'entrepreneur. Ces caractérisations étaient impossibles è faire ...</description>
+        <nomcontractant>Démolition A.M. de l'Est du Québec</nomcontractant>
+        <neqcontractant>1142424861</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-28</datedepense>
+        <datepublicationdepense>2019-03-05</datepublicationdepense>
+        <montantdepense>42583.000000</montantdepense>
+        <description># 5:  Condition de chantier: Architecture: Vu l'impossibilité de faire des caractérisations d'amiante, dû au fait que nous avions un avis de structure sur la stabilité du bâtiment, il a été découvert lors de la démolition qu'il y avait présence d'un crépi d'amiante sur les murs de fondation du bâ...</description>
+        <nomcontractant>Démolition A.M. de l'Est du Québec</nomcontractant>
+        <neqcontractant>1142424861</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-25</datedepense>
+        <datepublicationdepense>2019-03-05</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 6: Crédit (1 160,14 $) - Structure: Condition chantier: Crédit pour la disposition du béton en condition normale. La disposition de la dalle s'est faite en condition d'amiante suite à la découverte de tuiles d'amiante sous la dalle de terrazo. Une lettre d'explication sera fournie par l'archit..</description>
+        <nomcontractant>Démolition A.M. de l'Est du Québec</nomcontractant>
+        <neqcontractant>1142424861</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-25</datedepense>
+        <datepublicationdepense>2019-03-05</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description># 7: Crédit (9 943,22 $) Civil: Condition chantier: La quantité de remblai structural prévue aux plans et devis n'a jamais été atteinte, car il y a des endroits où la contamition était moins présente que laissaient croire les études géotechniques. Donc, l'entrepreneur doit nous fournir un crédit ...</description>
+        <nomcontractant>Démolition A.M. de l'Est du Québec</nomcontractant>
+        <neqcontractant>1142424861</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-28</datedepense>
+        <datepublicationdepense>2019-03-05</datepublicationdepense>
+        <montantdepense>1500.000000</montantdepense>
+        <description> # 8:  Civil - Condition chantier:  Temps d'attente au chantier de l'entrepreneur lors de la phase de la décontamination du site. L'entrepreneur avait de la  machinerie sur le site lorsqu'il était en attente des résultats de sols du laboratoire.</description>
+        <nomcontractant>Démolition A.M. de l'Est du Québec</nomcontractant>
+        <neqcontractant>1142424861</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-28</datedepense>
+        <datepublicationdepense>2019-03-05</datepublicationdepense>
+        <montantdepense>1200.000000</montantdepense>
+        <description># 9: Omission - Électricité: Vu l'impossibilité d'accéder au bâtiment dû à un avis de non-conformité en structure, le projet a été planifié avec un démolition de l’extérieur avec des enceintes en hauteur. l'entrepreneur nous a indiqué qu'avec ce type de travaux, il fallait des protections d'Hydro...</description>
+        <nomcontractant>Démolition A.M. de l'Est du Québec</nomcontractant>
+        <neqcontractant>1142424861</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-28</datedepense>
+        <datepublicationdepense>2019-03-05</datepublicationdepense>
+        <montantdepense>990.000000</montantdepense>
+        <description># 10:  Omission - Civil: Le technicien du laboratoire avait demandé à l'entrepreneur d'effectuer le remblayage d'une zone au chantier avec du sable, mais à la suite de la réception des résultats, il y avait encore présence de sol contaminé dans cette section. L'entrepreneur a ré-excavé..</description>
+        <nomcontractant>Démolition A.M. de l'Est du Québec</nomcontractant>
+        <neqcontractant>1142424861</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1177857</numeroseao>
+    <numero>MG-2017-2018-18</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-11-21</datedepense>
+        <datepublicationdepense>2019-02-25</datepublicationdepense>
+        <montantdepense>200.680000</montantdepense>
+        <description>AV#1 AMC 2018-147-041 : Bas de porte 2.305H</description>
+        <nomcontractant>8577765 CANADA INC.</nomcontractant>
+        <neqcontractant>1169310886</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1177880</numeroseao>
+    <numero>2017/18-301</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-08-24</datedepense>
+        <datepublicationdepense>2018-09-14</datepublicationdepense>
+        <montantdepense>2755.000000</montantdepense>
+        <description>AM #1-2 Ajout d'une plate-forme en caillebotis en acier galvanisé, d'une sortie et escalier extérieurs 3753.90$ Annulation rampe intérieure et modification jonction avec existant et de l'escalier extérieures Crédit de 998,90$</description>
+        <nomcontractant>Construction Stafford inc</nomcontractant>
+        <neqcontractant>1164229180</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-24</datedepense>
+        <datepublicationdepense>2018-09-14</datepublicationdepense>
+        <montantdepense>13679.020000</montantdepense>
+        <description>AM#3 Ajout supervision aux sous-traitants entre le 6 et 24 août 18- Installation jupe extérieure - Vernir porte bois et bois encadrant fenêtres - Installation quincaillerie portes intérieures en bois</description>
+        <nomcontractant>Construction Stafford inc</nomcontractant>
+        <neqcontractant>1164229180</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-24</datedepense>
+        <datepublicationdepense>2018-09-14</datepublicationdepense>
+        <montantdepense>956.860000</montantdepense>
+        <description>Modification mobilier corridor - Ajout d'une section plafond tuiles acoustiques - Modifications jonction des planchers entre l'existant et classes modulaires</description>
+        <nomcontractant>Construction Stafford inc</nomcontractant>
+        <neqcontractant>1164229180</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-24</datedepense>
+        <datepublicationdepense>2018-09-14</datepublicationdepense>
+        <montantdepense>2354.630000</montantdepense>
+        <description>AM#5 Fournir le matériel de la jupe extérieure</description>
+        <nomcontractant>Construction Stafford inc</nomcontractant>
+        <neqcontractant>1164229180</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-24</datedepense>
+        <datepublicationdepense>2018-09-14</datepublicationdepense>
+        <montantdepense>2530.460000</montantdepense>
+        <description>AM#6 L'Entrepreneu devra ramasser et déposer les déchets de construction laissés sur le site par tous ses sous-traitants et ceux sous sa supervision incluant ceux du fournisseur Bonneville</description>
+        <nomcontractant>Construction Stafford inc</nomcontractant>
+        <neqcontractant>1164229180</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-09-10</datedepense>
+        <datepublicationdepense>2019-03-18</datepublicationdepense>
+        <montantdepense>652.740000</montantdepense>
+        <description>AM#7 DM-A-07: Fournir et installer la signalisation de numérotation des portes de classes modulaires comme spécifié à la sectin du devis 10 14 00- Signalisation</description>
+        <nomcontractant>Construction Stafford inc</nomcontractant>
+        <neqcontractant>1164229180</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1191857</numeroseao>
+    <numero>2018-3016.1</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-03-12</datedepense>
+        <datepublicationdepense>2019-03-12</datepublicationdepense>
+        <montantdepense>11000.000000</montantdepense>
+        <description>Achat de dix (10) sacs de protection de FreeO2 à $ 1,000 / Un pour l'utilistion pré-hospitalière conformément aux exigences de DSanté Canada</description>
+        <nomcontractant>OxyNov Inc.</nomcontractant>
+        <neqcontractant>1165761629</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1209667</numeroseao>
+    <numero>18-19-18</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-02-28</datedepense>
+        <datepublicationdepense>2019-03-11</datepublicationdepense>
+        <montantdepense>1206.950000</montantdepense>
+        <description>OC1 - Démolir la section de cloison en blocs de béton jusqu'au pontage et reconstruire une cloison de gipse au dessus de la porte.</description>
+        <nomcontractant>Construction Julien Dalpé inc.</nomcontractant>
+        <neqcontractant>1143940139</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-28</datedepense>
+        <datepublicationdepense>2019-03-11</datepublicationdepense>
+        <montantdepense>17826.300000</montantdepense>
+        <description>OC2 -  Remplacement du plafond - local 105 - Enlèvement du revêtement de plancher et installer les nouveaux carreaux de vinyle - Fournir et installer les plinthes.</description>
+        <nomcontractant>Construction Julien Dalpé inc.</nomcontractant>
+        <neqcontractant>1143940139</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1223352</numeroseao>
+    <numero> 111CostaRica</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-01-29</datedepense>
+        <datepublicationdepense>2019-03-06</datepublicationdepense>
+        <montantdepense>4413.000000</montantdepense>
+        <description>Ajustement de la dépense - Une mauvaise interprétation de la facture du fournisseur</description>
+        <nomcontractant>ARO</nomcontractant>
+        <neqcontractant>1165410813</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1223756</numeroseao>
+    <numero>137784</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-11-26</datedepense>
+        <datepublicationdepense>2018-12-18</datepublicationdepense>
+        <montantdepense>12411.300000</montantdepense>
+        <description>Réalisation de  travaux de désamiantage </description>
+        <nomcontractant>Groupe DCR</nomcontractant>
+        <neqcontractant>1169139962</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-28</datedepense>
+        <datepublicationdepense>2019-03-04</datepublicationdepense>
+        <montantdepense>5133.600000</montantdepense>
+        <description>Démolition et construction du plancher</description>
+        <nomcontractant>Groupe DCR</nomcontractant>
+        <neqcontractant>1169139962</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1245412</numeroseao>
+    <numero>18-3342</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-03-06</datedepense>
+        <datepublicationdepense>2019-03-07</datepublicationdepense>
+        <montantdepense>17827.380000</montantdepense>
+        <description>Dépense causée par des travaux qui n'étaient pas prévus au départ suite à une revue plus approfondie des besoins en cours de conception.</description>
+        <nomcontractant>BBC architectes inc.</nomcontractant>
+        <neqcontractant>1141933664</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1247626</numeroseao>
+    <numero>SRM018593 </numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-04-19</datedepense>
+        <datepublicationdepense>2019-03-13</datepublicationdepense>
+        <montantdepense>27260.000000</montantdepense>
+        <description>SRM019462  (152 021 640)</description>
+        <nomcontractant>Le Groupe Gesfor Poirier Pinchin</nomcontractant>
+        <neqcontractant>1163424907</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+</export>

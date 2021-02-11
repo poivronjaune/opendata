@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2020-07-01" datefin="2020-07-31">
+  <contrat>
+    <numeroseao>722532</numeroseao>
+    <numero>VMP-14-004</numero>
+    <datefinale>2020-05-28</datefinale>
+    <datepublicationfinale>2017-05-19</datepublicationfinale>
+    <montantfinal>2438408.680000</montantfinal>
+    <nomcontractant>Les entreprises Claude Chagnon Inc.</nomcontractant>
+    <neqcontractant>1142284380</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>753091</numeroseao>
+    <numero>999105991</numero>
+    <datefinale>2020-05-18</datefinale>
+    <datepublicationfinale>2016-07-14</datepublicationfinale>
+    <montantfinal>265000.000000</montantfinal>
+    <nomcontractant>Radio Onde inc.</nomcontractant>
+    <neqcontractant>1167172619</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>829386</numeroseao>
+    <numero>P14013JJ-03-ARCH</numero>
+    <datefinale>2020-02-18</datefinale>
+    <datepublicationfinale>2020-03-17</datepublicationfinale>
+    <montantfinal>1504466.890000</montantfinal>
+    <nomcontractant>MAROSI TROY JODOIN LAMARRE PRATE ARCHITECTES EN CONSORTIUM</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>829388</numeroseao>
+    <numero>P14013JJ-04-ING</numero>
+    <datefinale>2020-03-02</datefinale>
+    <datepublicationfinale>2020-03-17</datepublicationfinale>
+    <montantfinal>1155667.690000</montantfinal>
+    <nomcontractant>.SNC-Lavalin inc.</nomcontractant>
+    <neqcontractant>1142775999</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1009371</numeroseao>
+    <numero>31601700</numero>
+    <datefinale>2020-01-14</datefinale>
+    <datepublicationfinale>2020-03-25</datepublicationfinale>
+    <montantfinal>666602.900000</montantfinal>
+    <nomcontractant>Neptune Security Services Inc</nomcontractant>
+    <neqcontractant>1168627108</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1022061</numeroseao>
+    <numero>31932400</numero>
+    <datefinale>2020-04-03</datefinale>
+    <datepublicationfinale>2020-04-17</datepublicationfinale>
+    <montantfinal>77919.400000</montantfinal>
+    <nomcontractant>Le Groupe Forces S.E.N.C.</nomcontractant>
+    <neqcontractant>3342106617</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1030815</numeroseao>
+    <numero>445004974</numero>
+    <datefinale>2020-05-19</datefinale>
+    <datepublicationfinale>2020-06-26</datepublicationfinale>
+    <montantfinal>99491.010000</montantfinal>
+    <nomcontractant>Iron Mountain</nomcontractant>
+    <neqcontractant>1165289035</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1036651</numeroseao>
+    <numero>31497900</numero>
+    <datefinale>2020-02-29</datefinale>
+    <datepublicationfinale>2020-01-21</datepublicationfinale>
+    <montantfinal>161807.460000</montantfinal>
+    <nomcontractant>UTC incendie et sécurité Canada inc. faisant affaires sous le nom de CHUBB-EDWARDS</nomcontractant>
+    <neqcontractant>1166501933</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1044144</numeroseao>
+    <numero>31770100</numero>
+    <datefinale>2020-03-31</datefinale>
+    <datepublicationfinale>2020-02-07</datepublicationfinale>
+    <montantfinal>92865.480000</montantfinal>
+    <nomcontractant>stericycle ulc</nomcontractant>
+    <neqcontractant>1149788284</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1059803</numeroseao>
+    <numero>31986500</numero>
+    <datefinale>2020-04-30</datefinale>
+    <datepublicationfinale>2020-05-26</datepublicationfinale>
+    <montantfinal>190881.220000</montantfinal>
+    <nomcontractant>Neptune Security Services Inc</nomcontractant>
+    <neqcontractant>1168627108</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1068090</numeroseao>
+    <numero>Contrat 2017-01</numero>
+    <datefinale>2017-10-19</datefinale>
+    <datepublicationfinale>2017-12-18</datepublicationfinale>
+    <montantfinal>65092.250000</montantfinal>
+    <nomcontractant>Les Constructions A.S. Filiatreault</nomcontractant>
+    <neqcontractant>1144177236</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1074115</numeroseao>
+    <numero>44507661</numero>
+    <datefinale>2020-02-19</datefinale>
+    <datepublicationfinale>2020-04-17</datepublicationfinale>
+    <montantfinal>41725.000000</montantfinal>
+    <nomcontractant>Induktion Groupe Conseil inc.</nomcontractant>
+    <neqcontractant>1168911593</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1079602</numeroseao>
+    <numero>32231900</numero>
+    <datefinale>2020-05-31</datefinale>
+    <datepublicationfinale>2020-06-30</datepublicationfinale>
+    <montantfinal>90529.380000</montantfinal>
+    <nomcontractant>Tyco Feu et Sécurité Intégrés</nomcontractant>
+    <neqcontractant>1170863998</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1086196</numeroseao>
+    <numero>44507492</numero>
+    <datefinale>2020-04-22</datefinale>
+    <datepublicationfinale>2018-10-22</datepublicationfinale>
+    <montantfinal>46748.690000</montantfinal>
+    <nomcontractant>Serrurier Excel inc.</nomcontractant>
+    <neqcontractant>1144218030</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1086224</numeroseao>
+    <numero>999730908</numero>
+    <datefinale>2020-05-04</datefinale>
+    <datepublicationfinale>2019-11-07</datepublicationfinale>
+    <montantfinal>12573716.640000</montantfinal>
+    <nomcontractant>ORACLE CANADA ULC</nomcontractant>
+    <neqcontractant>1166275785</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1094842</numeroseao>
+    <numero>44508125</numero>
+    <datefinale>2020-03-24</datefinale>
+    <datepublicationfinale>2020-05-05</datepublicationfinale>
+    <montantfinal>43100.000000</montantfinal>
+    <nomcontractant>Bouthillette Parizeau et Ass.</nomcontractant>
+    <neqcontractant>1142591438</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1097136</numeroseao>
+    <numero>50689</numero>
+    <datefinale>2020-01-22</datefinale>
+    <datepublicationfinale>2019-09-16</datepublicationfinale>
+    <montantfinal>125945.890000</montantfinal>
+    <nomcontractant>GRICS</nomcontractant>
+    <neqcontractant>1142572495</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1099542</numeroseao>
+    <numero>6706-17-PB01</numero>
+    <datefinale>2020-06-15</datefinale>
+    <datepublicationfinale>2018-01-30</datepublicationfinale>
+    <montantfinal>100891.800000</montantfinal>
+    <nomcontractant>Sani-Sable L.B. Inc</nomcontractant>
+    <neqcontractant>1147044011</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1101089</numeroseao>
+    <numero>32915400</numero>
+    <datefinale>2020-02-27</datefinale>
+    <datepublicationfinale>2020-03-10</datepublicationfinale>
+    <montantfinal>1649044.040000</montantfinal>
+    <nomcontractant>9371-2222 Québec inc. (Groupe Noel inc.)</nomcontractant>
+    <neqcontractant>1173315442</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1104912</numeroseao>
+    <numero>AS1219</numero>
+    <datefinale>2020-03-31</datefinale>
+    <datepublicationfinale>2018-10-26</datepublicationfinale>
+    <montantfinal>240354.540000</montantfinal>
+    <nomcontractant>Logibec inc.</nomcontractant>
+    <neqcontractant>1170568035</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1226946</numeroseao>
+    <numero>33242800</numero>
+    <datefinale>2020-03-24</datefinale>
+    <datepublicationfinale>2019-07-17</datepublicationfinale>
+    <montantfinal>43900.000000</montantfinal>
+    <nomcontractant>DKA architectes.</nomcontractant>
+    <neqcontractant>1165814287</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1232381</numeroseao>
+    <numero>45000483</numero>
+    <datefinale>2020-05-07</datefinale>
+    <datepublicationfinale>2020-05-05</datepublicationfinale>
+    <montantfinal>88079.260000</montantfinal>
+    <nomcontractant>Vélo Québec Association</nomcontractant>
+    <neqcontractant>1142416768</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1257384</numeroseao>
+    <numero>999733755</numero>
+    <datefinale>2020-05-31</datefinale>
+    <datepublicationfinale>2019-11-21</datepublicationfinale>
+    <montantfinal>27740.700000</montantfinal>
+    <nomcontractant>Codalogik inc.</nomcontractant>
+    <neqcontractant>1160104395</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1260856</numeroseao>
+    <numero>615841-1</numero>
+    <datefinale>2020-07-17</datefinale>
+    <datepublicationfinale>2020-04-20</datepublicationfinale>
+    <montantfinal>34848.490000</montantfinal>
+    <nomcontractant>PASSEPORT TRAVAIL DE BEAUCE INC.</nomcontractant>
+    <neqcontractant>1143141001</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1264519</numeroseao>
+    <numero>19-177-AO-C</numero>
+    <datefinale>2020-06-30</datefinale>
+    <datepublicationfinale>2020-06-22</datepublicationfinale>
+    <montantfinal>342664.440000</montantfinal>
+    <nomcontractant>Groupe SGM inc</nomcontractant>
+    <neqcontractant>1170807201</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1266686</numeroseao>
+    <numero>999734699</numero>
+    <datefinale>2020-05-01</datefinale>
+    <datepublicationfinale>2019-11-21</datepublicationfinale>
+    <montantfinal>213130.540000</montantfinal>
+    <nomcontractant>Oracle Canada ULC</nomcontractant>
+    <neqcontractant>1166275785</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1269918</numeroseao>
+    <numero>1001981</numero>
+    <datefinale>2019-12-31</datefinale>
+    <datepublicationfinale>2020-01-27</datepublicationfinale>
+    <montantfinal>384025.700000</montantfinal>
+    <nomcontractant>Enseicom Inc</nomcontractant>
+    <neqcontractant>1143072842</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1271438</numeroseao>
+    <numero>2403-19-AP32</numero>
+    <datefinale>2019-07-12</datefinale>
+    <datepublicationfinale>2019-08-27</datepublicationfinale>
+    <montantfinal>30766.020000</montantfinal>
+    <nomcontractant>Pile Dynamics Inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1272801</numeroseao>
+    <numero>999733751</numero>
+    <datefinale>2019-05-27</datefinale>
+    <datepublicationfinale>2019-11-21</datepublicationfinale>
+    <montantfinal>69844.740000</montantfinal>
+    <nomcontractant>Open Text Corporation</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1281029</numeroseao>
+    <numero>Contrat 2019-13-TR</numero>
+    <datefinale>2019-11-25</datefinale>
+    <datepublicationfinale>2020-05-26</datepublicationfinale>
+    <montantfinal>253271.690000</montantfinal>
+    <nomcontractant>Les Entreprises Steeve Couture Inc.</nomcontractant>
+    <neqcontractant>1143536325</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1286452</numeroseao>
+    <numero>44514112</numero>
+    <datefinale>2020-02-06</datefinale>
+    <datepublicationfinale>2020-02-26</datepublicationfinale>
+    <montantfinal>46111.320000</montantfinal>
+    <nomcontractant>Provencher Roy + Associés architectes inc.</nomcontractant>
+    <neqcontractant>1172835382</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1290652</numeroseao>
+    <numero>6000000255</numero>
+    <datefinale>2020-04-30</datefinale>
+    <datepublicationfinale>2020-01-30</datepublicationfinale>
+    <montantfinal>118846.840000</montantfinal>
+    <nomcontractant>Installations Electriques Monsieur Watt Canada Inc.</nomcontractant>
+    <neqcontractant>1143901685</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1294484</numeroseao>
+    <numero>2403-18-APH4</numero>
+    <datefinale>2019-07-31</datefinale>
+    <datepublicationfinale>2019-08-27</datepublicationfinale>
+    <montantfinal>36553.040000</montantfinal>
+    <nomcontractant>Grignard Company, LLC</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1294485</numeroseao>
+    <numero>2403-19-AP19</numero>
+    <datefinale>2019-10-07</datefinale>
+    <datepublicationfinale>2019-10-30</datepublicationfinale>
+    <montantfinal>59433.980000</montantfinal>
+    <nomcontractant>D. S. Brown</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1305177</numeroseao>
+    <numero>44515097</numero>
+    <datefinale>2020-01-08</datefinale>
+    <datepublicationfinale>2020-01-13</datepublicationfinale>
+    <montantfinal>27240.000000</montantfinal>
+    <nomcontractant>Combustion R.P. Inc.</nomcontractant>
+    <neqcontractant>1145375185</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1323307</numeroseao>
+    <numero>44515736</numero>
+    <datefinale>2020-03-15</datefinale>
+    <datepublicationfinale>2020-04-28</datepublicationfinale>
+    <montantfinal>37490.000000</montantfinal>
+    <nomcontractant>E.séguin &amp; Fils Ltée</nomcontractant>
+    <neqcontractant>1142381806</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1325277</numeroseao>
+    <numero>CGER 19 700096</numero>
+    <datefinale>2020-05-15</datefinale>
+    <datepublicationfinale>2020-04-08</datepublicationfinale>
+    <montantfinal>109667.020000</montantfinal>
+    <nomcontractant>Idéal Cargo inc.</nomcontractant>
+    <neqcontractant>1146392031</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1332538</numeroseao>
+    <numero>CTFRQ201912D</numero>
+    <datefinale>2020-06-11</datefinale>
+    <datepublicationfinale>2020-06-30</datepublicationfinale>
+    <montantfinal>49997.500000</montantfinal>
+    <nomcontractant>Nurun inc.</nomcontractant>
+    <neqcontractant>1147603881</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1337464</numeroseao>
+    <numero>44516229</numero>
+    <datefinale>2020-04-30</datefinale>
+    <datepublicationfinale>2020-06-30</datepublicationfinale>
+    <montantfinal>30666.660000</montantfinal>
+    <nomcontractant>John Mastro</nomcontractant>
+    <neqcontractant>1171069769</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1340630</numeroseao>
+    <numero>RSC65-40 </numero>
+    <datefinale>2020-01-24</datefinale>
+    <datepublicationfinale>2020-01-30</datepublicationfinale>
+    <montantfinal>33880.000000</montantfinal>
+    <nomcontractant>Sylvie Laplante</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1343623</numeroseao>
+    <numero>4500788723</numero>
+    <datefinale>2020-02-11</datefinale>
+    <datepublicationfinale>2020-02-11</datepublicationfinale>
+    <montantfinal>28674.740000</montantfinal>
+    <nomcontractant>WSP Canada Inc. (Pour AO sur invitation pour tout le Québec)</nomcontractant>
+    <neqcontractant>1148357057</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1347199</numeroseao>
+    <numero>E-20-011</numero>
+    <datefinale>2020-03-16</datefinale>
+    <datepublicationfinale>2020-04-07</datepublicationfinale>
+    <montantfinal>46000.000000</montantfinal>
+    <nomcontractant>Un itinéraire pour tous</nomcontractant>
+    <neqcontractant>1162473483</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1355069</numeroseao>
+    <numero>7001-17-PZ05</numero>
+    <datefinale>2020-06-23</datefinale>
+    <datepublicationfinale>2020-04-20</datepublicationfinale>
+    <montantfinal>23226.500000</montantfinal>
+    <nomcontractant>Clôtures 04 Enr., Les</nomcontractant>
+    <neqcontractant>2240677429</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1361325</numeroseao>
+    <numero>ad225598</numero>
+    <datefinale>2020-05-15</datefinale>
+    <datepublicationfinale>2020-05-17</datepublicationfinale>
+    <montantfinal>40810.940000</montantfinal>
+    <nomcontractant>ZOLL Medical Canada Inc.</nomcontractant>
+    <neqcontractant>1149561558</neqcontractant>
+  </contrat>
+</export>

@@ -1,0 +1,1943 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2019-07-01" datefin="2019-07-31">
+  <avis>
+    <numeroseao>623737</numeroseao>
+    <numero>1240-C</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-03-03</datedepense>
+        <datepublicationdepense>2017-01-11</datepublicationdepense>
+        <montantdepense>3745764.660000</montantdepense>
+        <description>Dépenses supplémentaires occasionnées par 46 travaux imprévus au contrat; particulièrement l'injection des pertuis #10 à #14 et la fourniture de 30 poutrelles de bois.</description>
+        <nomcontractant>EBC</nomcontractant>
+        <neqcontractant>1140169609</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-08-07</datedepense>
+        <datepublicationdepense>2017-01-11</datepublicationdepense>
+        <montantdepense>310037.000000</montantdepense>
+        <description>Dépenses supplémentaires occasionnées par la réparation de la surface de béton existant et l'ajout de plaques de protection au pertuis #3, la modification des supports et des ancrages de la superstructure.</description>
+        <nomcontractant>EBC</nomcontractant>
+        <neqcontractant>1140169609</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-07-12</datedepense>
+        <datepublicationdepense>2017-03-29</datepublicationdepense>
+        <montantdepense>10900000.000000</montantdepense>
+        <description>paiement partiel d'une entente de règlement suite à des négociations</description>
+        <nomcontractant>EBC</nomcontractant>
+        <neqcontractant>1140169609</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-03-20</datedepense>
+        <datepublicationdepense>2017-03-29</datepublicationdepense>
+        <montantdepense>1172958.000000</montantdepense>
+        <description>Dépenses supplémentaires occasionnées par les variations de quantité à la hausse pour les travaux complétés du bordereau.</description>
+        <nomcontractant>EBC</nomcontractant>
+        <neqcontractant>1140169609</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-07</datedepense>
+        <datepublicationdepense>2019-02-26</datepublicationdepense>
+        <montantdepense>12000000.000000</montantdepense>
+        <description>Dépenses supplémentaires occasionnées pour le règlement des impacts reliés aux problématiques ayant causé des délais et un dépassement de coût pour la période du 22 août 2013 au 31 mai 2017.</description>
+        <nomcontractant>EBC</nomcontractant>
+        <neqcontractant>1140169609</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-15</datedepense>
+        <datepublicationdepense>2019-05-24</datepublicationdepense>
+        <montantdepense>179870.600000</montantdepense>
+        <description>Dépenses supplémentaires occasionnées par la modification en atelier du système de chauffage de la vanne régulatrice, la modification des joints de seuil des poutrelles de bois et l'ajout d'une porte pour la plate-forme d'accès à l'amont du bâtiment des treuils. </description>
+        <nomcontractant>EBC</nomcontractant>
+        <neqcontractant>1140169609</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-10</datedepense>
+        <datepublicationdepense>2019-05-24</datepublicationdepense>
+        <montantdepense>407372.940000</montantdepense>
+        <description>Dépenses supplémentaires occasionnées par la réparation du nez de pilier #19, le support des câbles flexibles - vannes régulatrices, l'alimentation palan de transfert - bâtiment des treuils et démantèlement du quai. </description>
+        <nomcontractant>EBC</nomcontractant>
+        <neqcontractant>1140169609</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-09-14</datedepense>
+        <datepublicationdepense>2019-05-24</datepublicationdepense>
+        <montantdepense>166850.780000</montantdepense>
+        <description>Dépenses supplémentaires occasionnées par le remplacement des points d'ancrage pour guides de vannes régulatrices et de poutrelles, cassage de 2 blocs de béton en amont des pertuis 4 et 6, support équipements électriques aux pertuis #7 à 19 et modification des détails et des plaques - pilier #7</description>
+        <nomcontractant>EBC</nomcontractant>
+        <neqcontractant>1140169609</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-12-14</datedepense>
+        <datepublicationdepense>2019-05-24</datepublicationdepense>
+        <montantdepense>476970.050000</montantdepense>
+        <description>Dépenses supplémentaires occasionnées par l'étanchéité des panneaux d'entretien aval des vannes régulatrices et changement à la séquence des pièces encastrées, modification des pièces encastrées des poutrelles de bois.</description>
+        <nomcontractant>EBC</nomcontractant>
+        <neqcontractant>1140169609</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-28</datedepense>
+        <datepublicationdepense>2019-05-24</datepublicationdepense>
+        <montantdepense>1678299.810000</montantdepense>
+        <description>Dépenses supplémentaires occasionnées par les coûts indirects et frais d'impact liés à l'injection des pertuis 10 à 14, l'ajout d'une clôture sur le mur de soutènement en rive droite aval et balancement statique des vannes régulatrices - pertuis #2 à 6. </description>
+        <nomcontractant>EBC</nomcontractant>
+        <neqcontractant>1140169609</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>824305</numeroseao>
+    <numero>25-067D</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>36000.000000</montantdepense>
+        <description>Prolongation 2015-2016</description>
+        <nomcontractant>AMB TRESEC INC.</nomcontractant>
+        <neqcontractant>1161577797</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>36000.000000</montantdepense>
+        <description>Prolongation 2016-2017</description>
+        <nomcontractant>AMB TRESEC INC.</nomcontractant>
+        <neqcontractant>1161577797</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>36000.000000</montantdepense>
+        <description>Prolongation 2017-2018 (15-278D) - APP50501</description>
+        <nomcontractant>AMB TRESEC INC.</nomcontractant>
+        <neqcontractant>1161577797</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>36000.000000</montantdepense>
+        <description>Prolongation 2018-2019 (15-278D) - APP50498</description>
+        <nomcontractant>AMB TRESEC INC.</nomcontractant>
+        <neqcontractant>1161577797</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-27</datedepense>
+        <datepublicationdepense>2019-07-04</datepublicationdepense>
+        <montantdepense>36000.000000</montantdepense>
+        <description>Prolongation 2019-2020 (15-295D) - APP50578 - Rapport A-33-1362</description>
+        <nomcontractant>AMB TRESEC INC.</nomcontractant>
+        <neqcontractant>1161577797</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>824312</numeroseao>
+    <numero>25-069D</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>27000.000000</montantdepense>
+        <description>Prolongation 2015-2016</description>
+        <nomcontractant>AMB TRESEC INC.</nomcontractant>
+        <neqcontractant>1161577797</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>27000.000000</montantdepense>
+        <description>Prolongation 2016-2017</description>
+        <nomcontractant>AMB TRESEC INC.</nomcontractant>
+        <neqcontractant>1161577797</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>27000.000000</montantdepense>
+        <description>Prolongation 2017-2018 (15-278D) - APP50501</description>
+        <nomcontractant>AMB TRESEC INC.</nomcontractant>
+        <neqcontractant>1161577797</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>27000.000000</montantdepense>
+        <description>Prolongation 2018-2019 (15-278D) - APP50498</description>
+        <nomcontractant>AMB TRESEC INC.</nomcontractant>
+        <neqcontractant>1161577797</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-27</datedepense>
+        <datepublicationdepense>2019-07-04</datepublicationdepense>
+        <montantdepense>27000.000000</montantdepense>
+        <description>Prolongation 2019-2020 (15-295D) - APP50578 - Rapport A-33-1362</description>
+        <nomcontractant>AMB TRESEC INC.</nomcontractant>
+        <neqcontractant>1161577797</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>824319</numeroseao>
+    <numero>25-068D</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>72000.000000</montantdepense>
+        <description>Prolongation 2015-2016</description>
+        <nomcontractant>AMB TRESEC INC.</nomcontractant>
+        <neqcontractant>1161577797</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>72000.000000</montantdepense>
+        <description>Prolongation 2016-2017</description>
+        <nomcontractant>AMB TRESEC INC.</nomcontractant>
+        <neqcontractant>1161577797</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>72000.000000</montantdepense>
+        <description>Prolongation 2017-2018 (15-278D) - APP50501</description>
+        <nomcontractant>AMB TRESEC INC.</nomcontractant>
+        <neqcontractant>1161577797</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>72000.000000</montantdepense>
+        <description>Prolongation 2018-2019 (15-278D) - APP50498</description>
+        <nomcontractant>AMB TRESEC INC.</nomcontractant>
+        <neqcontractant>1161577797</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-27</datedepense>
+        <datepublicationdepense>2019-07-04</datepublicationdepense>
+        <montantdepense>72000.000000</montantdepense>
+        <description>Prolongation 2019-2020 (15-295D) - APP50578 - Rapport A-33-1362</description>
+        <nomcontractant>AMB TRESEC INC.</nomcontractant>
+        <neqcontractant>1161577797</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>917733</numeroseao>
+    <numero>153600005</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-03-11</datedepense>
+        <datepublicationdepense>2018-02-01</datepublicationdepense>
+        <montantdepense>35143.600000</montantdepense>
+        <description>OC1 - Ajout de l'installation de la géothermie dans l'ensemble de l'école et exigences spécifiques de la ville de Repentigny.</description>
+        <nomcontractant>Bergeron Thouin Associés Architectes Inc.</nomcontractant>
+        <neqcontractant>1145414901</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-05-18</datedepense>
+        <datepublicationdepense>2018-02-01</datepublicationdepense>
+        <montantdepense>12827.370000</montantdepense>
+        <description>OC2 - Ajustement des honoraires professionnels pour le suivi des ordres de changement et politique d'intégration des arts.</description>
+        <nomcontractant>Bergeron Thouin Associés Architectes Inc.</nomcontractant>
+        <neqcontractant>1145414901</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-16</datedepense>
+        <datepublicationdepense>2018-02-01</datepublicationdepense>
+        <montantdepense>2387.990000</montantdepense>
+        <description>OC3 - Ajustement des honoraires pour suivi des ordres de changement (facture 6954).</description>
+        <nomcontractant>Bergeron Thouin Associés Architectes Inc.</nomcontractant>
+        <neqcontractant>1145414901</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-26</datedepense>
+        <datepublicationdepense>2019-07-08</datepublicationdepense>
+        <montantdepense>17308.310000</montantdepense>
+        <description>OC4 - Honoraires supplémentaires à taux horaire pour surveillance des travaux après la date prévue de la fin des travaux (RLRQ C-65.1 r.9 art.13)</description>
+        <nomcontractant>Bergeron Thouin Associés Architectes Inc.</nomcontractant>
+        <neqcontractant>1145414901</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>989913</numeroseao>
+    <numero>IM701215</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-09-21</datedepense>
+        <datepublicationdepense>2017-12-04</datepublicationdepense>
+        <montantdepense>964182.490000</montantdepense>
+        <description>Modifications des services pour les ascenseurs, Modification des blocs sanitaires des étages 155 à 260, Ajout de luminaires au niveau 155</description>
+        <nomcontractant>Rial Electrique Inc.</nomcontractant>
+        <neqcontractant>1162163670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-13</datedepense>
+        <datepublicationdepense>2018-01-09</datepublicationdepense>
+        <montantdepense>208760.700000</montantdepense>
+        <description>Raccords 120V pour besoin de l'alarme-incendie désenfumage, construction du local TCAI</description>
+        <nomcontractant>Rial Electrique Inc.</nomcontractant>
+        <neqcontractant>1162163670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-27</datedepense>
+        <datepublicationdepense>2018-01-26</datepublicationdepense>
+        <montantdepense>189303.550000</montantdepense>
+        <description>Relocalisation des aérothermes de la dorsale, ajustement des disjoncteurs, ajout d’éclairage et de prise pour les unités de ventilation et démantèlement de la sortie de secours.</description>
+        <nomcontractant>Rial Electrique Inc.</nomcontractant>
+        <neqcontractant>1162163670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-01-18</datedepense>
+        <datepublicationdepense>2018-03-16</datepublicationdepense>
+        <montantdepense>231283.840000</montantdepense>
+        <description>Relocalisation des aérothermes de la dorsale, ajustement des disjoncteurs, ajout d'éclairage</description>
+        <nomcontractant>Rial Electrique Inc.</nomcontractant>
+        <neqcontractant>1162163670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-02-28</datedepense>
+        <datepublicationdepense>2018-04-25</datepublicationdepense>
+        <montantdepense>432037.730000</montantdepense>
+        <description>Modification MALT télécommunication, ajout de chauffage au niveau 170 et ajout d'éclairage / chauffage</description>
+        <nomcontractant>Rial Electrique Inc.</nomcontractant>
+        <neqcontractant>1162163670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-03</datedepense>
+        <datepublicationdepense>2018-06-20</datepublicationdepense>
+        <montantdepense>52665.360000</montantdepense>
+        <description>Modification MALT télécommunication, ajout de chauffage au niveau 170 et ajout d'éclairage / chauffage</description>
+        <nomcontractant>Rial Electrique Inc.</nomcontractant>
+        <neqcontractant>1162163670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-28</datedepense>
+        <datepublicationdepense>2018-08-20</datepublicationdepense>
+        <montantdepense>109779.980000</montantdepense>
+        <description>Remplacement des conduits de 4 po par des manchons de 2 po., raccordement de l'air respirable</description>
+        <nomcontractant>Rial Electrique Inc.</nomcontractant>
+        <neqcontractant>1162163670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-09-01</datedepense>
+        <datepublicationdepense>2018-10-29</datepublicationdepense>
+        <montantdepense>62055.250000</montantdepense>
+        <description>Réaménagement des câbles existants au niveau 138, ajout d'enseignes de sortie et relocalisation des prises électriques des salles télécoms Desjardins.</description>
+        <nomcontractant>Rial Electrique Inc.</nomcontractant>
+        <neqcontractant>1162163670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-10-24</datedepense>
+        <datepublicationdepense>2018-12-18</datepublicationdepense>
+        <montantdepense>7628.590000</montantdepense>
+        <description>Ajout de luminaires au niveau 221, ajout de MALT pour l’escalier d’issue de la sous-station S-16 et relocalisation d’un luminaire et de conduits d’alarme-incendie au niveau 398 ouest.</description>
+        <nomcontractant>Rial Electrique Inc.</nomcontractant>
+        <neqcontractant>1162163670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-12-17</datedepense>
+        <datepublicationdepense>2019-01-10</datepublicationdepense>
+        <montantdepense>425000.000000</montantdepense>
+        <description>Résolution #7923</description>
+        <nomcontractant>Rial Electrique Inc.</nomcontractant>
+        <neqcontractant>1162163670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-12-05</datedepense>
+        <datepublicationdepense>2019-02-04</datepublicationdepense>
+        <montantdepense>4591.370000</montantdepense>
+        <description>Ajout de deux (2)  prises et un (1) conduit vide au niveau 322</description>
+        <nomcontractant>Rial Electrique Inc.</nomcontractant>
+        <neqcontractant>1162163670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-01</datedepense>
+        <datepublicationdepense>2019-04-23</datepublicationdepense>
+        <montantdepense>24827.100000</montantdepense>
+        <description>Modification sur les plaques lamicoides existantes et annulation de l'interrupteur de transfert ASSC-2 / Travaux dans la Tour de Montréal</description>
+        <nomcontractant>Rial Electrique Inc.</nomcontractant>
+        <neqcontractant>1162163670</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-02</datedepense>
+        <datepublicationdepense>2019-07-08</datepublicationdepense>
+        <montantdepense>6588.730000</montantdepense>
+        <description>Identification des btes de tirage et de jonctions des cages d'escalier Est et ouest, remplacement d'équipements endommagés en alarme incendie</description>
+        <nomcontractant>Rial Electrique Inc.</nomcontractant>
+        <neqcontractant>1162163670</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1060289</numeroseao>
+    <numero>SIGP-2017-001</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-06-05</datedepense>
+        <datepublicationdepense>2019-05-03</datepublicationdepense>
+        <montantdepense>5065.000000</montantdepense>
+        <description>maintenance annuelle pour 5 usagers</description>
+        <nomcontractant>Filogiciel Inc.</nomcontractant>
+        <neqcontractant>1170404348</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-07-16</datedepense>
+        <datepublicationdepense>2019-07-24</datepublicationdepense>
+        <montantdepense>7763.000000</montantdepense>
+        <description>Maintenance annuelle pour 10 usagers</description>
+        <nomcontractant>Filogiciel Inc.</nomcontractant>
+        <neqcontractant>1170404348</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1067867</numeroseao>
+    <numero>55213-518_MSL_PUB_C</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-04-18</datedepense>
+        <datepublicationdepense>2019-04-24</datepublicationdepense>
+        <montantdepense>629252.150000</montantdepense>
+        <description>Demandes de changement diverses </description>
+        <nomcontractant>KF Construction inc.</nomcontractant>
+        <neqcontractant>1160669041</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-30</datedepense>
+        <datepublicationdepense>2019-06-04</datepublicationdepense>
+        <montantdepense>3177.960000</montantdepense>
+        <description>Demandes de changement 115 et 116 : Dessins et/ou devis exécutoires incomplets (Remplacement de la vanne trois-voies et Alimentation du répartiteur du contrôle d'éclairage)</description>
+        <nomcontractant>KF Construction inc.</nomcontractant>
+        <neqcontractant>1160669041</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-07-09</datedepense>
+        <datepublicationdepense>2019-07-15</datepublicationdepense>
+        <montantdepense>3681.270000</montantdepense>
+        <description>Demande de changement 117 : Conditions de chantiers (Ajout d'une pièce d'acier pour chaque ouverture dans la plaque de base des caissons lumineux)</description>
+        <nomcontractant>KF Construction inc.</nomcontractant>
+        <neqcontractant>1160669041</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1088346</numeroseao>
+    <numero>32269200</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-11-23</datedepense>
+        <datepublicationdepense>2019-01-21</datepublicationdepense>
+        <montantdepense>246783.000000</montantdepense>
+        <description>Conditions imprévisibles de chantier</description>
+        <nomcontractant>Ondel inc.</nomcontractant>
+        <neqcontractant>1143586387</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-01</datedepense>
+        <datepublicationdepense>2019-02-05</datepublicationdepense>
+        <montantdepense>702.030000</montantdepense>
+        <description>Calfeutrage pour les silencieux des génératrices.</description>
+        <nomcontractant>Ondel inc.</nomcontractant>
+        <neqcontractant>1143586387</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-03</datedepense>
+        <datepublicationdepense>2019-04-03</datepublicationdepense>
+        <montantdepense>2158.080000</montantdepense>
+        <description>Divers ordres de changement (n°53 à n°56)</description>
+        <nomcontractant>Ondel inc.</nomcontractant>
+        <neqcontractant>1143586387</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-04</datedepense>
+        <datepublicationdepense>2019-04-04</datepublicationdepense>
+        <montantdepense>4562.170000</montantdepense>
+        <description>Divers ordres de changement (no 57 à no 59)</description>
+        <nomcontractant>Ondel inc.</nomcontractant>
+        <neqcontractant>1143586387</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-03</datedepense>
+        <datepublicationdepense>2019-06-27</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Ajout de L'ODC 60</description>
+        <nomcontractant>Ondel inc.</nomcontractant>
+        <neqcontractant>1143586387</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1094769</numeroseao>
+    <numero>70000_AB_Cons.CodesNormes</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-03-30</datedepense>
+        <datepublicationdepense>2017-07-31</datepublicationdepense>
+        <montantdepense>19500.000000</montantdepense>
+        <description>ODC-01 : Portée du mandat modifiée</description>
+        <nomcontractant>Technorm inc</nomcontractant>
+        <neqcontractant>1143438548</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-13</datedepense>
+        <datepublicationdepense>2017-07-31</datepublicationdepense>
+        <montantdepense>4800.000000</montantdepense>
+        <description>ODC-02 : Portée du mandat modifiée</description>
+        <nomcontractant>Technorm inc</nomcontractant>
+        <neqcontractant>1143438548</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-07-18</datedepense>
+        <datepublicationdepense>2019-07-23</datepublicationdepense>
+        <montantdepense>9200.000000</montantdepense>
+        <description>ODC-3A_Demande additionnelle de l'unité</description>
+        <nomcontractant>Technorm inc</nomcontractant>
+        <neqcontractant>1143438548</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-07-18</datedepense>
+        <datepublicationdepense>2019-07-23</datepublicationdepense>
+        <montantdepense>1500.000000</montantdepense>
+        <description>ODC-3B_Demande additionnelle de l'unité</description>
+        <nomcontractant>Technorm inc</nomcontractant>
+        <neqcontractant>1143438548</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1101986</numeroseao>
+    <numero>32717100</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-11-02</datedepense>
+        <datepublicationdepense>2018-01-24</datepublicationdepense>
+        <montantdepense>2418.900000</montantdepense>
+        <description>Décaper la poutre principale de toiture des galeries et les boiseries.</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-02</datedepense>
+        <datepublicationdepense>2018-05-22</datepublicationdepense>
+        <montantdepense>8809.550000</montantdepense>
+        <description>Procéder au sondage et à la localisation des corbeaux existant.</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-23</datedepense>
+        <datepublicationdepense>2018-05-23</datepublicationdepense>
+        <montantdepense>4680.500000</montantdepense>
+        <description>Fourniture et mise en place de 6 rallonges de pieux.</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-05-29</datedepense>
+        <datepublicationdepense>2018-06-21</datepublicationdepense>
+        <montantdepense>807.400000</montantdepense>
+        <description>Percement exploratoire au sous-sol pour des travaux de pieutage futur.</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-21</datedepense>
+        <datepublicationdepense>2018-06-21</datepublicationdepense>
+        <montantdepense>4405.040000</montantdepense>
+        <description>Location d'équipement durant l'arrêt du chantier </description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-13</datedepense>
+        <datepublicationdepense>2018-08-27</datepublicationdepense>
+        <montantdepense>16335.000000</montantdepense>
+        <description>Remplacement du type de fondation + un crédit de 4 680.50$ en date du 2018-08-10 Changement de concept</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-10</datedepense>
+        <datepublicationdepense>2018-08-27</datepublicationdepense>
+        <montantdepense>3622.500000</montantdepense>
+        <description>Frais d’entreposage et manutention supplémentaire :</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-10</datedepense>
+        <datepublicationdepense>2018-08-27</datepublicationdepense>
+        <montantdepense>2221.000000</montantdepense>
+        <description>Fournir et installer des solins métalliques - un crédit de 700,00 pour travaux de pavage</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-08-10</datedepense>
+        <datepublicationdepense>2018-08-27</datepublicationdepense>
+        <montantdepense>1891.100000</montantdepense>
+        <description>Déplacement d'une conduite protection incendie</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-08</datedepense>
+        <datepublicationdepense>2019-04-01</datepublicationdepense>
+        <montantdepense>13723.990000</montantdepense>
+        <description>Modification de la structure en bois pour l'ajustement final à la maçonnerie</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-03</datedepense>
+        <datepublicationdepense>2019-05-06</datepublicationdepense>
+        <montantdepense>16580.130000</montantdepense>
+        <description>Réparation du palier principal des escaliers et ajout d'un garde-corps en bois</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-27</datedepense>
+        <datepublicationdepense>2019-05-27</datepublicationdepense>
+        <montantdepense>4582.030000</montantdepense>
+        <description>Prolongation des locations</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-26</datedepense>
+        <datepublicationdepense>2019-05-30</datepublicationdepense>
+        <montantdepense>6842.500000</montantdepense>
+        <description>Pour la sécurisation des lieux</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-19</datedepense>
+        <datepublicationdepense>2019-05-30</datepublicationdepense>
+        <montantdepense>14254.610000</montantdepense>
+        <description>Location des clôtures et échafaudages</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-03</datedepense>
+        <datepublicationdepense>2019-05-30</datepublicationdepense>
+        <montantdepense>4801.500000</montantdepense>
+        <description>Suite à l'arrêt du chantier de plus de 10 mois, des frais d'entreposage de la structure de bois sont facturés à la SQI.</description>
+        <nomcontractant>Maçonnerie Rainville et Frères Inc.</nomcontractant>
+        <neqcontractant>1162473921</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1127855</numeroseao>
+    <numero>CA-171030-RY</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-02-28</datedepense>
+        <datepublicationdepense>2019-05-28</datepublicationdepense>
+        <montantdepense>66795.960000</montantdepense>
+        <description>Aménagement d'une salle d'induction et réserves stériles</description>
+        <nomcontractant>Construction GCP Inc.</nomcontractant>
+        <neqcontractant>1143366657</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1134070</numeroseao>
+    <numero>33374300</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-04-18</datedepense>
+        <datepublicationdepense>2019-04-18</datepublicationdepense>
+        <montantdepense>158437.680000</montantdepense>
+        <description>Imprévus de chantier</description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-10</datedepense>
+        <datepublicationdepense>2019-05-23</datepublicationdepense>
+        <montantdepense>4904.750000</montantdepense>
+        <description>Erreur et omission</description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-16</datedepense>
+        <datepublicationdepense>2019-05-23</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Erreur : double saisie</description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-17</datedepense>
+        <datepublicationdepense>2019-06-28</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Erreur dans l'inscription</description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-17</datedepense>
+        <datepublicationdepense>2019-06-28</datepublicationdepense>
+        <montantdepense>11287.250000</montantdepense>
+        <description>Imprévus de chantier</description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1145041</numeroseao>
+    <numero>34143900</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-05-18</datedepense>
+        <datepublicationdepense>2018-07-16</datepublicationdepense>
+        <montantdepense>5250.000000</montantdepense>
+        <description>Modification mineure au programme</description>
+        <nomcontractant>Simard Joly, Notaires</nomcontractant>
+        <neqcontractant>1173317307</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-11-08</datedepense>
+        <datepublicationdepense>2018-12-18</datepublicationdepense>
+        <montantdepense>3300.000000</montantdepense>
+        <description>Modification mineure</description>
+        <nomcontractant>Simard Joly, Notaires</nomcontractant>
+        <neqcontractant>1173317307</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-30</datedepense>
+        <datepublicationdepense>2019-07-16</datepublicationdepense>
+        <montantdepense>8000.000000</montantdepense>
+        <description>Modification mineure</description>
+        <nomcontractant>Simard Joly, Notaires</nomcontractant>
+        <neqcontractant>1173317307</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1150187</numeroseao>
+    <numero>33375800</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-06-28</datedepense>
+        <datepublicationdepense>2019-07-08</datepublicationdepense>
+        <montantdepense>24847.000000</montantdepense>
+        <description>Imprévus de chantier - Erreur et omission</description>
+        <nomcontractant>Revêtements Métalliques Prévost Inc.</nomcontractant>
+        <neqcontractant>1149183791</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1150412</numeroseao>
+    <numero>33828600</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-11-14</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>353176.410000</montantdepense>
+        <description>Dépenses supplémentaires reliées principalement à des conditions de chantier</description>
+        <nomcontractant>Paul A. Bisson Inc.</nomcontractant>
+        <neqcontractant>1142841130</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-12-03</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>86489.140000</montantdepense>
+        <description>Dépenses supplémentaires reliées principalement à des conditions de chantier</description>
+        <nomcontractant>Paul A. Bisson Inc.</nomcontractant>
+        <neqcontractant>1142841130</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-05</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>33217.940000</montantdepense>
+        <description>Dépenses supplémentaires reliées principalement à des conditions de chantier</description>
+        <nomcontractant>Paul A. Bisson Inc.</nomcontractant>
+        <neqcontractant>1142841130</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-03</datedepense>
+        <datepublicationdepense>2019-05-31</datepublicationdepense>
+        <montantdepense>432.310000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>Paul A. Bisson Inc.</nomcontractant>
+        <neqcontractant>1142841130</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-07</datedepense>
+        <datepublicationdepense>2019-07-05</datepublicationdepense>
+        <montantdepense>1817.980000</montantdepense>
+        <description>Demande client</description>
+        <nomcontractant>Paul A. Bisson Inc.</nomcontractant>
+        <neqcontractant>1142841130</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-07-12</datedepense>
+        <datepublicationdepense>2019-07-26</datepublicationdepense>
+        <montantdepense>110.780000</montantdepense>
+        <description>Dépenses supplémentaires reliées principalement à des conditions imprévisibles de chantier</description>
+        <nomcontractant>Paul A. Bisson Inc.</nomcontractant>
+        <neqcontractant>1142841130</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1156314</numeroseao>
+    <numero>23340</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-07-05</datedepense>
+        <datepublicationdepense>2019-07-05</datepublicationdepense>
+        <montantdepense>36300.000000</montantdepense>
+        <description>Prolongation du contrat d'un an</description>
+        <nomcontractant>DR DANIEL BOUDREAULT</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1157927</numeroseao>
+    <numero>17-165-01</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-06-27</datedepense>
+        <datepublicationdepense>2019-07-17</datepublicationdepense>
+        <montantdepense>7370.000000</montantdepense>
+        <description>EC-180627-MR-0063 - ODC 1 - Installation d'une bouteille de propane.</description>
+        <nomcontractant>Bernard Malo Inc.</nomcontractant>
+        <neqcontractant>1143239102</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-09-26</datedepense>
+        <datepublicationdepense>2019-07-17</datepublicationdepense>
+        <montantdepense>15782.250000</montantdepense>
+        <description>EC-180926-MR-0009 - ODC 2,3,4,5,6 - Modifications aux systèmes de contrôle, rénovations intérieures et plomberie.</description>
+        <nomcontractant>Bernard Malo Inc.</nomcontractant>
+        <neqcontractant>1143239102</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-10-24</datedepense>
+        <datepublicationdepense>2019-07-17</datepublicationdepense>
+        <montantdepense>3497.990000</montantdepense>
+        <description>EC-181024-MR-0018 - ODC 7,8 - Remplacement des bornes, remplacement d'un lavabo et autres travaux électriques.</description>
+        <nomcontractant>Bernard Malo Inc.</nomcontractant>
+        <neqcontractant>1143239102</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1179927</numeroseao>
+    <numero>44510681</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-05-10</datedepense>
+        <datepublicationdepense>2019-05-17</datepublicationdepense>
+        <montantdepense>162148.000000</montantdepense>
+        <description>Changement programme client, imprévu chantier et imprévu design</description>
+        <nomcontractant>Société Bon Pasteur S.E.N.C.</nomcontractant>
+        <neqcontractant>3341184375</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-15</datedepense>
+        <datepublicationdepense>2019-05-17</datepublicationdepense>
+        <montantdepense>53948.460000</montantdepense>
+        <description>Changement programme client, imprévu chantier et imprévu design</description>
+        <nomcontractant>Société Bon Pasteur S.E.N.C.</nomcontractant>
+        <neqcontractant>3341184375</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-28</datedepense>
+        <datepublicationdepense>2019-07-10</datepublicationdepense>
+        <montantdepense>211.660000</montantdepense>
+        <description>Changement programme client, imprévu chantier et imprévu design</description>
+        <nomcontractant>Société Bon Pasteur S.E.N.C.</nomcontractant>
+        <neqcontractant>3341184375</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1184504</numeroseao>
+    <numero>CA-180705-RY</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-06-13</datedepense>
+        <datepublicationdepense>2019-06-20</datepublicationdepense>
+        <montantdepense>92016.800000</montantdepense>
+        <description>ODC 1 à 26</description>
+        <nomcontractant>Construction CPB Inc..</nomcontractant>
+        <neqcontractant>1163035877</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1192539</numeroseao>
+    <numero>553050493</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-12-06</datedepense>
+        <datepublicationdepense>2019-01-29</datepublicationdepense>
+        <montantdepense>16597.350000</montantdepense>
+        <description>Ajout d'heures d'enseignement</description>
+        <nomcontractant>Carrefour Accès loisirs inc.</nomcontractant>
+        <neqcontractant>1142915827</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-05</datedepense>
+        <datepublicationdepense>2019-07-22</datepublicationdepense>
+        <montantdepense>4742.100000</montantdepense>
+        <description>Ajout d'heures pour la session de printemps 2019</description>
+        <nomcontractant>Carrefour Accès loisirs inc.</nomcontractant>
+        <neqcontractant>1142915827</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1199210</numeroseao>
+    <numero>44510456</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-12-19</datedepense>
+        <datepublicationdepense>2019-01-07</datepublicationdepense>
+        <montantdepense>48965.430000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>Construction Couture &amp; Tanguay</nomcontractant>
+        <neqcontractant>1161224309</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-01-09</datedepense>
+        <datepublicationdepense>2019-01-11</datepublicationdepense>
+        <montantdepense>1599.400000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>Construction Couture &amp; Tanguay</nomcontractant>
+        <neqcontractant>1161224309</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-11</datedepense>
+        <datepublicationdepense>2019-02-13</datepublicationdepense>
+        <montantdepense>58616.730000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>Construction Couture &amp; Tanguay</nomcontractant>
+        <neqcontractant>1161224309</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-11</datedepense>
+        <datepublicationdepense>2019-04-04</datepublicationdepense>
+        <montantdepense>7013.720000</montantdepense>
+        <description>Changement programme client, imprévu chantier et imprévu design</description>
+        <nomcontractant>Construction Couture &amp; Tanguay</nomcontractant>
+        <neqcontractant>1161224309</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-16</datedepense>
+        <datepublicationdepense>2019-04-24</datepublicationdepense>
+        <montantdepense>1558.350000</montantdepense>
+        <description>Modification mineur</description>
+        <nomcontractant>Construction Couture &amp; Tanguay</nomcontractant>
+        <neqcontractant>1161224309</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-07-21</datedepense>
+        <datepublicationdepense>2019-07-10</datepublicationdepense>
+        <montantdepense>382.950000</montantdepense>
+        <description>Changement programme client, imprévu chantier et imprévu design</description>
+        <nomcontractant>Construction Couture &amp; Tanguay</nomcontractant>
+        <neqcontractant>1161224309</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1200005</numeroseao>
+    <numero>AO-1809-NAC-01</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-05-22</datedepense>
+        <datepublicationdepense>2019-07-22</datepublicationdepense>
+        <montantdepense>12470.130000</montantdepense>
+        <description>Modification de contrat_ODC 1</description>
+        <nomcontractant>Biron. (9170-7570 Qc inc.)</nomcontractant>
+        <neqcontractant>1163792774</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-07-15</datedepense>
+        <datepublicationdepense>2019-07-22</datepublicationdepense>
+        <montantdepense>1889.050000</montantdepense>
+        <description>Modification de contrat_ODC 2</description>
+        <nomcontractant>Biron. (9170-7570 Qc inc.)</nomcontractant>
+        <neqcontractant>1163792774</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1202930</numeroseao>
+    <numero>44511327</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-07-12</datedepense>
+        <datepublicationdepense>2019-07-18</datepublicationdepense>
+        <montantdepense>23773.290000</montantdepense>
+        <description>Modification significative client</description>
+        <nomcontractant>9292-6369 Québec inc.</nomcontractant>
+        <neqcontractant>1169668812</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1207820</numeroseao>
+    <numero>34669800</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-06-17</datedepense>
+        <datepublicationdepense>2019-07-26</datepublicationdepense>
+        <montantdepense>88640.970000</montantdepense>
+        <description>Condition de chantier</description>
+        <nomcontractant>Demix  Construction, une division de CRH Canada inc.</nomcontractant>
+        <neqcontractant>1171462923</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1208215</numeroseao>
+    <numero>SA-181019-RY</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-12-18</datedepense>
+        <datepublicationdepense>2019-03-20</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>SELON L'APPEL D'OFFRE DE 2014 REFERENCE 751808 (ARCHIVÉ) TOTAL DE 220000$</description>
+        <nomcontractant>CGA Architectes inc</nomcontractant>
+        <neqcontractant>1168745256</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1247151</numeroseao>
+    <numero>44512312</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-05-10</datedepense>
+        <datepublicationdepense>2019-06-06</datepublicationdepense>
+        <montantdepense>18956.820000</montantdepense>
+        <description>Modification client</description>
+        <nomcontractant>Construction Bruno Blanchette</nomcontractant>
+        <neqcontractant>1146681011</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-05</datedepense>
+        <datepublicationdepense>2019-07-10</datepublicationdepense>
+        <montantdepense>724.580000</montantdepense>
+        <description>Changement programme client, imprévu chantier et imprévu design</description>
+        <nomcontractant>Construction Bruno Blanchette</nomcontractant>
+        <neqcontractant>1146681011</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1254528</numeroseao>
+    <numero>175834</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-07-16</datedepense>
+        <datepublicationdepense>2019-07-23</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Services aditionnels durant la construction (honoraires forfaitaires )</description>
+        <nomcontractant>WSP Quebec</nomcontractant>
+        <neqcontractant>1148357057</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1257219</numeroseao>
+    <numero>APP72323 - 25-2029D - 1</numero>
+    <depenses>
+      <depense>
+        <datedepense>2014-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>46800.000000</montantdepense>
+        <description>Prolongation 2014-2015</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>46800.000000</montantdepense>
+        <description>Prolongation 2015-2016</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>46800.000000</montantdepense>
+        <description>Prolongation 2016-2017</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>46800.000000</montantdepense>
+        <description>Prolongation 2017-2018 (15-278D) - APP50501</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>54000.000000</montantdepense>
+        <description>Prolongation 2018-2019 (15-278D) - APP50498</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-27</datedepense>
+        <datepublicationdepense>2019-07-04</datepublicationdepense>
+        <montantdepense>54000.000000</montantdepense>
+        <description>Prolongation 2019-2020 (15-295D) - APP50578 - Rapport A-33-1362</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1257246</numeroseao>
+    <numero>APP72323 - 25-2029D - 2</numero>
+    <depenses>
+      <depense>
+        <datedepense>2014-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>46800.000000</montantdepense>
+        <description>Prolongation 2014-2015</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>46800.000000</montantdepense>
+        <description>Prolongation 2015-2016</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>46800.000000</montantdepense>
+        <description>Prolongation 2016-2017</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>46800.000000</montantdepense>
+        <description>Prolongation 2017-2018 (15-278D) - APP50501</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>54000.000000</montantdepense>
+        <description>Prolongation 2018-2019 (15-278D) - APP50498</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-27</datedepense>
+        <datepublicationdepense>2019-07-04</datepublicationdepense>
+        <montantdepense>54000.000000</montantdepense>
+        <description>Prolongation 2019-2020 (15-295D) - APP50578 - Rapport A-33-1362</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1257251</numeroseao>
+    <numero>APP72323 - 25-2029D - 3</numero>
+    <depenses>
+      <depense>
+        <datedepense>2014-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>32424.240000</montantdepense>
+        <description>Prolongation 2014-2015</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>32424.240000</montantdepense>
+        <description>Prolongation 2015-2016</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>32424.240000</montantdepense>
+        <description>Prolongation 2016-2017</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>32424.240000</montantdepense>
+        <description>Prolongation 2017-2018 (15-278D) - APP50501</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>54000.000000</montantdepense>
+        <description>Prolongation 2018-2019 (15-278D) - APP50498</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-27</datedepense>
+        <datepublicationdepense>2019-07-04</datepublicationdepense>
+        <montantdepense>54000.000000</montantdepense>
+        <description>Prolongation 2019-2020 (15-295D) - APP50578 - Rapport A-33-1362</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1257257</numeroseao>
+    <numero>APP72323 - 25-2029D - 4</numero>
+    <depenses>
+      <depense>
+        <datedepense>2014-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>90000.000000</montantdepense>
+        <description>Prolongation 2014-2015</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>90000.000000</montantdepense>
+        <description>Prolongation 2015-2016</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>90000.000000</montantdepense>
+        <description>Prolongation 2016-2017</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>90000.000000</montantdepense>
+        <description>Prolongation 2017-2018 (15-278D) - APP50501</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>108000.000000</montantdepense>
+        <description>Prolongation 2018-2019 (15-278D) - APP50498</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-27</datedepense>
+        <datepublicationdepense>2019-07-04</datepublicationdepense>
+        <montantdepense>108000.000000</montantdepense>
+        <description>Prolongation 2019-2020 (15-295D) - APP50578 - Rapport A-33-1362</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1257262</numeroseao>
+    <numero>APP72323 - 25-2029D - 5</numero>
+    <depenses>
+      <depense>
+        <datedepense>2014-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>46800.000000</montantdepense>
+        <description>Prolongation 2014-2015</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>46800.000000</montantdepense>
+        <description>Prolongation 2015-2016</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>46800.000000</montantdepense>
+        <description>Prolongation 2016-2017</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>46800.000000</montantdepense>
+        <description>Prolongation 2017-2018 (15-278D) - APP50501</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>54000.000000</montantdepense>
+        <description>Prolongation 2018-2019 (15-278D) - APP50498</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-27</datedepense>
+        <datepublicationdepense>2019-07-04</datepublicationdepense>
+        <montantdepense>54000.000000</montantdepense>
+        <description>Prolongation 2019-2020 (15-295D) - APP50578 - Rapport A-33-1362</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1257266</numeroseao>
+    <numero>APP72323 - 25-2029D - 6</numero>
+    <depenses>
+      <depense>
+        <datedepense>2014-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>28896.000000</montantdepense>
+        <description>Prolongation 2014-2015</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>28896.000000</montantdepense>
+        <description>Prolongation 2015-2016</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>28896.000000</montantdepense>
+        <description>Prolongation 2016-2017</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>28896.000000</montantdepense>
+        <description>Prolongation 2017-2018 (15-278D) - APP50501</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>36000.000000</montantdepense>
+        <description>Prolongation 2018-2019 (15-278D) - APP50498</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-01</datedepense>
+        <datepublicationdepense>2019-04-11</datepublicationdepense>
+        <montantdepense>211000.000000</montantdepense>
+        <description>Démantèlement et ajout de deux classes modulaires - A-33-1285 - SRM026422</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-27</datedepense>
+        <datepublicationdepense>2019-07-04</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Prolongation 2019-2020 annulée - unités modulaires démantelées</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1257284</numeroseao>
+    <numero>APP72323 - 25-2029D - 7</numero>
+    <depenses>
+      <depense>
+        <datedepense>2014-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>46800.000000</montantdepense>
+        <description>Prolongation 2014-2015</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>46800.000000</montantdepense>
+        <description>Prolongation 2015-2016</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>46800.000000</montantdepense>
+        <description>Prolongation 2016-2017</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>46800.000000</montantdepense>
+        <description>Prolongation 2017-2018 (15-278D) - APP50501</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>54000.000000</montantdepense>
+        <description>Prolongation 2018-2019 (15-278D) - APP50498</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-27</datedepense>
+        <datepublicationdepense>2019-07-04</datepublicationdepense>
+        <montantdepense>54000.000000</montantdepense>
+        <description>Prolongation 2019-2020 (15-295D) - APP50578 - Rapport A-33-1362</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1257293</numeroseao>
+    <numero>APP72323 - 25-2029D - 8</numero>
+    <depenses>
+      <depense>
+        <datedepense>2014-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>69600.000000</montantdepense>
+        <description>Prolongation 2014-2015</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>69600.000000</montantdepense>
+        <description>Prolongation 2015-2016</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>69600.000000</montantdepense>
+        <description>Prolongation 2016-2017</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>69600.000000</montantdepense>
+        <description>Prolongation 2017-2018 (15-278D) - APP50501</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>72000.000000</montantdepense>
+        <description>Prolongation 2018-2019 (15-278D) - APP50498</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-27</datedepense>
+        <datepublicationdepense>2019-07-04</datepublicationdepense>
+        <montantdepense>72000.000000</montantdepense>
+        <description>Prolongation 2019-2020 (15-295D) - APP50578 - Rapport A-33-1362</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1257297</numeroseao>
+    <numero>APP72323 - 25-2029D - 9</numero>
+    <depenses>
+      <depense>
+        <datedepense>2014-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>31200.000000</montantdepense>
+        <description>Prolongation 2014-2015</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>31200.000000</montantdepense>
+        <description>Prolongation 2015-2016</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>31200.000000</montantdepense>
+        <description>Prolongation 2016-2017</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>31200.000000</montantdepense>
+        <description>Prolongation 2017-2018 (15-278D) - APP50501</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-01</datedepense>
+        <datepublicationdepense>2019-04-09</datepublicationdepense>
+        <montantdepense>36000.000000</montantdepense>
+        <description>Prolongation 2018-2019 (15-278D) - APP50498</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-27</datedepense>
+        <datepublicationdepense>2019-07-04</datepublicationdepense>
+        <montantdepense>36000.000000</montantdepense>
+        <description>Prolongation 2019-2020 (15-295D) - APP50578 - Rapport A-33-1362</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1257529</numeroseao>
+    <numero>APP72323 - 25-2029D - 10</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-07-01</datedepense>
+        <datepublicationdepense>2019-04-10</datepublicationdepense>
+        <montantdepense>18000.000000</montantdepense>
+        <description>Prolongation 2016-2017</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-01</datedepense>
+        <datepublicationdepense>2019-04-10</datepublicationdepense>
+        <montantdepense>18000.000000</montantdepense>
+        <description>Prolongation 2017-2018 (15-278D) - APP50501</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-01</datedepense>
+        <datepublicationdepense>2019-04-10</datepublicationdepense>
+        <montantdepense>18000.000000</montantdepense>
+        <description>Prolongation 2018-2019 (15-278D) - APP50498</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-27</datedepense>
+        <datepublicationdepense>2019-07-04</datepublicationdepense>
+        <montantdepense>18000.000000</montantdepense>
+        <description>Prolongation 2019-2020 (15-295D) - APP50578 - Rapport A-33-1362</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1257532</numeroseao>
+    <numero>APP72323 - 25-2029D - 11</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-07-01</datedepense>
+        <datepublicationdepense>2019-04-10</datepublicationdepense>
+        <montantdepense>36000.000000</montantdepense>
+        <description>Prolongation 2016-2017</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-01</datedepense>
+        <datepublicationdepense>2019-04-10</datepublicationdepense>
+        <montantdepense>36000.000000</montantdepense>
+        <description>Prolongation 2017-2018 (15-278D) - APP50501</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-01</datedepense>
+        <datepublicationdepense>2019-04-10</datepublicationdepense>
+        <montantdepense>36000.000000</montantdepense>
+        <description>Prolongation 2018-2019 (15-278D) - APP50498</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-27</datedepense>
+        <datepublicationdepense>2019-07-04</datepublicationdepense>
+        <montantdepense>36000.000000</montantdepense>
+        <description>Prolongation 2019-2020 (15-295D) - APP50578 - Rapport A-33-1362</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1257535</numeroseao>
+    <numero>APP72323 - 25-2029D - 12</numero>
+    <depenses>
+      <depense>
+        <datedepense>2014-07-01</datedepense>
+        <datepublicationdepense>2019-04-10</datepublicationdepense>
+        <montantdepense>48600.000000</montantdepense>
+        <description>Prolongation 2014-2015</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-07-01</datedepense>
+        <datepublicationdepense>2019-04-10</datepublicationdepense>
+        <montantdepense>48600.000000</montantdepense>
+        <description>Prolongation 2015-2016</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-01</datedepense>
+        <datepublicationdepense>2019-04-10</datepublicationdepense>
+        <montantdepense>48600.000000</montantdepense>
+        <description>Prolongation 2016-2017</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-01</datedepense>
+        <datepublicationdepense>2019-04-10</datepublicationdepense>
+        <montantdepense>48600.000000</montantdepense>
+        <description>Prolongation 2017-2018 (15-278D) - APP50501</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-01</datedepense>
+        <datepublicationdepense>2019-04-10</datepublicationdepense>
+        <montantdepense>54000.000000</montantdepense>
+        <description>Prolongation 2018-2019 (15-278D) - APP50498</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-27</datedepense>
+        <datepublicationdepense>2019-07-04</datepublicationdepense>
+        <montantdepense>54000.000000</montantdepense>
+        <description>Prolongation 2019-2020 (15-295D) - APP50578 - Rapport A-33-1362</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1257537</numeroseao>
+    <numero>APP72323 - 25-2029D - 13</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-07-01</datedepense>
+        <datepublicationdepense>2019-04-10</datepublicationdepense>
+        <montantdepense>26400.000000</montantdepense>
+        <description>Prolongation 2015-2016</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-01</datedepense>
+        <datepublicationdepense>2019-04-10</datepublicationdepense>
+        <montantdepense>26400.000000</montantdepense>
+        <description>Prolongation 2016-2017</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-01</datedepense>
+        <datepublicationdepense>2019-04-10</datepublicationdepense>
+        <montantdepense>26400.000000</montantdepense>
+        <description>Prolongation 2017-2018 (15-278D) - APP50501</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-01</datedepense>
+        <datepublicationdepense>2019-04-10</datepublicationdepense>
+        <montantdepense>27000.000000</montantdepense>
+        <description>Prolongation 2018-2019 (15-278D) - APP50498</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-27</datedepense>
+        <datepublicationdepense>2019-07-04</datepublicationdepense>
+        <montantdepense>27000.000000</montantdepense>
+        <description>Prolongation 2019-2020 (15-295D) - APP50578 - Rapport A-33-1362</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1259173</numeroseao>
+    <numero>202060</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-07-11</datedepense>
+        <datepublicationdepense>2019-07-26</datepublicationdepense>
+        <montantdepense>115500.000000</montantdepense>
+        <description>La présente modification est due au fait que le contrat a été octroyé avec une facturation à taux horaire soit temps et matériel compte tenu qu'une évaluation pour un coût forfaitaire des travaux était pratiquement impossible à réaliser ne sachant pas jusqu'où allait la moisissure</description>
+        <nomcontractant>Boytech Démo. inc.</nomcontractant>
+        <neqcontractant>1160695293</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1259670</numeroseao>
+    <numero>APP72323 - 25-2029D - 14</numero>
+    <depenses>
+      <depense>
+        <datedepense>2014-07-01</datedepense>
+        <datepublicationdepense>2019-04-16</datepublicationdepense>
+        <montantdepense>33600.000000</montantdepense>
+        <description>Prolongation 2014-2015</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2015-07-01</datedepense>
+        <datepublicationdepense>2019-04-16</datepublicationdepense>
+        <montantdepense>33600.000000</montantdepense>
+        <description>Prolongation 2015-2016</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-07-01</datedepense>
+        <datepublicationdepense>2019-04-16</datepublicationdepense>
+        <montantdepense>33600.000000</montantdepense>
+        <description>Prolongation 2016-2017</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-07-01</datedepense>
+        <datepublicationdepense>2019-04-16</datepublicationdepense>
+        <montantdepense>33600.000000</montantdepense>
+        <description>Prolongation 2017-2018 (15-278D) - APP50501</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-01</datedepense>
+        <datepublicationdepense>2019-04-16</datepublicationdepense>
+        <montantdepense>36000.000000</montantdepense>
+        <description>Prolongation 2018-2019 (15-278D) - APP50498</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-27</datedepense>
+        <datepublicationdepense>2019-07-04</datepublicationdepense>
+        <montantdepense>36000.000000</montantdepense>
+        <description>Prolongation 2019-2020 (15-295D) - APP50578 - Rapport A-33-1362</description>
+        <nomcontractant>AMB Modulaire</nomcontractant>
+        <neqcontractant>1171905582</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1261910</numeroseao>
+    <numero>44512185</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-05-24</datedepense>
+        <datepublicationdepense>2019-06-11</datepublicationdepense>
+        <montantdepense>1878.010000</montantdepense>
+        <description>Modification mineure</description>
+        <nomcontractant>9305-4526 Québec inc. Construction JPD  et Fils</nomcontractant>
+        <neqcontractant>1170176326</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-02</datedepense>
+        <datepublicationdepense>2019-06-11</datepublicationdepense>
+        <montantdepense>1701.430000</montantdepense>
+        <description>Modification mineure</description>
+        <nomcontractant>9305-4526 Québec inc. Construction JPD  et Fils</nomcontractant>
+        <neqcontractant>1170176326</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-01</datedepense>
+        <datepublicationdepense>2019-06-11</datepublicationdepense>
+        <montantdepense>336.380000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>9305-4526 Québec inc. Construction JPD  et Fils</nomcontractant>
+        <neqcontractant>1170176326</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-30</datedepense>
+        <datepublicationdepense>2019-06-11</datepublicationdepense>
+        <montantdepense>4120.700000</montantdepense>
+        <description>Modification significative client</description>
+        <nomcontractant>9305-4526 Québec inc. Construction JPD  et Fils</nomcontractant>
+        <neqcontractant>1170176326</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1270667</numeroseao>
+    <numero>CG-181206-PDS</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-06-06</datedepense>
+        <datepublicationdepense>2019-07-22</datepublicationdepense>
+        <montantdepense>16300.000000</montantdepense>
+        <description>Rehaussement pour location de chariots</description>
+        <nomcontractant>Medique</nomcontractant>
+        <neqcontractant>1142680611</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1274971</numeroseao>
+    <numero>44513510</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-07-17</datedepense>
+        <datepublicationdepense>2019-07-18</datepublicationdepense>
+        <montantdepense>11274.430000</montantdepense>
+        <description>Conditions imprévisible de changier</description>
+        <nomcontractant>Humaco Construction inc.</nomcontractant>
+        <neqcontractant>1161872792</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-07-16</datedepense>
+        <datepublicationdepense>2019-07-18</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Autres: erreur ou omission</description>
+        <nomcontractant>Humaco Construction inc.</nomcontractant>
+        <neqcontractant>1161872792</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1274976</numeroseao>
+    <numero>44514114</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-06-27</datedepense>
+        <datepublicationdepense>2019-07-04</datepublicationdepense>
+        <montantdepense>8123.000000</montantdepense>
+        <description>travaux supplémentaires</description>
+        <nomcontractant>Construction Irénée Paquet &amp; Fils Inc.</nomcontractant>
+        <neqcontractant>1144059194</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1277476</numeroseao>
+    <numero>24326</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-07-15</datedepense>
+        <datepublicationdepense>2019-07-15</datepublicationdepense>
+        <montantdepense>298900.000000</montantdepense>
+        <description>Contrat initial en art. 14 de 100099$, dépense supplémentaire de 298900$ pour augmentation de 295%, totale de la dépense monte à 40000$ - Repoussement de négociation par Sigma Santé, prise en charge d'un gré à gré plus long que prévu. </description>
+        <nomcontractant>Medique</nomcontractant>
+        <neqcontractant>1142680611</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1285304</numeroseao>
+    <numero>7000678</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-02-19</datedepense>
+        <datepublicationdepense>2019-07-03</datepublicationdepense>
+        <montantdepense>4348.770000</montantdepense>
+        <description>Ajout dépense supplémentaires</description>
+        <nomcontractant>Novexco Inc.</nomcontractant>
+        <neqcontractant>1146540985</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-07-03</datedepense>
+        <datepublicationdepense>2019-07-03</datepublicationdepense>
+        <montantdepense>13046.320000</montantdepense>
+        <description>Dépenses supplémentaires</description>
+        <nomcontractant>Novexco Inc.</nomcontractant>
+        <neqcontractant>1146540985</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1287142</numeroseao>
+    <numero>23278900</numero>
+    <depenses>
+      <depense>
+        <datedepense>2014-01-22</datedepense>
+        <datepublicationdepense>2019-07-10</datepublicationdepense>
+        <montantdepense>24300.000000</montantdepense>
+        <description>Changement de programme</description>
+        <nomcontractant>FCSD architecture + design s.e.n.c.</nomcontractant>
+        <neqcontractant>3341015603</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-03-03</datedepense>
+        <datepublicationdepense>2019-07-10</datepublicationdepense>
+        <montantdepense>45391.700000</montantdepense>
+        <description>Autres</description>
+        <nomcontractant>FCSD architecture + design s.e.n.c.</nomcontractant>
+        <neqcontractant>3341015603</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+</export>

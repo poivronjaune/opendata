@@ -1,0 +1,1289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2019-11-01" datefin="2019-11-30">
+  <avis>
+    <numeroseao>264265</numeroseao>
+    <numero>6374/108</numero>
+    <depenses>
+      <depense>
+        <datedepense>2010-08-26</datedepense>
+        <datepublicationdepense>2019-11-08</datepublicationdepense>
+        <montantdepense>1230.960000</montantdepense>
+        <description>2 avenants</description>
+        <nomcontractant>Cie construction Relève inc.</nomcontractant>
+        <neqcontractant>1142998021</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>344419</numeroseao>
+    <numero>6540_142</numero>
+    <depenses>
+      <depense>
+        <datedepense>2010-02-03</datedepense>
+        <datepublicationdepense>2019-11-11</datepublicationdepense>
+        <montantdepense>2653.680000</montantdepense>
+        <description>2 avenants</description>
+        <nomcontractant>Constructions Michel Labbé</nomcontractant>
+        <neqcontractant>1140208720</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>378530</numeroseao>
+    <numero>5741_146</numero>
+    <depenses>
+      <depense>
+        <datedepense>2012-12-10</datedepense>
+        <datepublicationdepense>2019-11-11</datepublicationdepense>
+        <montantdepense>32336.120000</montantdepense>
+        <description>5 avenants</description>
+        <nomcontractant>Baja Construction Inc</nomcontractant>
+        <neqcontractant>1144001741</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>525755</numeroseao>
+    <numero>6902/181</numero>
+    <depenses>
+      <depense>
+        <datedepense>2011-10-24</datedepense>
+        <datepublicationdepense>2019-11-20</datepublicationdepense>
+        <montantdepense>4535.600000</montantdepense>
+        <description>2 avenants</description>
+        <nomcontractant>Axe Construction</nomcontractant>
+        <neqcontractant>1164410525</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>531704</numeroseao>
+    <numero>24-289P</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-04-07</datedepense>
+        <datepublicationdepense>2016-05-20</datepublicationdepense>
+        <montantdepense>39876.000000</montantdepense>
+        <description>SRM016171 (SDK et associés)</description>
+        <nomcontractant>Le Groupe des Sept, atelier d'architecture inc.</nomcontractant>
+        <neqcontractant>1143500214</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-04-07</datedepense>
+        <datepublicationdepense>2016-06-01</datepublicationdepense>
+        <montantdepense>46284.230000</montantdepense>
+        <description>SRM016223 (BOUTHILLETTE PARIZEAU INC.)</description>
+        <nomcontractant>Le Groupe des Sept, atelier d'architecture inc.</nomcontractant>
+        <neqcontractant>1143500214</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-04-07</datedepense>
+        <datepublicationdepense>2016-06-01</datepublicationdepense>
+        <montantdepense>29450.660000</montantdepense>
+        <description>SRM016295</description>
+        <nomcontractant>Le Groupe des Sept, atelier d'architecture inc.</nomcontractant>
+        <neqcontractant>1143500214</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2016-04-07</datedepense>
+        <datepublicationdepense>2016-06-08</datepublicationdepense>
+        <montantdepense>148372.280000</montantdepense>
+        <description>SRM16585A</description>
+        <nomcontractant>Le Groupe des Sept, atelier d'architecture inc.</nomcontractant>
+        <neqcontractant>1143500214</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-04</datedepense>
+        <datepublicationdepense>2019-06-13</datepublicationdepense>
+        <montantdepense>520928.350000</montantdepense>
+        <description>SRM027394 - 091 019 590 - Rapport A-33-901</description>
+        <nomcontractant>Le Groupe des Sept, atelier d'architecture inc.</nomcontractant>
+        <neqcontractant>1143500214</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-10-22</datedepense>
+        <datepublicationdepense>2019-11-05</datepublicationdepense>
+        <montantdepense>599715.230000</montantdepense>
+        <description>SRM028474 (091 019 590) Rapport  A-33-1352 </description>
+        <nomcontractant>Le Groupe des Sept, atelier d'architecture inc.</nomcontractant>
+        <neqcontractant>1143500214</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-11-04</datedepense>
+        <datepublicationdepense>2019-11-12</datepublicationdepense>
+        <montantdepense>19015.810000</montantdepense>
+        <description>SRM026745 - 250 017 030</description>
+        <nomcontractant>Le Groupe des Sept, atelier d'architecture inc.</nomcontractant>
+        <neqcontractant>1143500214</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>545043</numeroseao>
+    <numero>6846-102</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-10-25</datedepense>
+        <datepublicationdepense>2019-11-20</datepublicationdepense>
+        <montantdepense>2463.230000</montantdepense>
+        <description>1 avenant</description>
+        <nomcontractant>Entreprises Chatel Inc.</nomcontractant>
+        <neqcontractant>1142046896</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2013-10-25</datedepense>
+        <datepublicationdepense>2019-11-20</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>1 avenant</description>
+        <nomcontractant>Entreprises Chatel Inc.</nomcontractant>
+        <neqcontractant>1142046896</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>549853</numeroseao>
+    <numero>6287-107</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-10</datedepense>
+        <datepublicationdepense>2019-11-28</datepublicationdepense>
+        <montantdepense>1113.700000</montantdepense>
+        <description>1 avenant</description>
+        <nomcontractant>Les Toitures Vick et associés inc.</nomcontractant>
+        <neqcontractant>1161924361</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>549855</numeroseao>
+    <numero>6376-7121-106</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-12-09</datedepense>
+        <datepublicationdepense>2019-11-25</datepublicationdepense>
+        <montantdepense>3227.570000</montantdepense>
+        <description>2 avenants</description>
+        <nomcontractant>Senterre Entrepreneur Général inc</nomcontractant>
+        <neqcontractant>1163476766</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>555716</numeroseao>
+    <numero>7122-108</numero>
+    <depenses>
+      <depense>
+        <datedepense>2014-01-30</datedepense>
+        <datepublicationdepense>2019-11-25</datepublicationdepense>
+        <montantdepense>19210.580000</montantdepense>
+        <description>10 avenants</description>
+        <nomcontractant>Construction Michel Dubé inc (CMD)</nomcontractant>
+        <neqcontractant>1164382823</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>555752</numeroseao>
+    <numero>7034-7033-7037 et 7031</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-03-26</datedepense>
+        <datepublicationdepense>2019-11-25</datepublicationdepense>
+        <montantdepense>1144.250000</montantdepense>
+        <description>3 avenants</description>
+        <nomcontractant>Plomberie Noël Fredette</nomcontractant>
+        <neqcontractant>1143553726</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>563200</numeroseao>
+    <numero>2011-320</numero>
+    <depenses>
+      <depense>
+        <datedepense>2013-10-23</datedepense>
+        <datepublicationdepense>2019-11-25</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>0</description>
+        <nomcontractant>Grand and Toy</nomcontractant>
+        <neqcontractant>1145735826</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>575323</numeroseao>
+    <numero>7220-7196-7190-7191</numero>
+    <depenses>
+      <depense>
+        <datedepense>2012-11-28</datedepense>
+        <datepublicationdepense>2019-11-25</datepublicationdepense>
+        <montantdepense>6378.120000</montantdepense>
+        <description>4 avenants</description>
+        <nomcontractant>Construction Paul H. Paré (1991) inc</nomcontractant>
+        <neqcontractant>1142870766</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>725453</numeroseao>
+    <numero>AME-7480-143-FL</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-03-10</datedepense>
+        <datepublicationdepense>2019-11-27</datepublicationdepense>
+        <montantdepense>6995.130000</montantdepense>
+        <description>8 avenants</description>
+        <nomcontractant>MARIEVILLE CONSTRUCTION INC (MCI)</nomcontractant>
+        <neqcontractant>1141721614</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>731849</numeroseao>
+    <numero>AME-7371-284-FL</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-06-10</datedepense>
+        <datepublicationdepense>2019-11-27</datepublicationdepense>
+        <montantdepense>10403.730000</montantdepense>
+        <description>4 avenants</description>
+        <nomcontractant>Construction Stam Inc.</nomcontractant>
+        <neqcontractant>1142006049</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>812903</numeroseao>
+    <numero>27334300</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-11-19</datedepense>
+        <datepublicationdepense>2019-11-19</datepublicationdepense>
+        <montantdepense>32315.400000</montantdepense>
+        <description>Prolongation du contrat au 30 avril 2020</description>
+        <nomcontractant>chaîne de travail adapté CTA Inc.</nomcontractant>
+        <neqcontractant>1143148063</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-11-22</datedepense>
+        <datepublicationdepense>2019-11-22</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Dépense déjà publiée le 19 novembre 2019</description>
+        <nomcontractant>chaîne de travail adapté CTA Inc.</nomcontractant>
+        <neqcontractant>1143148063</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>863818</numeroseao>
+    <numero>AME-7750-173-FL</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-05-18</datedepense>
+        <datepublicationdepense>2019-11-29</datepublicationdepense>
+        <montantdepense>51736.870000</montantdepense>
+        <description>7 avenants</description>
+        <nomcontractant>Construction Michel Dufresne &amp; Fils (9116-0093 Québec inc.)</nomcontractant>
+        <neqcontractant>1160768595</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>884018</numeroseao>
+    <numero>AME-7469-107-2</numero>
+    <depenses>
+      <depense>
+        <datedepense>2015-11-18</datedepense>
+        <datepublicationdepense>2019-11-29</datepublicationdepense>
+        <montantdepense>4680.360000</montantdepense>
+        <description>4 avenants</description>
+        <nomcontractant>Construction CPB Inc..</nomcontractant>
+        <neqcontractant>1163035877</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>917743</numeroseao>
+    <numero>153600003</numero>
+    <depenses>
+      <depense>
+        <datedepense>2016-02-11</datedepense>
+        <datepublicationdepense>2018-02-01</datepublicationdepense>
+        <montantdepense>33001.500000</montantdepense>
+        <description>OC1 - Ajout au mandat - Sous-traitance pour tests de conductivité.</description>
+        <nomcontractant>Beaudoin Hurens Inc.</nomcontractant>
+        <neqcontractant>1148115281</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-09-22</datedepense>
+        <datepublicationdepense>2018-02-01</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>OC2 - Ajustement des honoraires pour les plans et devis selon l'estimé final des travaux.</description>
+        <nomcontractant>Beaudoin Hurens Inc.</nomcontractant>
+        <neqcontractant>1148115281</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-09-25</datedepense>
+        <datepublicationdepense>2018-02-01</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>OC3 - Ajustement des honoraires professionnels selon le coût réel des travaux et suivi des ordres de changement.</description>
+        <nomcontractant>Beaudoin Hurens Inc.</nomcontractant>
+        <neqcontractant>1148115281</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1025098</numeroseao>
+    <numero>BC730703096</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-03-17</datedepense>
+        <datepublicationdepense>2019-11-12</datepublicationdepense>
+        <montantdepense>3337.400000</montantdepense>
+        <description>Avenant no. 1</description>
+        <nomcontractant>Mallette S.E.N.C.R.L.</nomcontractant>
+        <neqcontractant>3341633439</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1038633</numeroseao>
+    <numero>31386900</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-11-14</datedepense>
+        <datepublicationdepense>2019-11-25</datepublicationdepense>
+        <montantdepense>6213.870000</montantdepense>
+        <description>Imprévu de chantier</description>
+        <nomcontractant>Protection Incendie Viking Inc.</nomcontractant>
+        <neqcontractant>1144707958</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1040561</numeroseao>
+    <numero>13339</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-11-16</datedepense>
+        <datepublicationdepense>2017-11-16</datepublicationdepense>
+        <montantdepense>101000.000000</montantdepense>
+        <description>dépenses supplémentaires liées à la prolongation de 1 an</description>
+        <nomcontractant>Réseau d'informations scientifiques du Québec</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2019-11-18</datedepense>
+        <datepublicationdepense>2019-11-18</datepublicationdepense>
+        <montantdepense>21722.000000</montantdepense>
+        <description>La prolongation du contrat a été la raison de cette dépense supplémentaire</description>
+        <nomcontractant>Réseau d'informations scientifiques du Québec</nomcontractant>
+        <neqcontractant />
+      </depense>
+      <depense>
+        <datedepense>2019-11-18</datedepense>
+        <datepublicationdepense>2019-11-19</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>La prolongation du contrat a été la raison de cette dépense supplémentaire</description>
+        <nomcontractant>Réseau d'informations scientifiques du Québec</nomcontractant>
+        <neqcontractant />
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1054793</numeroseao>
+    <numero>2016/17-195</numero>
+    <depenses>
+      <depense>
+        <datedepense>2017-11-08</datedepense>
+        <datepublicationdepense>2018-07-13</datepublicationdepense>
+        <montantdepense>186611.850000</montantdepense>
+        <description>Modifications multiples suite à l'aménagement nouvelle école primaire Pont-Viau </description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-11-08</datedepense>
+        <datepublicationdepense>2018-07-13</datepublicationdepense>
+        <montantdepense>2048.250000</montantdepense>
+        <description>AM#20 DM-A L'Entrepreneur devra sceller toutes HSS ouvertes de deux nouvelles plateformes au toit et galvanisation structure DEDS unités mécaniques au toit</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-11-08</datedepense>
+        <datepublicationdepense>2018-07-13</datepublicationdepense>
+        <montantdepense>13795.710000</montantdepense>
+        <description>AN#27 DM-A-02 -R01: Désamiantage toilette 203 et autres travaux au gymnase- Décapage peinture murale du gymnase et plafonds de 3 locaux </description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-08</datedepense>
+        <datepublicationdepense>2018-07-13</datepublicationdepense>
+        <montantdepense>4654.070000</montantdepense>
+        <description>Am#22 Démentèlement conduit ventilation pour permettre décontamination plafond derrière chaufferie-Retirer brides brisées et installer de nouvelles - Divers travaux classes corridors</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-21</datedepense>
+        <datepublicationdepense>2018-11-01</datepublicationdepense>
+        <montantdepense>25797.920000</montantdepense>
+        <description>AM#31R1 - Démolition Terrazzo 375,13$-Ragréage dépôts15052,51$-Modification cadre porte 361,15$-Nouveau soufflage bureau#124 2877,04$-Démolition béton toiture 2287,78$-Rempl. tuiles plafonds 3795,22$-Démolition dalle panneauR3 1049,09$</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-21</datedepense>
+        <datepublicationdepense>2019-03-18</datepublicationdepense>
+        <montantdepense>4600.520000</montantdepense>
+        <description>AM#32 DM-A-08 Nouveau garde-corps/main courrante escalier #2 2146,02$-DM-A-15: Fournir panneau porte 102 1 732,50$- DM-A-18: Fournir/installer nouv revêtem planche tuile porcelaine toilette 113-3 722$</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-21</datedepense>
+        <datepublicationdepense>2019-03-18</datepublicationdepense>
+        <montantdepense>24666.430000</montantdepense>
+        <description>Am#33 Raccordement fontaine 2187,15$-Démolir plafond escalier #3 15245,32$-Reconstruire plafonds puits escaliers3et4 7467,51$-Raccordement évierRDC 7 467,51$- Crédit planch. Terrazo (722,55$)-Enlever CVC et colle local219 539$</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-11-21</datedepense>
+        <datepublicationdepense>2019-03-18</datepublicationdepense>
+        <montantdepense>15516.110000</montantdepense>
+        <description>AM#34 Fournir-Installer soufflage gypse pr couvrir nouveaux cond.Vent.-Installer trappes d'accès-Ragreer finis plâtre et peinturer 15616,11$-Fournir installer nouveaux plafonds et faire retombée long fenêtre extérieure local 023 avec moulure 0,00$</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2017-12-21</datedepense>
+        <datepublicationdepense>2019-03-18</datepublicationdepense>
+        <montantdepense>4090.070000</montantdepense>
+        <description>AM#37 Réclamation démolitions supplémentaires non-prévus 6220,04$-AM#35 Visite additionnelle (735,97$) Pas Annexe 2 AM#36 R-01 Crédit 3 sections grille gratte-pieds pas installés (1400$) Pas Annexe 2 </description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-11</datedepense>
+        <datepublicationdepense>2019-03-18</datepublicationdepense>
+        <montantdepense>11385.000000</montantdepense>
+        <description>Am#38 Réclamation sections supplémentaires de plinthes en terrazo non-prévus dues à des démolition non-prévues (conditions chantier) </description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-11</datedepense>
+        <datepublicationdepense>2019-03-18</datepublicationdepense>
+        <montantdepense>14994.960000</montantdepense>
+        <description>Am#39 Modif largeur escalier et-Démolition plate-forme local 033 3371,59$-Suivi dégât d'eau et modification cloisons toilette 203 1332,86$-Nouveau souffagle corridor 111 1637,02$- Modifications plafonds locaux 126-207-221 8019,05$- Ragréage céramique toilette 122A 634,44$</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-11</datedepense>
+        <datepublicationdepense>2019-03-18</datepublicationdepense>
+        <montantdepense>1220.730000</montantdepense>
+        <description>AM#40 Modifications des conduits dans les escaliers 03 - 04 </description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-11</datedepense>
+        <datepublicationdepense>2019-03-18</datepublicationdepense>
+        <montantdepense>25441.410000</montantdepense>
+        <description>AM#41 Remise état conduit électrique panneau S-3 local009 3194,75$-Modif conduits électriques étage 10329,25$-Désinstallation+réinstallation conduit extérieur porte 221 909,18$- Remplacement couvercle panneau R5 445,41$-Modifications luminaires dépôts 033/033-2 10 562,82$</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-11</datedepense>
+        <datepublicationdepense>2019-03-18</datepublicationdepense>
+        <montantdepense>9696.620000</montantdepense>
+        <description>AM#42 Modification sone de pavage et sentier des arrêts de basketball extérieurs 7 551,62$- Modificaiton hauteur des clôtures 2145$</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-06-11</datedepense>
+        <datepublicationdepense>2019-03-18</datepublicationdepense>
+        <montantdepense>834.300000</montantdepense>
+        <description>AM#43 Réparation section béton aux plafonds locaux 122 122A et 122B</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-04</datedepense>
+        <datepublicationdepense>2019-11-13</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>AM47 Avenant de modification négatif -13046,31$ Litige réglé  le montant ne pouvant être saisi en négatif. Il n'y a pas d'annexe 2.</description>
+        <nomcontractant>Le Groupe St-Lambert</nomcontractant>
+        <neqcontractant>1143585801</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1062149</numeroseao>
+    <numero>ODIM-2017-0017</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-04-25</datedepense>
+        <datepublicationdepense>2019-11-07</datepublicationdepense>
+        <montantdepense>60000.000000</montantdepense>
+        <description>Ajout d'une provision budgétaire de 60 000 $.</description>
+        <nomcontractant>WSP Canada Inc. (Pour AO sur invitation pour tout le Québec)</nomcontractant>
+        <neqcontractant>1148357057</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-10-29</datedepense>
+        <datepublicationdepense>2019-11-07</datepublicationdepense>
+        <montantdepense>60000.000000</montantdepense>
+        <description>Ajout d'une provision budgétaire de 60 000 $.</description>
+        <nomcontractant>WSP Canada Inc. (Pour AO sur invitation pour tout le Québec)</nomcontractant>
+        <neqcontractant>1148357057</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1064819</numeroseao>
+    <numero>T-3818</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-06-13</datedepense>
+        <datepublicationdepense>2018-06-01</datepublicationdepense>
+        <montantdepense>11185.440000</montantdepense>
+        <description>conditions de chantier</description>
+        <nomcontractant>C.A.C. Entrepreneur-Électricien Inc</nomcontractant>
+        <neqcontractant>1144358745</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-10-22</datedepense>
+        <datepublicationdepense>2019-11-11</datepublicationdepense>
+        <montantdepense>6453.660000</montantdepense>
+        <description>Conditions de chantier</description>
+        <nomcontractant>C.A.C. Entrepreneur-Électricien Inc</nomcontractant>
+        <neqcontractant>1144358745</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1127855</numeroseao>
+    <numero>CA-171030-RY</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-02-28</datedepense>
+        <datepublicationdepense>2019-05-28</datepublicationdepense>
+        <montantdepense>66795.960000</montantdepense>
+        <description>ODC 1 à 26 Aménagement d'une salle d'induction et réserves stériles</description>
+        <nomcontractant>Construction GCP Inc.</nomcontractant>
+        <neqcontractant>1143366657</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-11-14</datedepense>
+        <datepublicationdepense>2019-11-15</datepublicationdepense>
+        <montantdepense>4155.650000</montantdepense>
+        <description>ODC 26 et 27</description>
+        <nomcontractant>Construction GCP Inc.</nomcontractant>
+        <neqcontractant>1143366657</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1134070</numeroseao>
+    <numero>33374300</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-04-18</datedepense>
+        <datepublicationdepense>2019-04-18</datepublicationdepense>
+        <montantdepense>132021.680000</montantdepense>
+        <description>Imprévus de chantier</description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-10</datedepense>
+        <datepublicationdepense>2019-05-23</datepublicationdepense>
+        <montantdepense>4904.750000</montantdepense>
+        <description>Erreur et omission</description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-16</datedepense>
+        <datepublicationdepense>2019-05-23</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Erreur : double saisie</description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-17</datedepense>
+        <datepublicationdepense>2019-06-28</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>Erreur dans l'inscription</description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-06-17</datedepense>
+        <datepublicationdepense>2019-06-28</datepublicationdepense>
+        <montantdepense>11287.250000</montantdepense>
+        <description>Imprévus de chantier</description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-07-18</datedepense>
+        <datepublicationdepense>2019-08-30</datepublicationdepense>
+        <montantdepense>17160.000000</montantdepense>
+        <description>Imprévus de chantier et modification au programme</description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-10-25</datedepense>
+        <datepublicationdepense>2019-10-29</datepublicationdepense>
+        <montantdepense>58921.500000</montantdepense>
+        <description>Imprévus de chantier et modification au programme</description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-11-12</datedepense>
+        <datepublicationdepense>2019-11-18</datepublicationdepense>
+        <montantdepense>10131.500000</montantdepense>
+        <description>Imprévus de chantier</description>
+        <nomcontractant>Agences Robert Janvier ltée</nomcontractant>
+        <neqcontractant>1143317361</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1136242</numeroseao>
+    <numero>201700417</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-08-20</datedepense>
+        <datepublicationdepense>2019-11-15</datepublicationdepense>
+        <montantdepense>1236.900000</montantdepense>
+        <description> Ajout au contrat suite à des conditions de chantier non prévues dans les plans et devis </description>
+        <nomcontractant>Constructions Envergure inc</nomcontractant>
+        <neqcontractant>1171376842</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-10-03</datedepense>
+        <datepublicationdepense>2019-11-15</datepublicationdepense>
+        <montantdepense>11163.100000</montantdepense>
+        <description> Ajout au contrat suite à des conditions de chantier non prévues dans les plans et devis </description>
+        <nomcontractant>Constructions Envergure inc</nomcontractant>
+        <neqcontractant>1171376842</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-11-07</datedepense>
+        <datepublicationdepense>2019-11-15</datepublicationdepense>
+        <montantdepense>12718.080000</montantdepense>
+        <description> Ajout au contrat suite à des conditions de chantier non prévues dans les plans et devis </description>
+        <nomcontractant>Constructions Envergure inc</nomcontractant>
+        <neqcontractant>1171376842</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1145071</numeroseao>
+    <numero>33370100</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-07-17</datedepense>
+        <datepublicationdepense>2018-09-13</datepublicationdepense>
+        <montantdepense>237150.540000</montantdepense>
+        <description>Modification au programme</description>
+        <nomcontractant>Industrielle Alliance, Assurance et services financiers inc.</nomcontractant>
+        <neqcontractant>1168366202</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-01-16</datedepense>
+        <datepublicationdepense>2019-04-02</datepublicationdepense>
+        <montantdepense>2217550.870000</montantdepense>
+        <description>Réclamation</description>
+        <nomcontractant>Industrielle Alliance, Assurance et services financiers inc.</nomcontractant>
+        <neqcontractant>1168366202</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-09-11</datedepense>
+        <datepublicationdepense>2019-11-21</datepublicationdepense>
+        <montantdepense>180614.610000</montantdepense>
+        <description>Modification au programme</description>
+        <nomcontractant>Industrielle Alliance, Assurance et services financiers inc.</nomcontractant>
+        <neqcontractant>1168366202</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1155333</numeroseao>
+    <numero>07-11422-01</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-07-15</datedepense>
+        <datepublicationdepense>2019-11-28</datepublicationdepense>
+        <montantdepense>207141.000000</montantdepense>
+        <description>Imprévue de chantier et ajout de travaux non planifiés dans l'appel d'offres initial (plus bas que les estimés initiaux)</description>
+        <nomcontractant>Franroc (Division de Sintra inc.)</nomcontractant>
+        <neqcontractant>1145755295</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-24</datedepense>
+        <datepublicationdepense>2019-11-28</datepublicationdepense>
+        <montantdepense>83120.000000</montantdepense>
+        <description>Traitement de surface additionnel non inclus dans l'appel d'offres initial (coûts plus bas que nos estimés initiaux)</description>
+        <nomcontractant>Franroc (Division de Sintra inc.)</nomcontractant>
+        <neqcontractant>1145755295</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2018-07-24</datedepense>
+        <datepublicationdepense>2019-11-28</datepublicationdepense>
+        <montantdepense>139880.930000</montantdepense>
+        <description>Imprévue de design</description>
+        <nomcontractant>Franroc (Division de Sintra inc.)</nomcontractant>
+        <neqcontractant>1145755295</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-03-25</datedepense>
+        <datepublicationdepense>2019-11-28</datepublicationdepense>
+        <montantdepense>6295.050000</montantdepense>
+        <description>Ajustement quantités spécifiées au bordereau</description>
+        <nomcontractant>Franroc (Division de Sintra inc.)</nomcontractant>
+        <neqcontractant>1145755295</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1163218</numeroseao>
+    <numero>3626</numero>
+    <depenses>
+      <depense>
+        <datedepense>2018-01-15</datedepense>
+        <datepublicationdepense>2019-11-12</datepublicationdepense>
+        <montantdepense>295600.000000</montantdepense>
+        <description>Ajout de 2 places supplémentaire à l'entente initial</description>
+        <nomcontractant>Residence de La Grande Baie. 9343-6053 Quebec Inc</nomcontractant>
+        <neqcontractant>1171955850</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1172496</numeroseao>
+    <numero>CS4173</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-03-08</datedepense>
+        <datepublicationdepense>2019-04-05</datepublicationdepense>
+        <montantdepense>10100.000000</montantdepense>
+        <description>Modification du devis, des 3 D et accompagnement pour le choix du mobilier.</description>
+        <nomcontractant>Idea Integration design et architecture</nomcontractant>
+        <neqcontractant>1170337035</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-07-23</datedepense>
+        <datepublicationdepense>2019-08-09</datepublicationdepense>
+        <montantdepense>12800.000000</montantdepense>
+        <description>Ajout de banque d'heures pour services additionnels</description>
+        <nomcontractant>Idea Integration design et architecture</nomcontractant>
+        <neqcontractant>1170337035</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-07-22</datedepense>
+        <datepublicationdepense>2019-11-22</datepublicationdepense>
+        <montantdepense>2850.000000</montantdepense>
+        <description>Ajout de banque d'heures pour services additionnels</description>
+        <nomcontractant>Idea Integration design et architecture</nomcontractant>
+        <neqcontractant>1170337035</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1173683</numeroseao>
+    <numero>AME-8722-281-MT</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-09-09</datedepense>
+        <datepublicationdepense>2019-11-05</datepublicationdepense>
+        <montantdepense>6000.000000</montantdepense>
+        <description>1 avenant</description>
+        <nomcontractant>Prevention Incendie Safety First inc.</nomcontractant>
+        <neqcontractant>1143244664</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1185599</numeroseao>
+    <numero>25-2577P</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-05-14</datedepense>
+        <datepublicationdepense>2019-05-21</datepublicationdepense>
+        <montantdepense>243248.110000</montantdepense>
+        <description>SRM027224 - 200 225 770 - rapport A-33-1355</description>
+        <nomcontractant>Couverture Montréal-Nord Ltée</nomcontractant>
+        <neqcontractant>1168317445</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-10-25</datedepense>
+        <datepublicationdepense>2019-11-18</datepublicationdepense>
+        <montantdepense>30788.800000</montantdepense>
+        <description>SRM028710 - 200 025 770 - rapport A-33-1355 </description>
+        <nomcontractant>Couverture Montréal-Nord Ltée</nomcontractant>
+        <neqcontractant>1168317445</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1194743</numeroseao>
+    <numero>24-530T - APP11275</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-11-06</datedepense>
+        <datepublicationdepense>2019-11-05</datepublicationdepense>
+        <montantdepense>11400.000000</montantdepense>
+        <description>APP11348 (4930C7250)</description>
+        <nomcontractant>Go multimedia inc</nomcontractant>
+        <neqcontractant>1147665641</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1196681</numeroseao>
+    <numero>201800153</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-01-28</datedepense>
+        <datepublicationdepense>2019-07-24</datepublicationdepense>
+        <montantdepense>109508.040000</montantdepense>
+        <description> Ajout au contrat suite à des conditions de chantier non prévues dans les plans et devis  </description>
+        <nomcontractant>Construction Durand Inc.</nomcontractant>
+        <neqcontractant>1144384501</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-02-25</datedepense>
+        <datepublicationdepense>2019-07-24</datepublicationdepense>
+        <montantdepense>7623.530000</montantdepense>
+        <description> Ajout au contrat suite à des conditions de chantier non prévues dans les plans et devis  </description>
+        <nomcontractant>Construction Durand Inc.</nomcontractant>
+        <neqcontractant>1144384501</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-04-17</datedepense>
+        <datepublicationdepense>2019-07-24</datepublicationdepense>
+        <montantdepense>43835.470000</montantdepense>
+        <description> Ajout au contrat suite à des conditions de chantier non prévues dans les plans et devis  </description>
+        <nomcontractant>Construction Durand Inc.</nomcontractant>
+        <neqcontractant>1144384501</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-27</datedepense>
+        <datepublicationdepense>2019-07-24</datepublicationdepense>
+        <montantdepense>226796.440000</montantdepense>
+        <description> Ajout au contrat suite à des conditions de chantier non prévues dans les plans et devis  </description>
+        <nomcontractant>Construction Durand Inc.</nomcontractant>
+        <neqcontractant>1144384501</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-07-03</datedepense>
+        <datepublicationdepense>2019-07-24</datepublicationdepense>
+        <montantdepense>256545.150000</montantdepense>
+        <description> Ajout au contrat suite à des conditions de chantier non prévues dans les plans et devis  </description>
+        <nomcontractant>Construction Durand Inc.</nomcontractant>
+        <neqcontractant>1144384501</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-08-26</datedepense>
+        <datepublicationdepense>2019-09-16</datepublicationdepense>
+        <montantdepense>148224.050000</montantdepense>
+        <description>Ajout au contrat suite à des conditions de chantier non prévues dans les plans et devis</description>
+        <nomcontractant>Construction Durand Inc.</nomcontractant>
+        <neqcontractant>1144384501</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-10-24</datedepense>
+        <datepublicationdepense>2019-11-15</datepublicationdepense>
+        <montantdepense>46962.920000</montantdepense>
+        <description> Ajout au contrat suite à des conditions de chantier non prévues dans les plans et devis </description>
+        <nomcontractant>Construction Durand Inc.</nomcontractant>
+        <neqcontractant>1144384501</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1197073</numeroseao>
+    <numero>34412000</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-05-09</datedepense>
+        <datepublicationdepense>2019-05-23</datepublicationdepense>
+        <montantdepense>54904.980000</montantdepense>
+        <description>Imprévus de chantier et erreur et omission</description>
+        <nomcontractant>Métal Laurentide</nomcontractant>
+        <neqcontractant>1141768532</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1198543</numeroseao>
+    <numero>2018CNT615</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-11-06</datedepense>
+        <datepublicationdepense>2019-10-30</datepublicationdepense>
+        <montantdepense>144948.000000</montantdepense>
+        <description>ODC1 </description>
+        <nomcontractant>CIMA Québec s.e.n.c.</nomcontractant>
+        <neqcontractant>3340563140</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1221745</numeroseao>
+    <numero>AO-201812-JCR08</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-03-26</datedepense>
+        <datepublicationdepense>2019-11-07</datepublicationdepense>
+        <montantdepense>65155.680000</montantdepense>
+        <description>Modification de contrat_ODC 1 et 2</description>
+        <nomcontractant>Therrien Entrepreneur Général</nomcontractant>
+        <neqcontractant>1166269978</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-05-30</datedepense>
+        <datepublicationdepense>2019-11-07</datepublicationdepense>
+        <montantdepense>29025.670000</montantdepense>
+        <description>Modification de contrat_ODC 3</description>
+        <nomcontractant>Therrien Entrepreneur Général</nomcontractant>
+        <neqcontractant>1166269978</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-07-04</datedepense>
+        <datepublicationdepense>2019-11-07</datepublicationdepense>
+        <montantdepense>9741.800000</montantdepense>
+        <description>Modification de contrat_ODC 4</description>
+        <nomcontractant>Therrien Entrepreneur Général</nomcontractant>
+        <neqcontractant>1166269978</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1222719</numeroseao>
+    <numero>2019-1699</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-09-30</datedepense>
+        <datepublicationdepense>2019-11-01</datepublicationdepense>
+        <montantdepense>45502.000000</montantdepense>
+        <description>Prolongation de 3 mois. De plus, il est difficile d'évaluer le nombre de patients car ceux-ci sont des patients sporadiques.</description>
+        <nomcontractant>CALEA LTÉE</nomcontractant>
+        <neqcontractant>1169818292</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1227480</numeroseao>
+    <numero>2018-0487</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-11-14</datedepense>
+        <datepublicationdepense>2019-11-20</datepublicationdepense>
+        <montantdepense>25000.000000</montantdepense>
+        <description>Augmentation de l'activitié judiciaire. </description>
+        <nomcontractant>Publiscript Inc.</nomcontractant>
+        <neqcontractant>1149725641</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1232323</numeroseao>
+    <numero>CS4035</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-10-03</datedepense>
+        <datepublicationdepense>2019-11-22</datepublicationdepense>
+        <montantdepense>6700.000000</montantdepense>
+        <description>Prolongation du contrat pour l'utilisation du portail de gestion de projets</description>
+        <nomcontractant>ISIOS</nomcontractant>
+        <neqcontractant>1169783108</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1234976</numeroseao>
+    <numero>CA-181217-PB</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-06-10</datedepense>
+        <datepublicationdepense>2019-09-25</datepublicationdepense>
+        <montantdepense>53419.060000</montantdepense>
+        <description>ODC 1 à 3</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-10-18</datedepense>
+        <datepublicationdepense>2019-11-13</datepublicationdepense>
+        <montantdepense>10903.300000</montantdepense>
+        <description>ODC 4-7-8</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-11-12</datedepense>
+        <datepublicationdepense>2019-11-22</datepublicationdepense>
+        <montantdepense>32236.070000</montantdepense>
+        <description>ODC 6</description>
+        <nomcontractant>Pincor</nomcontractant>
+        <neqcontractant>1142579144</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1237832</numeroseao>
+    <numero>20190213-2</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-09-05</datedepense>
+        <datepublicationdepense>2019-11-20</datepublicationdepense>
+        <montantdepense>19548.000000</montantdepense>
+        <description>Drainage supplémentaire</description>
+        <nomcontractant>Blanchette S.A.M.N. Inc..</nomcontractant>
+        <neqcontractant>1142962480</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-10-25</datedepense>
+        <datepublicationdepense>2019-11-20</datepublicationdepense>
+        <montantdepense>15468.000000</montantdepense>
+        <description>Déplacement de la rampe d'accès pour drainage</description>
+        <nomcontractant>Blanchette S.A.M.N. Inc..</nomcontractant>
+        <neqcontractant>1142962480</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1240237</numeroseao>
+    <numero>CB20682</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-09-23</datedepense>
+        <datepublicationdepense>2019-11-27</datepublicationdepense>
+        <montantdepense>11010.000000</montantdepense>
+        <description>Ajout au contrat </description>
+        <nomcontractant>RD Design</nomcontractant>
+        <neqcontractant>1149653314</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1240624</numeroseao>
+    <numero>18380-070</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-07-17</datedepense>
+        <datepublicationdepense>2019-11-28</datepublicationdepense>
+        <montantdepense>10001.530000</montantdepense>
+        <description>ODC-01 Remplacer les composantes majeures, faire le branchement des zones existantes.</description>
+        <nomcontractant>PA Électrique</nomcontractant>
+        <neqcontractant>1165654865</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-08-14</datedepense>
+        <datepublicationdepense>2019-11-28</datepublicationdepense>
+        <montantdepense>9631.560000</montantdepense>
+        <description>ODC-02 Modification des types de haut-parleurs dû aux types de plafonds.</description>
+        <nomcontractant>PA Électrique</nomcontractant>
+        <neqcontractant>1165654865</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-09-30</datedepense>
+        <datepublicationdepense>2019-11-28</datepublicationdepense>
+        <montantdepense>1584.000000</montantdepense>
+        <description>ODC-03 Supervision des blocs d'alimentation du système d'alarme intrusion.</description>
+        <nomcontractant>PA Électrique</nomcontractant>
+        <neqcontractant>1165654865</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-09-30</datedepense>
+        <datepublicationdepense>2019-11-28</datepublicationdepense>
+        <montantdepense>0.000000</montantdepense>
+        <description>ODC-04 Nouveaux câbles informatiques reliés au cabinet du local 6.174 doivent être suffisamment longs pour se rendre au futur cabinet informatique qui sera installé au centre du local.</description>
+        <nomcontractant>PA Électrique</nomcontractant>
+        <neqcontractant>1165654865</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-09-30</datedepense>
+        <datepublicationdepense>2019-11-28</datepublicationdepense>
+        <montantdepense>1096.290000</montantdepense>
+        <description>ODC-05 Fournir et installer relais audio avec contacteur pour couper alimentation électrique. Fournir et installer garde protecteur sur contrôle audio du circuit de signalisation.</description>
+        <nomcontractant>PA Électrique</nomcontractant>
+        <neqcontractant>1165654865</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-10-07</datedepense>
+        <datepublicationdepense>2019-11-28</datepublicationdepense>
+        <montantdepense>2915.660000</montantdepense>
+        <description>ODC-06 Vérifier que les conduits de l'ancien système d'intercom n'ont pas été réutilisés pour le câblage de d'autres système avant de procéder au démantèlement. </description>
+        <nomcontractant>PA Électrique</nomcontractant>
+        <neqcontractant>1165654865</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-10-24</datedepense>
+        <datepublicationdepense>2019-11-28</datepublicationdepense>
+        <montantdepense>2788.500000</montantdepense>
+        <description>ODC-07 Avons assumer les frais de transport et le 4.5hres de la journée du 11 septembre 2019.</description>
+        <nomcontractant>PA Électrique</nomcontractant>
+        <neqcontractant>1165654865</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-10-29</datedepense>
+        <datepublicationdepense>2019-11-28</datepublicationdepense>
+        <montantdepense>3559.600000</montantdepense>
+        <description>ODC-08 Installer 36 supports muraux pour téléphones. </description>
+        <nomcontractant>PA Électrique</nomcontractant>
+        <neqcontractant>1165654865</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1245631</numeroseao>
+    <numero>44508726</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-11-01</datedepense>
+        <datepublicationdepense>2019-11-18</datepublicationdepense>
+        <montantdepense>143754.390000</montantdepense>
+        <description>Condition imprévisible de chantier et erreur ou omission</description>
+        <nomcontractant>Dalcon Inc.</nomcontractant>
+        <neqcontractant>1143533298</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-11-15</datedepense>
+        <datepublicationdepense>2019-11-22</datepublicationdepense>
+        <montantdepense>8917.310000</montantdepense>
+        <description>Erreur ou omission</description>
+        <nomcontractant>Dalcon Inc.</nomcontractant>
+        <neqcontractant>1143533298</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1245711</numeroseao>
+    <numero>SRM026240</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-10-24</datedepense>
+        <datepublicationdepense>2019-11-05</datepublicationdepense>
+        <montantdepense>143068.670000</montantdepense>
+        <description>SRM028554 (199 016 950) rapports A-33-1342 et A-33-1413</description>
+        <nomcontractant>Équipe Laurence</nomcontractant>
+        <neqcontractant>1171490924</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1264266</numeroseao>
+    <numero>DIR-2017-003-2 </numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-11-21</datedepense>
+        <datepublicationdepense>2019-11-22</datepublicationdepense>
+        <montantdepense>7930.000000</montantdepense>
+        <description>Supplément requis pour permettre de réaliser les activités prévues au contrat initial et prologation du contrat jusqu'au 30 juin 2020</description>
+        <nomcontractant>Alithya Services-conseils inc.</nomcontractant>
+        <neqcontractant>1144392173</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1270285</numeroseao>
+    <numero>2019CNT027</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-11-18</datedepense>
+        <datepublicationdepense>2019-11-18</datepublicationdepense>
+        <montantdepense>18979.300000</montantdepense>
+        <description>ODC 1-2</description>
+        <nomcontractant>Experts Constructions MG Inc</nomcontractant>
+        <neqcontractant>1165628190</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1279340</numeroseao>
+    <numero>44512858</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-08-27</datedepense>
+        <datepublicationdepense>2019-08-27</datepublicationdepense>
+        <montantdepense>3822.000000</montantdepense>
+        <description>Modifications mineures (ODC #1-#2-#3)</description>
+        <nomcontractant>Panavidéo inc</nomcontractant>
+        <neqcontractant>1174459397</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-10-29</datedepense>
+        <datepublicationdepense>2019-10-31</datepublicationdepense>
+        <montantdepense>24189.060000</montantdepense>
+        <description>ODC #4 - Modification significative SQI </description>
+        <nomcontractant>Panavidéo inc</nomcontractant>
+        <neqcontractant>1174459397</neqcontractant>
+      </depense>
+      <depense>
+        <datedepense>2019-11-04</datedepense>
+        <datepublicationdepense>2019-11-07</datepublicationdepense>
+        <montantdepense>600.000000</montantdepense>
+        <description>Modification mineure ODC #5</description>
+        <nomcontractant>Panavidéo inc</nomcontractant>
+        <neqcontractant>1174459397</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1285521</numeroseao>
+    <numero>44513804</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-11-04</datedepense>
+        <datepublicationdepense>2019-11-04</datepublicationdepense>
+        <montantdepense>40026.120000</montantdepense>
+        <description>Condition imprévisible de chantier</description>
+        <nomcontractant>Therrien Entrepreneur Général</nomcontractant>
+        <neqcontractant>1166269978</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1288267</numeroseao>
+    <numero>2019-1258</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-11-04</datedepense>
+        <datepublicationdepense>2019-11-21</datepublicationdepense>
+        <montantdepense>6336.000000</montantdepense>
+        <description>odc#01# comm#1035914</description>
+        <nomcontractant>Les Entreprises de Réfrigération L.S. Inc.</nomcontractant>
+        <neqcontractant>1146480588</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+  <avis>
+    <numeroseao>1296174</numeroseao>
+    <numero>1918-P-380</numero>
+    <depenses>
+      <depense>
+        <datedepense>2019-09-30</datedepense>
+        <datepublicationdepense>2019-10-08</datepublicationdepense>
+        <montantdepense>36960.000000</montantdepense>
+        <description>Ajout d'activités et de biens livrables non prévus à l'appel d'offres et au contrat initial mais qui sont nécessaires à l'atteinte des objectifs du projet. Avenant 1</description>
+        <nomcontractant>Edgenda Technologie inc.</nomcontractant>
+        <neqcontractant>1167981266</neqcontractant>
+      </depense>
+    </depenses>
+  </avis>
+</export>

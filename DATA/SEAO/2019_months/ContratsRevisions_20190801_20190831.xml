@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2019-08-01" datefin="2019-08-31">
+  <contrat>
+    <numeroseao>543586</numeroseao>
+    <numero>DRI-2011-20</numero>
+    <datefinale>2018-07-07</datefinale>
+    <datepublicationfinale>2019-05-27</datepublicationfinale>
+    <montantfinal>6582121.890000</montantfinal>
+    <nomcontractant>Bell Mobilité Inc.</nomcontractant>
+    <neqcontractant>1143866029</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>798206</numeroseao>
+    <numero>302312</numero>
+    <datefinale>2016-03-30</datefinale>
+    <datepublicationfinale>2017-10-25</datepublicationfinale>
+    <montantfinal>199224.620000</montantfinal>
+    <nomcontractant>Ardec Construction inc.</nomcontractant>
+    <neqcontractant>1147794813</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>865100</numeroseao>
+    <numero>25259400</numero>
+    <datefinale>2019-05-03</datefinale>
+    <datepublicationfinale>2019-07-17</datepublicationfinale>
+    <montantfinal>1208219.070000</montantfinal>
+    <nomcontractant>Construction Anjinnov Inc</nomcontractant>
+    <neqcontractant>1141909169</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>937074</numeroseao>
+    <numero>5003032</numero>
+    <datefinale>2018-06-30</datefinale>
+    <datepublicationfinale>2019-03-28</datepublicationfinale>
+    <montantfinal>113233.050000</montantfinal>
+    <nomcontractant>Institut Universitaire de Gériatrie de Montréal / Unité de Neuroimagerie Fonctionnelle</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>938135</numeroseao>
+    <numero>850881604</numero>
+    <datefinale>2015-12-18</datefinale>
+    <datepublicationfinale>2016-02-02</datepublicationfinale>
+    <montantfinal>80517.300000</montantfinal>
+    <nomcontractant>Pavages Varennes (002)</nomcontractant>
+    <neqcontractant>1161846663</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>991612</numeroseao>
+    <numero>7000432</numero>
+    <datefinale>2019-04-30</datefinale>
+    <datepublicationfinale>2019-06-13</datepublicationfinale>
+    <montantfinal>287424.930000</montantfinal>
+    <nomcontractant>Numérium</nomcontractant>
+    <neqcontractant>1161831723</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1041928</numeroseao>
+    <numero>SP20160108</numero>
+    <datefinale>2019-03-31</datefinale>
+    <datepublicationfinale>2018-03-27</datepublicationfinale>
+    <montantfinal>892000.000000</montantfinal>
+    <nomcontractant>Télus Solutions en santé Inc. </nomcontractant>
+    <neqcontractant>1164922206</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1058944</numeroseao>
+    <numero>2017-SI-086</numero>
+    <datefinale>2017-09-28</datefinale>
+    <datepublicationfinale>2019-07-09</datepublicationfinale>
+    <montantfinal>24019.020000</montantfinal>
+    <nomcontractant>Del Degan, Massé et associés</nomcontractant>
+    <neqcontractant>1173560583</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1062494</numeroseao>
+    <numero>16-17-82</numero>
+    <datefinale>2019-03-12</datefinale>
+    <datepublicationfinale>2018-03-22</datepublicationfinale>
+    <montantfinal>619798.390000</montantfinal>
+    <nomcontractant>AMB Modulaire</nomcontractant>
+    <neqcontractant>1171905582</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1063981</numeroseao>
+    <numero>2016-044-21RM</numero>
+    <datefinale>2018-08-22</datefinale>
+    <datepublicationfinale>2018-06-12</datepublicationfinale>
+    <montantfinal>324465.000000</montantfinal>
+    <nomcontractant>Les Entreprises Baillargeon &amp; Coulombe inc.</nomcontractant>
+    <neqcontractant>1170548045</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1064971</numeroseao>
+    <numero>2016-044-21RM-SP</numero>
+    <datefinale>2018-02-20</datefinale>
+    <datepublicationfinale>2018-02-20</datepublicationfinale>
+    <montantfinal>35540.880000</montantfinal>
+    <nomcontractant>Massicotte Maloney architectes</nomcontractant>
+    <neqcontractant>3364300213</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1104551</numeroseao>
+    <numero>5003772</numero>
+    <datefinale>2018-10-31</datefinale>
+    <datepublicationfinale>2019-03-29</datepublicationfinale>
+    <montantfinal>105982.020000</montantfinal>
+    <nomcontractant>La Presse Ltd</nomcontractant>
+    <neqcontractant>1141726332</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1159479</numeroseao>
+    <numero>17-18-89</numero>
+    <datefinale>2019-06-30</datefinale>
+    <datepublicationfinale>2019-07-10</datepublicationfinale>
+    <montantfinal>65413.790000</montantfinal>
+    <nomcontractant>Protection Incendie MCI Inc.</nomcontractant>
+    <neqcontractant>1165157729</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1169224</numeroseao>
+    <numero>31141200</numero>
+    <datefinale>2019-04-30</datefinale>
+    <datepublicationfinale>2019-05-28</datepublicationfinale>
+    <montantfinal>120145.700000</montantfinal>
+    <nomcontractant>Siemens Canada ltée</nomcontractant>
+    <neqcontractant>1161355988</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1173342</numeroseao>
+    <numero>51725-3354830</numero>
+    <datefinale>2018-06-07</datefinale>
+    <datepublicationfinale>2018-12-11</datepublicationfinale>
+    <montantfinal>102993.550000</montantfinal>
+    <nomcontractant>Micro Focus software (Canada) inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1183750</numeroseao>
+    <numero>AO-OSD201801-R05-12</numero>
+    <datefinale>2019-06-15</datefinale>
+    <datepublicationfinale>2019-04-09</datepublicationfinale>
+    <montantfinal>86500.000000</montantfinal>
+    <nomcontractant>Excavation Gagnon &amp; Frères inc.</nomcontractant>
+    <neqcontractant>1140126302</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1201914</numeroseao>
+    <numero>o19 66</numero>
+    <datefinale>2019-06-30</datefinale>
+    <datepublicationfinale>2019-07-10</datepublicationfinale>
+    <montantfinal>61181.860000</montantfinal>
+    <nomcontractant>CLUB DE NATATION JONQUIERE CNJO</nomcontractant>
+    <neqcontractant>1142052571</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1226971</numeroseao>
+    <numero>44511839</numero>
+    <datefinale>2019-07-04</datefinale>
+    <datepublicationfinale>2019-07-24</datepublicationfinale>
+    <montantfinal>57822.600000</montantfinal>
+    <nomcontractant>Lari Construction</nomcontractant>
+    <neqcontractant>1162097118</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1242544</numeroseao>
+    <numero>T5JM-18-015-COR-PLO</numero>
+    <datefinale>2018-09-21</datefinale>
+    <datepublicationfinale>2019-04-17</datepublicationfinale>
+    <montantfinal>37993.360000</montantfinal>
+    <nomcontractant>Construction Di Paolo Inc.</nomcontractant>
+    <neqcontractant>1147736855</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1260161</numeroseao>
+    <numero>JM-18-006-DRA-MEC</numero>
+    <datefinale>2018-11-30</datefinale>
+    <datepublicationfinale>2019-04-17</datepublicationfinale>
+    <montantfinal>37150.720000</montantfinal>
+    <nomcontractant>MGBastien Rénovation Inc</nomcontractant>
+    <neqcontractant>1170450507</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1268737</numeroseao>
+    <numero>2019APP203</numero>
+    <datefinale>2019-05-27</datefinale>
+    <datepublicationfinale>2019-06-17</datepublicationfinale>
+    <montantfinal>29900.000000</montantfinal>
+    <nomcontractant>LA MAISON DU ROUTIER M.G.M. INC</nomcontractant>
+    <neqcontractant>1144307312</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1277714</numeroseao>
+    <numero>45057590</numero>
+    <datefinale>2019-06-06</datefinale>
+    <datepublicationfinale>2019-06-10</datepublicationfinale>
+    <montantfinal>26500.000000</montantfinal>
+    <nomcontractant>SHERWOOD ELECTROMOTION INC.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1290109</numeroseao>
+    <numero>R19 4187</numero>
+    <datefinale>2019-06-30</datefinale>
+    <datepublicationfinale>2019-07-30</datepublicationfinale>
+    <montantfinal>34285.170000</montantfinal>
+    <nomcontractant>RÉSEAU RÉUSSITE MONTRÉAL</nomcontractant>
+    <neqcontractant>1162053277</neqcontractant>
+  </contrat>
+</export>

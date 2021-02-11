@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2018-09-01" datefin="2018-09-30">
+  <contrat>
+    <numeroseao>680889</numeroseao>
+    <numero>RP-13-CONV-009</numero>
+    <datefinale />
+    <datepublicationfinale>2016-09-27</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant>ÉQUIPE R.D.P.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>720959</numeroseao>
+    <numero>GG-146/2013</numero>
+    <datefinale>2018-08-30</datefinale>
+    <datepublicationfinale>2016-12-20</datepublicationfinale>
+    <montantfinal>112400.000000</montantfinal>
+    <nomcontractant>Sirsi Dynix</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>776953</numeroseao>
+    <numero>278001</numero>
+    <datefinale>2018-06-19</datefinale>
+    <datepublicationfinale>2018-06-08</datepublicationfinale>
+    <montantfinal>5298423.410000</montantfinal>
+    <nomcontractant>Les Pavages D'Amour Inc.</nomcontractant>
+    <neqcontractant>1142398818</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>792724</numeroseao>
+    <numero>ADJ-14-082</numero>
+    <datefinale>2015-09-01</datefinale>
+    <datepublicationfinale>2018-06-28</datepublicationfinale>
+    <montantfinal>188338.780000</montantfinal>
+    <nomcontractant>Construction Marc Bolduc Inc.</nomcontractant>
+    <neqcontractant>1145671724</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>840798</numeroseao>
+    <numero>P22675</numero>
+    <datefinale>2018-06-02</datefinale>
+    <datepublicationfinale>2015-09-16</datepublicationfinale>
+    <montantfinal>286010.230000</montantfinal>
+    <nomcontractant>Canon Canada Inc - Division des Solutions d'Affaires</nomcontractant>
+    <neqcontractant>1144557643</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>920806</numeroseao>
+    <numero>15-08-142</numero>
+    <datefinale>2015-10-09</datefinale>
+    <datepublicationfinale>2015-10-20</datepublicationfinale>
+    <montantfinal>53300.110000</montantfinal>
+    <nomcontractant>Gabriel Aubé Inc.</nomcontractant>
+    <neqcontractant>1167580688</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>923622</numeroseao>
+    <numero>GBI-14-2053</numero>
+    <datefinale>2016-12-07</datefinale>
+    <datepublicationfinale>2018-07-03</datepublicationfinale>
+    <montantfinal>82317.320000</montantfinal>
+    <nomcontractant>Louis Fecteau inc..</nomcontractant>
+    <neqcontractant>1141773813</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>953910</numeroseao>
+    <numero>APP-16-028 (2014-GEN-106)</numero>
+    <datefinale>2017-09-15</datefinale>
+    <datepublicationfinale>2017-10-04</datepublicationfinale>
+    <montantfinal>969644.700000</montantfinal>
+    <nomcontractant>Les entreprises Claude Chagnon Inc.</nomcontractant>
+    <neqcontractant>1142284380</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>975417</numeroseao>
+    <numero>CMT-16-2176.0</numero>
+    <datefinale>2017-07-05</datefinale>
+    <datepublicationfinale>2018-08-30</datepublicationfinale>
+    <montantfinal>42021.760000</montantfinal>
+    <nomcontractant>St-Gelais Montminy architectes</nomcontractant>
+    <neqcontractant>3360024775</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>997127</numeroseao>
+    <numero>169/2016</numero>
+    <datefinale>2018-09-13</datefinale>
+    <datepublicationfinale>2017-12-14</datepublicationfinale>
+    <montantfinal>348071.000000</montantfinal>
+    <nomcontractant>Leprohon</nomcontractant>
+    <neqcontractant>1143419779</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1047879</numeroseao>
+    <numero>5220-(01-02-03)-02-2017-P</numero>
+    <datefinale>2018-01-15</datefinale>
+    <datepublicationfinale>2017-11-28</datepublicationfinale>
+    <montantfinal>622121.430000</montantfinal>
+    <nomcontractant>Aurel Harvey &amp; Fils inc..</nomcontractant>
+    <neqcontractant>1144299279</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1054655</numeroseao>
+    <numero>BON161701543</numero>
+    <datefinale>2017-07-06</datefinale>
+    <datepublicationfinale>2018-04-06</datepublicationfinale>
+    <montantfinal>596667.230000</montantfinal>
+    <nomcontractant>Cimetrix Solutions</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1062498</numeroseao>
+    <numero>2017-03-129</numero>
+    <datefinale>2018-04-05</datefinale>
+    <datepublicationfinale>2018-04-05</datepublicationfinale>
+    <montantfinal>1749487.000000</montantfinal>
+    <nomcontractant>Sûreté du Québec</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1068784</numeroseao>
+    <numero>32458500</numero>
+    <datefinale>2018-08-27</datefinale>
+    <datepublicationfinale>2018-08-29</datepublicationfinale>
+    <montantfinal>264910.500000</montantfinal>
+    <nomcontractant>Ascenseurs Vertec</nomcontractant>
+    <neqcontractant>1149394703</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1075329</numeroseao>
+    <numero>VML-G-17-14</numero>
+    <datefinale>2018-04-05</datefinale>
+    <datepublicationfinale>2018-04-05</datepublicationfinale>
+    <montantfinal>282316.340000</montantfinal>
+    <nomcontractant>produits municipaux ml</nomcontractant>
+    <neqcontractant>1160763133</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1087492</numeroseao>
+    <numero>2017-3001-99-01</numero>
+    <datefinale>2017-12-11</datefinale>
+    <datepublicationfinale>2017-12-13</datepublicationfinale>
+    <montantfinal>22063.560000</montantfinal>
+    <nomcontractant>Pharmascience</nomcontractant>
+    <neqcontractant>1163022362</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1087492</numeroseao>
+    <numero>2017-3001-99-01</numero>
+    <datefinale>2017-12-11</datefinale>
+    <datepublicationfinale>2017-12-13</datepublicationfinale>
+    <montantfinal>350780.630000</montantfinal>
+    <nomcontractant>BD - Canada</nomcontractant>
+    <neqcontractant>1173028409</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1087492</numeroseao>
+    <numero>2017-3001-99-01</numero>
+    <datefinale>2017-12-11</datefinale>
+    <datepublicationfinale>2017-12-13</datepublicationfinale>
+    <montantfinal>421744.430000</montantfinal>
+    <nomcontractant>Merck Canada Inc.</nomcontractant>
+    <neqcontractant>1169783199</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1087492</numeroseao>
+    <numero>2017-3001-99-01</numero>
+    <datefinale>2017-12-11</datefinale>
+    <datepublicationfinale>2017-12-13</datepublicationfinale>
+    <montantfinal>9263.540000</montantfinal>
+    <nomcontractant>Corporation Baxter</nomcontractant>
+    <neqcontractant>1171462808</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1087492</numeroseao>
+    <numero>2017-3001-99-01</numero>
+    <datefinale>2017-12-11</datefinale>
+    <datepublicationfinale>2017-12-13</datepublicationfinale>
+    <montantfinal>42069.630000</montantfinal>
+    <nomcontractant>Apotex</nomcontractant>
+    <neqcontractant>1161583365</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1087492</numeroseao>
+    <numero>2017-3001-99-01</numero>
+    <datefinale>2017-12-11</datefinale>
+    <datepublicationfinale>2017-12-13</datepublicationfinale>
+    <montantfinal>135660.310000</montantfinal>
+    <nomcontractant>LEO Pharma</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1087492</numeroseao>
+    <numero>2017-3001-99-01</numero>
+    <datefinale>2017-12-11</datefinale>
+    <datepublicationfinale>2017-12-13</datepublicationfinale>
+    <montantfinal>2448685.450000</montantfinal>
+    <nomcontractant>Fresenius Kabi Canada Ltd.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1087492</numeroseao>
+    <numero>2017-3001-99-01</numero>
+    <datefinale>2017-12-11</datefinale>
+    <datepublicationfinale>2017-12-13</datepublicationfinale>
+    <montantfinal>92241.630000</montantfinal>
+    <nomcontractant>Mylan Pharmaceuticals</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1087492</numeroseao>
+    <numero>2017-3001-99-01</numero>
+    <datefinale>2017-12-11</datefinale>
+    <datepublicationfinale>2017-12-13</datepublicationfinale>
+    <montantfinal>72084.230000</montantfinal>
+    <nomcontractant>SANDOZ CANADA INC.</nomcontractant>
+    <neqcontractant>1171584700</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1087492</numeroseao>
+    <numero>2017-3001-99-01</numero>
+    <datefinale>2017-12-11</datefinale>
+    <datepublicationfinale>2017-12-13</datepublicationfinale>
+    <montantfinal>131819.740000</montantfinal>
+    <nomcontractant>TEVA Canada Ltée</nomcontractant>
+    <neqcontractant>1160259512</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1087492</numeroseao>
+    <numero>2017-3001-99-01</numero>
+    <datefinale>2017-12-11</datefinale>
+    <datepublicationfinale>2017-12-13</datepublicationfinale>
+    <montantfinal>314713.580000</montantfinal>
+    <nomcontractant>Taro Pharmaceuticals Inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1087492</numeroseao>
+    <numero>2017-3001-99-01</numero>
+    <datefinale>2017-12-11</datefinale>
+    <datepublicationfinale>2017-12-13</datepublicationfinale>
+    <montantfinal>74939.640000</montantfinal>
+    <nomcontractant>Janssen Inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1087492</numeroseao>
+    <numero>2017-3001-99-01</numero>
+    <datefinale>2017-12-11</datefinale>
+    <datepublicationfinale>2017-12-13</datepublicationfinale>
+    <montantfinal>53841.670000</montantfinal>
+    <nomcontractant>Allergan Canada Inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1116109</numeroseao>
+    <numero>P25309</numero>
+    <datefinale>2018-06-15</datefinale>
+    <datepublicationfinale>2018-06-06</datepublicationfinale>
+    <montantfinal>68435.720000</montantfinal>
+    <nomcontractant>Moore Canada s/n RR Donnelley</nomcontractant>
+    <neqcontractant>1172269574</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1138428</numeroseao>
+    <numero>2017-3001-97-01</numero>
+    <datefinale>2018-05-04</datefinale>
+    <datepublicationfinale>2018-05-08</datepublicationfinale>
+    <montantfinal>8608.830000</montantfinal>
+    <nomcontractant>Lundbeck Canada Inc.</nomcontractant>
+    <neqcontractant>1146272621</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1138428</numeroseao>
+    <numero>2017-3001-97-01</numero>
+    <datefinale>2018-05-04</datefinale>
+    <datepublicationfinale>2018-05-08</datepublicationfinale>
+    <montantfinal>440405.950000</montantfinal>
+    <nomcontractant>Laboratoires Oméga Ltée</nomcontractant>
+    <neqcontractant>1170847165</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1138428</numeroseao>
+    <numero>2017-3001-97-01</numero>
+    <datefinale>2018-05-04</datefinale>
+    <datepublicationfinale>2018-05-08</datepublicationfinale>
+    <montantfinal>190940.640000</montantfinal>
+    <nomcontractant>INOPRO INC</nomcontractant>
+    <neqcontractant>1168207349</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1138428</numeroseao>
+    <numero>2017-3001-97-01</numero>
+    <datefinale>2018-05-04</datefinale>
+    <datepublicationfinale>2018-05-08</datepublicationfinale>
+    <montantfinal>4913.050000</montantfinal>
+    <nomcontractant>Taro Pharmaceuticals Inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1138428</numeroseao>
+    <numero>2017-3001-97-01</numero>
+    <datefinale>2018-05-04</datefinale>
+    <datepublicationfinale>2018-05-08</datepublicationfinale>
+    <montantfinal>234058.470000</montantfinal>
+    <nomcontractant>Sanofi-Aventis</nomcontractant>
+    <neqcontractant>1171714687</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1138428</numeroseao>
+    <numero>2017-3001-97-01</numero>
+    <datefinale>2018-05-04</datefinale>
+    <datepublicationfinale>2018-05-08</datepublicationfinale>
+    <montantfinal>4505.130000</montantfinal>
+    <nomcontractant>BD - Canada</nomcontractant>
+    <neqcontractant>1173028409</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1138428</numeroseao>
+    <numero>2017-3001-97-01</numero>
+    <datefinale>2018-05-04</datefinale>
+    <datepublicationfinale>2018-05-08</datepublicationfinale>
+    <montantfinal>1602343.590000</montantfinal>
+    <nomcontractant>Dr. Reddy's Laboratories Canada Inc</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1138428</numeroseao>
+    <numero>2017-3001-97-01</numero>
+    <datefinale>2018-05-04</datefinale>
+    <datepublicationfinale>2018-05-08</datepublicationfinale>
+    <montantfinal>723887.640000</montantfinal>
+    <nomcontractant>SteriMax Inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1138428</numeroseao>
+    <numero>2017-3001-97-01</numero>
+    <datefinale>2018-05-04</datefinale>
+    <datepublicationfinale>2018-05-08</datepublicationfinale>
+    <montantfinal>52640.510000</montantfinal>
+    <nomcontractant>Mylan Pharmaceuticals</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1138428</numeroseao>
+    <numero>2017-3001-97-01</numero>
+    <datefinale>2018-05-04</datefinale>
+    <datepublicationfinale>2018-05-08</datepublicationfinale>
+    <montantfinal>1436.020000</montantfinal>
+    <nomcontractant>Jamp Pharma Corporation</nomcontractant>
+    <neqcontractant>1163843486</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1138428</numeroseao>
+    <numero>2017-3001-97-01</numero>
+    <datefinale>2018-05-04</datefinale>
+    <datepublicationfinale>2018-05-08</datepublicationfinale>
+    <montantfinal>48935.080000</montantfinal>
+    <nomcontractant>Fresenius Kabi Canada Ltd.</nomcontractant>
+    <neqcontractant>1147717699</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1138428</numeroseao>
+    <numero>2017-3001-97-01</numero>
+    <datefinale>2018-05-04</datefinale>
+    <datepublicationfinale>2018-05-08</datepublicationfinale>
+    <montantfinal>39746.000000</montantfinal>
+    <nomcontractant>Servier Canada Inc.</nomcontractant>
+    <neqcontractant>1143328343</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1138428</numeroseao>
+    <numero>2017-3001-97-01</numero>
+    <datefinale>2018-05-04</datefinale>
+    <datepublicationfinale>2018-05-08</datepublicationfinale>
+    <montantfinal>175352.080000</montantfinal>
+    <nomcontractant>Pendopharm division de Pharmascience</nomcontractant>
+    <neqcontractant>1163022362</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1138428</numeroseao>
+    <numero>2017-3001-97-01</numero>
+    <datefinale>2018-05-04</datefinale>
+    <datepublicationfinale>2018-05-08</datepublicationfinale>
+    <montantfinal>530.460000</montantfinal>
+    <nomcontractant>Marcan</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1138428</numeroseao>
+    <numero>2017-3001-97-01</numero>
+    <datefinale>2018-05-04</datefinale>
+    <datepublicationfinale>2018-05-08</datepublicationfinale>
+    <montantfinal>64417.090000</montantfinal>
+    <nomcontractant>SANDOZ CANADA INC.</nomcontractant>
+    <neqcontractant>1171584700</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1138428</numeroseao>
+    <numero>2017-3001-97-01</numero>
+    <datefinale>2018-05-04</datefinale>
+    <datepublicationfinale>2018-05-08</datepublicationfinale>
+    <montantfinal>163651.110000</montantfinal>
+    <nomcontractant>Pfizer</nomcontractant>
+    <neqcontractant>1166916586</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1138428</numeroseao>
+    <numero>2017-3001-97-01</numero>
+    <datefinale>2018-05-04</datefinale>
+    <datepublicationfinale>2018-05-08</datepublicationfinale>
+    <montantfinal>89844.240000</montantfinal>
+    <nomcontractant>Merck Canada Inc.</nomcontractant>
+    <neqcontractant>1169783199</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1138428</numeroseao>
+    <numero>2017-3001-97-01</numero>
+    <datefinale>2018-05-04</datefinale>
+    <datepublicationfinale>2018-05-08</datepublicationfinale>
+    <montantfinal>342413.760000</montantfinal>
+    <nomcontractant>Odan Laboratoires</nomcontractant>
+    <neqcontractant>1143774389</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1138428</numeroseao>
+    <numero>2017-3001-97-01</numero>
+    <datefinale>2018-05-04</datefinale>
+    <datepublicationfinale>2018-05-08</datepublicationfinale>
+    <montantfinal>259255.420000</montantfinal>
+    <nomcontractant>Bausch &amp; Lomb Canada</nomcontractant>
+    <neqcontractant>3367021766</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1138428</numeroseao>
+    <numero>2017-3001-97-01</numero>
+    <datefinale>2018-05-04</datefinale>
+    <datepublicationfinale>2018-05-08</datepublicationfinale>
+    <montantfinal>286528.890000</montantfinal>
+    <nomcontractant>Leadiant Biosciences</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1138428</numeroseao>
+    <numero>2017-3001-97-01</numero>
+    <datefinale>2018-05-04</datefinale>
+    <datepublicationfinale>2018-05-08</datepublicationfinale>
+    <montantfinal>13575.520000</montantfinal>
+    <nomcontractant>TEVA Canada Ltée</nomcontractant>
+    <neqcontractant>1160259512</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1138428</numeroseao>
+    <numero>2017-3001-97-01</numero>
+    <datefinale>2018-05-04</datefinale>
+    <datepublicationfinale>2018-05-08</datepublicationfinale>
+    <montantfinal>1067.720000</montantfinal>
+    <nomcontractant>Galenova Inc.</nomcontractant>
+    <neqcontractant>1163907976</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1193733</numeroseao>
+    <numero>34737900</numero>
+    <datefinale>2018-09-10</datefinale>
+    <datepublicationfinale>2018-08-22</datepublicationfinale>
+    <montantfinal>88143.000000</montantfinal>
+    <nomcontractant>Hydro Québec Distribution</nomcontractant>
+    <neqcontractant />
+  </contrat>
+</export>

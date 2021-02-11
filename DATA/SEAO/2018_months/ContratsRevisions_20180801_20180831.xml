@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2018-08-01" datefin="2018-08-31">
+  <contrat>
+    <numeroseao>534419</numeroseao>
+    <numero>GAT 2011 SI 182</numero>
+    <datefinale>2015-12-15</datefinale>
+    <datepublicationfinale>2016-11-11</datepublicationfinale>
+    <montantfinal>45903.770000</montantfinal>
+    <nomcontractant>'Plania inc.</nomcontractant>
+    <neqcontractant>1142665786</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>627910</numeroseao>
+    <numero>GAT 2013 SP 153</numero>
+    <datefinale>2016-07-02</datefinale>
+    <datepublicationfinale>2016-07-28</datepublicationfinale>
+    <montantfinal>345866.640000</montantfinal>
+    <nomcontractant>Les Services EXP Inc</nomcontractant>
+    <neqcontractant>1167268128</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>669291</numeroseao>
+    <numero>6406-11-FE10</numero>
+    <datefinale>2018-05-07</datefinale>
+    <datepublicationfinale>2018-06-29</datepublicationfinale>
+    <montantfinal>96917.220000</montantfinal>
+    <nomcontractant>Genivar inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>670575</numeroseao>
+    <numero>7007-13-KA07</numero>
+    <datefinale>2018-01-10</datefinale>
+    <datepublicationfinale>2018-06-29</datepublicationfinale>
+    <montantfinal>87189.450000</montantfinal>
+    <nomcontractant>LVM inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>680931</numeroseao>
+    <numero>RP-13-CONV-012</numero>
+    <datefinale />
+    <datepublicationfinale>2016-09-27</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant>CENTRE DE LEADERSHIP POUR LA JEUNESSE DON BOSCO</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>687398</numeroseao>
+    <numero>2013/07</numero>
+    <datefinale />
+    <datepublicationfinale>2015-07-27</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant>Xittel telecom.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>703287</numeroseao>
+    <numero>22573400</numero>
+    <datefinale>2018-06-08</datefinale>
+    <datepublicationfinale>2018-06-08</datepublicationfinale>
+    <montantfinal>109930.000000</montantfinal>
+    <nomcontractant>Les Consultants S.M. inc. Montréal</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>720959</numeroseao>
+    <numero>GG-146/2013</numero>
+    <datefinale>2018-08-30</datefinale>
+    <datepublicationfinale>2016-12-20</datepublicationfinale>
+    <montantfinal>69031.000000</montantfinal>
+    <nomcontractant>Sirsi Dynix</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>758736</numeroseao>
+    <numero>AT-2014-219-08-01</numero>
+    <datefinale>2016-10-31</datefinale>
+    <datepublicationfinale>2017-01-06</datepublicationfinale>
+    <montantfinal>767373.000000</montantfinal>
+    <nomcontractant>Staples Avantage Canada</nomcontractant>
+    <neqcontractant>1149092992</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>779939</numeroseao>
+    <numero>EMS-052</numero>
+    <datefinale>2017-11-16</datefinale>
+    <datepublicationfinale>2018-05-22</datepublicationfinale>
+    <montantfinal>131375.430000</montantfinal>
+    <nomcontractant>Cardinal Health Canada inc.</nomcontractant>
+    <neqcontractant>1146265252</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>798561</numeroseao>
+    <numero>8508-14-PC01</numero>
+    <datefinale>2018-03-06</datefinale>
+    <datepublicationfinale>2018-06-29</datepublicationfinale>
+    <montantfinal>179042.600000</montantfinal>
+    <nomcontractant>Proprecan Inc.</nomcontractant>
+    <neqcontractant>1167731174</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>838819</numeroseao>
+    <numero>27751900</numero>
+    <datefinale>2017-10-31</datefinale>
+    <datepublicationfinale>2018-02-14</datepublicationfinale>
+    <montantfinal>29995.600000</montantfinal>
+    <nomcontractant>Av-Tech INC..</nomcontractant>
+    <neqcontractant>1143543099</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>877250</numeroseao>
+    <numero>29246100</numero>
+    <datefinale>2018-07-27</datefinale>
+    <datepublicationfinale>2018-05-18</datepublicationfinale>
+    <montantfinal>97127.300000</montantfinal>
+    <nomcontractant>solesco inc</nomcontractant>
+    <neqcontractant>1172415805</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>881817</numeroseao>
+    <numero>7007-15-KA02</numero>
+    <datefinale>2018-03-06</datefinale>
+    <datepublicationfinale>2018-06-29</datepublicationfinale>
+    <montantfinal>71232.280000</montantfinal>
+    <nomcontractant>Services EXP inc., Les</nomcontractant>
+    <neqcontractant>1167268128</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>882437</numeroseao>
+    <numero>302489</numero>
+    <datefinale>2015-07-15</datefinale>
+    <datepublicationfinale>2016-08-04</datepublicationfinale>
+    <montantfinal>161131.000000</montantfinal>
+    <nomcontractant>Les Constructions A.S. Filiatreault</nomcontractant>
+    <neqcontractant>1144177236</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>886709</numeroseao>
+    <numero>28278300</numero>
+    <datefinale>2018-04-30</datefinale>
+    <datepublicationfinale>2018-04-30</datepublicationfinale>
+    <montantfinal>48569.780000</montantfinal>
+    <nomcontractant>CONCIERGERIE CATHY DUFOUR</nomcontractant>
+    <neqcontractant>1168806322</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>891374</numeroseao>
+    <numero>GAT 2014 SP 171</numero>
+    <datefinale>2015-12-31</datefinale>
+    <datepublicationfinale>2016-06-20</datepublicationfinale>
+    <montantfinal>484893.930000</montantfinal>
+    <nomcontractant>EUROVIA QUÉBEC CONSTRUCTION INC. (OUTAOUAIS)</nomcontractant>
+    <neqcontractant>1169491884</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>897724</numeroseao>
+    <numero>29671700</numero>
+    <datefinale>2018-07-08</datefinale>
+    <datepublicationfinale>2018-07-25</datepublicationfinale>
+    <montantfinal>114727.880000</montantfinal>
+    <nomcontractant>Carol Croteau .</nomcontractant>
+    <neqcontractant>2249204332</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>898110</numeroseao>
+    <numero>29354900</numero>
+    <datefinale>2018-07-10</datefinale>
+    <datepublicationfinale>2018-06-07</datepublicationfinale>
+    <montantfinal>90773.450000</montantfinal>
+    <nomcontractant>Service Alimentaire 2000</nomcontractant>
+    <neqcontractant>1161474722</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>915359</numeroseao>
+    <numero>AP-01-S100-15</numero>
+    <datefinale>2018-06-30</datefinale>
+    <datepublicationfinale>2018-01-16</datepublicationfinale>
+    <montantfinal>131668.170000</montantfinal>
+    <nomcontractant>Av-Tech INC..</nomcontractant>
+    <neqcontractant>1143543099</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>919306</numeroseao>
+    <numero>7001-15-HE02</numero>
+    <datefinale>2018-03-05</datefinale>
+    <datepublicationfinale>2018-06-29</datepublicationfinale>
+    <montantfinal>98312.010000</montantfinal>
+    <nomcontractant>Cima+ S.E.N.C.</nomcontractant>
+    <neqcontractant>3340563140</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>924338</numeroseao>
+    <numero>7001-15-HE01</numero>
+    <datefinale>2018-03-05</datefinale>
+    <datepublicationfinale>2018-06-29</datepublicationfinale>
+    <montantfinal>122553.160000</montantfinal>
+    <nomcontractant>Cima+ S.E.N.C.</nomcontractant>
+    <neqcontractant>3340563140</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>931174</numeroseao>
+    <numero>2015/010</numero>
+    <datefinale>2017-02-01</datefinale>
+    <datepublicationfinale>2016-07-29</datepublicationfinale>
+    <montantfinal>98878.510000</montantfinal>
+    <nomcontractant>WSP Canada Inc. (Pour AO sur invitation pour tout le Québec)</nomcontractant>
+    <neqcontractant>1148357057</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>940959</numeroseao>
+    <numero>55058-559_SB_PUB_C</numero>
+    <datefinale>2018-08-15</datefinale>
+    <datepublicationfinale>2016-09-02</datepublicationfinale>
+    <montantfinal>269015.000000</montantfinal>
+    <nomcontractant>Le Groupe Fenestra</nomcontractant>
+    <neqcontractant>1161484127</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>957845</numeroseao>
+    <numero>25271600/25171600</numero>
+    <datefinale>2018-04-08</datefinale>
+    <datepublicationfinale>2018-06-26</datepublicationfinale>
+    <montantfinal>168352.390000</montantfinal>
+    <nomcontractant>Show Distribution Corporation</nomcontractant>
+    <neqcontractant>1169742559</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>960334</numeroseao>
+    <numero>311-36-400</numero>
+    <datefinale>2017-07-28</datefinale>
+    <datepublicationfinale>2018-04-18</datepublicationfinale>
+    <montantfinal>89866.160000</montantfinal>
+    <nomcontractant>Groupe Conseil BC2FP</nomcontractant>
+    <neqcontractant>1166369067</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>961022</numeroseao>
+    <numero>7007-15-FE04</numero>
+    <datefinale>2018-03-02</datefinale>
+    <datepublicationfinale>2018-06-29</datepublicationfinale>
+    <montantfinal>37440.990000</montantfinal>
+    <nomcontractant>Pluritec ltée</nomcontractant>
+    <neqcontractant>1143954734</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>961132</numeroseao>
+    <numero>C2015-011</numero>
+    <datefinale />
+    <datepublicationfinale>2016-03-04</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant>Granby Industriel</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>974474</numeroseao>
+    <numero>APP-16-098</numero>
+    <datefinale>2017-02-16</datefinale>
+    <datepublicationfinale>2017-02-21</datepublicationfinale>
+    <montantfinal>52367.930000</montantfinal>
+    <nomcontractant>Sogep inc.</nomcontractant>
+    <neqcontractant>1145758992</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>980640</numeroseao>
+    <numero>8903-16-FA01</numero>
+    <datefinale>2018-04-30</datefinale>
+    <datepublicationfinale>2018-06-29</datepublicationfinale>
+    <montantfinal>48932.520000</montantfinal>
+    <nomcontractant>Stantec Experts-Conseils ltée.</nomcontractant>
+    <neqcontractant>1170241336</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>991651</numeroseao>
+    <numero>CGER 580363</numero>
+    <datefinale>2018-06-25</datefinale>
+    <datepublicationfinale>2016-08-03</datepublicationfinale>
+    <montantfinal>62340.530000</montantfinal>
+    <nomcontractant>Intertek Testing Services LA, Ltd</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>993442</numeroseao>
+    <numero>6705-16-KA08</numero>
+    <datefinale>2018-02-27</datefinale>
+    <datepublicationfinale>2018-06-29</datepublicationfinale>
+    <montantfinal>8643.070000</montantfinal>
+    <nomcontractant>SNC-Lavalin GEM Québec inc.</nomcontractant>
+    <neqcontractant>1166291337</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>998214</numeroseao>
+    <numero>159/2016</numero>
+    <datefinale>2018-07-12</datefinale>
+    <datepublicationfinale>2018-07-13</datepublicationfinale>
+    <montantfinal>49306.000000</montantfinal>
+    <nomcontractant>Racicot Chandonnet ltée</nomcontractant>
+    <neqcontractant>1164514854</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1011578</numeroseao>
+    <numero>206/004</numero>
+    <datefinale />
+    <datepublicationfinale>2017-02-06</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant>Jean-Pierre Cadrin &amp; Ass. Inc.</nomcontractant>
+    <neqcontractant>1142793869</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1012757</numeroseao>
+    <numero>8601-16-KZ03</numero>
+    <datefinale>2018-05-09</datefinale>
+    <datepublicationfinale>2018-06-29</datepublicationfinale>
+    <montantfinal>107813.310000</montantfinal>
+    <nomcontractant>Groupe ABS inc.</nomcontractant>
+    <neqcontractant>1165977969</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1012758</numeroseao>
+    <numero>8605-16-LM03</numero>
+    <datefinale>2018-04-11</datefinale>
+    <datepublicationfinale>2018-06-29</datepublicationfinale>
+    <montantfinal>137428.830000</montantfinal>
+    <nomcontractant>BPR - Infrastructure inc.</nomcontractant>
+    <neqcontractant>1161581104</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1020855</numeroseao>
+    <numero>2016/008</numero>
+    <datefinale>2018-03-14</datefinale>
+    <datepublicationfinale>2017-07-06</datepublicationfinale>
+    <montantfinal>97574.700000</montantfinal>
+    <nomcontractant>Entreprises RD Allard inc.</nomcontractant>
+    <neqcontractant>1143535103</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1021879</numeroseao>
+    <numero>2106-16-HA01</numero>
+    <datefinale>2018-05-29</datefinale>
+    <datepublicationfinale>2018-06-29</datepublicationfinale>
+    <montantfinal>101701.570000</montantfinal>
+    <nomcontractant>Stantec Experts-Conseils ltée.</nomcontractant>
+    <neqcontractant>1170241336</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1056162</numeroseao>
+    <numero>AO170302-27</numero>
+    <datefinale>2018-03-15</datefinale>
+    <datepublicationfinale>2018-03-19</datepublicationfinale>
+    <montantfinal>265698.100000</montantfinal>
+    <nomcontractant>Lévesque et Associées Construction Inc.</nomcontractant>
+    <neqcontractant>1149139215</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1062880</numeroseao>
+    <numero>32456600</numero>
+    <datefinale>2018-07-16</datefinale>
+    <datepublicationfinale>2018-07-20</datepublicationfinale>
+    <montantfinal>326569.970000</montantfinal>
+    <nomcontractant>Construction Michel Gagnon Ltee - Québec</nomcontractant>
+    <neqcontractant>1142334623</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1065447</numeroseao>
+    <numero>8801-16-HA09</numero>
+    <datefinale>2018-05-18</datefinale>
+    <datepublicationfinale>2018-06-29</datepublicationfinale>
+    <montantfinal>100788.140000</montantfinal>
+    <nomcontractant>Services EXP inc., Les</nomcontractant>
+    <neqcontractant>1167268128</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1072879</numeroseao>
+    <numero>1303-17-KA01</numero>
+    <datefinale>2018-05-30</datefinale>
+    <datepublicationfinale>2018-06-29</datepublicationfinale>
+    <montantfinal>77436.130000</montantfinal>
+    <nomcontractant>GHD Consultants Ltée</nomcontractant>
+    <neqcontractant>1171077796</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1080838</numeroseao>
+    <numero>44507519</numero>
+    <datefinale>2018-07-19</datefinale>
+    <datepublicationfinale>2018-07-23</datepublicationfinale>
+    <montantfinal>220205.960000</montantfinal>
+    <nomcontractant>Couvertures Victo 2000 inc.</nomcontractant>
+    <neqcontractant>1146056339</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1082640</numeroseao>
+    <numero>2110-17-0202</numero>
+    <datefinale>2018-05-31</datefinale>
+    <datepublicationfinale>2018-06-29</datepublicationfinale>
+    <montantfinal>2342984.200000</montantfinal>
+    <nomcontractant>Mohawk Bridge Consortium</nomcontractant>
+    <neqcontractant>3364361413</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1084956</numeroseao>
+    <numero>2017-0173</numero>
+    <datefinale>2018-03-30</datefinale>
+    <datepublicationfinale>2018-05-01</datepublicationfinale>
+    <montantfinal>39000.000000</montantfinal>
+    <nomcontractant>William Fraiberg</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1087035</numeroseao>
+    <numero>6501-17-KA07</numero>
+    <datefinale>2018-04-18</datefinale>
+    <datepublicationfinale>2018-06-29</datepublicationfinale>
+    <montantfinal>20527.020000</montantfinal>
+    <nomcontractant>Englobe Corp.</nomcontractant>
+    <neqcontractant>1167280206</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1087036</numeroseao>
+    <numero>6501-17-LA02</numero>
+    <datefinale>2018-05-07</datefinale>
+    <datepublicationfinale>2018-06-29</datepublicationfinale>
+    <montantfinal>15533.130000</montantfinal>
+    <nomcontractant>GHD Consultants Ltée</nomcontractant>
+    <neqcontractant>1171077796</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1087037</numeroseao>
+    <numero>6501-17-LA03</numero>
+    <datefinale>2018-05-03</datefinale>
+    <datepublicationfinale>2018-06-29</datepublicationfinale>
+    <montantfinal>17754.400000</montantfinal>
+    <nomcontractant>GHD Consultants Ltée</nomcontractant>
+    <neqcontractant>1171077796</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1090523</numeroseao>
+    <numero>6501-17-KA10</numero>
+    <datefinale>2018-02-21</datefinale>
+    <datepublicationfinale>2018-06-29</datepublicationfinale>
+    <montantfinal>44358.740000</montantfinal>
+    <nomcontractant>Laboratoire d'expertises de Rivière-du-Loup inc.</nomcontractant>
+    <neqcontractant>1171506125</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1095598</numeroseao>
+    <numero>6501-17-KA08</numero>
+    <datefinale>2018-03-05</datefinale>
+    <datepublicationfinale>2018-06-29</datepublicationfinale>
+    <montantfinal>16799.260000</montantfinal>
+    <nomcontractant>Englobe Corp.</nomcontractant>
+    <neqcontractant>1167280206</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1125287</numeroseao>
+    <numero>33820300</numero>
+    <datefinale>2018-05-10</datefinale>
+    <datepublicationfinale>2018-05-18</datepublicationfinale>
+    <montantfinal>26167.500000</montantfinal>
+    <nomcontractant>GHD Consultants</nomcontractant>
+    <neqcontractant>1148070619</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1125315</numeroseao>
+    <numero>CGER 17 680123</numero>
+    <datefinale>2018-07-10</datefinale>
+    <datepublicationfinale>2018-03-26</datepublicationfinale>
+    <montantfinal>41636.000000</montantfinal>
+    <nomcontractant>J. A. Larue INC.</nomcontractant>
+    <neqcontractant>1148795827</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1127668</numeroseao>
+    <numero>109EstaCircuitSportÉtudes</numero>
+    <datefinale>2017-12-31</datefinale>
+    <datepublicationfinale>2018-02-12</datepublicationfinale>
+    <montantfinal>33593.000000</montantfinal>
+    <nomcontractant>Les Autobus Bell-Horizon</nomcontractant>
+    <neqcontractant>1142907865</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1127852</numeroseao>
+    <numero>109TransportActPara</numero>
+    <datefinale>2017-12-31</datefinale>
+    <datepublicationfinale>2018-02-12</datepublicationfinale>
+    <montantfinal>38014.220000</montantfinal>
+    <nomcontractant>Scobus (1992) inc.</nomcontractant>
+    <neqcontractant>1142904185</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1130787</numeroseao>
+    <numero>32980800</numero>
+    <datefinale>2018-07-22</datefinale>
+    <datepublicationfinale>2018-07-16</datepublicationfinale>
+    <montantfinal>75290.000000</montantfinal>
+    <nomcontractant>Soudure Camiré et fils</nomcontractant>
+    <neqcontractant>1160092095</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1162681</numeroseao>
+    <numero>44509856</numero>
+    <datefinale>2018-07-05</datefinale>
+    <datepublicationfinale>2018-07-06</datepublicationfinale>
+    <montantfinal>49186.750000</montantfinal>
+    <nomcontractant>Les entreprises Val-Mauricie électrique inc</nomcontractant>
+    <neqcontractant>1142132332</neqcontractant>
+  </contrat>
+</export>

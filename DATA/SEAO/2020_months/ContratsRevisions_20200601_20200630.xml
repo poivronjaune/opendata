@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" datedebut="2020-06-01" datefin="2020-06-30">
+  <contrat>
+    <numeroseao>616139</numeroseao>
+    <numero>2013-611-00-01</numero>
+    <datefinale>2018-05-31</datefinale>
+    <datepublicationfinale>2019-06-21</datepublicationfinale>
+    <montantfinal>3557189.300000</montantfinal>
+    <nomcontractant>Hospira (maintenant ICU Medical)</nomcontractant>
+    <neqcontractant>1172353519</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>616139</numeroseao>
+    <numero>2013-611-00-01</numero>
+    <datefinale>2018-05-31</datefinale>
+    <datepublicationfinale>2019-06-21</datepublicationfinale>
+    <montantfinal>77435.050000</montantfinal>
+    <nomcontractant>Canadian Hospital Specialties Ltd.</nomcontractant>
+    <neqcontractant>1170891981</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>616139</numeroseao>
+    <numero>2013-611-00-01</numero>
+    <datefinale>2018-05-31</datefinale>
+    <datepublicationfinale>2019-06-21</datepublicationfinale>
+    <montantfinal>855236.870000</montantfinal>
+    <nomcontractant>B. Braun</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>616139</numeroseao>
+    <numero>2013-611-00-01</numero>
+    <datefinale>2018-05-31</datefinale>
+    <datepublicationfinale>2019-06-21</datepublicationfinale>
+    <montantfinal>331502.800000</montantfinal>
+    <nomcontractant>Cardinal Health Canada inc.</nomcontractant>
+    <neqcontractant>1146265252</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>616139</numeroseao>
+    <numero>2013-611-00-01</numero>
+    <datefinale>2018-05-31</datefinale>
+    <datepublicationfinale>2019-06-21</datepublicationfinale>
+    <montantfinal>14282625.750000</montantfinal>
+    <nomcontractant>Corporation Baxter</nomcontractant>
+    <neqcontractant>1171462808</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>761611</numeroseao>
+    <numero>2013-053-01-01</numero>
+    <datefinale>2019-05-31</datefinale>
+    <datepublicationfinale>2019-10-24</datepublicationfinale>
+    <montantfinal>13953666.000000</montantfinal>
+    <nomcontractant>Stericycle, inc.</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>854139</numeroseao>
+    <numero>28895900</numero>
+    <datefinale>2020-03-31</datefinale>
+    <datepublicationfinale>2020-04-22</datepublicationfinale>
+    <montantfinal>151476.750000</montantfinal>
+    <nomcontractant>Services Menagers Trifluviens inc.</nomcontractant>
+    <neqcontractant>1168757335</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>858001</numeroseao>
+    <numero>9001-14-0229</numero>
+    <datefinale>2016-11-16</datefinale>
+    <datepublicationfinale>2017-01-19</datepublicationfinale>
+    <montantfinal>1158873.580000</montantfinal>
+    <nomcontractant>Construction et Pavage Boisvert inc</nomcontractant>
+    <neqcontractant>1147044672</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>911586</numeroseao>
+    <numero>28097700</numero>
+    <datefinale>2020-05-08</datefinale>
+    <datepublicationfinale>2020-03-23</datepublicationfinale>
+    <montantfinal>1551251.900000</montantfinal>
+    <nomcontractant>Siemens Canada Limitée</nomcontractant>
+    <neqcontractant>1161355988</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>939319</numeroseao>
+    <numero>8801-15-0026</numero>
+    <datefinale>2019-12-19</datefinale>
+    <datepublicationfinale>2017-04-06</datepublicationfinale>
+    <montantfinal>260459.790000</montantfinal>
+    <nomcontractant>BLR Excavation Division de Terrassement BLR inc</nomcontractant>
+    <neqcontractant>1141135401</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>962209</numeroseao>
+    <numero>CNAR-1616</numero>
+    <datefinale>2019-04-30</datefinale>
+    <datepublicationfinale>2019-11-26</datepublicationfinale>
+    <montantfinal>1580253.000000</montantfinal>
+    <nomcontractant>LES SERVICES APTECH INC.</nomcontractant>
+    <neqcontractant>1141975889</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>972927</numeroseao>
+    <numero>CNAR 27-16</numero>
+    <datefinale>2019-04-30</datefinale>
+    <datepublicationfinale>2019-11-26</datepublicationfinale>
+    <montantfinal>154918.000000</montantfinal>
+    <nomcontractant>Biblio RPL ltée</nomcontractant>
+    <neqcontractant>1141236324</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>984632</numeroseao>
+    <numero>CNAR-1016</numero>
+    <datefinale>2019-03-31</datefinale>
+    <datepublicationfinale>2019-12-05</datepublicationfinale>
+    <montantfinal>2603828.780000</montantfinal>
+    <nomcontractant>Staples Avantage Canada</nomcontractant>
+    <neqcontractant>1149092992</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1012714</numeroseao>
+    <numero>6603-16-FE20</numero>
+    <datefinale />
+    <datepublicationfinale>2020-04-20</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant>SNC-Lavalin inc.</nomcontractant>
+    <neqcontractant>1142775999</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1012891</numeroseao>
+    <numero>P1455-02-/ 9731</numero>
+    <datefinale>2019-11-22</datefinale>
+    <datepublicationfinale>2019-09-16</datepublicationfinale>
+    <montantfinal>275291.900000</montantfinal>
+    <nomcontractant>Tetra Tech QI inc - Est</nomcontractant>
+    <neqcontractant>1169411510</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1037958</numeroseao>
+    <numero>P24426</numero>
+    <datefinale>2020-05-29</datefinale>
+    <datepublicationfinale>2020-05-29</datepublicationfinale>
+    <montantfinal>843561.050000</montantfinal>
+    <nomcontractant>TELUS</nomcontractant>
+    <neqcontractant>1148459481</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1095657</numeroseao>
+    <numero>8801-17-0219</numero>
+    <datefinale>2019-12-19</datefinale>
+    <datepublicationfinale>2019-05-24</datepublicationfinale>
+    <montantfinal>5278202.180000</montantfinal>
+    <nomcontractant>L.A. Hebert ltée</nomcontractant>
+    <neqcontractant>1143421148</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1100003</numeroseao>
+    <numero>32833500</numero>
+    <datefinale>2020-05-19</datefinale>
+    <datepublicationfinale>2020-05-25</datepublicationfinale>
+    <montantfinal>27900.000000</montantfinal>
+    <nomcontractant>Berna Inc.</nomcontractant>
+    <neqcontractant>1143737857</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1111945</numeroseao>
+    <numero>2017-0377</numero>
+    <datefinale>2019-12-31</datefinale>
+    <datepublicationfinale>2020-04-23</datepublicationfinale>
+    <montantfinal>129919.060000</montantfinal>
+    <nomcontractant>Gowling WLG (Canada) S.E.N.C.R.L., s.r.l.</nomcontractant>
+    <neqcontractant>3349440423</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1127666</numeroseao>
+    <numero>999108265</numero>
+    <datefinale>2020-05-27</datefinale>
+    <datepublicationfinale>2020-04-07</datepublicationfinale>
+    <montantfinal>801280.000000</montantfinal>
+    <nomcontractant>Equipement de Securite Universel Inc</nomcontractant>
+    <neqcontractant>1147452214</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1128531</numeroseao>
+    <numero>QUO-MARTINF-10284-001</numero>
+    <datefinale>2018-01-31</datefinale>
+    <datepublicationfinale>2019-12-18</datepublicationfinale>
+    <montantfinal>124889.390000</montantfinal>
+    <nomcontractant>Draeger Medical Canada Inc.</nomcontractant>
+    <neqcontractant>1162546593</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1128546</numeroseao>
+    <numero>00011808</numero>
+    <datefinale>2018-01-18</datefinale>
+    <datepublicationfinale>2019-12-18</datepublicationfinale>
+    <montantfinal>32624.100000</montantfinal>
+    <nomcontractant>Olympus Canada Inc</nomcontractant>
+    <neqcontractant>1163495170</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1154393</numeroseao>
+    <numero>Projet SA-18-17</numero>
+    <datefinale>2019-04-11</datefinale>
+    <datepublicationfinale>2019-10-24</datepublicationfinale>
+    <montantfinal>63799.670000</montantfinal>
+    <nomcontractant>Paysagiste Roger Martel inc</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1160644</numeroseao>
+    <numero>1000051</numero>
+    <datefinale>2019-11-04</datefinale>
+    <datepublicationfinale>2020-01-17</datepublicationfinale>
+    <montantfinal>943940.360000</montantfinal>
+    <nomcontractant>Burovision Inc</nomcontractant>
+    <neqcontractant>1162528369</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1170826</numeroseao>
+    <numero>2503-18-HG01</numero>
+    <datefinale />
+    <datepublicationfinale>2020-02-27</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant>Solmatech inc.</nomcontractant>
+    <neqcontractant>1145544798</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1179781</numeroseao>
+    <numero>44516395 </numero>
+    <datefinale>2020-03-09</datefinale>
+    <datepublicationfinale>2020-04-02</datepublicationfinale>
+    <montantfinal>480000.000000</montantfinal>
+    <nomcontractant>PRA / BBL / YMA architectes en consortium</nomcontractant>
+    <neqcontractant>1172835382</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1188655</numeroseao>
+    <numero>2506-18-4526</numero>
+    <datefinale>2020-05-31</datefinale>
+    <datepublicationfinale>2019-09-25</datepublicationfinale>
+    <montantfinal>1663537.590000</montantfinal>
+    <nomcontractant>Les Entreprises K.L. Mainville</nomcontractant>
+    <neqcontractant>1162059548</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1202725</numeroseao>
+    <numero>6403-18-KA21</numero>
+    <datefinale>2020-06-03</datefinale>
+    <datepublicationfinale>2020-04-20</datepublicationfinale>
+    <montantfinal>67730.580000</montantfinal>
+    <nomcontractant>Labo S.M. inc.</nomcontractant>
+    <neqcontractant>1143022672</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1210421</numeroseao>
+    <numero>999108793</numero>
+    <datefinale>2019-07-23</datefinale>
+    <datepublicationfinale>2019-10-23</datepublicationfinale>
+    <montantfinal>131875.520000</montantfinal>
+    <nomcontractant>Le Groupe Global Inc.</nomcontractant>
+    <neqcontractant>1145016383</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1241595</numeroseao>
+    <numero>005, 2018-2019</numero>
+    <datefinale>2019-11-30</datefinale>
+    <datepublicationfinale>2019-06-03</datepublicationfinale>
+    <montantfinal>75422.000000</montantfinal>
+    <nomcontractant>KPMG cabinet juridique s.r.l./S.E.N.C.R.L.</nomcontractant>
+    <neqcontractant>3363918643</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1257717</numeroseao>
+    <numero>CE 2018-2019 / 072</numero>
+    <datefinale>2019-06-21</datefinale>
+    <datepublicationfinale>2019-06-28</datepublicationfinale>
+    <montantfinal>56709.720000</montantfinal>
+    <nomcontractant>Napa Sept-Îles inc.</nomcontractant>
+    <neqcontractant>1163053888</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1259555</numeroseao>
+    <numero>2019-04-16</numero>
+    <datefinale>2020-05-30</datefinale>
+    <datepublicationfinale>2020-04-30</datepublicationfinale>
+    <montantfinal>48883.180000</montantfinal>
+    <nomcontractant>K+S Sel Windsor Ltée</nomcontractant>
+    <neqcontractant>1163565717</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1262315</numeroseao>
+    <numero>19BA11</numero>
+    <datefinale>2020-05-31</datefinale>
+    <datepublicationfinale>2019-07-10</datepublicationfinale>
+    <montantfinal>67996.480000</montantfinal>
+    <nomcontractant>Nettoiebec enr.</nomcontractant>
+    <neqcontractant>2241159880</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1277012</numeroseao>
+    <numero>35740700</numero>
+    <datefinale>2020-01-19</datefinale>
+    <datepublicationfinale>2020-02-04</datepublicationfinale>
+    <montantfinal>30992.000000</montantfinal>
+    <nomcontractant>Mathilde Rudloff</nomcontractant>
+    <neqcontractant>2274456666</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1281725</numeroseao>
+    <numero>SD16-5003-3</numero>
+    <datefinale>2019-07-12</datefinale>
+    <datepublicationfinale>2019-08-12</datepublicationfinale>
+    <montantfinal>1440764.420000</montantfinal>
+    <nomcontractant>Construction Tawich</nomcontractant>
+    <neqcontractant>1142815829</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1285214</numeroseao>
+    <numero>AOI-2019-S-052</numero>
+    <datefinale>2020-05-04</datefinale>
+    <datepublicationfinale>2020-05-22</datepublicationfinale>
+    <montantfinal>37800.000000</montantfinal>
+    <nomcontractant>SOM Inc.</nomcontractant>
+    <neqcontractant>1148466015</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1291404</numeroseao>
+    <numero>553055130</numero>
+    <datefinale>2020-04-15</datefinale>
+    <datepublicationfinale>2020-05-27</datepublicationfinale>
+    <montantfinal>128449.750000</montantfinal>
+    <nomcontractant>Accueil des Immigrants de l'Est de Montréal</nomcontractant>
+    <neqcontractant>1142313601</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1291442</numeroseao>
+    <numero>553055135</numero>
+    <datefinale>2020-04-15</datefinale>
+    <datepublicationfinale>2020-05-27</datepublicationfinale>
+    <montantfinal>247018.750000</montantfinal>
+    <nomcontractant>Service des Loisirs du Bon Pasteur</nomcontractant>
+    <neqcontractant>1142466821</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1292930</numeroseao>
+    <numero>553055134</numero>
+    <datefinale>2020-04-15</datefinale>
+    <datepublicationfinale>2020-05-27</datepublicationfinale>
+    <montantfinal>59284.500000</montantfinal>
+    <nomcontractant>Solidarité ethnique régionale de la Yamaska</nomcontractant>
+    <neqcontractant>1144005445</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1307656</numeroseao>
+    <numero>553056088</numero>
+    <datefinale>2020-01-26</datefinale>
+    <datepublicationfinale>2020-04-24</datepublicationfinale>
+    <montantfinal>1831.580000</montantfinal>
+    <nomcontractant>Casa Dann Carlton Hotel &amp; SPA</nomcontractant>
+    <neqcontractant />
+  </contrat>
+  <contrat>
+    <numeroseao>1314146</numeroseao>
+    <numero>33560000</numero>
+    <datefinale>2020-04-10</datefinale>
+    <datepublicationfinale>2020-05-12</datepublicationfinale>
+    <montantfinal>47468.490000</montantfinal>
+    <nomcontractant>Bouthillette Parizeau Inc.</nomcontractant>
+    <neqcontractant>1142591438</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1317098</numeroseao>
+    <numero>8903-19-FA04</numero>
+    <datefinale />
+    <datepublicationfinale>2020-04-20</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant>GHD Consultants Ltée</nomcontractant>
+    <neqcontractant>1171077796</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1326981</numeroseao>
+    <numero>34824007</numero>
+    <datefinale>2020-02-13</datefinale>
+    <datepublicationfinale>2020-04-22</datepublicationfinale>
+    <montantfinal>48730.000000</montantfinal>
+    <nomcontractant>Lanoue construction inc.</nomcontractant>
+    <neqcontractant>1171787451</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1330303</numeroseao>
+    <numero>553056327</numero>
+    <datefinale>2020-01-27</datefinale>
+    <datepublicationfinale>2020-04-24</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant>Voyages Professionnels VP inc.</nomcontractant>
+    <neqcontractant>1140164501</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1336952</numeroseao>
+    <numero>44516662</numero>
+    <datefinale>2020-04-16</datefinale>
+    <datepublicationfinale>2020-04-23</datepublicationfinale>
+    <montantfinal>32015.050000</montantfinal>
+    <nomcontractant>FNX-INNOV inc.</nomcontractant>
+    <neqcontractant>1174002437</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1361486</numeroseao>
+    <numero>44508115</numero>
+    <datefinale>2020-03-23</datefinale>
+    <datepublicationfinale>2020-04-06</datepublicationfinale>
+    <montantfinal>27020.000000</montantfinal>
+    <nomcontractant>Groupe Conseil Trame inc.</nomcontractant>
+    <neqcontractant>1163431019</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1368012</numeroseao>
+    <numero>45001037</numero>
+    <datefinale>2020-05-06</datefinale>
+    <datepublicationfinale>2020-04-30</datepublicationfinale>
+    <montantfinal>55296.920000</montantfinal>
+    <nomcontractant>Cofomo inc.</nomcontractant>
+    <neqcontractant>1142126664</neqcontractant>
+  </contrat>
+  <contrat>
+    <numeroseao>1371556</numeroseao>
+    <numero>19-3891 </numero>
+    <datefinale />
+    <datepublicationfinale>2020-05-29</datepublicationfinale>
+    <montantfinal>0.000000</montantfinal>
+    <nomcontractant>CHSLD Domaine Saint-Dominique S.E.C.</nomcontractant>
+    <neqcontractant>3366284704</neqcontractant>
+  </contrat>
+</export>
