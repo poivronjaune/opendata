@@ -1,7 +1,8 @@
 # SEAO Open Data Analaysis
 
-This project cleans and transforms the province of Quebec's public RFP data to be loaded in a database. Uses python to load XML data.
-Data quality analysis from 2009  to 2021
+This project cleans and transforms the province of Quebec's public RFP data to be loaded in a sqlite3 database. Uses python to load XML data.  
+Data quality analysis from 2009  to 2021  
+Some PANDAS jupyter notebooks are also available to manipulate data sets
 
 ### Original system and Open Data
 [SEAO](https://www.seao.ca/) : Systeme Electronique d'Appel d'Offres (du gouvernement du quebec)
@@ -20,3 +21,10 @@ SEAO Data is stored in three types of information files
 
 See [SEAO XML Schema](https://www.donneesquebec.ca/recherche/fr/dataset/systeme-electronique-dappel-doffres-seao/resource/af41596c-b07f-4664-82c8-577e1ef9a6f3) PDF file for detailed information (in french)
 
+
+## Setup
+All python programs or jyputer notebooks must be used through a virtual environment  
+At the root folder activate environmenet using (on windows) :  ` env\Scripts\activate `  
+For Jupyter notebooks open a command line window and run:  
+`env\Scripts\activate`  
+`jupyter notebook`  
