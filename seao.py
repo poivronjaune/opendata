@@ -8,7 +8,7 @@ from flask_sqlalchemy import SQLAlchemy
 import xml.etree.ElementTree as ET
 
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///../../DB/avis.sqlite3'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///DB/avis.sqlite3'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False 
 db = SQLAlchemy(app)
 
@@ -87,17 +87,37 @@ def SaveAvis(unavis):
     db.session.commit()
     return avis.id
 
+def SaveFournisseurs(unavis):
+    fournisseurs = unavis.find('fournisseurs')
+    neqs = []
+    for unfournisseur in fournisseurs:
+        neqs.append(unfournisseur.find('neq').text)
+        fournisseur = Fournisseurs()
+        fournisseur.neq             = unfournisseur.find('neq').text
+        fournisseur.nomorganisation = unfournisseur.find('nomorganisation').text
+        fournisseur.adresse1        = unfournisseur.find('adresse1').text
+        fournisseur.adresse2        = unfournisseur.find('adresse2').text
+        fournisseur.ville           = unfournisseur.find('ville').text
+        fournisseur.province        = unfournisseur.find('province').text
+        fournisseur.pays            = unfournisseur.find('pays').text
+        fournisseur.codepostal      = unfournisseur.find('codepostal').text
+        db.session.add(fournisseur)
+        db.session.commit()
 
-def load_db():
-    if os.path.isfile(sys.argv[2]):
-        file_name = '../../DATA/SEAO/'+sys.argv[2]
+    return neqs
+
+
+
+def load_db_from_xml_file(file):
+    file_name = 'DATA/SEAO/'+file
+    if os.path.isfile(file_name):
         avistree = ET.parse(file_name)
         avisroot = avistree.getroot()
         for avis in avisroot:
             # Save to DB and print to output
-            print(f"{SaveAvis(avis)} : {avis.find('numeroseao').text }")
+            print(f"{SaveAvis(avis)} : {avis.find('numeroseao').text }, {SaveFournisseurs(avis)}")
     else:
-        file_name = '../../DATA/SEAO/'+sys.argv[2]
+        file_name = 'DATA/SEAO/'+file
         print(f"\n\nFile not found : {file_name}\n\n")
 
 
@@ -109,8 +129,8 @@ def print_menu():
     print(f"███████║███████╗██║  ██║╚██████╔╝    ███████╗╚██████╔╝██║  ██║██████╔╝███████╗██║  ██║")
     print(f"╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝")
     print(f"\n")
-    print(f"py app.py --initdb      : reset database")
-    print(f"py app.py --load <file> : load xml avis file")
+    print(f"py seao.py --initdb      : Dangerous use with caution, reset databases")
+    print(f"py seao.py --load <file> : load xml avis file")
     print(f"\n")
 
 # mytree = ET.parse('test.xml')
@@ -121,11 +141,11 @@ if len(sys.argv) > 1:
     if sys.argv[1] == '--initdb':
         db.drop_all()
         db.create_all()
-        print(f"\n\nAlla table reset to empty\n\n")
+        print(f"\n\nAll tables defined by models were reset to empty\n\n")
 
     if len(sys.argv) > 1:
         if sys.argv[1] == '--load':
-            load_db()
+            load_db_from_xml_file(sys.argv[2])
 
 print_menu()
 
