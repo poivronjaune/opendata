@@ -8,7 +8,7 @@ from flask_sqlalchemy import SQLAlchemy
 import xml.etree.ElementTree as ET
 
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///avis.sqlite3'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///../../DB/avis.sqlite3'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False 
 db = SQLAlchemy(app)
 
@@ -88,6 +88,31 @@ def SaveAvis(unavis):
     return avis.id
 
 
+def load_db():
+    if os.path.isfile(sys.argv[2]):
+        file_name = '../../DATA/SEAO/'+sys.argv[2]
+        avistree = ET.parse(file_name)
+        avisroot = avistree.getroot()
+        for avis in avisroot:
+            # Save to DB and print to output
+            print(f"{SaveAvis(avis)} : {avis.find('numeroseao').text }")
+    else:
+        file_name = '../../DATA/SEAO/'+sys.argv[2]
+        print(f"\n\nFile not found : {file_name}\n\n")
+
+
+def print_menu():
+    print(f"███████╗███████╗ █████╗  ██████╗     ██╗      ██████╗  █████╗ ██████╗ ███████╗██████╗ ")
+    print(f"██╔════╝██╔════╝██╔══██╗██╔═══██╗    ██║     ██╔═══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗")
+    print(f"███████╗█████╗  ███████║██║   ██║    ██║     ██║   ██║███████║██║  ██║█████╗  ██████╔╝")
+    print(f"╚════██║██╔══╝  ██╔══██║██║   ██║    ██║     ██║   ██║██╔══██║██║  ██║██╔══╝  ██╔══██╗")
+    print(f"███████║███████╗██║  ██║╚██████╔╝    ███████╗╚██████╔╝██║  ██║██████╔╝███████╗██║  ██║")
+    print(f"╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝")
+    print(f"\n")
+    print(f"py app.py --initdb      : reset database")
+    print(f"py app.py --load <file> : load xml avis file")
+    print(f"\n")
+
 # mytree = ET.parse('test.xml')
 # myroot = mytree.getroot()
 # print(f"myroot: {myroot.tag}")
@@ -100,21 +125,8 @@ if len(sys.argv) > 1:
 
     if len(sys.argv) > 1:
         if sys.argv[1] == '--load':
-            if os.path.isfile(sys.argv[2]):
-                avistree = ET.parse(sys.argv[2])
-                avisroot = avistree.getroot()
-                for avis in avisroot:
-                    print(f"{SaveAvis(avis)} : {avis.find('numeroseao').text }")
+            load_db()
 
+print_menu()
 
-print(f"███████╗███████╗ █████╗  ██████╗     ██╗      ██████╗  █████╗ ██████╗ ███████╗██████╗ ")
-print(f"██╔════╝██╔════╝██╔══██╗██╔═══██╗    ██║     ██╔═══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗")
-print(f"███████╗█████╗  ███████║██║   ██║    ██║     ██║   ██║███████║██║  ██║█████╗  ██████╔╝")
-print(f"╚════██║██╔══╝  ██╔══██║██║   ██║    ██║     ██║   ██║██╔══██║██║  ██║██╔══╝  ██╔══██╗")
-print(f"███████║███████╗██║  ██║╚██████╔╝    ███████╗╚██████╔╝██║  ██║██████╔╝███████╗██║  ██║")
-print(f"╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝")
-print(f"\n")
-print(f"py app.py --initdb      : reset database")
-print(f"py app.py --load <fine> : load xml avis file")
-print(f"\n")
 
