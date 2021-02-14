@@ -98,3 +98,6 @@ ENV/
 
 # Generated JSON Files
 json/
+
+# VS Code
+.vscode
