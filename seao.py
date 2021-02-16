@@ -8,7 +8,7 @@ from flask_sqlalchemy import SQLAlchemy
 import xml.etree.ElementTree as ET
 
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///DB/avis.sqlite3'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///DB/seao.sqlite3'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False 
 db = SQLAlchemy(app)
 
@@ -54,8 +54,45 @@ class Fournisseurs(db.Model):
     pays = db.Column(db.String(50))
     codepostal = db.Column(db.String(10))
 
+class Propositions(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    numeroseao = db.Column(db.String(250))
+    neq = db.Column(db.String(20))
+    fournisseurs_id = db.Column(db.Integer)
+    avis_id = db.Column(db.Integer)
+    admissible = (db.String(20))
+    conforme = (db.String(20))
+    adjudicataire = (db.String(20))
+    montantsoumis = (db.String(20))
+    montantssoumisunite = (db.String(20))
+    montantcontrat = (db.String(20))
+    montanttotalcontrat = (db.String(20))
+
+class Region(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    code = db.Column(db.String(10))
+    desc = db.Column(db.String(150))
+ 
+class Nature(db.Model): 
+    id = db.Column(db.Integer, primary_key=True)
+    code = db.Column(db.String(10))
+    desc = db.Column(db.String(150))
+
+class Type(db.Model): 
+    id = db.Column(db.Integer, primary_key=True)
+    code = db.Column(db.String(10))
+    desc = db.Column(db.String(150))
+
+class Disposition(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    municipal = db.Column(db.String(1))             # 0:Non municipal, 1:Municipal
+    code = db.Column(db.String(10))
+    desc = db.Column(db.String(300))
 
 
+#
+# Helper functions to simplify loader functions
+#
 def SaveAvis(unavis):
     avis = Avis()
     avis.numeroseao = unavis.find('numeroseao').text
@@ -85,11 +122,28 @@ def SaveAvis(unavis):
 
     db.session.add(avis)
     db.session.commit()
-    return avis.id
+    return avis.id, avis.numeroseao
 
-def SaveFournisseurs(unavis):
+def SaveProposition(fournisseur, f_id, s_id, seao_num):
+    p = Propositions()
+    p.numeroseao          = seao_num
+    p.neq                 = fournisseur.find('neq').text
+    p.fournisseurs_id     = f_id
+    p.avis_id             = s_id
+    p.admissible          = fournisseur.find('admissible').text
+    p.conforme            = fournisseur.find('conforme').text
+    p.adjudicataire       = fournisseur.find('adjudicataire').text
+    p.montantsoumis       = fournisseur.find('montantsoumis').text
+    p.montantssoumisunite = fournisseur.find('montantssoumisunite').text
+    p.montantcontrat      = fournisseur.find('montantcontrat').text
+    p.montanttotalcontrat = fournisseur.find('montanttotalcontrat').text
+    db.session.add(p)
+    db.session.commit()
+
+def SaveFournisseurs(unavis, s_id, seao_num):
     fournisseurs = unavis.find('fournisseurs')
     neqs = []
+    f_ids = []
     for unfournisseur in fournisseurs:
         neqs.append(unfournisseur.find('neq').text)
         fournisseur = Fournisseurs()
@@ -103,11 +157,15 @@ def SaveFournisseurs(unavis):
         fournisseur.codepostal      = unfournisseur.find('codepostal').text
         db.session.add(fournisseur)
         db.session.commit()
+        f_ids.append(fournisseur.id)
+        SaveProposition(unfournisseur, fournisseur.id, s_id, seao_num)
 
-    return neqs
+    return f_ids, neqs
 
 
-
+#
+# Loader functions
+#
 def load_db_from_xml_file(file):
     file_name = 'DATA/SEAO/'+file
     if os.path.isfile(file_name):
@@ -115,12 +173,80 @@ def load_db_from_xml_file(file):
         avisroot = avistree.getroot()
         for avis in avisroot:
             # Save to DB and print to output
-            print(f"{SaveAvis(avis)} : {avis.find('numeroseao').text }, {SaveFournisseurs(avis)}")
+            s_id, seao_num = SaveAvis(avis) 
+            f_ids, neqs = SaveFournisseurs(avis, s_id, seao_num)
+            print(f"({s_id}, {seao_num}) : {avis.find('numeroseao').text }, {neqs}")
     else:
         file_name = 'DATA/SEAO/'+file
         print(f"\n\nFile not found : {file_name}\n\n")
 
 
+def load_regions():
+    regions = [
+        {"code": 1, "desc": "Bas St-Laurent"},
+        {"code": 2, "desc": "Saguenay-Lac-St-Jean"},
+        {"code": 3, "desc": "Capitale Nationale"},
+        {"code": 4, "desc": "Mauricie"},
+        {"code": 5, "desc": "Estrie"},
+        {"code": 6, "desc": "Montréal"},
+        {"code": 7, "desc": "Outaouais"},
+        {"code": 8, "desc": "Abitibi-Témiscaminque"},
+        {"code": 9, "desc": "Côte-Nord"},
+        {"code": 11,"desc":"Nord-du-Québec"},
+        {"code": 12,"desc":"Chaudière-Appalaches"},
+        {"code": 13,"desc":"Laval"},
+        {"code": 14,"desc":"Laurentides"},
+        {"code": 15,"desc":"Montérégie"},
+        {"code": 16,"desc":"Lanaudière"},
+        {"code": 17,"desc":"Centre-du-Québec"},
+        {"code": 18,"desc":"Gaspésie-Iles-de-la-Madeleine"},
+        {"code": 19,"desc":"Hors Québec"}
+    ]
+    for un_item in regions:
+        un_record = Region()
+        un_record.code = un_item["code"]
+        un_record.desc = un_item["desc"]
+        db.session.add(un_record)
+        db.session.commit()
+
+def load_nature():
+    natures = [
+        {"code": 1, "desc": "Approvisionnement (biens)"},
+        {"code": 2, "desc": "Services"},
+        {"code": 3, "desc": "Travaux de construction"},
+        {"code": 4, "desc": "Non défini"},
+        {"code": 5, "desc": "Autre"},
+        {"code": 6, "desc": "Concession"},
+        {"code": 7, "desc": "Vente de biens immeubles"},
+        {"code": 8, "desc": "Vente de biens meubles"}
+    ]
+    for un_item in natures:
+        un_record = Nature()
+        un_record.code = un_item["code"]
+        un_record.desc = un_item["desc"]
+        db.session.add(un_record)
+        db.session.commit()
+
+def load_type():
+    types_ = [
+        {"code": 3, "desc": "Contrat adjugé suite à un appel d'offres public"},
+        {"code": 9, "desc": "Contrat octroyé de gré à gré"},
+        {"code": 10,"desc": "Contrat adjugé suite à un appel d'offres sur invitation"},
+        {"code": 14,"desc": "Contrat suite à un appel d'offres sur invitation publié au SEAO"},
+        {"code": 16,"desc": "Contrat conclu relatif aux infrastructure de transport"},
+        {"code": 17,"desc": "Contrat conclu - Appel d'offres public non publié au SEAO"}
+    ]
+    for un_item in types_:
+        un_record = Type()
+        un_record.code = un_item["code"]
+        un_record.desc = un_item["desc"]
+        db.session.add(un_record)
+        db.session.commit()
+
+
+#
+# Menu display function
+#
 def print_menu():
     print(f"███████╗███████╗ █████╗  ██████╗     ██╗      ██████╗  █████╗ ██████╗ ███████╗██████╗ ")
     print(f"██╔════╝██╔════╝██╔══██╗██╔═══██╗    ██║     ██╔═══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗")
@@ -130,7 +256,10 @@ def print_menu():
     print(f"╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝")
     print(f"\n")
     print(f"py seao.py --initdb      : Dangerous use with caution, reset databases")
-    print(f"py seao.py --load <file> : load xml avis file")
+    print(f"py seao.py --load <file> : load xml avis file (path:/DATA/SEAO/..., please indicate year/filename)")
+    print(f"py seao.py --region      : load description list for Region")
+    print(f"py seao.py --nature      : load description list for Nature")
+    print(f"py seao.py --type        : load description list for Type")
     print(f"\n")
 
 # mytree = ET.parse('test.xml')
@@ -142,6 +271,15 @@ if len(sys.argv) > 1:
         db.drop_all()
         db.create_all()
         print(f"\n\nAll tables defined by models were reset to empty\n\n")
+
+    if sys.argv[1] == '--region':
+        load_regions()
+
+    if sys.argv[1] == '--type':
+        load_type()
+
+    if sys.argv[1] == '--nature':
+        load_nature()
 
     if len(sys.argv) > 1:
         if sys.argv[1] == '--load':
